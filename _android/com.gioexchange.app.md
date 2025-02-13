@@ -8,7 +8,7 @@ appId: com.gioexchange.app
 appCountry: 
 released: 2020-05-07
 updated: 2022-09-01
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

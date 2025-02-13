@@ -9,7 +9,7 @@ appId: web.xusdt.app
 appCountry: 
 released: 2022-03-15
 updated: 2022-05-14
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

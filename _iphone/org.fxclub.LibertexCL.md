@@ -9,7 +9,7 @@ appCountry: cl
 idd: 1078997450
 released: 2016-02-10
 updated: 2019-05-25
-version: 2.21.0
+version: '2.21.0'
 stars: 4.6
 reviews: 429
 size: 30611456

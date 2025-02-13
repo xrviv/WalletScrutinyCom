@@ -8,7 +8,7 @@ appId: com.btcontract.walletfiat
 appCountry: 
 released: 2023-10-09
 updated: 2024-05-07
-version: 4.4.1
+version: '4.4.1'
 stars: 
 ratings: 
 reviews: 

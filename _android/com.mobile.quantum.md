@@ -9,7 +9,7 @@ appId: com.mobile.quantum
 appCountry: 
 released: 2022-04-18
 updated: 2024-09-06
-version: 1.0.22
+version: '1.0.22'
 stars: 
 ratings: 
 reviews: 

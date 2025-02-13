@@ -8,7 +8,7 @@ appId: com.fcx.pro
 appCountry: 
 released: 2021-08-06
 updated: 2022-08-03
-version: 1.0.9.220803
+version: '1.0.9.220803'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.biswap.mobile
 appCountry: 
 released: 2022-07-22
 updated: 2023-07-18
-version: 1.0.13
+version: '1.0.13'
 stars: 
 ratings: 
 reviews: 

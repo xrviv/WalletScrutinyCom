@@ -8,7 +8,7 @@ appId: info.artelika.wallet
 appCountry: 
 released: 2022-02-07
 updated: 2023-07-10
-version: 1.0.7
+version: '1.0.7'
 stars: 4.2
 ratings: 
 reviews: 

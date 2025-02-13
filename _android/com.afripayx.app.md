@@ -8,7 +8,7 @@ appId: com.afripayx.app
 appCountry: 
 released: 2022-01-04
 updated: 2022-04-21
-version: 1.0.0
+version: '1.0.0'
 stars: 3.9
 ratings: 
 reviews: 

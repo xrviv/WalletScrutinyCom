@@ -8,7 +8,7 @@ appId: com.bcm.bcm_alpha_app
 appCountry: 
 released: 
 updated: 2021-09-26
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

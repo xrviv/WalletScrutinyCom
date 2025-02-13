@@ -9,7 +9,7 @@ appId: com.eversendapp
 appCountry: lv
 released: 2019-02-01
 updated: 2025-02-07
-version: 0.6.17
+version: '0.6.17'
 stars: 3.7
 ratings: 5009
 reviews: 10106

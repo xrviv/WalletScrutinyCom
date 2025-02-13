@@ -8,7 +8,7 @@ appId: com.dopamineapps.exchangevalet
 appCountry: 
 released: 
 updated: 2019-01-24
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

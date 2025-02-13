@@ -8,7 +8,7 @@ appId: easyexchangepro.com.easy_pro
 appCountry: 
 released: 
 updated: 2023-04-11
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

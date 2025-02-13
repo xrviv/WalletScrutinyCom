@@ -9,7 +9,7 @@ appId: io.freewallet.mobile
 appCountry: 
 released: 2016-09-01
 updated: 2019-03-17
-version: 0.1.9
+version: '0.1.9'
 stars: 3.9
 ratings: 82
 reviews: 27

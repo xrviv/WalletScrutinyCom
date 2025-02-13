@@ -8,7 +8,7 @@ appId: com.a01people.bitpolis
 appCountry: 
 released: 2019-10-31
 updated: 2020-05-19
-version: 0.1.2
+version: '0.1.2'
 stars: 
 ratings: 
 reviews: 

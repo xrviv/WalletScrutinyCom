@@ -8,7 +8,7 @@ appId: com.ttchain.masex.beta
 appCountry: 
 released: 2020-08-13
 updated: 2020-10-30
-version: 1.0.102
+version: '1.0.102'
 stars: 
 ratings: 
 reviews: 

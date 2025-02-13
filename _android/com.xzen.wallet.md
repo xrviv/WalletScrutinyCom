@@ -9,7 +9,7 @@ appId: com.xzen.wallet
 appCountry: 
 released: 2018-12-25
 updated: 2019-09-19
-version: 1.2.6.0
+version: '1.2.6.0'
 stars: 3.7
 ratings: 42
 reviews: 31

@@ -8,7 +8,7 @@ appId: com.wiser.app
 appCountry: 
 released: 
 updated: 2023-01-06
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

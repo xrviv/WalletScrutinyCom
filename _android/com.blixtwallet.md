@@ -10,7 +10,7 @@ appId: com.blixtwallet
 appCountry: 
 released: 
 updated: 2025-01-23
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

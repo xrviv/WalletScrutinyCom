@@ -9,7 +9,7 @@ appId: com.exonyxapp.trader
 appCountry: 
 released: 2020-08-25
 updated: 2022-06-18
-version: 2.0.6
+version: '2.0.6'
 stars: 4.6
 ratings: 
 reviews: 22

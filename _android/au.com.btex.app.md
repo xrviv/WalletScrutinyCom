@@ -8,7 +8,7 @@ appId: au.com.btex.app
 appCountry: 
 released: 2020-01-15
 updated: 2020-01-19
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

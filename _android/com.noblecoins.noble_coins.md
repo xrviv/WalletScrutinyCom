@@ -8,7 +8,7 @@ appId: com.noblecoins.noble_coins
 appCountry: 
 released: 2021-12-01
 updated: 2022-08-12
-version: 2.0.0
+version: '2.0.0'
 stars: 
 ratings: 
 reviews: 

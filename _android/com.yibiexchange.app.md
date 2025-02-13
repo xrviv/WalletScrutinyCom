@@ -8,7 +8,7 @@ appId: com.yibiexchange.app
 appCountry: 
 released: 2022-04-11
 updated: 2025-01-23
-version: 1.3.87
+version: '1.3.87'
 stars: 
 ratings: 
 reviews: 

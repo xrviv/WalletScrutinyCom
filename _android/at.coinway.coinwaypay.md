@@ -8,7 +8,7 @@ appId: at.coinway.coinwaypay
 appCountry: 
 released: 2019-02-06
 updated: 2021-10-11
-version: 1.4.0
+version: '1.4.0'
 stars: 4.6
 ratings: 
 reviews: 

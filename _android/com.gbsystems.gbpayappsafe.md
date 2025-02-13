@@ -8,7 +8,7 @@ appId: com.gbsystems.gbpayappsafe
 appCountry: 
 released: 2019-06-01
 updated: 2019-06-02
-version: 1.0.0
+version: '1.0.0'
 stars: 3.3
 ratings: 
 reviews: 

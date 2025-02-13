@@ -9,7 +9,7 @@ appId: com.ultorexapp.io
 appCountry: 
 released: 2022-07-01
 updated: 2025-01-23
-version: 1.1.17
+version: '1.1.17'
 stars: 
 ratings: 
 reviews: 

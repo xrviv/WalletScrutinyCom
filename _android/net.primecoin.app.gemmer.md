@@ -8,7 +8,7 @@ appId: net.primecoin.app.gemmer
 appCountry: 
 released: 2020-12-20
 updated: 2024-04-20
-version: 0.4.25
+version: '0.4.25'
 stars: 
 ratings: 
 reviews: 

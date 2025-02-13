@@ -7,7 +7,7 @@ authors:
 released: 2021-12-06
 discontinued: 
 updated: 2022-02-17
-version: 0.2.0
+version: '0.2.0'
 binaries: 
 dimensions:
 - 86

@@ -8,7 +8,7 @@ appId: com.plue_wallet
 appCountry: 
 released: 2019-04-01
 updated: 2021-08-04
-version: 2.4.2
+version: '2.4.2'
 stars: 
 ratings: 
 reviews: 

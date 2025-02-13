@@ -6,7 +6,7 @@ authors:
 released: 2014-12-14
 discontinued: 
 updated: 2023-08-18
-version: 3.8.0
+version: '3.8.0'
 binaries: 
 provider: 
 providerWebsite: 

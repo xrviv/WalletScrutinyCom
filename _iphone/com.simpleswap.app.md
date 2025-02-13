@@ -9,7 +9,7 @@ appCountry: gb
 idd: 1506038278
 released: 2020-05-15
 updated: 2025-02-12
-version: 4.4.3
+version: '4.4.3'
 stars: 4.7
 reviews: 106
 size: '61657088'

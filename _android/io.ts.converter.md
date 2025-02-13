@@ -9,7 +9,7 @@ appId: io.ts.converter
 appCountry: 
 released: 2023-02-26
 updated: 2024-06-19
-version: 3.0.0
+version: '3.0.0'
 stars: 3.2
 ratings: 
 reviews: 6

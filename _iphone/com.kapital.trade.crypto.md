@@ -9,7 +9,7 @@ appCountry: cz
 idd: 1487443266
 released: 2019-11-26
 updated: 2025-02-10
-version: 1.95.1
+version: '1.95.1'
 stars: 4.7
 reviews: 802
 size: '165227520'

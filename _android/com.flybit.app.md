@@ -9,7 +9,7 @@ appId: com.flybit.app
 appCountry: us
 released: 2021-02-04
 updated: 2025-02-11
-version: 1.29.02
+version: '1.29.02'
 stars: 
 ratings: 
 reviews: 

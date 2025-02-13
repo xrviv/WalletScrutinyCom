@@ -8,7 +8,7 @@ appId: org.lndroid.messenger.testnet
 appCountry: 
 released: 2020-03-23
 updated: 2020-03-23
-version: 0.1.3
+version: '0.1.3'
 stars: 
 ratings: 
 reviews: 

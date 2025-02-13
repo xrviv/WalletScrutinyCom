@@ -8,7 +8,7 @@ appId: com.bitubu.app
 appCountry: 
 released: 2020-04-19
 updated: 2023-01-19
-version: 1.1.4
+version: '1.1.4'
 stars: 
 ratings: 
 reviews: 

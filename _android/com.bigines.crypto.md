@@ -8,7 +8,7 @@ appId: com.bigines.crypto
 appCountry: 
 released: 2022-02-14
 updated: 2023-01-12
-version: 2.1.2
+version: '2.1.2'
 stars: 
 ratings: 
 reviews: 

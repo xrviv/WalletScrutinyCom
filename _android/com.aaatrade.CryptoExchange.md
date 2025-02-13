@@ -8,7 +8,7 @@ appId: com.aaatrade.CryptoExchange
 appCountry: 
 released: 2018-09-20
 updated: 2021-03-19
-version: 1.2.5
+version: '1.2.5'
 stars: 
 ratings: 
 reviews: 

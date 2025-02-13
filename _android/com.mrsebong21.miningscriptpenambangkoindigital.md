@@ -8,7 +8,7 @@ appId: com.mrsebong21.miningscriptpenambangkoindigital
 appCountry: 
 released: 2020-06-29
 updated: 2020-12-18
-version: 3.0.0
+version: '3.0.0'
 stars: 
 ratings: 
 reviews: 

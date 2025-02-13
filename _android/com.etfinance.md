@@ -8,7 +8,7 @@ appId: com.etfinance
 appCountry: 
 released: 
 updated: 2021-11-29
-version: 1.5.78-etfinance
+version: '1.5.78-etfinance'
 stars: 
 ratings: 
 reviews: 

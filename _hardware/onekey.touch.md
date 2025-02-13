@@ -7,7 +7,7 @@ authors:
 released: 2022-03-08
 discontinued: 
 updated: 2023-06-21
-version: 4.3.0
+version: '4.3.0'
 binaries: 
 dimensions:
 - 88

@@ -8,7 +8,7 @@ appId: com.ggidream.app
 appCountry: 
 released: 2019-08-07
 updated: 2019-08-07
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

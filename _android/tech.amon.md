@@ -9,7 +9,7 @@ appId: tech.amon
 appCountry: 
 released: 2019-05-20
 updated: 2023-07-04
-version: 3.7.31
+version: '3.7.31'
 stars: 
 ratings: 
 reviews: 

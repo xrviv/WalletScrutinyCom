@@ -10,7 +10,7 @@ appId: com.bitorzo.wallet
 appCountry: 
 released: 2020-07-22
 updated: 2021-01-03
-version: 3.1.3
+version: '3.1.3'
 stars: 
 ratings: 28
 reviews: 

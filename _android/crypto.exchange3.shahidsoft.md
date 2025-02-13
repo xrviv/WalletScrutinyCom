@@ -8,7 +8,7 @@ appId: crypto.exchange3.shahidsoft
 appCountry: 
 released: 2021-07-12
 updated: 2021-07-12
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

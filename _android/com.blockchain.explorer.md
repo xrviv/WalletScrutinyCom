@@ -10,7 +10,7 @@ appId: com.blockchain.explorer
 appCountry: 
 released: 2019-12-30
 updated: 2022-12-01
-version: 1.2.0.7
+version: '1.2.0.7'
 stars: 4.4
 ratings: 409
 reviews: 33

@@ -9,7 +9,7 @@ appId: com.spectre.magneticmoney
 appCountry: 
 released: 2018-09-10
 updated: 2024-08-29
-version: 2.2.9
+version: '2.2.9'
 stars: 4.9
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.aidbit.highapp
 appCountry: 
 released: 2022-01-10
 updated: 2022-02-23
-version: 1.2.4
+version: '1.2.4'
 stars: 4.4
 ratings: 
 reviews: 29

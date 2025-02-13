@@ -9,7 +9,7 @@ appId: com.opolo.io
 appCountry: 
 released: 2020-09-01
 updated: 2021-06-08
-version: 1.3.1
+version: '1.3.1'
 stars: 
 ratings: 
 reviews: 

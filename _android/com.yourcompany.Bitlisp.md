@@ -8,7 +8,7 @@ appId: com.yourcompany.Bitlisp
 appCountry: 
 released: 2020-04-14
 updated: 2020-04-14
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.app.vptplus
 appCountry: 
 released: 2020-09-02
 updated: 2023-07-17
-version: 4.0.0
+version: '4.0.0'
 stars: 
 ratings: 
 reviews: 

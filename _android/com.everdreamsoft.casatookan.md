@@ -9,7 +9,7 @@ appId: com.everdreamsoft.casatookan
 appCountry: 
 released: 2018-09-19
 updated: 2024-12-10
-version: 1.2.2
+version: '1.2.2'
 stars: 3.8
 ratings: 
 reviews: 6

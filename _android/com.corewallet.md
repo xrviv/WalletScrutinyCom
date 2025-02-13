@@ -8,7 +8,7 @@ appId: com.corewallet
 appCountry: 
 released: 2023-02-01
 updated: 2023-02-01
-version: 1.0.0
+version: '1.0.0'
 stars: 4.6
 ratings: 
 reviews: 1

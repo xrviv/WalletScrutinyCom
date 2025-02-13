@@ -9,7 +9,7 @@ appId: com.project.wmc
 appCountry: 
 released: 2019-09-30
 updated: 2020-03-25
-version: 1.0.4
+version: '1.0.4'
 stars: 
 ratings: 
 reviews: 

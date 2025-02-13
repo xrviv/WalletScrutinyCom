@@ -11,7 +11,7 @@ appId: com.rsk.rwallet.v2
 appCountry: us
 released: 2021-04-27
 updated: 2021-06-30
-version: 2.0.1
+version: '2.0.1'
 stars: 3.4
 ratings: 
 reviews: 

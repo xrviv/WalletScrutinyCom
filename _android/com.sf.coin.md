@@ -8,7 +8,7 @@ appId: com.sf.coin
 appCountry: 
 released: 2018-11-23
 updated: 2019-09-09
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

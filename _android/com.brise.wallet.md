@@ -9,7 +9,7 @@ appId: com.brise.wallet
 appCountry: 
 released: 2021-12-08
 updated: 2021-12-08
-version: 1.0.0
+version: '1.0.0'
 stars: 2.5
 ratings: 536
 reviews: 118

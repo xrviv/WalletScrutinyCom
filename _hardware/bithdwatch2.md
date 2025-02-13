@@ -8,7 +8,7 @@ authors:
 released: 2019-01-18
 discontinued: 
 updated: 2022-12-07
-version: v4.2.0
+version: 'v4.2.0'
 binaries: https://github.com/bithd/bithd-mcu/releases/
 dimensions:
 - 42
@@ -33,7 +33,7 @@ date: 2024-08-06
 signer: 
 reviewArchive:
 - date: 2021-12-11
-  version: 4.1.7
+  version: '4.1.7'
   appHashes:
   - 0a89405429ea6aa5abe8533f538f45bbaff36044b62aefcaaa63ef52bffebde0
   gitRevision: 5039bd8dc007690d50a6b60b5768c239255434af

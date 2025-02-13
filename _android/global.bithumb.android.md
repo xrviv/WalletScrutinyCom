@@ -9,7 +9,7 @@ appId: global.bithumb.android
 appCountry: us
 released: 2019-07-05
 updated: 2022-09-13
-version: 2.6.25
+version: '2.6.25'
 stars: 3.3
 ratings: 3090
 reviews: 78

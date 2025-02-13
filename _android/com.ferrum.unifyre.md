@@ -9,7 +9,7 @@ appId: com.ferrum.unifyre
 appCountry: us
 released: 2020-05-29
 updated: 2020-09-20
-version: 0.0.19
+version: '0.0.19'
 stars: 4.7
 ratings: 103
 reviews: 10

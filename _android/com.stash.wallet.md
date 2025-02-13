@@ -8,7 +8,7 @@ appId: com.stash.wallet
 appCountry: 
 released: 
 updated: 2018-12-03
-version: Varies with device
+version: 'Varies with device'
 stars: 
 ratings: 
 reviews: 

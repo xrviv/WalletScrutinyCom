@@ -9,7 +9,7 @@ appId: com.bitmex.app.android
 appCountry: 
 released: 
 updated: 2025-01-28
-version: 2.5.7
+version: '2.5.7'
 stars: 3.2
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.dex.digitalexchangeid
 appCountry: us
 released: 2024-09-04
 updated: 2025-02-10
-version: 1.3.8
+version: '1.3.8'
 stars: 
 ratings: 
 reviews: 

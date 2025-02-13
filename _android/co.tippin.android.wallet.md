@@ -8,7 +8,7 @@ appId: co.tippin.android.wallet
 appCountry: 
 released: 
 updated: 2019-10-22
-version: Varies with device
+version: 'Varies with device'
 stars: 
 ratings: 
 reviews: 

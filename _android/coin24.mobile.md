@@ -9,7 +9,7 @@ appId: coin24.mobile
 appCountry: 
 released: 2020-09-28
 updated: 2020-09-28
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

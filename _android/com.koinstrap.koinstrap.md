@@ -9,7 +9,7 @@ appId: com.koinstrap.koinstrap
 appCountry: us
 released: 2020-08-28
 updated: 2023-11-27
-version: 3.3.7
+version: '3.3.7'
 stars: 3.9
 ratings: 
 reviews: 

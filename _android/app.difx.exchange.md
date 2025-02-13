@@ -9,7 +9,7 @@ appId: app.difx.exchange
 appCountry: 
 released: 
 updated: 2024-10-09
-version: 5.1.4
+version: '5.1.4'
 stars: 
 ratings: 
 reviews: 

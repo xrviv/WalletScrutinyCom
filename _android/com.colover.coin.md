@@ -9,7 +9,7 @@ appId: com.colover.coin
 appCountry: 
 released: 2018-09-18
 updated: 2019-03-11
-version: 1.13.0
+version: '1.13.0'
 stars: 
 ratings: 
 reviews: 

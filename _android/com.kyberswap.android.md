@@ -8,7 +8,7 @@ appId: com.kyberswap.android
 appCountry: 
 released: 2019-08-14
 updated: 2021-07-21
-version: 1.1.37
+version: '1.1.37'
 stars: 4.2
 ratings: 1810
 reviews: 871

@@ -8,7 +8,7 @@ appId: com.creativesolutions.bitwidget
 appCountry: 
 released: 2021-04-25
 updated: 2021-04-29
-version: 1.2.7
+version: '1.2.7'
 stars: 
 ratings: 
 reviews: 

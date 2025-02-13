@@ -9,7 +9,7 @@ appId: com.nayuta.core2
 appCountry: 
 released: 
 updated: 2023-11-24
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: app.simple.com
 appCountry: 
 released: 2023-04-24
 updated: 2025-02-10
-version: 3.7.1
+version: '3.7.1'
 stars: 4.7
 ratings: 
 reviews: 1718

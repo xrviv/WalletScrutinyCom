@@ -10,7 +10,7 @@ appId: co.mona.android
 appCountry: 
 released: 2017-08-30
 updated: 2025-02-10
-version: 3.204.10
+version: '3.204.10'
 stars: 4.5
 ratings: 281384
 reviews: 53189

@@ -8,7 +8,7 @@ appId: com.bitcointrainee.br
 appCountry: 
 released: 2018-09-09
 updated: 2018-09-10
-version: 1.0.4
+version: '1.0.4'
 stars: 
 ratings: 
 reviews: 

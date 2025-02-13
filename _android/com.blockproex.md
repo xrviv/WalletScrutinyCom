@@ -8,7 +8,7 @@ appId: com.blockproex
 appCountry: 
 released: 2022-02-24
 updated: 2022-03-25
-version: 1.0.2
+version: '1.0.2'
 stars: 4.8
 ratings: 
 reviews: 

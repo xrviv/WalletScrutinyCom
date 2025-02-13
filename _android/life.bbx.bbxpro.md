@@ -8,7 +8,7 @@ appId: life.bbx.bbxpro
 appCountry: 
 released: 2021-05-08
 updated: 2022-01-13
-version: 1.3.2
+version: '1.3.2'
 stars: 
 ratings: 
 reviews: 

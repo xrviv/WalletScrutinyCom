@@ -8,7 +8,7 @@ appId: com.efktb.disl
 appCountry: 
 released: 2022-04-28
 updated: 2022-04-28
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

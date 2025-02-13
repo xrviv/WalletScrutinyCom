@@ -9,7 +9,7 @@ appId: vn.fiahub.app
 appCountry: 
 released: 2019-10-11
 updated: 2025-01-02
-version: 2.20.3
+version: '2.20.3'
 stars: 
 ratings: 
 reviews: 

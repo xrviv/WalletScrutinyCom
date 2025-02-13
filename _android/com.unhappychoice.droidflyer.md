@@ -8,7 +8,7 @@ appId: com.unhappychoice.droidflyer
 appCountry: 
 released: 2017-11-12
 updated: 2022-01-23
-version: 2.0.1
+version: '2.0.1'
 stars: 
 ratings: 
 reviews: 

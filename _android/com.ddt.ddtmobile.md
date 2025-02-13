@@ -9,7 +9,7 @@ appId: com.ddt.ddtmobile
 appCountry: 
 released: 2019-10-07
 updated: 2020-03-24
-version: 1.1.2
+version: '1.1.2'
 stars: 
 ratings: 
 reviews: 

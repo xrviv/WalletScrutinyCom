@@ -8,7 +8,7 @@ appId: com.trillionb.app
 appCountry: 
 released: 2022-01-14
 updated: 2022-01-27
-version: 1.1.1
+version: '1.1.1'
 stars: 
 ratings: 
 reviews: 

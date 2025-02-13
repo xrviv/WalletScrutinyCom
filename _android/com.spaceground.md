@@ -8,7 +8,7 @@ appId: com.spaceground
 appCountry: 
 released: 2022-06-09
 updated: 2023-07-10
-version: 1.0.30
+version: '1.0.30'
 stars: 
 ratings: 
 reviews: 

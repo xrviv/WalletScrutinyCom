@@ -8,7 +8,7 @@ appId: com.utcasset.wallet
 appCountry: 
 released: 2021-08-26
 updated: 2021-08-27
-version: 0.21.0
+version: '0.21.0'
 stars: 
 ratings: 
 reviews: 

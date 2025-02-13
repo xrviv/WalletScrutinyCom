@@ -9,7 +9,7 @@ appId: com.chainup.exchange.Zenith
 appCountry: 
 released: 2022-03-06
 updated: 2022-11-19
-version: 5.5.2_push_v2
+version: '5.5.2_push_v2'
 stars: 
 ratings: 
 reviews: 

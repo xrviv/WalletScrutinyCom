@@ -9,7 +9,7 @@ appId: com.pocketbits
 appCountry: 
 released: 2021-08-03
 updated: 2023-08-31
-version: 1.3.7
+version: '1.3.7'
 stars: 4.2
 ratings: 
 reviews: 6

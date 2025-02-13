@@ -9,7 +9,7 @@ appId: io.natiol
 appCountry: 
 released: 2022-10-12
 updated: 2022-11-04
-version: 1.1.0
+version: '1.1.0'
 stars: 
 ratings: 
 reviews: 

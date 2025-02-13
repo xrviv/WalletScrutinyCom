@@ -8,7 +8,7 @@ appId: io.smartrader.smartapp
 appCountry: 
 released: 2022-01-25
 updated: 2022-08-17
-version: 0.3.5
+version: '0.3.5'
 stars: 5
 ratings: 
 reviews: 

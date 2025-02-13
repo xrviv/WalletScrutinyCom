@@ -8,7 +8,7 @@ appId: com.cryptooriented.exchanges
 appCountry: 
 released: 2018-01-10
 updated: 2022-01-10
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

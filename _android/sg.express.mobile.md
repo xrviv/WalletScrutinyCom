@@ -9,7 +9,7 @@ appId: sg.express.mobile
 appCountry: 
 released: 2020-07-10
 updated: 2022-02-26
-version: 1.23.0
+version: '1.23.0'
 stars: 4.9
 ratings: 3998
 reviews: 14

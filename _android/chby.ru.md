@@ -8,7 +8,7 @@ appId: chby.ru
 appCountry: 
 released: 2018-12-19
 updated: 2020-01-13
-version: 1.0.5
+version: '1.0.5'
 stars: 1.4
 ratings: 8
 reviews: 7

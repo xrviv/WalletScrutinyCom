@@ -9,7 +9,7 @@ appId: com.raido_wallet
 appCountry: us
 released: 2020-07-27
 updated: 2023-09-21
-version: 3.9.0
+version: '3.9.0'
 stars: 
 ratings: 
 reviews: 

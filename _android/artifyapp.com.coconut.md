@@ -9,7 +9,7 @@ appId: artifyapp.com.coconut
 appCountry: 
 released: 2018-07-05
 updated: 2018-10-22
-version: 1.1.1
+version: '1.1.1'
 stars: 
 ratings: 
 reviews: 

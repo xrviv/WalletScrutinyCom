@@ -8,7 +8,7 @@ appId: com.drnotjvn.bitop
 appCountry: 
 released: 2021-10-12
 updated: 2021-10-13
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

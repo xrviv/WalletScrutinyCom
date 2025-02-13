@@ -8,7 +8,7 @@ appId: app.hovii.p2p
 appCountry: 
 released: 2022-10-23
 updated: 2022-10-23
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

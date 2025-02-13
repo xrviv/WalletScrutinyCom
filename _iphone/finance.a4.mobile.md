@@ -9,7 +9,7 @@ appCountry: md
 idd: '1623005090'
 released: 2022-05-31
 updated: 2023-08-08
-version: 2.1.4
+version: '2.1.4'
 stars: 5
 reviews: 2
 size: '116806656'

@@ -9,7 +9,7 @@ appId: com.tapngo.tap
 appCountry: gb
 released: 2019-12-19
 updated: 2025-01-30
-version: 3.4.2
+version: '3.4.2'
 stars: 4.5
 ratings: 1735
 reviews: 298

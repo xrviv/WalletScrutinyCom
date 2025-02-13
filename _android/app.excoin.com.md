@@ -9,7 +9,7 @@ appId: app.excoin.com
 appCountry: 
 released: 2022-03-20
 updated: 2022-09-16
-version: 1.1.2
+version: '1.1.2'
 stars: 
 ratings: 
 reviews: 

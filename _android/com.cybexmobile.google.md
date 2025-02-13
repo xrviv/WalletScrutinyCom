@@ -8,7 +8,7 @@ appId: com.cybexmobile.google
 appCountry: 
 released: 2018-10-10
 updated: 2019-04-28
-version: 1.10.3
+version: '1.10.3'
 stars: 
 ratings: 
 reviews: 

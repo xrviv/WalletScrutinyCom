@@ -8,7 +8,7 @@ appId: com.kimpper
 appCountry: 
 released: 2021-12-22
 updated: 2022-11-11
-version: 1.1.8
+version: '1.1.8'
 stars: 
 ratings: 
 reviews: 

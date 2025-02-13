@@ -9,7 +9,7 @@ appCountry: ua
 idd: '1604879846'
 released: 2022-01-28
 updated: 2023-02-28
-version: 4.0.6
+version: '4.0.6'
 stars: 4.4
 reviews: 15
 size: '65221632'

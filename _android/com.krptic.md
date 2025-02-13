@@ -8,7 +8,7 @@ appId: com.krptic
 appCountry: 
 released: 2021-08-13
 updated: 2023-11-26
-version: 4.0.7
+version: '4.0.7'
 stars: 
 ratings: 
 reviews: 

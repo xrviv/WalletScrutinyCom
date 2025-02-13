@@ -8,7 +8,7 @@ appId: io.metex.exchange
 appCountry: 
 released: 2019-10-24
 updated: 2019-11-07
-version: 0.0.3
+version: '0.0.3'
 stars: 
 ratings: 
 reviews: 

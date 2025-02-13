@@ -8,7 +8,7 @@ appId: com.gungen.chainup
 appCountry: 
 released: 2020-08-17
 updated: 2022-07-11
-version: 2.7.3
+version: '2.7.3'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: jp.co.rakuten.wallet.crypto
 appCountry: 
 released: 
 updated: 2025-02-03
-version: 1.5.4
+version: '1.5.4'
 stars: 3.5
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.bitro2
 appCountry: 
 released: 2020-12-09
 updated: 2021-12-30
-version: 1.0.80
+version: '1.0.80'
 stars: 4.2
 ratings: 
 reviews: 

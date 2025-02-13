@@ -9,7 +9,7 @@ appCountry: cr
 idd: '1600313979'
 released: 2021-12-16
 updated: 2025-02-06
-version: 1.3.4
+version: '1.3.4'
 stars: 5
 reviews: 14
 size: '34279424'

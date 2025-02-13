@@ -9,7 +9,7 @@ appId: com.habi.bitone.in
 appCountry: 
 released: 
 updated: 2021-05-14
-version: 1.3.9
+version: '1.3.9'
 stars: 
 ratings: 
 reviews: 

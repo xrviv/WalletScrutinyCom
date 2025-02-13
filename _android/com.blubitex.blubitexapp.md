@@ -9,7 +9,7 @@ appId: com.blubitex.blubitexapp
 appCountry: us
 released: 2020-10-03
 updated: 2022-04-14
-version: 2.1.342
+version: '2.1.342'
 stars: 3.4
 ratings: 2703
 reviews: 37

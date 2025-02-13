@@ -8,7 +8,7 @@ appId: com.enigma.trading
 appCountry: 
 released: 2022-04-27
 updated: 2022-09-29
-version: 1.1.8
+version: '1.1.8'
 stars: 
 ratings: 
 reviews: 

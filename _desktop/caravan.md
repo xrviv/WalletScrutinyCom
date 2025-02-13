@@ -6,7 +6,7 @@ authors:
 released: 2019-11-12
 discontinued: 
 updated: 2024-02-29
-version: 1.0.3
+version: '1.0.3'
 binaries: 
 provider: Unchained Capital
 providerWebsite: https://unchained.com/

@@ -9,7 +9,7 @@ appId: com.twogetherbank.app
 appCountry: 
 released: 
 updated: 2022-06-14
-version: 1.9.3
+version: '1.9.3'
 stars: 
 ratings: 
 reviews: 

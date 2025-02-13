@@ -9,7 +9,7 @@ appId: com.public.app
 appCountry: 
 released: 2019-09-06
 updated: 2025-02-10
-version: 3.180.2
+version: '3.180.2'
 stars: 4.1
 ratings: 
 reviews: 8877

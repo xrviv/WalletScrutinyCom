@@ -8,7 +8,7 @@ appId: com.blocksmatic
 appCountry: 
 released: 2022-01-18
 updated: 2022-02-12
-version: 1.1.5
+version: '1.1.5'
 stars: 
 ratings: 
 reviews: 

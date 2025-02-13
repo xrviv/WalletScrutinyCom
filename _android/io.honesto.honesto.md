@@ -9,7 +9,7 @@ appId: io.honesto.honesto
 appCountry: 
 released: 
 updated: 2025-01-17
-version: 2.0.47
+version: '2.0.47'
 stars: 4.4
 ratings: 
 reviews: 

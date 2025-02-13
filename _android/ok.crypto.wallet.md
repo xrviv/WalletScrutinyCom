@@ -8,7 +8,7 @@ appId: ok.crypto.wallet
 appCountry: 
 released: 2020-09-21
 updated: 2020-09-21
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

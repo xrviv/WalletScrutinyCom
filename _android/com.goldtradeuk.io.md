@@ -8,7 +8,7 @@ appId: com.goldtradeuk.io
 appCountry: 
 released: 2022-05-24
 updated: 2022-05-29
-version: 2.0.0
+version: '2.0.0'
 stars: 
 ratings: 
 reviews: 

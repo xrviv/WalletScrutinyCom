@@ -9,7 +9,7 @@ appId: com.financex
 appCountry: 
 released: 2019-01-15
 updated: 2020-01-13
-version: 1.3.12
+version: '1.3.12'
 stars: 4.1
 ratings: 
 reviews: 

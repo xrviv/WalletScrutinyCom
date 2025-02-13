@@ -8,7 +8,7 @@ appId: cv.bitbox.bitbox
 appCountry: 
 released: 2021-12-18
 updated: 2022-03-10
-version: 1.3.9
+version: '1.3.9'
 stars: 
 ratings: 
 reviews: 

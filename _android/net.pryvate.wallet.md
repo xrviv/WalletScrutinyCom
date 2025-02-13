@@ -8,7 +8,7 @@ appId: net.pryvate.wallet
 appCountry: 
 released: 
 updated: 2021-12-30
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

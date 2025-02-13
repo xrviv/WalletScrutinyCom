@@ -9,7 +9,7 @@ appId: com.iminerator.app
 appCountry: us
 released: 2021-04-20
 updated: 2022-08-30
-version: 2.1.0
+version: '2.1.0'
 stars: 
 ratings: 
 reviews: 

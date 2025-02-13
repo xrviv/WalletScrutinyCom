@@ -9,7 +9,7 @@ appId: in.spiegel.arthbit
 appCountry: 
 released: 2021-11-19
 updated: 2021-11-23
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

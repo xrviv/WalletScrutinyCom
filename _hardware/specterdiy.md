@@ -6,7 +6,7 @@ authors:
 released: 2020-02-27
 discontinued: 
 updated: 2021-12-23
-version: 1.6.2
+version: '1.6.2'
 binaries: 
 dimensions:
 - 170

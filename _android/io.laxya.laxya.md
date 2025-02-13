@@ -9,7 +9,7 @@ appId: io.laxya.laxya
 appCountry: 
 released: 2022-01-20
 updated: 2023-08-23
-version: 1.0.5
+version: '1.0.5'
 stars: 
 ratings: 
 reviews: 

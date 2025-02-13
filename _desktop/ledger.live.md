@@ -6,7 +6,7 @@ authors:
 released: 2018-07-29
 discontinued: 
 updated: 2024-04-22
-version: 2.79.1
+version: '2.79.1'
 binaries: 
 provider: Ledger
 providerWebsite: https://www.ledger.com

@@ -8,7 +8,7 @@ appId: com.premicesoft.tablet
 appCountry: 
 released: 2022-06-16
 updated: 2023-01-04
-version: 1.2.0
+version: '1.2.0'
 stars: 
 ratings: 
 reviews: 

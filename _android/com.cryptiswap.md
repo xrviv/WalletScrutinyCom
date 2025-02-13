@@ -9,7 +9,7 @@ appId: com.cryptiswap
 appCountry: 
 released: 2021-03-16
 updated: 2023-03-10
-version: 1.0.8
+version: '1.0.8'
 stars: 
 ratings: 
 reviews: 

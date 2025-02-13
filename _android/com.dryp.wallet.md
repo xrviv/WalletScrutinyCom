@@ -8,7 +8,7 @@ appId: com.dryp.wallet
 appCountry: 
 released: 2021-11-18
 updated: 2021-11-18
-version: 0.0.1
+version: '0.0.1'
 stars: 
 ratings: 
 reviews: 

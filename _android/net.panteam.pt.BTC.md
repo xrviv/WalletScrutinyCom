@@ -8,7 +8,7 @@ appId: net.panteam.pt.BTC
 appCountry: 
 released: 
 updated: 2023-02-22
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.quanli.ibtc
 appCountry: 
 released: 2019-12-09
 updated: 2023-09-07
-version: 1.6.0
+version: '1.6.0'
 stars: 
 ratings: 
 reviews: 

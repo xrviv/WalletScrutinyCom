@@ -10,7 +10,7 @@ appId: im.token.app99
 appCountry: 
 released: 2020-05-09
 updated: 2021-05-07
-version: 2.9.6
+version: '2.9.6'
 stars: 4.8
 ratings: 98
 reviews: 4

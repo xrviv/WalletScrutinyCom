@@ -8,7 +8,7 @@ appId: com.wCryptoExchange_13708254
 appCountry: 
 released: 2021-05-11
 updated: 2021-12-18
-version: 1.1.45
+version: '1.1.45'
 stars: 
 ratings: 
 reviews: 

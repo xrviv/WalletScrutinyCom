@@ -9,7 +9,7 @@ appId: com.huipu.winner
 appCountry: 
 released: 2021-04-13
 updated: 2021-06-15
-version: 1.3.1
+version: '1.3.1'
 stars: 3
 ratings: 8
 reviews: 4

@@ -8,7 +8,7 @@ appId: com.miriswa.p2p
 appCountry: 
 released: 2022-08-29
 updated: 2022-09-01
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

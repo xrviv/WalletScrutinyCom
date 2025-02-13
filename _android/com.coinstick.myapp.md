@@ -9,7 +9,7 @@ appId: com.coinstick.myapp
 appCountry: 
 released: 2023-01-23
 updated: 2025-01-07
-version: 1.0.0
+version: '1.0.0'
 stars: 4.3
 ratings: 
 reviews: 5

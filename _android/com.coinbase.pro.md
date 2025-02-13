@@ -9,7 +9,7 @@ appId: com.coinbase.pro
 appCountry: 
 released: 2020-01-06
 updated: 2022-10-17
-version: 1.0.103
+version: '1.0.103'
 stars: 4
 ratings: 22040
 reviews: 4595

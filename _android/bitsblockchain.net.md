@@ -8,7 +8,7 @@ appId: bitsblockchain.net
 appCountry: 
 released: 
 updated: 2020-05-08
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

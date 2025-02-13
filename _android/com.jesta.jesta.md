@@ -8,7 +8,7 @@ appId: com.jesta.jesta
 appCountry: 
 released: 2022-04-15
 updated: 2022-04-15
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

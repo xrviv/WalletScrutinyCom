@@ -9,7 +9,7 @@ appId: ua.money.storage.moneystorage
 appCountry: 
 released: 2018-02-08
 updated: 2024-02-01
-version: 2.1.0
+version: '2.1.0'
 stars: 
 ratings: 
 reviews: 

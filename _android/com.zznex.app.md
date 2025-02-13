@@ -8,7 +8,7 @@ appId: com.zznex.app
 appCountry: 
 released: 2022-10-18
 updated: 2023-04-06
-version: 4.0.0
+version: '4.0.0'
 stars: 4.3
 ratings: 
 reviews: 

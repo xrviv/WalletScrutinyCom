@@ -9,7 +9,7 @@ appId: com.bitcoke.activity
 appCountry: 
 released: 2022-02-13
 updated: 2022-10-07
-version: 7.0.0.3
+version: '7.0.0.3'
 stars: 
 ratings: 
 reviews: 

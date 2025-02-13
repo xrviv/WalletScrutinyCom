@@ -9,7 +9,7 @@ appId: com.ofinans.ofinansapp
 appCountry: 
 released: 2021-06-10
 updated: 2024-04-23
-version: 2.0.7
+version: '2.0.7'
 stars: 5
 ratings: 
 reviews: 3

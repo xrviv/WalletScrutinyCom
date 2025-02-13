@@ -9,7 +9,7 @@ appId: com.swissborg.android
 appCountry: gb
 released: 2020-06-16
 updated: 2025-02-03
-version: 1.102.0
+version: '1.102.0'
 stars: 3.9
 ratings: 9203
 reviews: 952

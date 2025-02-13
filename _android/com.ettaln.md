@@ -9,7 +9,7 @@ appId: com.ettaln
 appCountry: 
 released: 
 updated: 2023-09-06
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

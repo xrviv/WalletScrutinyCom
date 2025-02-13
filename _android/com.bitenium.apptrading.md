@@ -8,7 +8,7 @@ appId: com.bitenium.apptrading
 appCountry: 
 released: 2021-08-15
 updated: 2022-07-19
-version: 1.0.6
+version: '1.0.6'
 stars: 
 ratings: 
 reviews: 

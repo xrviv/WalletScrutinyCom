@@ -8,7 +8,7 @@ appId: ar.com.mercadocriptoglobal.app
 appCountry: 
 released: 2018-03-21
 updated: 2018-03-21
-version: 2.4.1
+version: '2.4.1'
 stars: 
 ratings: 
 reviews: 

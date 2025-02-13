@@ -9,7 +9,7 @@ appId: com.cobinhood.exchange
 appCountry: 
 released: 2017-12-25
 updated: 2019-04-29
-version: 3.50.1
+version: '3.50.1'
 stars: 2.8
 ratings: 648
 reviews: 118

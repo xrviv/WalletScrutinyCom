@@ -9,7 +9,7 @@ appId: com.lifelabsio.lifeapp
 appCountry: 
 released: 2018-10-05
 updated: 2020-03-20
-version: 0.6.1
+version: '0.6.1'
 stars: 4.3
 ratings: 
 reviews: 11

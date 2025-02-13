@@ -9,7 +9,7 @@ appCountry:
 idd: 1510284403
 released: 2020-05-20
 updated: 2022-12-19
-version: 1.7.3
+version: '1.7.3'
 stars: 4.3
 reviews: 6
 size: '19050496'

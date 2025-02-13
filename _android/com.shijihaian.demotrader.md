@@ -9,7 +9,7 @@ appId: com.shijihaian.demotrader
 appCountry: 
 released: 2020-10-29
 updated: 2020-12-14
-version: 1.0.3
+version: '1.0.3'
 stars: 1.8
 ratings: 
 reviews: 4

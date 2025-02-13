@@ -9,7 +9,7 @@ appCountry:
 idd: 1376878040
 released: 2018-05-27
 updated: 2025-02-10
-version: 7.1.0
+version: '7.1.0'
 stars: 4
 reviews: 730
 size: '43173888'
@@ -25,12 +25,12 @@ date: 2023-12-30
 signer: 
 reviewArchive:
 - date: 2020-07-14
-  version: 6.3.2
+  version: '6.3.2'
   appHashes: []
   gitRevision: 0f9bcb13a75554cb34a522e07aa2cfeb4048480c
   verdict: custodial
 - date: 2020-01-08
-  version: 4.9.1
+  version: '4.9.1'
   appHashes: []
   gitRevision: 21cb412a4e74b14bd6124c3e3be855d6b96ef589
   verdict: nonverifiable

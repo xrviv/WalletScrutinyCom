@@ -9,7 +9,7 @@ appId: io.hexn.mobile
 appCountry: 
 released: 2022-12-12
 updated: 2025-01-12
-version: 1.2.2
+version: '1.2.2'
 stars: 4.3
 ratings: 
 reviews: 5

@@ -8,7 +8,7 @@ appId: it.inbitcoin.globular
 appCountry: 
 released: 2019-06-07
 updated: 2020-01-26
-version: 1.2.0
+version: '1.2.0'
 stars: 
 ratings: 
 reviews: 

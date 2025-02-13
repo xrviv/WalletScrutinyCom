@@ -8,7 +8,7 @@ appId: com.daiospay
 appCountry: 
 released: 2019-08-05
 updated: 2019-08-16
-version: 1.0.5
+version: '1.0.5'
 stars: 
 ratings: 
 reviews: 

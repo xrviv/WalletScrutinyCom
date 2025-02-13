@@ -8,7 +8,7 @@ appId: com.coinplus.mobile
 appCountry: 
 released: 2018-03-15
 updated: 2020-12-15
-version: 1.3.0
+version: '1.3.0'
 stars: 
 ratings: 
 reviews: 

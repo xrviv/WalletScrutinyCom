@@ -9,7 +9,7 @@ appId: crypto.wallet.chainapp
 appCountry: 
 released: 2021-03-24
 updated: 2023-03-23
-version: 2.0.0
+version: '2.0.0'
 stars: 
 ratings: 
 reviews: 

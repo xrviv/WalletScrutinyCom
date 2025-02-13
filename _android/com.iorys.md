@@ -8,7 +8,7 @@ appId: com.iorys
 appCountry: 
 released: 2021-06-21
 updated: 2024-09-10
-version: 1.7.14
+version: '1.7.14'
 stars: 
 ratings: 
 reviews: 

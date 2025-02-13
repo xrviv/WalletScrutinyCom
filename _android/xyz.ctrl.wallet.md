@@ -8,7 +8,7 @@ appId: xyz.ctrl.wallet
 appCountry: 
 released: 2024-11-29
 updated: 2024-12-17
-version: 1.0.4
+version: '1.0.4'
 stars: 
 ratings: 
 reviews: 

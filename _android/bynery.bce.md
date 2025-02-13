@@ -8,7 +8,7 @@ appId: bynery.bce
 appCountry: 
 released: 2022-04-04
 updated: 2022-06-02
-version: 1.5.0
+version: '1.5.0'
 stars: 
 ratings: 
 reviews: 

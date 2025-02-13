@@ -8,7 +8,7 @@ appId: com.goldex.pro
 appCountry: 
 released: 2022-03-11
 updated: 2022-10-18
-version: 1.1.2
+version: '1.1.2'
 stars: 4.8
 ratings: 
 reviews: 

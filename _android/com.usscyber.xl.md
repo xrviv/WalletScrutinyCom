@@ -8,7 +8,7 @@ appId: com.usscyber.xl
 appCountry: 
 released: 2022-06-01
 updated: 2022-06-01
-version: 0.0.8
+version: '0.0.8'
 stars: 
 ratings: 
 reviews: 

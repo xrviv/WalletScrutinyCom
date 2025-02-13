@@ -9,7 +9,7 @@ appId: com.wkbeast.buy_sell_usdt
 appCountry: 
 released: 2021-05-14
 updated: 2022-05-14
-version: 2.0.4
+version: '2.0.4'
 stars: 4.9
 ratings: 
 reviews: 12

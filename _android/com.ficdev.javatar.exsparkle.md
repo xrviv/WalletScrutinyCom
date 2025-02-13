@@ -8,7 +8,7 @@ appId: com.ficdev.javatar.exsparkle
 appCountry: 
 released: 2017-12-01
 updated: 2018-01-15
-version: 3.4.5
+version: '3.4.5'
 stars: 
 ratings: 
 reviews: 

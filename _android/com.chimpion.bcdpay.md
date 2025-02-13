@@ -9,7 +9,7 @@ appId: com.chimpion.bcdpay
 appCountry: 
 released: 2019-05-21
 updated: 2020-03-16
-version: 7.1.63
+version: '7.1.63'
 stars: 4.2
 ratings: 186
 reviews: 13

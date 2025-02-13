@@ -9,7 +9,7 @@ appId: coinone.co.kr.official
 appCountry: 
 released: 2018-01-28
 updated: 2025-02-11
-version: 5.1.2
+version: '5.1.2'
 stars: 3.2
 ratings: 9232
 reviews: 15

@@ -8,7 +8,7 @@ appId: key.cn
 appCountry: 
 released: 2021-08-19
 updated: 2021-11-23
-version: 1.1.0
+version: '1.1.0'
 stars: 
 ratings: 
 reviews: 

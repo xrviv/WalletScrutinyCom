@@ -9,7 +9,7 @@ appId: com.hedged_bitcoin
 appCountry: 
 released: 2018-11-17
 updated: 2021-06-11
-version: 0.7.0
+version: '0.7.0'
 stars: 3.6
 ratings: 28
 reviews: 2

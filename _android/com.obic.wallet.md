@@ -8,7 +8,7 @@ appId: com.obic.wallet
 appCountry: 
 released: 2021-07-14
 updated: 2023-05-18
-version: 3.5.3
+version: '3.5.3'
 stars: 
 ratings: 
 reviews: 

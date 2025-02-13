@@ -9,7 +9,7 @@ appId: com.finq.android
 appCountry: 
 released: 2017-10-02
 updated: 2024-09-05
-version: 2.11.1
+version: '2.11.1'
 stars: 2.7
 ratings: 
 reviews: 5

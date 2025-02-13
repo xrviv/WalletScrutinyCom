@@ -8,7 +8,7 @@ appId: com.okongpos.app
 appCountry: 
 released: 2020-11-25
 updated: 2020-11-26
-version: Version 2.2.1
+version: 'Version 2.2.1'
 stars: 
 ratings: 
 reviews: 

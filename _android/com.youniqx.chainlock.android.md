@@ -9,7 +9,7 @@ appId: com.youniqx.chainlock.android
 appCountry: 
 released: 2018-11-23
 updated: 2023-08-03
-version: 1.62.0.67301
+version: '1.62.0.67301'
 stars: 
 ratings: 
 reviews: 

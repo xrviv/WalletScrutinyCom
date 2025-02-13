@@ -8,7 +8,7 @@ appId: com.notch.token
 appCountry: 
 released: 2022-02-21
 updated: 2022-02-21
-version: V1.0
+version: 'V1.0'
 stars: 
 ratings: 
 reviews: 

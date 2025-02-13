@@ -6,7 +6,7 @@ authors:
 released: 2023-11-18
 discontinued: 
 updated: 2024-01-29
-version: 18.1.0
+version: '18.1.0'
 binaries: https://github.com/piratecash/piratecash/releases
 provider: 
 providerWebsite: 

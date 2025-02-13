@@ -8,7 +8,7 @@ appId: com.BTC.BTC_BCH
 appCountry: 
 released: 2022-07-21
 updated: 2022-07-21
-version: 1.2.3
+version: '1.2.3'
 stars: 3.4
 ratings: 
 reviews: 1

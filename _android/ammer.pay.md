@@ -8,7 +8,7 @@ appId: ammer.pay
 appCountry: 
 released: 2022-08-22
 updated: 2024-12-11
-version: 1.9.2
+version: '1.9.2'
 stars: 
 ratings: 
 reviews: 

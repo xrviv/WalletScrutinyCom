@@ -6,7 +6,7 @@ authors:
 released: 2013-11-20
 discontinued: 
 updated: 2016-01-27
-version: v1.0-fidesmo
+version: 'v1.0-fidesmo'
 binaries: https://github.com/LedgerHQ/ledger-javacard/releases/tag/v1.0-fidesmo
 dimensions:
 - 35

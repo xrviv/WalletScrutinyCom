@@ -9,7 +9,7 @@ appId: com.iamswr_oxbtc_m.mwbpcontainer
 appCountry: 
 released: 2021-08-23
 updated: 2021-08-24
-version: 1.3.8
+version: '1.3.8'
 stars: 2.5
 ratings: 
 reviews: 9

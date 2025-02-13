@@ -8,7 +8,7 @@ appId: com.currency.tgcoin
 appCountry: 
 released: 2022-05-21
 updated: 2022-05-22
-version: 2.1.2
+version: '2.1.2'
 stars: 
 ratings: 
 reviews: 

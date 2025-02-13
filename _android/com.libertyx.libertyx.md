@@ -9,7 +9,7 @@ appId: com.libertyx.libertyx
 appCountry: us
 released: 2015-06-05
 updated: 2024-12-04
-version: 4.2.1
+version: '4.2.1'
 stars: 3
 ratings: 427
 reviews: 340

@@ -8,7 +8,7 @@ appId: com.godsend.app
 appCountry: 
 released: 2022-01-24
 updated: 2022-02-21
-version: 1.0.8
+version: '1.0.8'
 stars: 
 ratings: 
 reviews: 

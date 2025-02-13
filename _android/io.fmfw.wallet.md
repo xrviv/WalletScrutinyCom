@@ -8,7 +8,7 @@ appId: io.fmfw.wallet
 appCountry: 
 released: 
 updated: 2023-02-23
-version: 1.3.13
+version: '1.3.13'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appCountry: ae
 idd: 1523980355
 released: 2020-07-28
 updated: 2021-06-29
-version: 2.3.2
+version: '2.3.2'
 stars: 
 reviews: 
 size: 49035264

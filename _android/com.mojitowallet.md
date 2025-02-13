@@ -10,7 +10,7 @@ appId: com.mojitowallet
 appCountry: 
 released: 
 updated: 2024-12-15
-version: 0.4.1
+version: '0.4.1'
 stars: 
 ratings: 
 reviews: 

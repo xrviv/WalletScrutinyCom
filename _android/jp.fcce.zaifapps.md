@@ -9,7 +9,7 @@ appId: jp.fcce.zaifapps
 appCountry: in
 released: 2020-05-07
 updated: 2023-10-05
-version: 1.1.23
+version: '1.1.23'
 stars: 
 ratings: 
 reviews: 

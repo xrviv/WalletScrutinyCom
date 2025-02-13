@@ -9,7 +9,7 @@ appId: digital.juwelis.app
 appCountry: 
 released: 
 updated: 2021-02-19
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: bitexly.com
 appCountry: 
 released: 2020-05-09
 updated: 2020-05-09
-version: 5.129.20
+version: '5.129.20'
 stars: 
 ratings: 
 reviews: 

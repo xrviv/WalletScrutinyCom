@@ -8,7 +8,7 @@ appId: com.alock.wallet
 appCountry: 
 released: 2021-07-26
 updated: 2022-05-30
-version: 4.3.11
+version: '4.3.11'
 stars: 
 ratings: 
 reviews: 

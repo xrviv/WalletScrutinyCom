@@ -9,7 +9,7 @@ appId: com.spowide.www
 appCountry: 
 released: 2019-10-17
 updated: 2020-01-30
-version: 1.0.4
+version: '1.0.4'
 stars: 
 ratings: 
 reviews: 

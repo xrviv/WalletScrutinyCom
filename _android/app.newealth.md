@@ -8,7 +8,7 @@ appId: app.newealth
 appCountry: 
 released: 2021-01-06
 updated: 2021-04-16
-version: 1.2.1
+version: '1.2.1'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.btcckorea
 appCountry: 
 released: 2019-01-22
 updated: 2019-07-01
-version: 1.0.19
+version: '1.0.19'
 stars: 
 ratings: 
 reviews: 

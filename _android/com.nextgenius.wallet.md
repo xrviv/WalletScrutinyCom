@@ -8,7 +8,7 @@ appId: com.nextgenius.wallet
 appCountry: 
 released: 2019-08-05
 updated: 2020-06-20
-version: 1.2.7
+version: '1.2.7'
 stars: 
 ratings: 
 reviews: 

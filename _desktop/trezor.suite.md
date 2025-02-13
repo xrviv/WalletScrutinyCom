@@ -6,7 +6,7 @@ authors:
 released: 2016-06-28
 discontinued: 
 updated: 2024-04-19
-version: 24.4.3
+version: '24.4.3'
 binaries: 
 provider: Trezor
 providerWebsite: https://trezor.io

@@ -8,7 +8,7 @@ appId: qooorsou.lts.wallet
 appCountry: 
 released: 2019-09-06
 updated: 2019-09-06
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.instantgo.spacelens
 appCountry: 
 released: 2021-12-04
 updated: 2022-07-08
-version: 1.2.4
+version: '1.2.4'
 stars: 
 ratings: 
 reviews: 

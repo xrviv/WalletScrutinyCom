@@ -8,7 +8,7 @@ appId: pro.coinx.app
 appCountry: 
 released: 2018-10-11
 updated: 2020-01-15
-version: 1.0.23
+version: '1.0.23'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.inigma.wallet
 appCountry: 
 released: 2020-03-29
 updated: 2020-12-22
-version: 0.0.18
+version: '0.0.18'
 stars: 
 ratings: 
 reviews: 

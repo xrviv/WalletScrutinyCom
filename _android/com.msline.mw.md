@@ -9,7 +9,7 @@ appId: com.msline.mw
 appCountry: 
 released: 2019-06-20
 updated: 2022-06-20
-version: 2.3.3
+version: '2.3.3'
 stars: 
 ratings: 
 reviews: 

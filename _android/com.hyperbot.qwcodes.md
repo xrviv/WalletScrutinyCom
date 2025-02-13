@@ -8,7 +8,7 @@ appId: com.hyperbot.qwcodes
 appCountry: 
 released: 2022-07-22
 updated: 2022-07-22
-version: 2.0.0
+version: '2.0.0'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.profittrading.forftx
 appCountry: 
 released: 2021-08-25
 updated: 2022-09-13
-version: 1.2.1
+version: '1.2.1'
 stars: 4.9
 ratings: 30
 reviews: 3

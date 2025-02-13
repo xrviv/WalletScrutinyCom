@@ -9,7 +9,7 @@ appId: com.savechange.hodlit
 appCountry: 
 released: 2020-04-18
 updated: 2020-11-16
-version: 1.0.12
+version: '1.0.12'
 stars: 2.5
 ratings: 
 reviews: 36

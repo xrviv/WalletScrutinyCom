@@ -9,7 +9,7 @@ appId: com.trex.exchange
 appCountry: 
 released: 2019-12-19
 updated: 2022-06-20
-version: 2.2.9
+version: '2.2.9'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appCountry: us
 idd: 1408806845
 released: 2018-08-01
 updated: 2023-08-09
-version: 1.9.94
+version: '1.9.94'
 stars: 4
 reviews: 22
 size: '26430464'

@@ -8,7 +8,7 @@ appId: com.swapcrypto.wallet
 appCountry: 
 released: 2021-12-06
 updated: 2021-12-06
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.phemex.turkey
 appCountry: 
 released: 2021-09-30
 updated: 2022-09-27
-version: 1.2.5
+version: '1.2.5'
 stars: 3.6
 ratings: 
 reviews: 1

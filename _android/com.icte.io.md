@@ -8,7 +8,7 @@ appId: com.icte.io
 appCountry: 
 released: 
 updated: 2021-04-27
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.ctin.inidev.android
 appCountry: 
 released: 2021-05-22
 updated: 2021-06-04
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

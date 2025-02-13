@@ -8,7 +8,7 @@ appId: com.poldot
 appCountry: 
 released: 2022-12-29
 updated: 2023-04-04
-version: 1.0.6
+version: '1.0.6'
 stars: 
 ratings: 
 reviews: 

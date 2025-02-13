@@ -9,7 +9,7 @@ appId: com.kapitalrs.pro
 appCountry: 
 released: 2017-02-07
 updated: 2024-08-18
-version: 90.4.010
+version: '90.4.010'
 stars: 
 ratings: 
 reviews: 

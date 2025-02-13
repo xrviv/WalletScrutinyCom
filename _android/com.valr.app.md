@@ -9,7 +9,7 @@ appId: com.valr.app
 appCountry: 
 released: 2019-09-13
 updated: 2025-02-05
-version: 1.1.9
+version: '1.1.9'
 stars: 4.2
 ratings: 1725
 reviews: 24

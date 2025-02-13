@@ -8,7 +8,7 @@ appId: com.xbank247.app
 appCountry: 
 released: 2021-12-30
 updated: 2023-11-10
-version: 16.1.0
+version: '16.1.0'
 stars: 
 ratings: 
 reviews: 

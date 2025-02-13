@@ -9,7 +9,7 @@ appId: co.bandicoot.ztrader
 appCountry: 
 released: 2014-05-04
 updated: 2016-08-07
-version: 1.2.2
+version: '1.2.2'
 stars: 3.4
 ratings: 1211
 reviews: 164

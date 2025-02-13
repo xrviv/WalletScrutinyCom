@@ -9,7 +9,7 @@ appId: app.mybitstore.com
 appCountry: 
 released: 2021-08-12
 updated: 2025-01-22
-version: 7.0.8
+version: '7.0.8'
 stars: 4.2
 ratings: 20
 reviews: 7

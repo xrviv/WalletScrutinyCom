@@ -8,7 +8,7 @@ appId: plus.Bit.Mart
 appCountry: 
 released: 2022-07-23
 updated: 2023-06-13
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

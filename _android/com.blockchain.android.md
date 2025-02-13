@@ -8,7 +8,7 @@ appId: com.blockchain.android
 appCountry: 
 released: 2020-06-15
 updated: 2021-01-04
-version: 1.0.7.5
+version: '1.0.7.5'
 stars: 4.4
 ratings: 2737
 reviews: 532

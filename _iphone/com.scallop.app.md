@@ -9,7 +9,7 @@ appCountry: bg
 idd: '1599717690'
 released: 2021-12-10
 updated: 2025-02-12
-version: 1.5.9
+version: '1.5.9'
 stars: 0
 reviews: 0
 size: '215184384'

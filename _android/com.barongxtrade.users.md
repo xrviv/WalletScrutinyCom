@@ -8,7 +8,7 @@ appId: com.barongxtrade.users
 appCountry: 
 released: 2022-10-28
 updated: 2023-04-30
-version: 4.0.1
+version: '4.0.1'
 stars: 
 ratings: 
 reviews: 

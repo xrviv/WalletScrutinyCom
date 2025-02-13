@@ -8,7 +8,7 @@ appId: com.q9.capital
 appCountry: 
 released: 2021-11-19
 updated: 2022-09-22
-version: 1.0.5
+version: '1.0.5'
 stars: 
 ratings: 
 reviews: 

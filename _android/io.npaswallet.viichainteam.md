@@ -9,7 +9,7 @@ appId: io.npaswallet.viichainteam
 appCountry: 
 released: 2022-02-25
 updated: 2022-07-07
-version: 3.0.2
+version: '3.0.2'
 stars: 
 ratings: 
 reviews: 

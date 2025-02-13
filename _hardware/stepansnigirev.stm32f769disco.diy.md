@@ -6,7 +6,7 @@ authors:
 released: 2019-04-26
 discontinued: 
 updated: 2019-09-21
-version: 0.0.2_alpha
+version: '0.0.2_alpha'
 binaries: 
 dimensions:
 - 120

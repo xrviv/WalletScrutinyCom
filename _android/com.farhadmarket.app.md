@@ -9,7 +9,7 @@ appId: com.farhadmarket.app
 appCountry: 
 released: 2019-07-08
 updated: 2021-12-05
-version: 1.9.124
+version: '1.9.124'
 stars: 3.9
 ratings: 1035
 reviews: 14

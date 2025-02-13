@@ -8,7 +8,7 @@ appId: com.uni.uniwallet
 appCountry: 
 released: 2018-06-05
 updated: 2019-02-19
-version: 7.0.4
+version: '7.0.4'
 stars: 4
 ratings: 44
 reviews: 23

@@ -9,7 +9,7 @@ appId: com.defexa.wallet
 appCountry: 
 released: 2023-04-28
 updated: 2024-10-16
-version: 2.2.2
+version: '2.2.2'
 stars: 4.5
 ratings: 
 reviews: 6

@@ -8,7 +8,7 @@ appId: com.cryptowallet
 appCountry: 
 released: 
 updated: 2019-07-28
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

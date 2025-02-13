@@ -9,7 +9,7 @@ appId: com.euphoriahit
 appCountry: 
 released: 
 updated: 2021-12-03
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

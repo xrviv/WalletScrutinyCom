@@ -8,7 +8,7 @@ appId: com.lilliangreen.gdbeyhfy
 appCountry: 
 released: 2021-12-02
 updated: 2021-12-02
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

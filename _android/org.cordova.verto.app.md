@@ -9,7 +9,7 @@ appId: org.cordova.verto.app
 appCountry: 
 released: 
 updated: 2019-12-13
-version: 0.9.1
+version: '0.9.1'
 stars: 3.7
 ratings: 
 reviews: 

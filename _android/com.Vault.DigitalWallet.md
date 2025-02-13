@@ -8,7 +8,7 @@ appId: com.Vault.DigitalWallet
 appCountry: 
 released: 2022-12-13
 updated: 2023-04-28
-version: 1.3.4
+version: '1.3.4'
 stars: 
 ratings: 
 reviews: 

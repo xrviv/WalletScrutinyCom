@@ -9,7 +9,7 @@ appId: com.coincorner.checkout
 appCountry: 
 released: 2022-09-29
 updated: 2024-08-13
-version: 2.6.0
+version: '2.6.0'
 stars: 5
 ratings: 
 reviews: 

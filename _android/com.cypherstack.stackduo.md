@@ -9,7 +9,7 @@ appId: com.cypherstack.stackduo
 appCountry: 
 released: 2024-06-29
 updated: 2024-12-05
-version: 1.2.4
+version: '1.2.4'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.cloud.app.mandala
 appCountry: us
 released: 2021-08-19
 updated: 2022-12-01
-version: 1.2.0
+version: '1.2.0'
 stars: 3.2
 ratings: 155
 reviews: 25

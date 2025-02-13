@@ -9,7 +9,7 @@ appId: com.ancryptoWallet
 appCountry: 
 released: 2022-09-27
 updated: 2025-01-20
-version: 1.47.0
+version: '1.47.0'
 stars: 4.5
 ratings: 
 reviews: 29

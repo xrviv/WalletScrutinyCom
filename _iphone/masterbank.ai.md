@@ -9,7 +9,7 @@ appCountry: kr
 idd: '1599645061'
 released: 2022-02-27
 updated: 2023-08-24
-version: 0.11.1
+version: '0.11.1'
 stars: 3.6
 reviews: 16
 size: '62102528'

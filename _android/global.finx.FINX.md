@@ -9,7 +9,7 @@ appId: global.finx.FINX
 appCountry: 
 released: 2022-10-26
 updated: 2023-02-23
-version: 0.4.8
+version: '0.4.8'
 stars: 
 ratings: 
 reviews: 

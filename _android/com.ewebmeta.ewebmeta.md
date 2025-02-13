@@ -9,7 +9,7 @@ appId: com.ewebmeta.ewebmeta
 appCountry: 
 released: 2022-03-13
 updated: 2023-07-06
-version: 2.0.0
+version: '2.0.0'
 stars: 
 ratings: 
 reviews: 

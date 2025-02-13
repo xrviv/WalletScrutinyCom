@@ -9,7 +9,7 @@ appId: app.metavest.mobile
 appCountry: 
 released: 2022-07-06
 updated: 2024-08-20
-version: 3.0.0
+version: '3.0.0'
 stars: 
 ratings: 
 reviews: 

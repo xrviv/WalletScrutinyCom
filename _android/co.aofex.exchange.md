@@ -9,7 +9,7 @@ appId: co.aofex.exchange
 appCountry: us
 released: 2021-09-01
 updated: 2021-12-03
-version: 3.0.3
+version: '3.0.3'
 stars: 4.8
 ratings: 5947
 reviews: 333

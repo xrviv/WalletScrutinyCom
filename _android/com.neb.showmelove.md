@@ -8,7 +8,7 @@ appId: com.neb.showmelove
 appCountry: 
 released: 
 updated: 2020-09-16
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

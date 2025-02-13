@@ -8,7 +8,7 @@ appId: com.crypto.trader
 appCountry: 
 released: 2021-09-29
 updated: 2021-09-29
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

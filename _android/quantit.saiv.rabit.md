@@ -8,7 +8,7 @@ appId: quantit.saiv.rabit
 appCountry: 
 released: 
 updated: 2023-02-13
-version: 1.2.4
+version: '1.2.4'
 stars: 
 ratings: 
 reviews: 

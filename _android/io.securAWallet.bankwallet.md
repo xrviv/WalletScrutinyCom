@@ -8,7 +8,7 @@ appId: io.securAWallet.bankwallet
 appCountry: 
 released: 2022-08-31
 updated: 2023-01-18
-version: 0.26.3
+version: '0.26.3'
 stars: 
 ratings: 
 reviews: 

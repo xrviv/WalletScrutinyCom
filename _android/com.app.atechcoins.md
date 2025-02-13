@@ -9,7 +9,7 @@ appId: com.app.atechcoins
 appCountry: 
 released: 2020-11-10
 updated: 2025-01-06
-version: 1.1.7
+version: '1.1.7'
 stars: 3.6
 ratings: 85
 reviews: 7

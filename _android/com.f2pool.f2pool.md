@@ -9,7 +9,7 @@ appId: com.f2pool.f2pool
 appCountry: 
 released: 2018-09-04
 updated: 2025-02-11
-version: VARY
+version: 'VARY'
 stars: 4.3
 ratings: 
 reviews: 79

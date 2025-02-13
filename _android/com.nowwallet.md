@@ -9,7 +9,7 @@ appId: com.nowwallet
 appCountry: 
 released: 2021-10-20
 updated: 2025-02-11
-version: 3.14.9
+version: '3.14.9'
 stars: 4.6
 ratings: 
 reviews: 170

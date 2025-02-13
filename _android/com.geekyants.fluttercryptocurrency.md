@@ -8,7 +8,7 @@ appId: com.geekyants.fluttercryptocurrency
 appCountry: 
 released: 2020-04-30
 updated: 2020-04-30
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

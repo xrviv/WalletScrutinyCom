@@ -9,7 +9,7 @@ appId: cc.bitbank.bitbank
 appCountry: 
 released: 
 updated: 2025-01-20
-version: 3.4.0
+version: '3.4.0'
 stars: 3.8
 ratings: 
 reviews: 2

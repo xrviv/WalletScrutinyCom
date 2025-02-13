@@ -9,7 +9,7 @@ appId: com.ocean.exchange
 appCountry: us
 released: 2019-07-04
 updated: 2023-08-24
-version: 2.0.4
+version: '2.0.4'
 stars: 4.1
 ratings: 159
 reviews: 15

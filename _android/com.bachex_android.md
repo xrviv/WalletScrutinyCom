@@ -8,7 +8,7 @@ appId: com.bachex_android
 appCountry: 
 released: 2021-03-28
 updated: 2021-06-25
-version: 1.2.8
+version: '1.2.8'
 stars: 
 ratings: 
 reviews: 

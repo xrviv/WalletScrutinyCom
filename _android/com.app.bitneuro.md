@@ -9,7 +9,7 @@ appId: com.app.bitneuro
 appCountry: 
 released: 2021-07-01
 updated: 2021-09-11
-version: 1.3.0
+version: '1.3.0'
 stars: 
 ratings: 
 reviews: 

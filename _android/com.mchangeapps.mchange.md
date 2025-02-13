@@ -9,7 +9,7 @@ appId: com.mchangeapps.mchange
 appCountry: 
 released: 2021-09-01
 updated: 2024-08-10
-version: 4.0.2
+version: '4.0.2'
 stars: 
 ratings: 
 reviews: 

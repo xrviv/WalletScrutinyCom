@@ -9,7 +9,7 @@ appId: com.dreacotdigital.cryptopower.mainnet
 appCountry: 
 released: 2024-01-20
 updated: 2025-01-31
-version: 2.1.0
+version: '2.1.0'
 stars: 
 ratings: 
 reviews: 

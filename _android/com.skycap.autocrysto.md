@@ -8,7 +8,7 @@ appId: com.skycap.autocrysto
 appCountry: 
 released: 2019-11-18
 updated: 2020-04-27
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

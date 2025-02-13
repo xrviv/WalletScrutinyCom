@@ -6,7 +6,7 @@ authors:
 released: 2022-10-18
 discontinued: 
 updated: 2024-10-08
-version: 4.2.0
+version: '4.2.0'
 binaries: https://www.ellipal.com/pages/ellipal-titan-mini-firmware-update
 dimensions:
 - 75

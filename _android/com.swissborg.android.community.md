@@ -9,7 +9,7 @@ appId: com.swissborg.android.community
 appCountry: ch
 released: 2019-03-27
 updated: 2022-01-10
-version: 2.3.0
+version: '2.3.0'
 stars: 4.4
 ratings: 7001
 reviews: 183

@@ -9,7 +9,7 @@ appId: com.vdcloud.cforcoins
 appCountry: 
 released: 2018-05-13
 updated: 2020-05-13
-version: 2.7.0
+version: '2.7.0'
 stars: 
 ratings: 
 reviews: 

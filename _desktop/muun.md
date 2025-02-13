@@ -6,7 +6,7 @@ authors:
 released: 2019-11-29
 discontinued: 
 updated: 2023-02-22
-version: 2.2.4
+version: '2.2.4'
 binaries: 
 provider: Muun
 providerWebsite: 

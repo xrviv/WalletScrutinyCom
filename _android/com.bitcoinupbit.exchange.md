@@ -8,7 +8,7 @@ appId: com.bitcoinupbit.exchange
 appCountry: 
 released: 2021-12-13
 updated: 2023-04-04
-version: 1.0.31
+version: '1.0.31'
 stars: 4.7
 ratings: 
 reviews: 

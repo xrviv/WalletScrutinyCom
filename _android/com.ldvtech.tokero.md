@@ -9,7 +9,7 @@ appId: com.ldvtech.tokero
 appCountry: 
 released: 2021-06-02
 updated: 2024-11-27
-version: 4.4.4
+version: '4.4.4'
 stars: 5
 ratings: 
 reviews: 4

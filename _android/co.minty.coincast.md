@@ -9,7 +9,7 @@ appId: co.minty.coincast
 appCountry: 
 released: 2021-07-18
 updated: 2022-05-13
-version: 1.2.15
+version: '1.2.15'
 stars: 3.7
 ratings: 8
 reviews: 30

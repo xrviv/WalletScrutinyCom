@@ -8,7 +8,7 @@ appId: io.alamo.ex
 appCountry: 
 released: 2022-08-12
 updated: 2022-08-23
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

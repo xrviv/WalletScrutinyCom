@@ -9,7 +9,7 @@ appId: org.bitanex.bitanexpro
 appCountry: 
 released: 2018-11-09
 updated: 2019-04-26
-version: 3.1.22
+version: '3.1.22'
 stars: 4.2
 ratings: 
 reviews: 2

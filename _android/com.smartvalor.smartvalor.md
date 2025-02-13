@@ -9,7 +9,7 @@ appId: com.smartvalor.smartvalor
 appCountry: 
 released: 2024-10-02
 updated: 2024-11-15
-version: 1.0.31.111
+version: '1.0.31.111'
 stars: 4.2
 ratings: 
 reviews: 

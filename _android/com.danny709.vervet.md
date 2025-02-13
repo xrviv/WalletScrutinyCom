@@ -8,7 +8,7 @@ appId: com.danny709.vervet
 appCountry: 
 released: 2022-06-04
 updated: 2022-06-04
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.asiax.broker.android
 appCountry: 
 released: 2021-05-04
 updated: 2021-05-14
-version: 4.0.2
+version: '4.0.2'
 stars: 3.7
 ratings: 9
 reviews: 3

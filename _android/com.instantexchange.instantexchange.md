@@ -9,7 +9,7 @@ appId: com.instantexchange.instantexchange
 appCountry: 
 released: 2022-03-25
 updated: 2022-03-25
-version: 2.0.0
+version: '2.0.0'
 stars: 
 ratings: 
 reviews: 

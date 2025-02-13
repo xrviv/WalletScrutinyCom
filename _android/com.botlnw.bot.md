@@ -8,7 +8,7 @@ appId: com.botlnw.bot
 appCountry: 
 released: 2021-11-29
 updated: 2022-07-18
-version: 2.1.7
+version: '2.1.7'
 stars: 
 ratings: 
 reviews: 

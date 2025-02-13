@@ -10,7 +10,7 @@ appId: io.lisk.mobile
 appCountry: 
 released: 2018-10-02
 updated: 2025-01-27
-version: 3.0.2
+version: '3.0.2'
 stars: 4.1
 ratings: 189
 reviews: 30

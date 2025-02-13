@@ -9,7 +9,7 @@ appId: com.lightning.walletapp
 appCountry: 
 released: 2018-05-01
 updated: 2021-03-13
-version: 0.4.8
+version: '0.4.8'
 stars: 4.2
 ratings: 368
 reviews: 61
@@ -26,7 +26,7 @@ date: 2024-04-19
 signer: 
 reviewArchive:
 - date: 2021-08-21
-  version: 0.4.4
+  version: '0.4.4'
   appHashes:
   - ffcffa9d3053590b98f845622ab5a4748023245fbacc48f6798ca9ff753f86c6
   gitRevision: 6b9f4e0124b3b4f7d4daa2425d704af536624d90

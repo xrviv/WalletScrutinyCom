@@ -9,7 +9,7 @@ appId: com.vault12.vault12
 appCountry: 
 released: 2019-08-28
 updated: 2024-12-19
-version: 2.5.3
+version: '2.5.3'
 stars: 4.3
 ratings: 
 reviews: 130

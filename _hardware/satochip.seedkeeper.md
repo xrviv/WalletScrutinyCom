@@ -6,7 +6,7 @@ authors:
 released: 2022-03-28
 discontinued: 
 updated: 2025-01-21
-version: 0.2-0.1
+version: '0.2-0.1'
 binaries: https://github.com/Toporin/Seedkeeper-Applet/releases
 dimensions:
 - 86

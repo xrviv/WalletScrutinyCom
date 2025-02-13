@@ -8,7 +8,7 @@ appId: com.cmcodes.NexZone
 appCountry: 
 released: 2021-12-28
 updated: 2021-12-28
-version: 3.0.0
+version: '3.0.0'
 stars: 
 ratings: 
 reviews: 

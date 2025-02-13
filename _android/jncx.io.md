@@ -9,7 +9,7 @@ appId: jncx.io
 appCountry: 
 released: 2022-05-24
 updated: 2022-09-01
-version: 1.0.4
+version: '1.0.4'
 stars: 
 ratings: 
 reviews: 

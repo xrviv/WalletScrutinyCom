@@ -9,7 +9,7 @@ appId: com.bbt.bitkubnext
 appCountry: 
 released: 2021-09-21
 updated: 2024-12-29
-version: 2.11.0
+version: '2.11.0'
 stars: 
 ratings: 
 reviews: 

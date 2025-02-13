@@ -8,7 +8,7 @@ appId: com.blocknomic.gimibits
 appCountry: 
 released: 2019-10-30
 updated: 2020-06-11
-version: 0.1.0
+version: '0.1.0'
 stars: 
 ratings: 
 reviews: 

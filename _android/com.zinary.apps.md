@@ -8,7 +8,7 @@ appId: com.zinary.apps
 appCountry: 
 released: 2024-03-11
 updated: 2024-03-11
-version: 0.28.7
+version: '0.28.7'
 stars: 
 ratings: 
 reviews: 

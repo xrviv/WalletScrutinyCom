@@ -9,7 +9,7 @@ appId: land.tether.tetherland
 appCountry: 
 released: 2019-12-09
 updated: 2023-08-01
-version: 7.1.0
+version: '7.1.0'
 stars: 4.1
 ratings: 1685
 reviews: 71

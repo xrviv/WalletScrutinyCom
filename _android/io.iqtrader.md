@@ -9,7 +9,7 @@ appId: io.iqtrader
 appCountry: 
 released: 2022-09-29
 updated: 2022-10-07
-version: 2.0.7
+version: '2.0.7'
 stars: 
 ratings: 
 reviews: 

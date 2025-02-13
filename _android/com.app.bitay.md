@@ -9,7 +9,7 @@ appId: com.app.bitay
 appCountry: us
 released: 2019-04-15
 updated: 2023-11-21
-version: 3.1.29
+version: '3.1.29'
 stars: 3.5
 ratings: 5765
 reviews: 11

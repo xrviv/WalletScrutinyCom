@@ -8,7 +8,7 @@ appId: com.remibit.wallet.twa
 appCountry: 
 released: 2021-03-17
 updated: 2021-05-17
-version: 3.0.0.0
+version: '3.0.0.0'
 stars: 
 ratings: 
 reviews: 

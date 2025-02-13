@@ -8,7 +8,7 @@ appId: io.space.tkey
 appCountry: 
 released: 2020-02-14
 updated: 2020-04-27
-version: 1.3.0
+version: '1.3.0'
 stars: 
 ratings: 
 reviews: 

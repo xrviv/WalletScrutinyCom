@@ -9,7 +9,7 @@ appId: com.macaron_swap
 appCountry: 
 released: 2022-04-14
 updated: 2023-05-03
-version: 1.6.8
+version: '1.6.8'
 stars: 3.6
 ratings: 
 reviews: 

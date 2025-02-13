@@ -9,7 +9,7 @@ appId: com.osmo.smt
 appCountry: 
 released: 2022-07-01
 updated: 2025-01-10
-version: 4.0.14
+version: '4.0.14'
 stars: 4
 ratings: 
 reviews: 29

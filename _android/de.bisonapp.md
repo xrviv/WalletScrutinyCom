@@ -9,7 +9,7 @@ appId: de.bisonapp
 appCountry: 
 released: 
 updated: 2025-02-05
-version: 4.6.0
+version: '4.6.0'
 stars: 4.6
 ratings: 
 reviews: 3

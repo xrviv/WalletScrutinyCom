@@ -8,7 +8,7 @@ appId: com.logmethod.hsr
 appCountry: 
 released: 2022-02-18
 updated: 2022-02-18
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

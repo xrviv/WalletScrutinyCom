@@ -8,7 +8,7 @@ appId: com.spot.wallet
 appCountry: 
 released: 2021-12-13
 updated: 2022-01-16
-version: 0.21.0
+version: '0.21.0'
 stars: 
 ratings: 
 reviews: 

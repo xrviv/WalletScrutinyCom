@@ -6,7 +6,7 @@ authors:
 released: 2022-04-13
 discontinued: 
 updated: 2023-06-05
-version: 2.1.0
+version: '2.1.0'
 binaries: 
 provider: Foundation Devices
 providerWebsite: 

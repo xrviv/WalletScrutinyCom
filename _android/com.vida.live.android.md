@@ -9,7 +9,7 @@ appId: com.vida.live.android
 appCountry: 
 released: 2022-03-09
 updated: 2023-12-07
-version: 1.0.2
+version: '1.0.2'
 stars: 2.8
 ratings: 
 reviews: 46

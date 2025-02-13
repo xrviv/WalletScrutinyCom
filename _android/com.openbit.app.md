@@ -8,7 +8,7 @@ appId: com.openbit.app
 appCountry: 
 released: 2021-11-10
 updated: 2022-03-25
-version: 1.1.7
+version: '1.1.7'
 stars: 
 ratings: 
 reviews: 

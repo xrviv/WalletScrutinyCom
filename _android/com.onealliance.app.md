@@ -8,7 +8,7 @@ appId: com.onealliance.app
 appCountry: 
 released: 
 updated: 2022-09-28
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

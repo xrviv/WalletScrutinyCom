@@ -8,7 +8,7 @@ appId: com.investpal_social_trading
 appCountry: 
 released: 2021-04-06
 updated: 2021-04-14
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

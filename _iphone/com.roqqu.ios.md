@@ -11,7 +11,7 @@ appCountry: de
 idd: 1505370687
 released: 2020-04-06
 updated: 2025-01-31
-version: 2.5.46
+version: '2.5.46'
 stars: 3
 reviews: 3
 size: '245423104'

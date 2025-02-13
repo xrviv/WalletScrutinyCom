@@ -8,7 +8,7 @@ appId: io.shdigital.tenetx.android
 appCountry: 
 released: 2022-07-09
 updated: 2022-12-28
-version: 1.0.19
+version: '1.0.19'
 stars: 
 ratings: 
 reviews: 

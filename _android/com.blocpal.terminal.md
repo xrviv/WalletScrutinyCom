@@ -8,7 +8,7 @@ appId: com.blocpal.terminal
 appCountry: 
 released: 2018-10-30
 updated: 2019-07-23
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

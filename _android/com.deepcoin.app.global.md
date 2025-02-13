@@ -9,7 +9,7 @@ appId: com.deepcoin.app.global
 appCountry: 
 released: 2020-12-08
 updated: 2025-02-02
-version: 7.4.79
+version: '7.4.79'
 stars: 4.1
 ratings: 
 reviews: 26

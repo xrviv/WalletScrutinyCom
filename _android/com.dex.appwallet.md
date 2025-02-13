@@ -9,7 +9,7 @@ appId: com.dex.appwallet
 appCountry: 
 released: 2022-08-15
 updated: 2022-08-15
-version: 1.0.8
+version: '1.0.8'
 stars: 
 ratings: 
 reviews: 

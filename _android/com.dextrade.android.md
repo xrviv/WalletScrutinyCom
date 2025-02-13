@@ -9,7 +9,7 @@ appId: com.dextrade.android
 appCountry: us
 released: 2019-07-03
 updated: 2023-05-10
-version: 1.3.0
+version: '1.3.0'
 stars: 3.3
 ratings: 218
 reviews: 23

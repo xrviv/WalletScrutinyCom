@@ -8,7 +8,7 @@ appId: com.mingyue.liuli
 appCountry: 
 released: 2021-06-04
 updated: 2021-08-20
-version: 4.2.2
+version: '4.2.2'
 stars: 
 ratings: 
 reviews: 

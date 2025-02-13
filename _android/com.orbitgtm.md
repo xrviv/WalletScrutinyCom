@@ -9,7 +9,7 @@ appId: com.orbitgtm
 appCountry: 
 released: 
 updated: 2022-01-11
-version: 1.7.0
+version: '1.7.0'
 stars: 
 ratings: 
 reviews: 

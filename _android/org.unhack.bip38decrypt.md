@@ -8,7 +8,7 @@ appId: org.unhack.bip38decrypt
 appCountry: 
 released: 2016-06-17
 updated: 2016-12-26
-version: 2.1.8
+version: '2.1.8'
 stars: 
 ratings: 
 reviews: 

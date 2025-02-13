@@ -8,7 +8,7 @@ appId: com.cryptosimple.prod
 appCountry: 
 released: 2022-06-01
 updated: 2022-12-08
-version: 1.0.12
+version: '1.0.12'
 stars: 4.3
 ratings: 
 reviews: 

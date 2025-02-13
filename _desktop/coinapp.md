@@ -6,7 +6,7 @@ authors:
 released: 2018-05-02
 discontinued: 
 updated: 2018-08-02
-version: 0.0.34
+version: '0.0.34'
 binaries: 
 provider: 
 providerWebsite: 

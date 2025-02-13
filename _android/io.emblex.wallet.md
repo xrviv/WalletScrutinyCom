@@ -8,7 +8,7 @@ appId: io.emblex.wallet
 appCountry: 
 released: 2021-08-18
 updated: 2021-11-30
-version: 0.21.5
+version: '0.21.5'
 stars: 
 ratings: 
 reviews: 

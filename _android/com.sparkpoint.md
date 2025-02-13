@@ -10,7 +10,7 @@ appId: com.sparkpoint
 appCountry: us
 released: 2019-07-20
 updated: 2023-08-24
-version: 12.1.1
+version: '12.1.1'
 stars: 3.7
 ratings: 608
 reviews: 67

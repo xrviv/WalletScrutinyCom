@@ -9,7 +9,7 @@ appId: net.ayrem.ayrem_app
 appCountry: 
 released: 2021-10-02
 updated: 2024-01-13
-version: 1.0.8
+version: '1.0.8'
 stars: 2.6
 ratings: 
 reviews: 7

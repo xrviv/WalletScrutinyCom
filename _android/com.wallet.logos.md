@@ -9,7 +9,7 @@ appId: com.wallet.logos
 appCountry: 
 released: 2020-09-16
 updated: 2024-10-21
-version: 0.4.1
+version: '0.4.1'
 stars: 
 ratings: 
 reviews: 

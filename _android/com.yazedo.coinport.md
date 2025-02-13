@@ -9,7 +9,7 @@ appId: com.yazedo.coinport
 appCountry: 
 released: 2018-03-04
 updated: 2021-03-12
-version: 2.2.0
+version: '2.2.0'
 stars: 
 ratings: 
 reviews: 

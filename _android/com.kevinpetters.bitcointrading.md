@@ -8,7 +8,7 @@ appId: com.kevinpetters.bitcointrading
 appCountry: 
 released: 2019-06-30
 updated: 2019-06-30
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

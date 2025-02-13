@@ -9,7 +9,7 @@ appId: com.coincred.android
 appCountry: 
 released: 2021-09-01
 updated: 2025-01-02
-version: 2.5.3
+version: '2.5.3'
 stars: 4.5
 ratings: 
 reviews: 27

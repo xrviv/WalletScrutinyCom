@@ -8,7 +8,7 @@ appId: com.bcnex
 appCountry: 
 released: 2020-02-02
 updated: 2020-02-03
-version: 1.0.0
+version: '1.0.0'
 stars: 1.6
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.paymintlabs.paymint
 appCountry: 
 released: 2020-06-29
 updated: 2020-10-05
-version: 1.2.2
+version: '1.2.2'
 stars: 
 ratings: 
 reviews: 

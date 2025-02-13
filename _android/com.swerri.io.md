@@ -9,7 +9,7 @@ appId: com.swerri.io
 appCountry: 
 released: 
 updated: 2025-01-20
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

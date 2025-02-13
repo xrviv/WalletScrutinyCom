@@ -9,7 +9,7 @@ appId: com.nominex.app
 appCountry: ru
 released: 2021-06-01
 updated: 2021-12-13
-version: 1.4.0
+version: '1.4.0'
 stars: 3.5
 ratings: 173
 reviews: 38

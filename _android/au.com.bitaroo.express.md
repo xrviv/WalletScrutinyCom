@@ -9,7 +9,7 @@ appId: au.com.bitaroo.express
 appCountry: 
 released: 
 updated: 2025-01-22
-version: 2.1.4
+version: '2.1.4'
 stars: 
 ratings: 
 reviews: 

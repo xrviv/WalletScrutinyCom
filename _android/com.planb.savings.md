@@ -8,7 +8,7 @@ appId: com.planb.savings
 appCountry: 
 released: 2020-07-08
 updated: 2020-07-13
-version: 0.0.2
+version: '0.0.2'
 stars: 
 ratings: 
 reviews: 

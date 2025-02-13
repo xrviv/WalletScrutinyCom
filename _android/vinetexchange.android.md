@@ -9,7 +9,7 @@ appId: vinetexchange.android
 appCountry: 
 released: 2022-08-26
 updated: 2024-06-19
-version: 1.0.6
+version: '1.0.6'
 stars: 
 ratings: 
 reviews: 

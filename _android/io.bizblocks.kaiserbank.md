@@ -9,7 +9,7 @@ appId: io.bizblocks.kaiserbank
 appCountry: 
 released: 2019-01-04
 updated: 2022-10-23
-version: 0.30.27
+version: '0.30.27'
 stars: 
 ratings: 
 reviews: 

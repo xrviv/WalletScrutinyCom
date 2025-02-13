@@ -6,7 +6,7 @@ authors:
 released: 2015-12-09
 discontinued: 
 updated: 2024-11-01
-version: 24.41.6
+version: '24.41.6'
 binaries: 
 provider: Exodus Movement, Inc.
 providerWebsite: 

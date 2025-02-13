@@ -8,7 +8,7 @@ appId: com.tmc.wallet
 appCountry: 
 released: 2022-11-04
 updated: 2023-05-04
-version: 1.2.1
+version: '1.2.1'
 stars: 
 ratings: 
 reviews: 

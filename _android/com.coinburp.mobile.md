@@ -9,7 +9,7 @@ appId: com.coinburp.mobile
 appCountry: 
 released: 2020-06-17
 updated: 2022-01-05
-version: 1.0.15
+version: '1.0.15'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: pixel.websolutions.union_btc
 appCountry: 
 released: 2021-09-29
 updated: 2022-09-07
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

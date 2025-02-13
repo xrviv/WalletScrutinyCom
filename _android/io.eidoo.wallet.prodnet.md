@@ -9,7 +9,7 @@ appId: io.eidoo.wallet.prodnet
 appCountry: 
 released: 2017-09-25
 updated: 2021-11-08
-version: 3.6.3
+version: '3.6.3'
 stars: 3.9
 ratings: 1649
 reviews: 97

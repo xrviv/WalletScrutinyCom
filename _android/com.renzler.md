@@ -8,7 +8,7 @@ appId: com.renzler
 appCountry: 
 released: 
 updated: 2022-08-22
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

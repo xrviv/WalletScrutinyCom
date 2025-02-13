@@ -9,7 +9,7 @@ appId: org.yancaitech.hodler
 appCountry: 
 released: 2020-06-01
 updated: 2020-06-08
-version: V0.2.0
+version: 'V0.2.0'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: org.bitanex.bitanex
 appCountry: 
 released: 2017-03-17
 updated: 2019-04-27
-version: 1.2.49
+version: '1.2.49'
 stars: 4.1
 ratings: 
 reviews: 6

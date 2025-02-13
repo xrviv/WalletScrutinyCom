@@ -8,7 +8,7 @@ appId: com.cryptorabbitlite.cryptorabbitlite
 appCountry: 
 released: 2019-06-26
 updated: 2020-06-26
-version: 1.0.6
+version: '1.0.6'
 stars: 
 ratings: 
 reviews: 

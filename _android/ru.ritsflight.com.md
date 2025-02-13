@@ -8,7 +8,7 @@ appId: ru.ritsflight.com
 appCountry: 
 released: 2022-01-09
 updated: 2022-01-10
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

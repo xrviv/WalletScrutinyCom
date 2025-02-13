@@ -9,7 +9,7 @@ appId: com.titan.coin
 appCountry: us
 released: 2019-11-02
 updated: 2021-12-22
-version: 2.51.0
+version: '2.51.0'
 stars: 3.6
 ratings: 180
 reviews: 6

@@ -8,7 +8,7 @@ appId: com.vance.wallet
 appCountry: 
 released: 2022-02-25
 updated: 2022-02-25
-version: 0.21.0
+version: '0.21.0'
 stars: 
 ratings: 
 reviews: 

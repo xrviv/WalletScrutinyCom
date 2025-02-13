@@ -8,7 +8,7 @@ appId: io.leveragedapp.leveraged
 appCountry: 
 released: 2019-10-12
 updated: 2019-11-05
-version: 1.0.6
+version: '1.0.6'
 stars: 4.3
 ratings: 
 reviews: 8

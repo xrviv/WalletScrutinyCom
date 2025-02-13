@@ -9,7 +9,7 @@ appId: com.uscreen.videotrading
 appCountry: 
 released: 2021-12-07
 updated: 2024-11-12
-version: 2.6.0
+version: '2.6.0'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.stiwallet
 appCountry: 
 released: 2021-03-09
 updated: 2021-04-13
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

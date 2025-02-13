@@ -9,7 +9,7 @@ appId: io.meta1.appbeta
 appCountry: 
 released: 2022-03-31
 updated: 2024-05-20
-version: 2.0.3
+version: '2.0.3'
 stars: 4.6
 ratings: 
 reviews: 2

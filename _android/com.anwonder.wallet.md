@@ -8,7 +8,7 @@ appId: com.anwonder.wallet
 appCountry: 
 released: 2021-05-30
 updated: 2021-05-31
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.app.fffex
 appCountry: 
 released: 2019-06-16
 updated: 2019-11-24
-version: 2.0.3
+version: '2.0.3'
 stars: 
 ratings: 
 reviews: 

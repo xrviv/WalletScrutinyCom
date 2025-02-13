@@ -8,7 +8,7 @@ appId: com.app.estonia
 appCountry: 
 released: 2022-11-18
 updated: 2022-12-04
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

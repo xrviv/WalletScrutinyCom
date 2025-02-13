@@ -9,7 +9,7 @@ appId: com.relai
 appCountry: 
 released: 
 updated: 2025-02-10
-version: 2.10.9
+version: '2.10.9'
 stars: 
 ratings: 
 reviews: 

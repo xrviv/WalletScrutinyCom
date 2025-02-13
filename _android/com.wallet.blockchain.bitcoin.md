@@ -8,7 +8,7 @@ appId: com.wallet.blockchain.bitcoin
 appCountry: 
 released: 2023-12-21
 updated: 2024-11-22
-version: 0.2.7
+version: '0.2.7'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.pilotmobiletrading
 appCountry: ca
 released: 2019-06-09
 updated: 2022-02-15
-version: 6.02.486
+version: '6.02.486'
 stars: 4.7
 ratings: 68
 reviews: 9

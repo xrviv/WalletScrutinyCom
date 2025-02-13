@@ -8,7 +8,7 @@ appId: com.openblock.wallet
 appCountry: 
 released: 2023-02-06
 updated: 2025-01-07
-version: 2.2.0
+version: '2.2.0'
 stars: 5
 ratings: 
 reviews: 

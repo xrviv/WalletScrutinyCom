@@ -9,7 +9,7 @@ appId: com.wallet.line
 appCountry: 
 released: 2022-03-31
 updated: 2023-01-12
-version: 12.0.0
+version: '12.0.0'
 stars: 
 ratings: 
 reviews: 

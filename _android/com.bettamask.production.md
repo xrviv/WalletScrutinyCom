@@ -8,7 +8,7 @@ appId: com.bettamask.production
 appCountry: 
 released: 2022-10-12
 updated: 2022-10-12
-version: 1.0.6
+version: '1.0.6'
 stars: 
 ratings: 
 reviews: 

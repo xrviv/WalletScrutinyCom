@@ -9,7 +9,7 @@ appId: com.techx.arya
 appCountry: us
 released: 2019-09-10
 updated: 2023-04-11
-version: 2.21.0
+version: '2.21.0'
 stars: 3.7
 ratings: 379
 reviews: 6

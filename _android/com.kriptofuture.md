@@ -9,7 +9,7 @@ appId: com.kriptofuture
 appCountry: 
 released: 2021-07-27
 updated: 2021-07-30
-version: Version 16
+version: 'Version 16'
 stars: 2.5
 ratings: 183
 reviews: 9

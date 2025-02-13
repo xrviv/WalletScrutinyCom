@@ -8,7 +8,7 @@ appId: plus.H589A351F
 appCountry: 
 released: 2023-03-29
 updated: 2023-04-18
-version: 2.0.1
+version: '2.0.1'
 stars: 
 ratings: 
 reviews: 

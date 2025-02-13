@@ -9,7 +9,7 @@ appId: com.ftxmobile.ftxtr
 appCountry: 
 released: 2022-02-21
 updated: 2022-11-01
-version: 2.0.9
+version: '2.0.9'
 stars: 
 ratings: 
 reviews: 

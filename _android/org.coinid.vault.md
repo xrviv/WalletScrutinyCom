@@ -9,7 +9,7 @@ appId: org.coinid.vault
 appCountry: 
 released: 2018-10-14
 updated: 2021-02-20
-version: 1.5.5
+version: '1.5.5'
 stars: 3.8
 ratings: 
 reviews: 3

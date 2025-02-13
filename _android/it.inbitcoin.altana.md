@@ -10,7 +10,7 @@ appId: it.inbitcoin.altana
 appCountry: 
 released: 2017-04-18
 updated: 2024-09-15
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

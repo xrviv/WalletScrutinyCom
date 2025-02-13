@@ -8,7 +8,7 @@ appId: com.isun.ag.bitnuk
 appCountry: 
 released: 2020-02-16
 updated: 2020-03-09
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

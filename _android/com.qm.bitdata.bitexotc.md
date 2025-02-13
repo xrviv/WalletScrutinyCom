@@ -9,7 +9,7 @@ appId: com.qm.bitdata.bitexotc
 appCountry: 
 released: 2021-08-18
 updated: 2024-08-22
-version: 1.8.6
+version: '1.8.6'
 stars: 4
 ratings: 
 reviews: 

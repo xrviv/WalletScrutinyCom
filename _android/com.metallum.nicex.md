@@ -9,7 +9,7 @@ appId: com.metallum.nicex
 appCountry: 
 released: 
 updated: 2024-08-27
-version: 2.3.5
+version: '2.3.5'
 stars: 4.6
 ratings: 
 reviews: 

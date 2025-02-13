@@ -9,7 +9,7 @@ appId: com.regelity.mobileex
 appCountry: 
 released: 2022-12-15
 updated: 2024-12-30
-version: 2.0.47
+version: '2.0.47'
 stars: 4
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.kointra.kointra
 appCountry: 
 released: 2019-01-25
 updated: 2024-09-23
-version: 3.3.1
+version: '3.3.1'
 stars: 3.4
 ratings: 
 reviews: 

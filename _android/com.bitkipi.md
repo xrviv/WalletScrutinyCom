@@ -9,7 +9,7 @@ appId: com.bitkipi
 appCountry: 
 released: 2021-12-23
 updated: 2022-09-30
-version: 1.5.0
+version: '1.5.0'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.turismobtc.app
 appCountry: 
 released: 2019-04-22
 updated: 2019-06-27
-version: 1.2.4
+version: '1.2.4'
 stars: 
 ratings: 
 reviews: 

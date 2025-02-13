@@ -9,7 +9,7 @@ appId: com.tradesanta
 appCountry: us
 released: 2019-05-20
 updated: 2024-09-16
-version: 3.2.2
+version: '3.2.2'
 stars: 3.6
 ratings: 707
 reviews: 55

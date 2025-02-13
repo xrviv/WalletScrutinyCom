@@ -8,7 +8,7 @@ appId: com.EkoWallet
 appCountry: 
 released: 2023-02-23
 updated: 2023-02-23
-version: 1.0.13
+version: '1.0.13'
 stars: 
 ratings: 
 reviews: 

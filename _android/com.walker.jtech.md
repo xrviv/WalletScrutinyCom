@@ -9,7 +9,7 @@ appId: com.walker.jtech
 appCountry: 
 released: 2021-09-26
 updated: 2024-11-19
-version: 2.2.6
+version: '2.2.6'
 stars: 3.2
 ratings: 
 reviews: 19

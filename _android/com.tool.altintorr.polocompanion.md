@@ -9,7 +9,7 @@ appId: com.tool.altintorr.polocompanion
 appCountry: 
 released: 2017-09-08
 updated: 2020-12-08
-version: 3.0.1
+version: '3.0.1'
 stars: 
 ratings: 
 reviews: 

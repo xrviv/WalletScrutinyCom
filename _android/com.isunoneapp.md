@@ -9,7 +9,7 @@ appId: com.isunoneapp
 appCountry: 
 released: 2022-03-10
 updated: 2024-09-04
-version: 4.0.55
+version: '4.0.55'
 stars: 
 ratings: 
 reviews: 

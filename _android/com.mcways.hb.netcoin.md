@@ -8,7 +8,7 @@ appId: com.mcways.hb.netcoin
 appCountry: 
 released: 2018-05-31
 updated: 2018-06-04
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

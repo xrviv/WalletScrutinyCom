@@ -10,7 +10,7 @@ appId: com.bitpie
 appCountry: 
 released: 2016-10-23
 updated: 2025-02-10
-version: 5.0.185.g
+version: '5.0.185.g'
 stars: 3.9
 ratings: 847
 reviews: 126

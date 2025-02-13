@@ -9,7 +9,7 @@ appId: com.tempow.legatow
 appCountry: 
 released: 2018-07-04
 updated: 2019-01-30
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

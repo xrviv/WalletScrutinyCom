@@ -8,7 +8,7 @@ appId: exchange.einstein.mobile.release
 appCountry: 
 released: 2019-02-01
 updated: 2019-10-17
-version: 1.2.2
+version: '1.2.2'
 stars: 2
 ratings: 955
 reviews: 23

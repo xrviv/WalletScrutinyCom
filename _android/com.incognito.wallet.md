@@ -9,7 +9,7 @@ appId: com.incognito.wallet
 appCountry: 
 released: 2019-08-12
 updated: 2023-09-07
-version: 5.14.0
+version: '5.14.0'
 stars: 3.9
 ratings: 344
 reviews: 64

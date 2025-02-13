@@ -9,7 +9,7 @@ appId: com.ruufpay.ruufpaymobileapp
 appCountry: 
 released: 2022-05-31
 updated: 2023-09-29
-version: 1.7.7
+version: '1.7.7'
 stars: 4.6
 ratings: 
 reviews: 11

@@ -9,7 +9,7 @@ appId: com.zeniq.wallet
 appCountry: 
 released: 
 updated: 2022-10-31
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

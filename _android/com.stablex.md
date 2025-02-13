@@ -9,7 +9,7 @@ appId: com.stablex
 appCountry: 
 released: 2021-10-27
 updated: 2025-01-28
-version: 2.7.2
+version: '2.7.2'
 stars: 3.1
 ratings: 
 reviews: 

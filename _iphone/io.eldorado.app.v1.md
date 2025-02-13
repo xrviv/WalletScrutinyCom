@@ -9,7 +9,7 @@ appCountry: ve
 idd: '1591303547'
 released: 2022-04-20
 updated: 2025-01-30
-version: 1.3.1335
+version: '1.3.1335'
 stars: 4.9
 reviews: 3966
 size: '90582016'

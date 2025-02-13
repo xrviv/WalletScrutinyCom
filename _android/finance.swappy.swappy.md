@@ -8,7 +8,7 @@ appId: finance.swappy.swappy
 appCountry: 
 released: 2022-03-11
 updated: 2022-05-05
-version: 0.0.3
+version: '0.0.3'
 stars: 
 ratings: 
 reviews: 

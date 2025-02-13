@@ -9,7 +9,7 @@ appId: com.beldex
 appCountry: 
 released: 
 updated: 2021-04-14
-version: Varies with device
+version: 'Varies with device'
 stars: 
 ratings: 
 reviews: 

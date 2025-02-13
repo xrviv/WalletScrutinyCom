@@ -8,7 +8,7 @@ appId: com.paed.paed
 appCountry: 
 released: 2022-02-18
 updated: 2022-02-25
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

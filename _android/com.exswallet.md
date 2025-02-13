@@ -9,7 +9,7 @@ appId: com.exswallet
 appCountry: 
 released: 2020-07-12
 updated: 2022-01-21
-version: 1.1.0
+version: '1.1.0'
 stars: 
 ratings: 
 reviews: 

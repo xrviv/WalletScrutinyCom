@@ -9,7 +9,7 @@ appId: com.konai.cryptokona
 appCountry: 
 released: 2019-10-25
 updated: 2019-10-25
-version: 0.2.8
+version: '0.2.8'
 stars: 
 ratings: 
 reviews: 

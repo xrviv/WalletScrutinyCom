@@ -9,7 +9,7 @@ appId: com.maxonrow.wallet
 appCountry: 
 released: 2019-08-31
 updated: 2023-05-08
-version: 2.1.31
+version: '2.1.31'
 stars: 
 ratings: 73
 reviews: 

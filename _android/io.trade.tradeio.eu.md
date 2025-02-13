@@ -9,7 +9,7 @@ appId: io.trade.tradeio.eu
 appCountry: 
 released: 2019-07-22
 updated: 2019-09-20
-version: 1.0.0
+version: '1.0.0'
 stars: 1.7
 ratings: 
 reviews: 6

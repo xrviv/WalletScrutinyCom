@@ -9,7 +9,7 @@ appId: com.ftxmobile.ftxus
 appCountry: us
 released: 2020-05-18
 updated: 2022-10-14
-version: 2.0.8
+version: '2.0.8'
 stars: 3.4
 ratings: 542
 reviews: 639

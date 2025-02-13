@@ -11,7 +11,7 @@ appId: net.bither
 appCountry: 
 released: 2014-02-27
 updated: 2024-10-12
-version: 2.1.6
+version: '2.1.6'
 stars: 4.1
 ratings: 335
 reviews: 31

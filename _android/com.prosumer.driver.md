@@ -8,7 +8,7 @@ appId: com.prosumer.driver
 appCountry: 
 released: 2020-12-29
 updated: 2021-01-14
-version: 1.0.15
+version: '1.0.15'
 stars: 
 ratings: 
 reviews: 

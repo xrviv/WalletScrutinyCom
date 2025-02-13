@@ -9,7 +9,7 @@ appId: app.excointrades.com
 appCountry: 
 released: 2022-03-28
 updated: 2023-02-13
-version: 1.1.3
+version: '1.1.3'
 stars: 
 ratings: 
 reviews: 

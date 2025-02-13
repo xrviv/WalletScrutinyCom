@@ -8,7 +8,7 @@ appId: com.pqi.wallet
 appCountry: 
 released: 2022-03-24
 updated: 2023-01-17
-version: v2.0.11
+version: 'v2.0.11'
 stars: 
 ratings: 
 reviews: 

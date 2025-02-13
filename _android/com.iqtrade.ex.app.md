@@ -9,7 +9,7 @@ appId: com.iqtrade.ex.app
 appCountry: 
 released: 2022-10-18
 updated: 2025-01-24
-version: 3.2.1
+version: '3.2.1'
 stars: 4.4
 ratings: 
 reviews: 19

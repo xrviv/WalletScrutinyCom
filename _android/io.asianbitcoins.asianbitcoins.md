@@ -9,7 +9,7 @@ appId: io.asianbitcoins.asianbitcoins
 appCountry: 
 released: 2020-08-11
 updated: 2020-08-11
-version: 1.0.0
+version: '1.0.0'
 stars: 5
 ratings: 3899
 reviews: 113

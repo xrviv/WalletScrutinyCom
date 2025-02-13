@@ -8,7 +8,7 @@ appId: com.p95g.trade
 appCountry: 
 released: 2019-09-10
 updated: 2020-03-10
-version: 1.5.0
+version: '1.5.0'
 stars: 
 ratings: 
 reviews: 

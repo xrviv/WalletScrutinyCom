@@ -9,7 +9,7 @@ appCountry: cl
 idd: '1660970455'
 released: 2023-03-21
 updated: 2024-05-14
-version: 2.1 (18)
+version: '2.1 (18)'
 stars: 0
 reviews: 0
 size: '102586368'

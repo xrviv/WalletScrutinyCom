@@ -8,7 +8,7 @@ appId: com.uecent.viv
 appCountry: 
 released: 2022-09-22
 updated: 2022-11-23
-version: 1.2.2
+version: '1.2.2'
 stars: 
 ratings: 
 reviews: 

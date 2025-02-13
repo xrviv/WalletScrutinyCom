@@ -9,7 +9,7 @@ appCountry: ch
 idd: '1592064324'
 released: 2021-11-28
 updated: 2025-01-28
-version: 3.0.11
+version: '3.0.11'
 stars: 4.8
 reviews: 37
 size: '152024064'

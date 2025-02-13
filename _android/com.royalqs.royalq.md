@@ -9,7 +9,7 @@ appId: com.royalqs.royalq
 appCountry: 
 released: 2021-03-19
 updated: 2025-01-21
-version: 5.8.6
+version: '5.8.6'
 stars: 4
 ratings: 
 reviews: 157

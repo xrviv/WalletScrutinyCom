@@ -9,7 +9,7 @@ appId: com.app.Safecrypto
 appCountry: 
 released: 2022-09-02
 updated: 2022-09-02
-version: 1.1.1
+version: '1.1.1'
 stars: 1.8
 ratings: 
 reviews: 11

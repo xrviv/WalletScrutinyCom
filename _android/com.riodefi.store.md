@@ -9,7 +9,7 @@ appId: com.riodefi.store
 appCountry: us
 released: 2021-04-29
 updated: 2022-08-11
-version: 2.9.8
+version: '2.9.8'
 stars: 4.3
 ratings: 
 reviews: 3

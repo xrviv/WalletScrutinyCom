@@ -8,7 +8,7 @@ appId: com.secuxtech.spaymerchanttool
 appCountry: 
 released: 2020-12-13
 updated: 2021-01-18
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

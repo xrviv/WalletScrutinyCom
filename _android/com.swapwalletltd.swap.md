@@ -8,7 +8,7 @@ appId: com.swapwalletltd.swap
 appCountry: 
 released: 
 updated: 2020-11-14
-version: Varies with device
+version: 'Varies with device'
 stars: 4.9
 ratings: 2282
 reviews: 2065

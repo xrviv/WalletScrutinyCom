@@ -8,7 +8,7 @@ appId: com.mundocripto.app
 appCountry: 
 released: 2022-05-11
 updated: 2022-07-13
-version: 1.0.19
+version: '1.0.19'
 stars: 
 ratings: 
 reviews: 

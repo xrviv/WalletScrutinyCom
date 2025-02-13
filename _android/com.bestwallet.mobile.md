@@ -9,7 +9,7 @@ appId: com.bestwallet.mobile
 appCountry: 
 released: 2023-07-24
 updated: 2025-02-03
-version: 2.4.5
+version: '2.4.5'
 stars: 4.7
 ratings: 
 reviews: 417

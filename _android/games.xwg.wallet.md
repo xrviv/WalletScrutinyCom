@@ -9,7 +9,7 @@ appId: games.xwg.wallet
 appCountry: 
 released: 2022-07-04
 updated: 2023-09-25
-version: 1.1.1
+version: '1.1.1'
 stars: 4
 ratings: 
 reviews: 

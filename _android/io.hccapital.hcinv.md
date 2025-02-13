@@ -8,7 +8,7 @@ appId: io.hccapital.hcinv
 appCountry: 
 released: 2021-05-28
 updated: 2021-06-03
-version: 1.1.2
+version: '1.1.2'
 stars: 
 ratings: 
 reviews: 

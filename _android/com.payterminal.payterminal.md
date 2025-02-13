@@ -8,7 +8,7 @@ appId: com.payterminal.payterminal
 appCountry: 
 released: 2022-09-06
 updated: 2022-09-06
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.definance.app
 appCountry: 
 released: 2021-10-20
 updated: 2021-10-25
-version: 1.1.1
+version: '1.1.1'
 stars: 
 ratings: 
 reviews: 

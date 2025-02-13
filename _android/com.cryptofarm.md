@@ -9,7 +9,7 @@ appId: com.cryptofarm
 appCountry: 
 released: 2021-06-10
 updated: 2025-02-10
-version: 1.0.1404
+version: '1.0.1404'
 stars: 4
 ratings: 6172
 reviews: 683

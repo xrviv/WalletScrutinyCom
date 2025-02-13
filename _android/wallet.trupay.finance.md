@@ -8,7 +8,7 @@ appId: wallet.trupay.finance
 appCountry: 
 released: 
 updated: 2021-07-04
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

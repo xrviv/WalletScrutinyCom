@@ -8,7 +8,7 @@ appId: com.dgc.wallet
 appCountry: 
 released: 2021-07-25
 updated: 2021-07-25
-version: 0.21.3
+version: '0.21.3'
 stars: 
 ratings: 
 reviews: 

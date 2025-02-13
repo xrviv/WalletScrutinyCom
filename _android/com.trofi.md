@@ -9,7 +9,7 @@ appId: com.trofi
 appCountry: 
 released: 2022-04-12
 updated: 2023-03-16
-version: 3.2.7
+version: '3.2.7'
 stars: 4.9
 ratings: 
 reviews: 27

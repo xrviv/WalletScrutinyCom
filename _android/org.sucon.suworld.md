@@ -8,7 +8,7 @@ appId: org.sucon.suworld
 appCountry: 
 released: 2019-04-21
 updated: 2019-09-16
-version: 1.0.0.6
+version: '1.0.0.6'
 stars: 
 ratings: 
 reviews: 

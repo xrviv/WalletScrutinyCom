@@ -9,7 +9,7 @@ appId: com.coinwebapp
 appCountry: 
 released: 2023-04-28
 updated: 2024-11-29
-version: 1.1.1
+version: '1.1.1'
 stars: 4.2
 ratings: 
 reviews: 3

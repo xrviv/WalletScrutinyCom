@@ -9,7 +9,7 @@ appId: com.futurance.futurex
 appCountry: 
 released: 2022-07-07
 updated: 2024-12-27
-version: 2.3.3
+version: '2.3.3'
 stars: 
 ratings: 
 reviews: 

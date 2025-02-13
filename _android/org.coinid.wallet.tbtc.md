@@ -9,7 +9,7 @@ appId: org.coinid.wallet.tbtc
 appCountry: 
 released: 2019-02-06
 updated: 2021-02-20
-version: 1.8.0
+version: '1.8.0'
 stars: 
 ratings: 
 reviews: 

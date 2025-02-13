@@ -8,7 +8,7 @@ appId: com.cashuwallet.android
 appCountry: 
 released: 
 updated: 2024-09-27
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.cakecodes.bitmaker
 appCountry: us
 released: 2014-09-07
 updated: 2024-01-09
-version: 8.18.9
+version: '8.18.9'
 stars: 4.2
 ratings: 84499
 reviews: 3298

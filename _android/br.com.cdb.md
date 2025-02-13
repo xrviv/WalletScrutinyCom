@@ -8,7 +8,7 @@ appId: br.com.cdb
 appCountry: 
 released: 2020-08-07
 updated: 2020-11-01
-version: 1.0.13
+version: '1.0.13'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.monetum.quicktrade
 appCountry: 
 released: 
 updated: 2023-03-24
-version: 1.7.0
+version: '1.7.0'
 stars: 
 ratings: 
 reviews: 

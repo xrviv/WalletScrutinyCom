@@ -8,7 +8,7 @@ appId: com.easywallet.android
 appCountry: 
 released: 2021-11-08
 updated: 2021-11-08
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

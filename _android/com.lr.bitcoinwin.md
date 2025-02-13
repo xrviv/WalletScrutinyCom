@@ -8,7 +8,7 @@ appId: com.lr.bitcoinwin
 appCountry: 
 released: 2020-06-27
 updated: 2023-05-18
-version: 2.10.23
+version: '2.10.23'
 stars: 
 ratings: 
 reviews: 

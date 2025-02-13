@@ -8,7 +8,7 @@ authors:
 released: 2015-01-01
 discontinued: 
 updated: 2022-04-20
-version: 67_signed
+version: '67_signed'
 binaries: https://github.com/BitLox/bitlox-firmware/releases/tag/v67_app
 dimensions:
 - 54

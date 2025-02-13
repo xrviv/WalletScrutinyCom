@@ -8,7 +8,7 @@ appId: io.quras.plus
 appCountry: 
 released: 2021-01-19
 updated: 2022-01-21
-version: 3.0.3
+version: '3.0.3'
 stars: 
 ratings: 
 reviews: 

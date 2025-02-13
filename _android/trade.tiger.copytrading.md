@@ -8,7 +8,7 @@ appId: trade.tiger.copytrading
 appCountry: 
 released: 
 updated: 2022-08-09
-version: 1.5.2
+version: '1.5.2'
 stars: 
 ratings: 
 reviews: 

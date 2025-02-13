@@ -9,7 +9,7 @@ appId: com.cakedefi.app
 appCountry: us
 released: 2021-06-16
 updated: 2025-01-03
-version: 7.2.0
+version: '7.2.0'
 stars: 2.8
 ratings: 1135
 reviews: 197

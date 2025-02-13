@@ -9,7 +9,7 @@ appId: com.plena
 appCountry: 
 released: 2022-07-06
 updated: 2025-02-01
-version: 4.3.3
+version: '4.3.3'
 stars: 4.7
 ratings: 
 reviews: 674

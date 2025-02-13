@@ -8,7 +8,7 @@ appId: com.cryptoapp.app
 appCountry: 
 released: 2018-07-26
 updated: 2018-07-30
-version: 1.1.b
+version: '1.1.b'
 stars: 4
 ratings: 
 reviews: 

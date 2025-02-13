@@ -9,7 +9,7 @@ appId: com.b4uwallet.android
 appCountry: 
 released: 2018-10-19
 updated: 2021-04-22
-version: 4.3.4
+version: '4.3.4'
 stars: 
 ratings: 
 reviews: 

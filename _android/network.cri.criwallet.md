@@ -9,7 +9,7 @@ appId: network.cri.criwallet
 appCountry: 
 released: 2022-02-14
 updated: 2022-07-31
-version: 2.0.0
+version: '2.0.0'
 stars: 4.5
 ratings: 
 reviews: 14

@@ -8,7 +8,7 @@ appId: io.kodular.yogeshmaurya72.PletoBNB
 appCountry: 
 released: 2022-04-11
 updated: 2022-04-11
-version: 3.0.3.1
+version: '3.0.3.1'
 stars: 4.1
 ratings: 
 reviews: 

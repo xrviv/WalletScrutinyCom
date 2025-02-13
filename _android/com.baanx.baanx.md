@@ -9,7 +9,7 @@ appId: com.baanx.baanx
 appCountry: us
 released: 2019-10-10
 updated: 2023-02-02
-version: 3.1.1
+version: '3.1.1'
 stars: 
 ratings: 
 reviews: 

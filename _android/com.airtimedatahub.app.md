@@ -9,7 +9,7 @@ appId: com.airtimedatahub.app
 appCountry: 
 released: 2019-02-19
 updated: 2023-06-23
-version: 3.5.1
+version: '3.5.1'
 stars: 4.3
 ratings: 
 reviews: 12

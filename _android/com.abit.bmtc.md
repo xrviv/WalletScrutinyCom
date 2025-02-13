@@ -9,7 +9,7 @@ appId: com.abit.bmtc
 appCountry: ae
 released: 2020-03-03
 updated: 2021-04-25
-version: 2.3.2
+version: '2.3.2'
 stars: 
 ratings: 75
 reviews: 

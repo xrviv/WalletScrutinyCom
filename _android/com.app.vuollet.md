@@ -9,7 +9,7 @@ appId: com.app.vuollet
 appCountry: 
 released: 2021-10-27
 updated: 2022-04-29
-version: 2.0.5
+version: '2.0.5'
 stars: 
 ratings: 
 reviews: 

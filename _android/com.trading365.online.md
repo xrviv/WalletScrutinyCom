@@ -8,7 +8,7 @@ appId: com.trading365.online
 appCountry: 
 released: 2019-08-29
 updated: 2019-08-29
-version: 1.5.2
+version: '1.5.2'
 stars: 
 ratings: 
 reviews: 

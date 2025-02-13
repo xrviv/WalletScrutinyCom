@@ -8,7 +8,7 @@ appId: com.bonsystem.chain.eliac
 appCountry: 
 released: 2022-03-25
 updated: 2022-04-05
-version: 1.0.3
+version: '1.0.3'
 stars: 4.3
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: app.exchange.savita
 appCountry: 
 released: 2023-01-05
 updated: 2024-06-21
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

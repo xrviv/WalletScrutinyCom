@@ -8,7 +8,7 @@ appId: com.anmav.okotcandroid
 appCountry: 
 released: 2019-11-08
 updated: 2019-12-09
-version: 1.2.0
+version: '1.2.0'
 stars: 
 ratings: 
 reviews: 

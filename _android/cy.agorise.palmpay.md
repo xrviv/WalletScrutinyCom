@@ -9,7 +9,7 @@ appId: cy.agorise.palmpay
 appCountry: 
 released: 
 updated: 2022-01-20
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

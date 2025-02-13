@@ -9,7 +9,7 @@ appId: com.bitmex.mobile.android
 appCountry: il
 released: 2020-07-20
 updated: 2022-01-05
-version: 1.1.13
+version: '1.1.13'
 stars: 2.3
 ratings: 222
 reviews: 1

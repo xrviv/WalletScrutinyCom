@@ -9,7 +9,7 @@ appId: com.techbank
 appCountry: 
 released: 2022-03-16
 updated: 2024-07-10
-version: 1.8.0
+version: '1.8.0'
 stars: 3.6
 ratings: 
 reviews: 3

@@ -9,7 +9,7 @@ appId: com.blockfi.mobile
 appCountry: 
 released: 2020-04-30
 updated: 2023-10-04
-version: 6.2.0
+version: '6.2.0'
 stars: 2.1
 ratings: 4802
 reviews: 1544

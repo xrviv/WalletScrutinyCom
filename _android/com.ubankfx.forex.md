@@ -9,7 +9,7 @@ appId: com.ubankfx.forex
 appCountry: th
 released: 2017-05-17
 updated: 2022-03-31
-version: v8.5-5457-b9fe16886
+version: 'v8.5-5457-b9fe16886'
 stars: 
 ratings: 
 reviews: 

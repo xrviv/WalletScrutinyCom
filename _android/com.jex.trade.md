@@ -9,7 +9,7 @@ appId: com.jex.trade
 appCountry: 
 released: 2019-04-25
 updated: 2021-10-25
-version: 2.8.4
+version: '2.8.4'
 stars: 3.6
 ratings: 1476
 reviews: 713

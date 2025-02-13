@@ -8,7 +8,7 @@ appId: com.tezelt
 appCountry: 
 released: 
 updated: 2020-05-18
-version: 1.5.2
+version: '1.5.2'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.dexfin.mpcwallet
 appCountry: 
 released: 2023-02-01
 updated: 2023-02-01
-version: 0.2.7
+version: '0.2.7'
 stars: 
 ratings: 
 reviews: 

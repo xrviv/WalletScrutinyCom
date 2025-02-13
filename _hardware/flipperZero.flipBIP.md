@@ -6,7 +6,7 @@ authors:
 released: 2023-03-04
 discontinued: 
 updated: 2023-10-22
-version: 1.14.0
+version: '1.14.0'
 binaries: https://github.com/xtruan/FlipBIP/releases/tag/v1.14.0
 dimensions:
 - 85

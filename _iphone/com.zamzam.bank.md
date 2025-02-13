@@ -9,7 +9,7 @@ appCountry: ru
 idd: 1521900439
 released: 2020-07-04
 updated: 2023-05-06
-version: 1.10.4
+version: '1.10.4'
 stars: 3.5
 reviews: 84
 size: '54175744'

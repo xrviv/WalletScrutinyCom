@@ -8,7 +8,7 @@ appId: com.rainball.app
 appCountry: 
 released: 2021-06-15
 updated: 2021-06-16
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

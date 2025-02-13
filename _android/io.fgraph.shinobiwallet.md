@@ -9,7 +9,7 @@ appId: io.fgraph.shinobiwallet
 appCountry: 
 released: 2021-06-02
 updated: 2024-03-02
-version: 1.8.9
+version: '1.8.9'
 stars: 
 ratings: 
 reviews: 

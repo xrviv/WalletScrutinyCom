@@ -9,7 +9,7 @@ appId: com.doubleace.wallet
 appCountry: 
 released: 
 updated: 2023-06-05
-version: 1.3.12
+version: '1.3.12'
 stars: 
 ratings: 
 reviews: 

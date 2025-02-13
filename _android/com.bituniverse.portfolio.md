@@ -9,7 +9,7 @@ appId: com.bituniverse.portfolio
 appCountry: 
 released: 2017-09-30
 updated: 2022-12-27
-version: 3.8.1
+version: '3.8.1'
 stars: 3.9
 ratings: 
 reviews: 500

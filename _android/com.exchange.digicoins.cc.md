@@ -8,7 +8,7 @@ appId: com.exchange.digicoins.cc
 appCountry: 
 released: 2021-12-06
 updated: 2023-03-27
-version: 3.5.43
+version: '3.5.43'
 stars: 
 ratings: 
 reviews: 

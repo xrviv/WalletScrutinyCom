@@ -8,7 +8,7 @@ appId: com.mikodes.cryptowallerlite
 appCountry: 
 released: 2021-12-08
 updated: 2021-12-08
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.kikitrade
 appCountry: us
 released: 2020-07-24
 updated: 2024-05-29
-version: 6.0.20
+version: '6.0.20'
 stars: 3.1
 ratings: 
 reviews: 

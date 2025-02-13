@@ -9,7 +9,7 @@ appId: com.exmoneyapps.ex_money
 appCountry: 
 released: 2020-10-02
 updated: 2024-08-09
-version: 4.1.1
+version: '4.1.1'
 stars: 4.4
 ratings: 
 reviews: 

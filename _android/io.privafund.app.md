@@ -8,7 +8,7 @@ appId: io.privafund.app
 appCountry: 
 released: 2021-04-30
 updated: 2021-06-15
-version: 1.0.6
+version: '1.0.6'
 stars: 3.1
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.wallet.backpacker
 appCountry: 
 released: 2020-01-11
 updated: 2021-02-17
-version: 2.3.1
+version: '2.3.1'
 stars: 3.9
 ratings: 
 reviews: 

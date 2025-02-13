@@ -8,7 +8,7 @@ appId: net.wininnovation.second_flyer
 appCountry: 
 released: 2019-08-17
 updated: 2019-09-30
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.label305.forecastcapital
 appCountry: 
 released: 2020-12-24
 updated: 2022-03-29
-version: 1.2.2
+version: '1.2.2'
 stars: 2
 ratings: 
 reviews: 

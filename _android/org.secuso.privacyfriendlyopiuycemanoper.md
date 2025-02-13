@@ -9,7 +9,7 @@ appId: org.secuso.privacyfriendlyopiuycemanoper
 appCountry: 
 released: 
 updated: 2021-02-22
-version: 2.0.3
+version: '2.0.3'
 stars: 
 ratings: 
 reviews: 

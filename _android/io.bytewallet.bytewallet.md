@@ -9,7 +9,7 @@ appId: io.bytewallet.bytewallet
 appCountry: 
 released: 2021-07-20
 updated: 2024-12-27
-version: VARY
+version: 'VARY'
 stars: 3.2
 ratings: 
 reviews: 47

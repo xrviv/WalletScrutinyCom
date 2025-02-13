@@ -8,7 +8,7 @@ appId: app.odapplications.bitstashwallet
 appCountry: 
 released: 2019-11-10
 updated: 2019-11-24
-version: 0.0.3
+version: '0.0.3'
 stars: 
 ratings: 
 reviews: 

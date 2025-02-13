@@ -9,7 +9,7 @@ appId: com.coinzo.app
 appCountry: 
 released: 2021-02-24
 updated: 2021-05-11
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

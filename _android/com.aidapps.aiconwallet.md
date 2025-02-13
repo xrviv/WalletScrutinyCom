@@ -9,7 +9,7 @@ appId: com.aidapps.aiconwallet
 appCountry: 
 released: 2020-10-05
 updated: 2021-03-04
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

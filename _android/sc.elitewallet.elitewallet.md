@@ -9,7 +9,7 @@ appId: sc.elitewallet.elitewallet
 appCountry: 
 released: 2022-11-22
 updated: 2024-03-25
-version: 1.3.1
+version: '1.3.1'
 stars: 4.3
 ratings: 
 reviews: 3

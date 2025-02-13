@@ -8,7 +8,7 @@ appId: com.australia.tokenRobot
 appCountry: 
 released: 2022-03-31
 updated: 2022-03-31
-version: 0.0.1
+version: '0.0.1'
 stars: 
 ratings: 
 reviews: 

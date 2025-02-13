@@ -8,7 +8,7 @@ appId: com.tudirich
 appCountry: 
 released: 
 updated: 2022-09-25
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

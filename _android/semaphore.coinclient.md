@@ -9,7 +9,7 @@ appId: semaphore.coinclient
 appCountry: 
 released: 2018-05-14
 updated: 2022-11-03
-version: 1.52.52
+version: '1.52.52'
 stars: 
 ratings: 55
 reviews: 

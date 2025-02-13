@@ -8,7 +8,7 @@ appId: com.gbs.gho.wallet
 appCountry: 
 released: 2020-05-06
 updated: 2020-12-30
-version: 1.0.6
+version: '1.0.6'
 stars: 4.3
 ratings: 
 reviews: 

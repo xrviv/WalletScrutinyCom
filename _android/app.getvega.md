@@ -9,7 +9,7 @@ appId: app.getvega
 appCountry: 
 released: 
 updated: 2019-05-22
-version: Varies with device
+version: 'Varies with device'
 stars: 
 ratings: 
 reviews: 

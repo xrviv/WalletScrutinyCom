@@ -9,7 +9,7 @@ appId: com.cube.beepay
 appCountry: 
 released: 2021-07-14
 updated: 2023-07-11
-version: 2.2.1
+version: '2.2.1'
 stars: 4.7
 ratings: 
 reviews: 3

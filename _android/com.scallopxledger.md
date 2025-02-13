@@ -9,7 +9,7 @@ appId: com.scallopxledger
 appCountry: 
 released: 2021-11-28
 updated: 2025-02-12
-version: 1.6.3
+version: '1.6.3'
 stars: 3.1
 ratings: 
 reviews: 9

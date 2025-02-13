@@ -9,7 +9,7 @@ appId: com.qredoapp
 appCountry: 
 released: 2020-09-24
 updated: 2024-07-25
-version: 1.3.10
+version: '1.3.10'
 stars: 
 ratings: 
 reviews: 

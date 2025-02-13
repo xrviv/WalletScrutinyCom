@@ -6,7 +6,7 @@ authors:
 released: 
 discontinued: 
 updated: 2015-11-26
-version: 0.9.6
+version: '0.9.6'
 binaries: 
 dimensions: 
 weight: 

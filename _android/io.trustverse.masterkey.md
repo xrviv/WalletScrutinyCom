@@ -9,7 +9,7 @@ appId: io.trustverse.masterkey
 appCountry: 
 released: 2021-02-03
 updated: 2022-11-23
-version: 0.2.0G
+version: '0.2.0G'
 stars: 
 ratings: 
 reviews: 

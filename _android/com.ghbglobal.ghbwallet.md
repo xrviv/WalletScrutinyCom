@@ -9,7 +9,7 @@ appId: com.ghbglobal.ghbwallet
 appCountry: 
 released: 2019-12-06
 updated: 2023-01-15
-version: 1.7.7
+version: '1.7.7'
 stars: 4.5
 ratings: 
 reviews: 

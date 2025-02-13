@@ -8,7 +8,7 @@ appId: com.deuswallet.wallet
 appCountry: 
 released: 
 updated: 2020-06-09
-version: 2.0.3
+version: '2.0.3'
 stars: 
 ratings: 
 reviews: 

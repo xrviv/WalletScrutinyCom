@@ -9,7 +9,7 @@ appId: com.vouchermoneywallet
 appCountry: in
 released: 2020-12-15
 updated: 2021-03-03
-version: 1.38.1
+version: '1.38.1'
 stars: 
 ratings: 
 reviews: 

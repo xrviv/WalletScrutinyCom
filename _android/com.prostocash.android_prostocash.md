@@ -9,7 +9,7 @@ appId: com.prostocash.android_prostocash
 appCountry: 
 released: 2021-06-27
 updated: 2024-08-05
-version: 4.1.1
+version: '4.1.1'
 stars: 
 ratings: 
 reviews: 

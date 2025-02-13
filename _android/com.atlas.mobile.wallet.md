@@ -9,7 +9,7 @@ appId: com.atlas.mobile.wallet
 appCountry: us
 released: 2020-08-07
 updated: 2022-02-09
-version: 1.0.45
+version: '1.0.45'
 stars: 
 ratings: 
 reviews: 

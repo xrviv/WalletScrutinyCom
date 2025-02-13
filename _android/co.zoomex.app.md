@@ -9,7 +9,7 @@ appId: co.zoomex.app
 appCountry: 
 released: 2021-12-14
 updated: 2025-02-06
-version: 3.9.10
+version: '3.9.10'
 stars: 3.2
 ratings: 
 reviews: 18

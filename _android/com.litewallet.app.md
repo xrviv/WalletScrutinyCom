@@ -9,7 +9,7 @@ appId: com.litewallet.app
 appCountry: 
 released: 2022-03-29
 updated: 2022-06-28
-version: 1.1.1
+version: '1.1.1'
 stars: 
 ratings: 
 reviews: 

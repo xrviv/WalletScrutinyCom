@@ -6,7 +6,7 @@ authors:
 released: 2016-03-05
 discontinued: 
 updated: 2019-02-25
-version: 1.8.0
+version: '1.8.0'
 binaries: 
 dimensions: 
 weight: 

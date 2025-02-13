@@ -10,7 +10,7 @@ appId: com.bitcoin.mwallet
 appCountry: 
 released: 2017-06-19
 updated: 2025-02-11
-version: 8.61.1
+version: '8.61.1'
 stars: 4.6
 ratings: 39345
 reviews: 3177
@@ -27,7 +27,7 @@ date: 2024-07-15
 signer: 
 reviewArchive:
 - date: 2019-12-20
-  version: 5.13.3
+  version: '5.13.3'
   appHashes: []
   gitRevision: fc6cffcbb02fa7d441528eec517e5d61050cf26c
   verdict: nonverifiable

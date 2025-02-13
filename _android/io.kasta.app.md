@@ -9,7 +9,7 @@ appId: io.kasta.app
 appCountry: 
 released: 
 updated: 2023-12-08
-version: 1.27.115-prod-105a6f8
+version: '1.27.115-prod-105a6f8'
 stars: 
 ratings: 
 reviews: 

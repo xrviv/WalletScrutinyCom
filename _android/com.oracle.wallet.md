@@ -9,7 +9,7 @@ appId: com.oracle.wallet
 appCountry: us
 released: 2021-01-19
 updated: 2021-12-28
-version: 1.4.9
+version: '1.4.9'
 stars: 4.6
 ratings: 38
 reviews: 24

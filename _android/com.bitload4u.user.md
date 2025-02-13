@@ -8,7 +8,7 @@ appId: com.bitload4u.user
 appCountry: 
 released: 2017-10-29
 updated: 2019-08-27
-version: 2.1.5
+version: '2.1.5'
 stars: 
 ratings: 
 reviews: 

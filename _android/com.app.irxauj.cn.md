@@ -8,7 +8,7 @@ appId: com.app.irxauj.cn
 appCountry: 
 released: 
 updated: 2022-08-01
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

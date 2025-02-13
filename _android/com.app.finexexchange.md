@@ -8,7 +8,7 @@ appId: com.app.finexexchange
 appCountry: 
 released: 2022-07-18
 updated: 2022-11-30
-version: 11.5.0
+version: '11.5.0'
 stars: 4
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.blockchain.btc.coinhub
 appCountry: 
 released: 2021-05-13
 updated: 2025-02-03
-version: 1.2.0.9.7
+version: '1.2.0.9.7'
 stars: 4.4
 ratings: 1577
 reviews: 94
@@ -25,7 +25,7 @@ date: 2021-07-26
 signer: 
 reviewArchive:
 - date: 2021-06-04
-  version: 1.0.1.4.5
+  version: '1.0.1.4.5'
   appHashes: []
   gitRevision: b994137e4f91927a8680b389b81bb5945d1ddf71
   verdict: obfuscated

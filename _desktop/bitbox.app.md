@@ -6,7 +6,7 @@ authors:
 released: 2017-11-29
 discontinued: 
 updated: 2024-04-22
-version: 4.42.0
+version: '4.42.0'
 binaries: 
 provider: Shift Crypto AG
 providerWebsite: https://shiftcrypto.ch

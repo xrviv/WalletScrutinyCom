@@ -9,7 +9,7 @@ appId: com.coldstoragecoins
 appCountry: 
 released: 2018-08-14
 updated: 2025-01-30
-version: 4.0.0
+version: '4.0.0'
 stars: 2.7
 ratings: 
 reviews: 41

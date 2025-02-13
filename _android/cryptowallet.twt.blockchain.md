@@ -8,7 +8,7 @@ appId: cryptowallet.twt.blockchain
 appCountry: 
 released: 2023-02-22
 updated: 2023-02-22
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

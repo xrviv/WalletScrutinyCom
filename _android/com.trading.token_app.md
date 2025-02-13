@@ -8,7 +8,7 @@ appId: com.trading.token_app
 appCountry: 
 released: 2022-04-11
 updated: 2022-04-14
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

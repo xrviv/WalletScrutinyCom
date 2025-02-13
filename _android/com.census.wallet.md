@@ -8,7 +8,7 @@ appId: com.census.wallet
 appCountry: 
 released: 2020-02-04
 updated: 2020-07-10
-version: 1.2.10
+version: '1.2.10'
 stars: 
 ratings: 
 reviews: 

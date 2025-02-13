@@ -8,7 +8,7 @@ appId: com.oasisexc.app
 appCountry: 
 released: 2019-08-19
 updated: 2021-04-30
-version: 2.2.3
+version: '2.2.3'
 stars: 
 ratings: 
 reviews: 

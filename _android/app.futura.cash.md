@@ -9,7 +9,7 @@ appId: app.futura.cash
 appCountry: 
 released: 2021-06-28
 updated: 2025-01-30
-version: 1.0.0
+version: '1.0.0'
 stars: 4.1
 ratings: 
 reviews: 12

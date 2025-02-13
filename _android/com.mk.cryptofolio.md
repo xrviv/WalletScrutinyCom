@@ -9,7 +9,7 @@ appId: com.mk.cryptofolio
 appCountry: 
 released: 2018-05-02
 updated: 2020-08-19
-version: 1.0.51
+version: '1.0.51'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.zb.zhongbi
 appCountry: 
 released: 2020-08-24
 updated: 2021-03-05
-version: 1.1.4
+version: '1.1.4'
 stars: 4.7
 ratings: 104
 reviews: 100

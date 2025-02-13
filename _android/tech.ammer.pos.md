@@ -8,7 +8,7 @@ appId: tech.ammer.pos
 appCountry: 
 released: 2022-03-23
 updated: 2022-07-14
-version: 3.0.0
+version: '3.0.0'
 stars: 
 ratings: 
 reviews: 

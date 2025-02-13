@@ -8,7 +8,7 @@ appId: com.shapeshift.keepkey
 appCountry: 
 released: 2020-12-09
 updated: 2020-12-10
-version: 1.1.0
+version: '1.1.0'
 stars: 4.6
 ratings: 
 reviews: 1

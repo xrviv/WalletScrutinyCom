@@ -8,7 +8,7 @@ appId: com.coinxplus
 appCountry: 
 released: 2021-04-25
 updated: 2021-08-13
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

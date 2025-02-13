@@ -9,7 +9,7 @@ appId: com.bfast.bfree
 appCountry: 
 released: 2019-04-18
 updated: 2024-05-22
-version: 2.7.6
+version: '2.7.6'
 stars: 4.3
 ratings: 
 reviews: 1173

@@ -9,7 +9,7 @@ appId: com.kriptrade.mobile
 appCountry: 
 released: 2021-10-20
 updated: 2025-01-21
-version: 3.0.7
+version: '3.0.7'
 stars: 4.1
 ratings: 
 reviews: 

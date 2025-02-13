@@ -8,7 +8,7 @@ appId: com.MOTradingplatform
 appCountry: 
 released: 2020-07-31
 updated: 2020-08-07
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

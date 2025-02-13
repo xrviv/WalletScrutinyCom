@@ -8,7 +8,7 @@ appId: com.aerotoken
 appCountry: 
 released: 
 updated: 2020-05-26
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

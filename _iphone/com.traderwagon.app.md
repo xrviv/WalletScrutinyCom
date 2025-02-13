@@ -9,7 +9,7 @@ appCountry: sg
 idd: '1605104202'
 released: 2022-02-21
 updated: 2023-07-25
-version: 1.9.0
+version: '1.9.0'
 stars: 5
 reviews: 11
 size: '116460544'

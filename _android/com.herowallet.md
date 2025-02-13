@@ -8,7 +8,7 @@ appId: com.herowallet
 appCountry: 
 released: 2022-11-23
 updated: 2023-02-24
-version: 1.1.1
+version: '1.1.1'
 stars: 
 ratings: 
 reviews: 

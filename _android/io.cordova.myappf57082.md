@@ -9,7 +9,7 @@ appId: io.cordova.myappf57082
 appCountry: 
 released: 2017-08-19
 updated: 2022-04-11
-version: 11.5.0
+version: '11.5.0'
 stars: 4.4
 ratings: 152
 reviews: 25

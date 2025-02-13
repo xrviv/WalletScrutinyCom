@@ -8,7 +8,7 @@ appId: com.peiko.mobile.bitcoinaddition
 appCountry: 
 released: 2021-05-21
 updated: 2021-11-16
-version: 1.2.0
+version: '1.2.0'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.bitrefill.app
 appCountry: 
 released: 2018-04-10
 updated: 2025-02-03
-version: 2.8.0
+version: '2.8.0'
 stars: 4.1
 ratings: 1039
 reviews: 191

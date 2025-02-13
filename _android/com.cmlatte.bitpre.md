@@ -8,7 +8,7 @@ appId: com.cmlatte.bitpre
 appCountry: 
 released: 2017-06-12
 updated: 2018-08-10
-version: 1.1.1
+version: '1.1.1'
 stars: 4.9
 ratings: 17
 reviews: 9

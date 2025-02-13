@@ -9,7 +9,7 @@ appId: com.bit4you.app
 appCountry: 
 released: 2018-01-18
 updated: 2022-11-10
-version: 0.9.1
+version: '0.9.1'
 stars: 
 ratings: 
 reviews: 

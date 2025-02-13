@@ -8,7 +8,7 @@ appId: com.chainup.exchange.coinfloww
 appCountry: 
 released: 2022-08-18
 updated: 2022-09-18
-version: 5.2.5_coinfloww
+version: '5.2.5_coinfloww'
 stars: 
 ratings: 
 reviews: 

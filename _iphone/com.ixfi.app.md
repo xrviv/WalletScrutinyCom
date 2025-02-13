@@ -9,7 +9,7 @@ appCountry: ro
 idd: '1614823165'
 released: 2022-03-22
 updated: 2025-01-23
-version: 1.7.20
+version: '1.7.20'
 stars: 4.9
 reviews: 98
 size: '258444288'

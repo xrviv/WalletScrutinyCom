@@ -6,7 +6,7 @@ authors:
 released: 2022-01-24
 discontinued: 
 updated: 2022-07-06
-version: 1.0.5
+version: '1.0.5'
 binaries: 
 dimensions:
 - 86

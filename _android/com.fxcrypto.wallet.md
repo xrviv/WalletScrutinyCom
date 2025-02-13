@@ -9,7 +9,7 @@ appId: com.fxcrypto.wallet
 appCountry: 
 released: 2019-08-11
 updated: 2019-11-04
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

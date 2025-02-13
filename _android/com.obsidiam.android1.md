@@ -9,7 +9,7 @@ appId: com.obsidiam.android1
 appCountry: 
 released: 2020-08-24
 updated: 2024-03-22
-version: 1.6.6
+version: '1.6.6'
 stars: 
 ratings: 
 reviews: 

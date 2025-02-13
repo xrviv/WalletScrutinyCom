@@ -9,7 +9,7 @@ appId: com.itez
 appCountry: 
 released: 2020-03-26
 updated: 2021-03-19
-version: 0.8.2
+version: '0.8.2'
 stars: 
 ratings: 
 reviews: 

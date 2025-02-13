@@ -8,7 +8,7 @@ appId: kr.co.rocketchart.gorillabit.v1
 appCountry: 
 released: 2021-06-23
 updated: 2021-09-17
-version: 1.0.0+130
+version: '1.0.0+130'
 stars: 4.6
 ratings: 
 reviews: 

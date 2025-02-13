@@ -7,7 +7,7 @@ authors:
 released: 2019-03-01
 discontinued: 
 updated: 2022-07-12
-version: DMA-4 24
+version: 'DMA-4 24'
 binaries: https://bitfi.com/firmware
 dimensions:
 - 120

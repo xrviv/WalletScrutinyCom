@@ -8,7 +8,7 @@ appId: com.ixxgoogle_android
 appCountry: 
 released: 2021-09-23
 updated: 2021-11-16
-version: 2.3.1
+version: '2.3.1'
 stars: 
 ratings: 
 reviews: 

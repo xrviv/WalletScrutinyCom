@@ -9,7 +9,7 @@ appId: io.kamix.kamix
 appCountry: 
 released: 2019-03-14
 updated: 2024-07-01
-version: 2.2.303
+version: '2.2.303'
 stars: 3.6
 ratings: 
 reviews: 

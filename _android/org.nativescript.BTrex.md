@@ -9,7 +9,7 @@ appId: org.nativescript.BTrex
 appCountry: 
 released: 2018-04-26
 updated: 2018-06-03
-version: 1.0.6.2
+version: '1.0.6.2'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.bibo.exchange
 appCountry: 
 released: 2020-02-19
 updated: 2020-02-20
-version: 2.4.1
+version: '2.4.1'
 stars: 
 ratings: 
 reviews: 

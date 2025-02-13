@@ -9,7 +9,7 @@ appId: com.ttg
 appCountry: 
 released: 2022-02-17
 updated: 2023-08-25
-version: 5.10.23
+version: '5.10.23'
 stars: 
 ratings: 
 reviews: 

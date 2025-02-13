@@ -8,7 +8,7 @@ appId: come.bitteller.bitteller
 appCountry: 
 released: 2021-12-30
 updated: 2021-12-31
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.plusblocks.wallet
 appCountry: 
 released: 2022-03-23
 updated: 2022-04-01
-version: 1.3.4
+version: '1.3.4'
 stars: 
 ratings: 
 reviews: 

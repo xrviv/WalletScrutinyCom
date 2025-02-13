@@ -9,7 +9,7 @@ appId: app.zupago.app
 appCountry: us
 released: 2021-04-30
 updated: 2024-05-16
-version: 2.0.2
+version: '2.0.2'
 stars: 4.7
 ratings: 221
 reviews: 22

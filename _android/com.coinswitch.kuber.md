@@ -9,7 +9,7 @@ appId: com.coinswitch.kuber
 appCountry: in
 released: 2020-05-31
 updated: 2025-02-12
-version: 7.0.0
+version: '7.0.0'
 stars: 4.4
 ratings: 413931
 reviews: 143965

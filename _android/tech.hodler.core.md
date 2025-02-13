@@ -9,7 +9,7 @@ appId: tech.hodler.core
 appCountry: 
 released: 2018-09-02
 updated: 2019-10-29
-version: 0.4.6
+version: '0.4.6'
 stars: 
 ratings: 
 reviews: 

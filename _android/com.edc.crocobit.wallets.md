@@ -8,7 +8,7 @@ appId: com.edc.crocobit.wallets
 appCountry: 
 released: 2020-06-18
 updated: 2021-07-15
-version: 1.2.05
+version: '1.2.05'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.app.quintex
 appCountry: 
 released: 2022-06-13
 updated: 2022-07-12
-version: 3.5.8
+version: '3.5.8'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: io.uutoken
 appCountry: 
 released: 2022-12-08
 updated: 2022-12-14
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

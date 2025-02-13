@@ -9,7 +9,7 @@ appId: com.pons.dao
 appCountry: 
 released: 2021-02-08
 updated: 2021-09-18
-version: 1.0.0.20
+version: '1.0.0.20'
 stars: 
 ratings: 52
 reviews: 

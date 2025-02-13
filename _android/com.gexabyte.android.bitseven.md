@@ -8,7 +8,7 @@ appId: com.gexabyte.android.bitseven
 appCountry: 
 released: 
 updated: 2021-10-18
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

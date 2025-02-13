@@ -9,7 +9,7 @@ appId: com.shiftmarkets.cointrader
 appCountry: 
 released: 2019-01-28
 updated: 2025-01-24
-version: 4.14.0
+version: '4.14.0'
 stars: 3.8
 ratings: 
 reviews: 

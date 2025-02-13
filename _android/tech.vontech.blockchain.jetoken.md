@@ -8,7 +8,7 @@ appId: tech.vontech.blockchain.jetoken
 appCountry: 
 released: 2019-04-10
 updated: 2019-06-21
-version: 1.0.12
+version: '1.0.12'
 stars: 4.6
 ratings: 28
 reviews: 12

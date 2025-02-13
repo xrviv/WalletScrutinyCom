@@ -9,7 +9,7 @@ appId: com.ramzingate.ramzingate
 appCountry: 
 released: 2021-08-29
 updated: 2022-03-03
-version: 1.2.1
+version: '1.2.1'
 stars: 
 ratings: 
 reviews: 

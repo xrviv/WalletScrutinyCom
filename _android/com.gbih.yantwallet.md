@@ -9,7 +9,7 @@ appId: com.gbih.yantwallet
 appCountry: 
 released: 2019-02-26
 updated: 2019-09-24
-version: 1.1.28
+version: '1.1.28'
 stars: 
 ratings: 
 reviews: 

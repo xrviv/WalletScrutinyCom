@@ -10,7 +10,7 @@ appId: com.roqqu.app
 appCountry: 
 released: 2019-09-30
 updated: 2025-01-31
-version: 2.5.46
+version: '2.5.46'
 stars: 4.2
 ratings: 24688
 reviews: 851

@@ -8,7 +8,7 @@ appId: com.digivault.authenticator
 appCountry: 
 released: 2021-07-28
 updated: 2023-10-19
-version: 1.0.5
+version: '1.0.5'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.yuwapp.app
 appCountry: 
 released: 2022-07-02
 updated: 2022-07-28
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

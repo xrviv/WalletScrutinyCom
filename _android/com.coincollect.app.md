@@ -9,7 +9,7 @@ appId: com.coincollect.app
 appCountry: us
 released: 2019-09-08
 updated: 2021-04-21
-version: 1.11.0
+version: '1.11.0'
 stars: 
 ratings: 
 reviews: 

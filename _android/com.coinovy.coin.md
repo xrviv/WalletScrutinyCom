@@ -8,7 +8,7 @@ appId: com.coinovy.coin
 appCountry: 
 released: 2021-08-27
 updated: 2022-04-07
-version: 1.0.4
+version: '1.0.4'
 stars: 
 ratings: 
 reviews: 

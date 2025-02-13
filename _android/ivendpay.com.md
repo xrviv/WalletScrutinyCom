@@ -9,7 +9,7 @@ appId: ivendpay.com
 appCountry: 
 released: 2023-01-26
 updated: 2023-11-10
-version: 2.0.4
+version: '2.0.4'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.alibitmobile.alibit
 appCountry: 
 released: 2021-05-09
 updated: 2021-05-09
-version: 1.2.6
+version: '1.2.6'
 stars: 
 ratings: 
 reviews: 

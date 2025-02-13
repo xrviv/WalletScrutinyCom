@@ -8,7 +8,7 @@ appId: com.sp.spexchange
 appCountry: 
 released: 2022-01-16
 updated: 2022-03-03
-version: 1.0.9
+version: '1.0.9'
 stars: 
 ratings: 
 reviews: 

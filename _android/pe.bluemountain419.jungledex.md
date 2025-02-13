@@ -8,7 +8,7 @@ appId: pe.bluemountain419.jungledex
 appCountry: 
 released: 2020-02-11
 updated: 2020-02-20
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

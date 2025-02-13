@@ -9,7 +9,7 @@ appId: com.archos.safet.bridge
 appCountry: 
 released: 2019-09-11
 updated: 2019-12-18
-version: 1.11-Release
+version: '1.11-Release'
 stars: 3.1
 ratings: 
 reviews: 

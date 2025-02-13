@@ -8,7 +8,7 @@ appId: io.bintin.app
 appCountry: 
 released: 2021-08-18
 updated: 2022-03-16
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

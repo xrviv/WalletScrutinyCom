@@ -9,7 +9,7 @@ appId: com.finwhalex
 appCountry: 
 released: 
 updated: 2020-04-07
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

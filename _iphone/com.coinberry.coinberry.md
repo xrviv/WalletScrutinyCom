@@ -9,7 +9,7 @@ appCountry: ca
 idd: 1370601820
 released: 2018-06-09
 updated: 2023-06-20
-version: 137.6.3
+version: '137.6.3'
 stars: 4.5
 reviews: 5958
 size: '25805824'

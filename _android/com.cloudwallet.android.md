@@ -9,7 +9,7 @@ appId: com.cloudwallet.android
 appCountry: 
 released: 2019-05-11
 updated: 2020-01-22
-version: 2.0.16
+version: '2.0.16'
 stars: 2
 ratings: 4008
 reviews: 176

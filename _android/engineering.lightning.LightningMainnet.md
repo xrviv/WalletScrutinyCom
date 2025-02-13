@@ -8,7 +8,7 @@ appId: engineering.lightning.LightningMainnet
 appCountry: 
 released: 
 updated: 2020-10-02
-version: Varies with device
+version: 'Varies with device'
 stars: 
 ratings: 
 reviews: 

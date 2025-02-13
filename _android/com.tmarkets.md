@@ -9,7 +9,7 @@ appId: com.tmarkets
 appCountry: us
 released: 
 updated: 2021-12-01
-version: 1.5.78-tmarkets
+version: '1.5.78-tmarkets'
 stars: 
 ratings: 
 reviews: 

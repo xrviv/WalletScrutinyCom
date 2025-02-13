@@ -9,7 +9,7 @@ appId: io.melis.walletlite
 appCountry: 
 released: 2019-06-03
 updated: 2019-06-03
-version: 0.4.0
+version: '0.4.0'
 stars: 
 ratings: 
 reviews: 

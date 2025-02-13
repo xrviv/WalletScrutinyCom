@@ -9,7 +9,7 @@ appId: com.thehumanplus.shuffle
 appCountry: 
 released: 2020-04-06
 updated: 2024-11-01
-version: 2.0.2
+version: '2.0.2'
 stars: 4
 ratings: 
 reviews: 

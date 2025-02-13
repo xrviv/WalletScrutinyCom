@@ -9,7 +9,7 @@ appId: com.eliminatum.app
 appCountry: 
 released: 2018-09-12
 updated: 2022-01-28
-version: 8.0.1
+version: '8.0.1'
 stars: 
 ratings: 
 reviews: 

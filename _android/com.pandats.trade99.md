@@ -8,7 +8,7 @@ appId: com.pandats.trade99
 appCountry: 
 released: 2019-07-02
 updated: 2020-10-01
-version: 1.0.4
+version: '1.0.4'
 stars: 1.8
 ratings: 
 reviews: 

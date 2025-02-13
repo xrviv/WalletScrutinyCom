@@ -9,7 +9,7 @@ appId: com.coinpanion.mobileapp
 appCountry: 
 released: 2021-02-26
 updated: 2023-07-27
-version: 4.4.7
+version: '4.4.7'
 stars: 
 ratings: 
 reviews: 

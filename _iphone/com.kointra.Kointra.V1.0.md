@@ -9,7 +9,7 @@ appCountry: tr
 idd: '1486286836'
 released: 2019-11-15
 updated: 2024-09-23
-version: 3.3.1
+version: '3.3.1'
 stars: 4.7
 reviews: 30
 size: '28244992'

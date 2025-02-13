@@ -8,7 +8,7 @@ appId: io.lunu.wallet
 appCountry: 
 released: 2020-09-08
 updated: 2022-08-24
-version: 1.3.12
+version: '1.3.12'
 stars: 
 ratings: 
 reviews: 

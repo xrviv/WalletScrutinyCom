@@ -9,7 +9,7 @@ appId: com.s6.app
 appCountry: 
 released: 2022-03-01
 updated: 2023-02-01
-version: 1.1.2
+version: '1.1.2'
 stars: 
 ratings: 
 reviews: 

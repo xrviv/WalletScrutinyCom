@@ -8,7 +8,7 @@ appId: com.raedahgroup.tradeagent.liveserver
 appCountry: 
 released: 
 updated: 2021-12-01
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: em.elevationmarkets
 appCountry: 
 released: 2021-12-21
 updated: 2021-12-22
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

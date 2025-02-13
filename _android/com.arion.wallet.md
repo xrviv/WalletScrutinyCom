@@ -8,7 +8,7 @@ appId: com.arion.wallet
 appCountry: 
 released: 2019-10-10
 updated: 2019-10-10
-version: v1.0.1
+version: 'v1.0.1'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.ubakasi.kolicoin
 appCountry: 
 released: 2021-11-05
 updated: 2023-02-21
-version: 5.1.7
+version: '5.1.7'
 stars: 
 ratings: 
 reviews: 

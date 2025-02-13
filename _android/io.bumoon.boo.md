@@ -9,7 +9,7 @@ appId: io.bumoon.boo
 appCountry: 
 released: 2021-11-29
 updated: 2022-10-10
-version: 3.0.3
+version: '3.0.3'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.tropiky
 appCountry: 
 released: 2021-09-26
 updated: 2022-03-05
-version: 2.0.0
+version: '2.0.0'
 stars: 
 ratings: 
 reviews: 

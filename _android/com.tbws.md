@@ -9,7 +9,7 @@ appId: com.tbws
 appCountry: 
 released: 2021-05-27
 updated: 2024-05-20
-version: 1.0-prod2
+version: '1.0-prod2'
 stars: 3.5
 ratings: 
 reviews: 60

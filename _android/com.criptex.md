@@ -8,7 +8,7 @@ appId: com.criptex
 appCountry: 
 released: 2019-09-01
 updated: 2020-01-04
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.kryptonio
 appCountry: 
 released: 
 updated: 2021-07-03
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

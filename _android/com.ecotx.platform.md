@@ -8,7 +8,7 @@ appId: com.ecotx.platform
 appCountry: 
 released: 
 updated: 2022-10-04
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

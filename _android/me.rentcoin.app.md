@@ -8,7 +8,7 @@ appId: me.rentcoin.app
 appCountry: 
 released: 2020-06-29
 updated: 2021-10-26
-version: 2.1.1
+version: '2.1.1'
 stars: 
 ratings: 
 reviews: 

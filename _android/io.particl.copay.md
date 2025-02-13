@@ -9,7 +9,7 @@ appId: io.particl.copay
 appCountry: 
 released: 2017-09-18
 updated: 2020-05-30
-version: 5.5.1
+version: '5.5.1'
 stars: 4.1
 ratings: 134
 reviews: 17

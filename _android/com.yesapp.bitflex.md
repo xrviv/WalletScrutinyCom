@@ -8,7 +8,7 @@ appId: com.yesapp.bitflex
 appCountry: 
 released: 2022-09-18
 updated: 2022-09-19
-version: 3.1.12
+version: '3.1.12'
 stars: 
 ratings: 
 reviews: 

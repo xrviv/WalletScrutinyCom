@@ -8,7 +8,7 @@ appId: com.github.bitteryapp.pro
 appCountry: 
 released: 2021-06-26
 updated: 2021-07-02
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

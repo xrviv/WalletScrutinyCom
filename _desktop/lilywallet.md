@@ -6,7 +6,7 @@ authors:
 released: 2020-08-14
 discontinued: 
 updated: 2023-07-19
-version: 1.4.0
+version: '1.4.0'
 binaries: 
 provider: Lily Technologies, Inc.
 providerWebsite: 

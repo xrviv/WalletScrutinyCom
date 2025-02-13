@@ -8,7 +8,7 @@ appId: kr.hndsoft.usepay
 appCountry: 
 released: 2022-06-06
 updated: 2022-12-21
-version: 1.2.1
+version: '1.2.1'
 stars: 
 ratings: 
 reviews: 

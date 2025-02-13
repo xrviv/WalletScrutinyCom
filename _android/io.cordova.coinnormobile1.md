@@ -8,7 +8,7 @@ appId: io.cordova.coinnormobile1
 appCountry: 
 released: 2018-07-08
 updated: 2018-07-08
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.tallin.wallet
 appCountry: 
 released: 2021-09-09
 updated: 2021-11-22
-version: 1.0.7
+version: '1.0.7'
 stars: 
 ratings: 
 reviews: 

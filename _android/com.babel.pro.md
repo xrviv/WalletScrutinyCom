@@ -8,7 +8,7 @@ appId: com.babel.pro
 appCountry: 
 released: 2021-09-27
 updated: 2022-05-30
-version: 1.7.2
+version: '1.7.2'
 stars: 
 ratings: 
 reviews: 

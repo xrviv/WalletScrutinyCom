@@ -9,7 +9,7 @@ appId: com.wise.llc.wallet.app
 appCountry: fi
 released: 2020-09-03
 updated: 2021-07-02
-version: 2.6.4
+version: '2.6.4'
 stars: 4.3
 ratings: 43
 reviews: 28

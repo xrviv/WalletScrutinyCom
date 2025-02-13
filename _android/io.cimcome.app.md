@@ -9,7 +9,7 @@ appId: io.cimcome.app
 appCountry: bm
 released: 2020-12-09
 updated: 2024-12-10
-version: 2.2.16
+version: '2.2.16'
 stars: 4
 ratings: 10
 reviews: 72

@@ -9,7 +9,7 @@ appId: com.quidax.lite
 appCountry: 
 released: 2022-01-08
 updated: 2025-02-07
-version: 1.22.0
+version: '1.22.0'
 stars: 3.9
 ratings: 
 reviews: 90

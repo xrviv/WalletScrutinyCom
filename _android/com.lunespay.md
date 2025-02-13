@@ -9,7 +9,7 @@ appId: com.lunespay
 appCountry: 
 released: 2021-07-14
 updated: 2021-08-10
-version: 1.0.7
+version: '1.0.7'
 stars: 
 ratings: 
 reviews: 

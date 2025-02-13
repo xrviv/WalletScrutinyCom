@@ -9,7 +9,7 @@ appCountry: si
 idd: '1353823277'
 released: 2018-09-14
 updated: 2022-01-30
-version: 8.0.1
+version: '8.0.1'
 stars: 4.5
 reviews: 36
 size: '60161024'

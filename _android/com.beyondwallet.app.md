@@ -8,7 +8,7 @@ appId: com.beyondwallet.app
 appCountry: 
 released: 2021-01-11
 updated: 2023-10-19
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

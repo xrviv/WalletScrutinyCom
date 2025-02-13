@@ -8,7 +8,7 @@ appId: co.newton.newtonus
 appCountry: 
 released: 2022-07-22
 updated: 2023-01-20
-version: 1.3.1
+version: '1.3.1'
 stars: 
 ratings: 
 reviews: 

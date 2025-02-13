@@ -9,7 +9,7 @@ appId: com.wirex.wallet
 appCountry: nz
 released: 2021-12-03
 updated: 2025-02-07
-version: 0.6.14
+version: '0.6.14'
 stars: 3.2
 ratings: 1053
 reviews: 15

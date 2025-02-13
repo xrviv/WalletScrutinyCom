@@ -6,7 +6,7 @@ authors:
 released: 2018-10-12
 discontinued: 
 updated: 2019-04-02
-version: 0.5.0-mainnet-beta
+version: '0.5.0-mainnet-beta'
 binaries: 
 provider: Bitfury Holding B.V.
 providerWebsite: https://bitfury.com

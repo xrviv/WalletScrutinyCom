@@ -8,7 +8,7 @@ appId: com.interestinate.flutter_cryptowallet
 appCountry: 
 released: 2020-01-06
 updated: 2020-01-06
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

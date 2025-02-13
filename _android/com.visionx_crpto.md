@@ -8,7 +8,7 @@ appId: com.visionx_crpto
 appCountry: 
 released: 2021-02-21
 updated: 2021-03-28
-version: 1.0.6
+version: '1.0.6'
 stars: 
 ratings: 
 reviews: 

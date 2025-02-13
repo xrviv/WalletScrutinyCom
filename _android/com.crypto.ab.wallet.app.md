@@ -9,7 +9,7 @@ appId: com.crypto.ab.wallet.app
 appCountry: 
 released: 2023-09-27
 updated: 2024-07-25
-version: 1.7.2
+version: '1.7.2'
 stars: 4.8
 ratings: 
 reviews: 85

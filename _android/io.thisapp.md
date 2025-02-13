@@ -8,7 +8,7 @@ appId: io.thisapp
 appCountry: 
 released: 2018-09-27
 updated: 2024-10-19
-version: 1.4.0
+version: '1.4.0'
 stars: 
 ratings: 
 reviews: 

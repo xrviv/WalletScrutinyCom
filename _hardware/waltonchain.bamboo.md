@@ -6,7 +6,7 @@ authors:
 released: 2019-03-26
 discontinued: 
 updated: 2019-11-06
-version: v1.2
+version: 'v1.2'
 binaries: https://github.com/WaltonChain/BambooWallet/blob/master/BambooWallet_v1.2.exe
 dimensions:
 - 47

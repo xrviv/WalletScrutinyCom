@@ -6,7 +6,7 @@ authors:
 released: 2013-12-29
 discontinued: 
 updated: 2017-08-14
-version: v0.10.6
+version: 'v0.10.6'
 binaries: 
 provider: Ciphrex
 providerWebsite: https://web.archive.org/web/20170905112722/https://ciphrex.com/

@@ -9,7 +9,7 @@ appId: com.fscwallet
 appCountry: 
 released: 2019-12-23
 updated: 2021-06-18
-version: 4.0.2
+version: '4.0.2'
 stars: 
 ratings: 
 reviews: 

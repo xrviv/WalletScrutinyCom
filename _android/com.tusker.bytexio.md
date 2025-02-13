@@ -9,7 +9,7 @@ appId: com.tusker.bytexio
 appCountry: 
 released: 2022-04-28
 updated: 2022-11-25
-version: 1.0.9
+version: '1.0.9'
 stars: 
 ratings: 
 reviews: 

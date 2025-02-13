@@ -8,7 +8,7 @@ appId: nl.tudelft.trustchain
 appCountry: 
 released: 
 updated: 2024-02-28
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

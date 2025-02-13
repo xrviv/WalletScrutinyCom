@@ -9,7 +9,7 @@ appCountry: hu
 idd: 884042608
 released: 2014-06-06
 updated: 2025-02-12
-version: 5.0.55
+version: '5.0.55'
 stars: 0
 reviews: 0
 size: '111066112'

@@ -6,7 +6,7 @@ authors:
 released: 2016-06-08
 discontinued: 
 updated: 2019-03-01
-version: 1.0.42
+version: '1.0.42'
 binaries: 
 provider: Elfronus Company Ltd
 providerWebsite: 

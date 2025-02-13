@@ -8,7 +8,7 @@ appId: quanterall.com.cryptoexchange
 appCountry: 
 released: 
 updated: 2019-06-18
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

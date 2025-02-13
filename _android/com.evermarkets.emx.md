@@ -8,7 +8,7 @@ appId: com.evermarkets.emx
 appCountry: 
 released: 
 updated: 2020-04-08
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

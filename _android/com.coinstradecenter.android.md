@@ -8,7 +8,7 @@ appId: com.coinstradecenter.android
 appCountry: 
 released: 
 updated: 2020-01-21
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.reyesfields.wgxqwnizbv
 appCountry: 
 released: 2021-11-30
 updated: 2021-12-01
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

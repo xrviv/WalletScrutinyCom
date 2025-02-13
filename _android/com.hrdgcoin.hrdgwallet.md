@@ -9,7 +9,7 @@ appId: com.hrdgcoin.hrdgwallet
 appCountry: 
 released: 2021-07-09
 updated: 2022-07-28
-version: 1.0.8
+version: '1.0.8'
 stars: 4
 ratings: 
 reviews: 

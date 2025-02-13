@@ -8,7 +8,7 @@ appId: com.usdtoption.www
 appCountry: 
 released: 2020-05-10
 updated: 2020-05-10
-version: 1.1.1
+version: '1.1.1'
 stars: 3.3
 ratings: 
 reviews: 14

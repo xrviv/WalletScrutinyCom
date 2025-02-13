@@ -8,7 +8,7 @@ appId: com.turinlabs.wallet
 appCountry: 
 released: 2022-09-14
 updated: 2023-03-06
-version: 1.1.8
+version: '1.1.8'
 stars: 
 ratings: 
 reviews: 

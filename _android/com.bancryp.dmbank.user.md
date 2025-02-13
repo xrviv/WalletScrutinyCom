@@ -9,7 +9,7 @@ appId: com.bancryp.dmbank.user
 appCountry: 
 released: 2020-07-31
 updated: 2021-01-13
-version: 1.4.5
+version: '1.4.5'
 stars: 
 ratings: 
 reviews: 

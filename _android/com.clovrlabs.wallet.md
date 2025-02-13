@@ -8,7 +8,7 @@ appId: com.clovrlabs.wallet
 appCountry: 
 released: 2022-12-08
 updated: 2023-03-11
-version: 1.0.4
+version: '1.0.4'
 stars: 
 ratings: 
 reviews: 

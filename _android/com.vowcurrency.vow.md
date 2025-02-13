@@ -9,7 +9,7 @@ appId: com.vowcurrency.vow
 appCountry: 
 released: 2021-07-20
 updated: 2024-03-28
-version: 10.3.7
+version: '10.3.7'
 stars: 2.8
 ratings: 
 reviews: 4

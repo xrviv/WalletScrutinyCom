@@ -8,7 +8,7 @@ appId: com.waletrust.wallet
 appCountry: 
 released: 2021-07-24
 updated: 2021-07-24
-version: 0.21.3
+version: '0.21.3'
 stars: 
 ratings: 
 reviews: 

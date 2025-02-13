@@ -9,7 +9,7 @@ appId: com.baanx.gcc
 appCountry: 
 released: 2020-06-14
 updated: 2020-09-17
-version: 1.2.0
+version: '1.2.0'
 stars: 
 ratings: 
 reviews: 

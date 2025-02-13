@@ -8,7 +8,7 @@ appId: io.kaiser.kaiserwallet2.ble_reader
 appCountry: 
 released: 2018-12-04
 updated: 2020-02-28
-version: 2.9.10
+version: '2.9.10'
 stars: 
 ratings: 
 reviews: 

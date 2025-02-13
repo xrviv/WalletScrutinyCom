@@ -6,7 +6,7 @@ authors:
 released: 2023-03-12
 discontinued: 
 updated: 2024-05-15
-version: 2.0.0
+version: '2.0.0'
 binaries: 
 provider: Cypher Stack
 providerWebsite: 

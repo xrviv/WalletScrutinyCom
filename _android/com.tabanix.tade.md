@@ -8,7 +8,7 @@ appId: com.tabanix.tade
 appCountry: 
 released: 2022-10-12
 updated: 2022-10-12
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

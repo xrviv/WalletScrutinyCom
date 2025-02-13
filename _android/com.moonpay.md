@@ -9,7 +9,7 @@ appId: com.moonpay
 appCountry: 
 released: 2023-04-18
 updated: 2025-02-11
-version: 1.14.90
+version: '1.14.90'
 stars: 3.7
 ratings: 
 reviews: 446

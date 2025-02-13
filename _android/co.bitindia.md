@@ -8,7 +8,7 @@ appId: co.bitindia
 appCountry: 
 released: 
 updated: 2018-02-06
-version: Varies with device
+version: 'Varies with device'
 stars: 
 ratings: 
 reviews: 

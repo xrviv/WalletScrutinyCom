@@ -8,7 +8,7 @@ appId: com.poland.cointrunk
 appCountry: 
 released: 2022-04-18
 updated: 2022-04-28
-version: 0.0.3
+version: '0.0.3'
 stars: 
 ratings: 
 reviews: 

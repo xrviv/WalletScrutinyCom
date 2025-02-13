@@ -8,7 +8,7 @@ appId: com.xazur.tradeapp
 appCountry: 
 released: 
 updated: 2023-06-14
-version: 61.6.1
+version: '61.6.1'
 stars: 
 ratings: 
 reviews: 

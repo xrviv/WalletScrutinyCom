@@ -9,7 +9,7 @@ appId: com.ataix.exchange
 appCountry: ee
 released: 2019-09-20
 updated: 2022-06-07
-version: 2.1.4
+version: '2.1.4'
 stars: 3.5
 ratings: 48
 reviews: 26

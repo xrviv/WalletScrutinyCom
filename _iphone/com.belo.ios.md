@@ -9,7 +9,7 @@ appCountry: co
 idd: '1575614708'
 released: 2021-09-08
 updated: 2025-02-10
-version: 4.51.5
+version: '4.51.5'
 stars: 4.6
 reviews: 24
 size: '67442688'

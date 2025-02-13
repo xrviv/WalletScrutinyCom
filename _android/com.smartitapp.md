@@ -9,7 +9,7 @@ appId: com.smartitapp
 appCountry: us
 released: 2020-09-25
 updated: 2024-06-19
-version: 1.0.9
+version: '1.0.9'
 stars: 
 ratings: 
 reviews: 

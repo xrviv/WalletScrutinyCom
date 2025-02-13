@@ -9,7 +9,7 @@ appId: org.qwallet
 appCountry: 
 released: 2019-06-05
 updated: 2019-06-06
-version: 0.1.4
+version: '0.1.4'
 stars: 4
 ratings: 
 reviews: 3

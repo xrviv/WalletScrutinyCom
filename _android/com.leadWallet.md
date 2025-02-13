@@ -9,7 +9,7 @@ appId: com.leadWallet
 appCountry: ng
 released: 2021-07-29
 updated: 2022-07-30
-version: 1.0.39
+version: '1.0.39'
 stars: 4.4
 ratings: 1683
 reviews: 54

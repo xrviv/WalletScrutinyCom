@@ -8,7 +8,7 @@ appId: it.casatta.testnet
 appCountry: 
 released: 2020-05-17
 updated: 2021-08-06
-version: 1.20-testnet
+version: '1.20-testnet'
 stars: 
 ratings: 
 reviews: 

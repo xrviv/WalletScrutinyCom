@@ -9,7 +9,7 @@ appCountry: bw
 idd: '1586438402'
 released: 2021-09-22
 updated: 2023-01-12
-version: 2.1.4
+version: '2.1.4'
 stars: 0
 reviews: 0
 size: '71118848'

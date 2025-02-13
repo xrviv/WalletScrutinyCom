@@ -9,7 +9,7 @@ appId: com.xchange.nicechange
 appCountry: 
 released: 2021-05-25
 updated: 2024-08-01
-version: 4.1.1
+version: '4.1.1'
 stars: 
 ratings: 
 reviews: 

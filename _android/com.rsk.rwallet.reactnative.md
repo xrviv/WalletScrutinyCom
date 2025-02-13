@@ -8,7 +8,7 @@ appId: com.rsk.rwallet.reactnative
 appCountry: 
 released: 
 updated: 2020-10-29
-version: 1.3.3
+version: '1.3.3'
 stars: 3.8
 ratings: 20
 reviews: 15

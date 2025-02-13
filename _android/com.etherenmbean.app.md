@@ -8,7 +8,7 @@ appId: com.etherenmbean.app
 appCountry: 
 released: 2022-06-01
 updated: 2022-08-30
-version: 11.6.6
+version: '11.6.6'
 stars: 
 ratings: 
 reviews: 

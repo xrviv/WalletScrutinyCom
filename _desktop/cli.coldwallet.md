@@ -6,7 +6,7 @@ authors:
 released: 2017-10-16
 discontinued: 
 updated: 2018-04-03
-version: 1.2.0
+version: '1.2.0'
 binaries: 
 provider: 
 providerWebsite: 

@@ -6,7 +6,7 @@ authors:
 released: 2009-01-04
 discontinued: 
 updated: 2024-03-27
-version: 26.1.knots20240325
+version: '26.1.knots20240325'
 binaries: 
 provider: Luke Dash Jr
 providerWebsite: 

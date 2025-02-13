@@ -9,7 +9,7 @@ appId: ps.greenminer.app
 appCountry: 
 released: 2021-06-04
 updated: 2022-06-28
-version: 3.13.28-0d7a9f0
+version: '3.13.28-0d7a9f0'
 stars: 
 ratings: 5347
 reviews: 

@@ -8,7 +8,7 @@ appId: com.whalecomp.whalecomp
 appCountry: 
 released: 2021-12-08
 updated: 2022-02-25
-version: 1.0.0.2
+version: '1.0.0.2'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.profittrading.forbittrex
 appCountry: 
 released: 2018-06-20
 updated: 2021-04-27
-version: 12.0.13
+version: '12.0.13'
 stars: 4.1
 ratings: 362
 reviews: 22

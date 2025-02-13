@@ -10,7 +10,7 @@ appId: com.blockchain.wallet.btc
 appCountry: 
 released: 2021-04-03
 updated: 2022-11-23
-version: 1.0.3.3
+version: '1.0.3.3'
 stars: 4.3
 ratings: 948
 reviews: 68
@@ -27,7 +27,7 @@ date: 2024-02-05
 signer: 
 reviewArchive:
 - date: 2021-06-04
-  version: 1.0.1.8
+  version: '1.0.1.8'
   appHashes: []
   gitRevision: b994137e4f91927a8680b389b81bb5945d1ddf71
   verdict: obfuscated

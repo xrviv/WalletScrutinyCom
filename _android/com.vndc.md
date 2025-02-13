@@ -9,7 +9,7 @@ appId: com.vndc
 appCountry: us
 released: 2020-03-07
 updated: 2025-01-26
-version: 5.9.6
+version: '5.9.6'
 stars: 4.4
 ratings: 46866
 reviews: 1208

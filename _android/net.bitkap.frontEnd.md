@@ -9,7 +9,7 @@ appId: net.bitkap.frontEnd
 appCountry: 
 released: 2021-11-21
 updated: 2025-01-28
-version: 2.0.4
+version: '2.0.4'
 stars: 3.7
 ratings: 
 reviews: 17

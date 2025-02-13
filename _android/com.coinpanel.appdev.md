@@ -9,7 +9,7 @@ appId: com.coinpanel.appdev
 appCountry: 
 released: 2022-05-15
 updated: 2023-01-10
-version: 2.0.0
+version: '2.0.0'
 stars: 3.4
 ratings: 
 reviews: 

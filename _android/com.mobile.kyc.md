@@ -9,7 +9,7 @@ appId: com.mobile.kyc
 appCountry: 
 released: 2022-01-21
 updated: 2022-10-28
-version: 1.1.0
+version: '1.1.0'
 stars: 4.3
 ratings: 
 reviews: 1

@@ -9,7 +9,7 @@ appId: com.vegawallet.in
 appCountry: us
 released: 2018-12-19
 updated: 2020-07-02
-version: 3.2.3
+version: '3.2.3'
 stars: 3.8
 ratings: 23
 reviews: 5

@@ -9,7 +9,7 @@ appId: com.sixmultiverse.heartnumber
 appCountry: 
 released: 2019-05-22
 updated: 2023-03-03
-version: 3.55.0
+version: '3.55.0'
 stars: 
 ratings: 
 reviews: 

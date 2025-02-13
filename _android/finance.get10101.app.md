@@ -10,7 +10,7 @@ appId: finance.get10101.app
 appCountry: 
 released: 
 updated: 2024-11-13
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

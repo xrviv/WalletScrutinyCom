@@ -9,7 +9,7 @@ appCountry: be
 idd: 1552665993
 released: 2021-02-17
 updated: 2023-03-08
-version: 1.2.7
+version: '1.2.7'
 stars: 0
 reviews: 0
 size: '33190912'

@@ -8,7 +8,7 @@ appId: com.bicheng.newtw.exchange
 appCountry: 
 released: 2020-06-04
 updated: 2021-03-02
-version: 1.2.1
+version: '1.2.1'
 stars: 
 ratings: 
 reviews: 

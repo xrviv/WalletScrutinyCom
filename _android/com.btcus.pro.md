@@ -8,7 +8,7 @@ appId: com.btcus.pro
 appCountry: 
 released: 2021-03-30
 updated: 2021-03-30
-version: 1.0.3.210330
+version: '1.0.3.210330'
 stars: 
 ratings: 
 reviews: 

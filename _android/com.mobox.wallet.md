@@ -9,7 +9,7 @@ appId: com.mobox.wallet
 appCountry: us
 released: 2021-02-02
 updated: 2023-12-11
-version: 1.6.0
+version: '1.6.0'
 stars: 4.6
 ratings: 2457
 reviews: 197

@@ -9,7 +9,7 @@ appId: com.chainup.exchange.METABITT
 appCountry: 
 released: 2022-12-30
 updated: 2023-01-17
-version: 5.6.5
+version: '5.6.5'
 stars: 
 ratings: 
 reviews: 

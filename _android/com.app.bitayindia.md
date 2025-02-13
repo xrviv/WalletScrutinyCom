@@ -8,7 +8,7 @@ appId: com.app.bitayindia
 appCountry: 
 released: 2022-05-25
 updated: 2022-05-25
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

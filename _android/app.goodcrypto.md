@@ -9,7 +9,7 @@ appId: app.goodcrypto
 appCountry: 
 released: 2019-05-20
 updated: 2024-12-23
-version: 2.1.1
+version: '2.1.1'
 stars: 4.3
 ratings: 1058
 reviews: 139

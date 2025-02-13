@@ -8,7 +8,7 @@ appId: com.tradebtccoin
 appCountry: 
 released: 2019-08-20
 updated: 2019-08-20
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

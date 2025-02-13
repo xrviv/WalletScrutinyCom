@@ -8,7 +8,7 @@ appId: xchange_coins.com
 appCountry: 
 released: 2021-03-26
 updated: 2021-03-26
-version: 5.84.10
+version: '5.84.10'
 stars: 
 ratings: 
 reviews: 

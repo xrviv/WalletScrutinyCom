@@ -8,7 +8,7 @@ appId: com.paramountdax.exchange
 appCountry: 
 released: 2021-11-25
 updated: 2022-11-09
-version: 1.0.9
+version: '1.0.9'
 stars: 
 ratings: 
 reviews: 

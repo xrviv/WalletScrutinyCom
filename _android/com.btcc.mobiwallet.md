@@ -9,7 +9,7 @@ appId: com.btcc.mobiwallet
 appCountry: au
 released: 2019-03-28
 updated: 2021-05-20
-version: 2.32.2
+version: '2.32.2'
 stars: 3.6
 ratings: 27
 reviews: 19

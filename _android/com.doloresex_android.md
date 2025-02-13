@@ -8,7 +8,7 @@ appId: com.doloresex_android
 appCountry: 
 released: 2019-05-06
 updated: 2021-02-19
-version: 2.5.5
+version: '2.5.5'
 stars: 
 ratings: 
 reviews: 

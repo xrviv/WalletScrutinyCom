@@ -9,7 +9,7 @@ appCountry: br
 idd: '1588152503'
 released: 2022-02-09
 updated: 2025-02-04
-version: 2.7.11
+version: '2.7.11'
 stars: 4.9
 reviews: 6478
 size: '86265856'

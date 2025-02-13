@@ -9,7 +9,7 @@ appId: com.waspbit.witcashpdn
 appCountry: 
 released: 2018-12-10
 updated: 2021-07-14
-version: 2.0.9
+version: '2.0.9'
 stars: 
 ratings: 
 reviews: 

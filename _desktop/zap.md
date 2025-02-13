@@ -6,7 +6,7 @@ authors:
 released: 2018-01-27
 discontinued: 
 updated: 2023-04-03
-version: 0.7.7-beta
+version: '0.7.7-beta'
 binaries: 
 provider: 
 providerWebsite: 

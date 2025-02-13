@@ -9,7 +9,7 @@ appId: com.coinpassmobile
 appCountry: 
 released: 
 updated: 2025-01-13
-version: 3.4.0-coinpass
+version: '3.4.0-coinpass'
 stars: 2.8
 ratings: 
 reviews: 

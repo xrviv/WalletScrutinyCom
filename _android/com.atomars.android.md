@@ -9,7 +9,7 @@ appId: com.atomars.android
 appCountry: 
 released: 2019-07-01
 updated: 2019-07-01
-version: 1.1.1
+version: '1.1.1'
 stars: 2.2
 ratings: 
 reviews: 

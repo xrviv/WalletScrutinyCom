@@ -8,7 +8,7 @@ appId: net.neenote.wallet
 appCountry: 
 released: 2021-04-26
 updated: 2021-04-26
-version: 4.0.4
+version: '4.0.4'
 stars: 
 ratings: 
 reviews: 

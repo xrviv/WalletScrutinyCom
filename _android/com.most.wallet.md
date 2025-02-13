@@ -9,7 +9,7 @@ appId: com.most.wallet
 appCountry: 
 released: 2022-02-04
 updated: 2025-02-06
-version: 1.5.42
+version: '1.5.42'
 stars: 
 ratings: 
 reviews: 

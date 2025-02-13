@@ -9,7 +9,7 @@ appId: global.anypay.pos
 appCountry: 
 released: 2018-11-08
 updated: 2023-08-30
-version: 2.3.1
+version: '2.3.1'
 stars: 4.5
 ratings: 
 reviews: 16

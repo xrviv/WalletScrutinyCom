@@ -9,7 +9,7 @@ appId: io.bottrex.starter
 appCountry: 
 released: 2019-05-20
 updated: 2022-05-03
-version: 0.5.9
+version: '0.5.9'
 stars: 
 ratings: 
 reviews: 

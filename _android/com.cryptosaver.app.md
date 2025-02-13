@@ -8,7 +8,7 @@ appId: com.cryptosaver.app
 appCountry: 
 released: 2020-10-20
 updated: 2021-01-15
-version: 1.0.36
+version: '1.0.36'
 stars: 
 ratings: 
 reviews: 

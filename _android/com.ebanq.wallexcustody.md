@@ -8,7 +8,7 @@ appId: com.ebanq.wallexcustody
 appCountry: 
 released: 2021-04-14
 updated: 2021-06-17
-version: 1.1.0
+version: '1.1.0'
 stars: 
 ratings: 
 reviews: 

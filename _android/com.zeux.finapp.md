@@ -9,7 +9,7 @@ appId: com.zeux.finapp
 appCountry: gb
 released: 2019-05-22
 updated: 2021-10-07
-version: 2.20.0
+version: '2.20.0'
 stars: 4.3
 ratings: 1655
 reviews: 1233

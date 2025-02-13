@@ -9,7 +9,7 @@ appId: io.kompasswallet
 appCountry: 
 released: 2020-12-19
 updated: 2021-03-20
-version: 2.0.1
+version: '2.0.1'
 stars: 
 ratings: 
 reviews: 

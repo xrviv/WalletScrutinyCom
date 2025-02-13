@@ -9,7 +9,7 @@ appId: io.exnovin.app
 appCountry: 
 released: 2020-12-12
 updated: 2025-02-05
-version: 3.2.0
+version: '3.2.0'
 stars: 4.8
 ratings: 930
 reviews: 62

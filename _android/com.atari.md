@@ -9,7 +9,7 @@ appId: com.atari
 appCountry: 
 released: 2021-07-11
 updated: 2021-11-13
-version: 2.08.01
+version: '2.08.01'
 stars: 2.2
 ratings: 183
 reviews: 26

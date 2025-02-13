@@ -9,7 +9,7 @@ appId: com.tradingducoin.appli
 appCountry: ml
 released: 2019-03-10
 updated: 2021-09-03
-version: 5.4.8
+version: '5.4.8'
 stars: 3.8
 ratings: 183
 reviews: 89

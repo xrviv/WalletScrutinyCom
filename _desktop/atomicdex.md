@@ -6,7 +6,7 @@ authors:
 released: 2021-04-16
 discontinued: 
 updated: 2024-04-13
-version: 0.7.1
+version: '0.7.1'
 binaries: 
 provider: KomodoPlatform
 providerWebsite: https://komodoplatform.com/

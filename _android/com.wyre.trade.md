@@ -9,7 +9,7 @@ appId: com.wyre.trade
 appCountry: 
 released: 2021-04-30
 updated: 2021-07-19
-version: 1.1.7
+version: '1.1.7'
 stars: 3.4
 ratings: 106
 reviews: 4

@@ -9,7 +9,7 @@ appId: com.arzjoo
 appCountry: 
 released: 2019-04-25
 updated: 2024-12-31
-version: 3.2.3
+version: '3.2.3'
 stars: 3.9
 ratings: 3741
 reviews: 84

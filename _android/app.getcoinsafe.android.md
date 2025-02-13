@@ -8,7 +8,7 @@ appId: app.getcoinsafe.android
 appCountry: 
 released: 2019-02-15
 updated: 2019-05-16
-version: 0.1.6
+version: '0.1.6'
 stars: 
 ratings: 
 reviews: 

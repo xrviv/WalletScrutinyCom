@@ -9,7 +9,7 @@ appId: tradefada.com.exchange.app
 appCountry: 
 released: 
 updated: 2023-10-26
-version: 3.3.0
+version: '3.3.0'
 stars: 3.5
 ratings: 
 reviews: 

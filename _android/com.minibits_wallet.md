@@ -9,7 +9,7 @@ appId: com.minibits_wallet
 appCountry: 
 released: 
 updated: 2025-02-09
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

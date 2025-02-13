@@ -9,7 +9,7 @@ appId: com.digitalstorm.HIVE
 appCountry: 
 released: 2021-06-12
 updated: 2023-05-15
-version: 2.2.0
+version: '2.2.0'
 stars: 
 ratings: 
 reviews: 

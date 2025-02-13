@@ -6,7 +6,7 @@ authors:
 released: 2020-08-06
 discontinued: 
 updated: 2024-03-15
-version: 2.8.5
+version: '2.8.5'
 binaries: 
 provider: Sharddax Ltd.
 providerWebsite: 

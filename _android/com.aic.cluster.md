@@ -8,7 +8,7 @@ appId: com.aic.cluster
 appCountry: 
 released: 
 updated: 2021-05-24
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: apps.produccion.line2coinswap
 appCountry: 
 released: 2022-07-22
 updated: 2022-07-24
-version: 1.0.0.4
+version: '1.0.0.4'
 stars: 
 ratings: 
 reviews: 

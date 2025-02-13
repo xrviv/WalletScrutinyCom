@@ -8,7 +8,7 @@ appId: com.hifasthq.hifast
 appCountry: 
 released: 2022-10-15
 updated: 2023-11-15
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

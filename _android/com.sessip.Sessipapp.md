@@ -9,7 +9,7 @@ appId: com.sessip.Sessipapp
 appCountry: 
 released: 2021-08-18
 updated: 2022-12-10
-version: VARY
+version: 'VARY'
 stars: 3.8
 ratings: 
 reviews: 9

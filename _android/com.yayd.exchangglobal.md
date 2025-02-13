@@ -9,7 +9,7 @@ appId: com.yayd.exchangglobal
 appCountry: 
 released: 2022-03-15
 updated: 2023-05-23
-version: 7.30.2
+version: '7.30.2'
 stars: 2.8
 ratings: 
 reviews: 50

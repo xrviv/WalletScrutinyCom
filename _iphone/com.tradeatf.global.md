@@ -9,7 +9,7 @@ appCountry: ag
 idd: 1516998762
 released: 2020-07-29
 updated: 2021-11-26
-version: 1.69.13
+version: '1.69.13'
 stars: 
 reviews: 
 size: 32352256

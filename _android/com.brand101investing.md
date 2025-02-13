@@ -9,7 +9,7 @@ appId: com.brand101investing
 appCountry: cy
 released: 2020-08-18
 updated: 2021-12-01
-version: 1.5.78-brand101investing
+version: '1.5.78-brand101investing'
 stars: 3.7
 ratings: 263
 reviews: 209

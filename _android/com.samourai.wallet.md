@@ -11,7 +11,7 @@ appId: com.samourai.wallet
 appCountry: 
 released: 
 updated: 2024-03-29
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 
@@ -28,25 +28,25 @@ date: 2024-04-26
 signer: 6ab9471c21d2cddd628172975cff8ba23584da41c6962df074eb56e4ef08d990
 reviewArchive:
 - date: 2024-03-25
-  version: 0.99.98i++
+  version: '0.99.98i++'
   appHashes:
   - 0d50db3d77d77177881f2134fc26e3e055350ae7043d7e4a4531f758b9bc94d1
   gitRevision: e96510d9c0bdba4d203863268caeb2ad4ade4136
   verdict: nosource
 - date: 2023-10-06
-  version: 0.99.98h
+  version: '0.99.98h'
   appHashes:
   - 2e67af86400d69ae3ecb8b05e57e960d481800c15cd68bb204537a093fee99c8
   gitRevision: 668c0b5c594847155457efad9eb7d0bdc8a72af6
   verdict: nonverifiable
 - date: 2023-05-04
-  version: 0.99.98g
+  version: '0.99.98g'
   appHashes:
   - 2e67af86400d69ae3ecb8b05e57e960d481800c15cd68bb204537a093fee99c8
   gitRevision: 59e67206e83af33d1b0a0d781c443e1702e2e59d
   verdict: reproducible
 - date: 2022-11-02
-  version: 0.99.98f
+  version: '0.99.98f'
   appHashes:
   - 0a5711195d96f13f41a71107f1b1035505b33afd3a299828e43e9d1b5101e9c0
   gitRevision: 8a474ddd867e50ed46404ed9d81f2a893bbf6619

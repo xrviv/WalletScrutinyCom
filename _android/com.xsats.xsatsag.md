@@ -8,7 +8,7 @@ appId: com.xsats.xsatsag
 appCountry: 
 released: 2022-09-17
 updated: 2023-05-10
-version: 2.0.23
+version: '2.0.23'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.duedex.app
 appCountry: 
 released: 2020-05-13
 updated: 2021-05-17
-version: 1.2.18
+version: '1.2.18'
 stars: 3.4
 ratings: 58
 reviews: 38

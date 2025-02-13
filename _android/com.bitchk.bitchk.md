@@ -8,7 +8,7 @@ appId: com.bitchk.bitchk
 appCountry: 
 released: 2017-11-17
 updated: 2017-11-29
-version: 3.8.8
+version: '3.8.8'
 stars: 
 ratings: 
 reviews: 

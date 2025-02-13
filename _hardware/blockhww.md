@@ -6,7 +6,7 @@ authors:
 released: 2024-03-14
 discontinued: 
 updated: 2024-03-14
-version: 2024.50.0
+version: '2024.50.0'
 binaries: https://github.com/proto-at-block/bitkey/
 dimensions:
 - 56

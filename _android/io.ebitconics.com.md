@@ -9,7 +9,7 @@ appId: io.ebitconics.com
 appCountry: 
 released: 2021-01-18
 updated: 2021-01-18
-version: 0.0.2
+version: '0.0.2'
 stars: 
 ratings: 
 reviews: 

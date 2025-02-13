@@ -9,7 +9,7 @@ appId: net.vite.wallet
 appCountry: 
 released: 2019-01-02
 updated: 2024-05-13
-version: v5.0.1
+version: 'v5.0.1'
 stars: 3.7
 ratings: 
 reviews: 78

@@ -8,7 +8,7 @@ appId: com.coinorbis.wallet
 appCountry: 
 released: 2018-11-27
 updated: 2019-01-25
-version: 1.2.1
+version: '1.2.1'
 stars: 4.5
 ratings: 8
 reviews: 3

@@ -8,7 +8,7 @@ appId: com.redratel.bitratel
 appCountry: 
 released: 2019-09-10
 updated: 2021-05-14
-version: 1.4.1
+version: '1.4.1'
 stars: 
 ratings: 
 reviews: 

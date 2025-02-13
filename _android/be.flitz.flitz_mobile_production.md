@@ -8,7 +8,7 @@ appId: be.flitz.flitz_mobile_production
 appCountry: 
 released: 
 updated: 2021-12-21
-version: 0.15.4
+version: '0.15.4'
 stars: 
 ratings: 
 reviews: 

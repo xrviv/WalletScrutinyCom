@@ -9,7 +9,7 @@ appCountry: cn
 idd: 348823316
 released: 2010-01-05
 updated: 2024-12-06
-version: 5.2.4
+version: '5.2.4'
 stars: 4.4
 reviews: 212
 size: '128423936'

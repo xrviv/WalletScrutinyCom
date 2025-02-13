@@ -8,7 +8,7 @@ appId: com.dssj.currencytradinggoogle
 appCountry: 
 released: 2020-02-12
 updated: 2021-03-11
-version: 1.4.1
+version: '1.4.1'
 stars: 2.3
 ratings: 
 reviews: 7

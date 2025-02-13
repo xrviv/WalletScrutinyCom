@@ -9,7 +9,7 @@ appId: finance.hollox.app
 appCountry: 
 released: 2022-11-13
 updated: 2024-10-04
-version: 6.0.4
+version: '6.0.4'
 stars: 5
 ratings: 
 reviews: 6

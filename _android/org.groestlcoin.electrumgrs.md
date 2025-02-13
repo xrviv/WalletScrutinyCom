@@ -8,7 +8,7 @@ appId: org.groestlcoin.electrumgrs
 appCountry: 
 released: 2018-06-02
 updated: 2024-03-18
-version: 4.5.4.0
+version: '4.5.4.0'
 stars: 
 ratings: 
 reviews: 

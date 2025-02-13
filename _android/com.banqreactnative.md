@@ -9,7 +9,7 @@ appId: com.banqreactnative
 appCountry: 
 released: 2020-03-13
 updated: 2021-12-10
-version: 5.4.0
+version: '5.4.0'
 stars: 2.7
 ratings: 
 reviews: 6

@@ -6,7 +6,7 @@ authors:
 released: 2020-09-02
 discontinued: 
 updated: 2024-04-25
-version: 1.8.6
+version: '1.8.6'
 binaries: 
 provider: Craig Raw
 providerWebsite: 

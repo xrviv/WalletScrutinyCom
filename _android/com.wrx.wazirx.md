@@ -27,7 +27,7 @@ date: 2021-08-09
 signer: 
 reviewArchive:
 - date: 2021-04-16
-  version: 2.13.4
+  version: '2.13.4'
   appHashes: []
   gitRevision: ef345dd316ca2a0ef9a19f23680a94e1a42fd171
   verdict: nowallet

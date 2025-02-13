@@ -8,7 +8,7 @@ appId: com.smart.bit
 appCountry: 
 released: 2021-11-24
 updated: 2021-12-30
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

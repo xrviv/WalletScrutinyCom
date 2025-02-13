@@ -6,7 +6,7 @@ authors:
 released: 2020-04-19
 discontinued: 
 updated: 2022-11-11
-version: 1.8.3
+version: '1.8.3'
 binaries: 
 provider: Lolli, Inc.
 providerWebsite: 

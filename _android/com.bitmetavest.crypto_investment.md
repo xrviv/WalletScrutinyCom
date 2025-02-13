@@ -8,7 +8,7 @@ appId: com.bitmetavest.crypto_investment
 appCountry: 
 released: 2022-03-08
 updated: 2022-03-18
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

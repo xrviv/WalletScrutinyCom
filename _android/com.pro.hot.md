@@ -9,7 +9,7 @@ appId: com.pro.hot
 appCountry: 
 released: 2021-05-27
 updated: 2023-12-14
-version: 4.9.8
+version: '4.9.8'
 stars: 2.8
 ratings: 10
 reviews: 4

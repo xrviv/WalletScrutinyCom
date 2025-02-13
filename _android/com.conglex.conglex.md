@@ -9,7 +9,7 @@ appId: com.conglex.conglex
 appCountry: 
 released: 2022-05-12
 updated: 2023-03-16
-version: 1.4.0
+version: '1.4.0'
 stars: 
 ratings: 
 reviews: 

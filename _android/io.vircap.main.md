@@ -9,7 +9,7 @@ appId: io.vircap.main
 appCountry: 
 released: 
 updated: 2024-06-03
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

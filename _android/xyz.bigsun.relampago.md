@@ -9,7 +9,7 @@ appId: xyz.bigsun.relampago
 appCountry: 
 released: 
 updated: 2019-12-03
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

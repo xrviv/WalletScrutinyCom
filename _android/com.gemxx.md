@@ -8,7 +8,7 @@ appId: com.gemxx
 appCountry: 
 released: 2021-10-30
 updated: 2022-05-11
-version: 1.0.1260
+version: '1.0.1260'
 stars: 
 ratings: 
 reviews: 

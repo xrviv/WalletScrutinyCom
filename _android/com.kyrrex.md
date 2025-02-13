@@ -9,7 +9,7 @@ appId: com.kyrrex
 appCountry: 
 released: 
 updated: 2025-02-07
-version: 4.2.44
+version: '4.2.44'
 stars: 4.3
 ratings: 
 reviews: 

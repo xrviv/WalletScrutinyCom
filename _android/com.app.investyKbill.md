@@ -8,7 +8,7 @@ appId: com.app.investyKbill
 appCountry: 
 released: 2021-02-26
 updated: 2021-08-25
-version: 1.0.13
+version: '1.0.13'
 stars: 4.1
 ratings: 11
 reviews: 7

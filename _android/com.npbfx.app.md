@@ -9,7 +9,7 @@ appId: com.npbfx.app
 appCountry: 
 released: 2022-05-04
 updated: 2025-02-05
-version: 1.14.0
+version: '1.14.0'
 stars: 
 ratings: 
 reviews: 

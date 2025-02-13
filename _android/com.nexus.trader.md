@@ -8,7 +8,7 @@ appId: com.nexus.trader
 appCountry: 
 released: 
 updated: 2020-01-19
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

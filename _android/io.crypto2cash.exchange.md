@@ -9,7 +9,7 @@ appId: io.crypto2cash.exchange
 appCountry: 
 released: 2018-12-06
 updated: 2024-08-22
-version: 2.0.6
+version: '2.0.6'
 stars: 3.7
 ratings: 
 reviews: 4

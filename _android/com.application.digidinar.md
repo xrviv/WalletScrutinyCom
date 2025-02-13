@@ -8,7 +8,7 @@ appId: com.application.digidinar
 appCountry: 
 released: 
 updated: 2021-03-02
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

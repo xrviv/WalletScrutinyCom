@@ -8,7 +8,7 @@ appId: com.btcboxpro.exchange
 appCountry: 
 released: 2020-05-06
 updated: 2020-07-21
-version: 1.0.7
+version: '1.0.7'
 stars: 
 ratings: 
 reviews: 

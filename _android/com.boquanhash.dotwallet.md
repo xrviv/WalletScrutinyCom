@@ -9,7 +9,7 @@ appId: com.boquanhash.dotwallet
 appCountry: us
 released: 2020-08-26
 updated: 2022-04-21
-version: 2.15.2
+version: '2.15.2'
 stars: 
 ratings: 
 reviews: 

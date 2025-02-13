@@ -8,7 +8,7 @@ appId: us.dt777.com
 appCountry: 
 released: 2022-04-20
 updated: 2022-04-20
-version: 1.0.9
+version: '1.0.9'
 stars: 
 ratings: 
 reviews: 

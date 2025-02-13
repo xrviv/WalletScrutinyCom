@@ -9,7 +9,7 @@ appCountry: gt
 idd: '1568251064'
 released: 2021-05-26
 updated: 2023-06-15
-version: 1.4.37
+version: '1.4.37'
 stars: 0
 reviews: 0
 size: '107014144'

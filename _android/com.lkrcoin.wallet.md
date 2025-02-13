@@ -8,7 +8,7 @@ appId: com.lkrcoin.wallet
 appCountry: 
 released: 2019-01-19
 updated: 2019-01-19
-version: v1.0.0
+version: 'v1.0.0'
 stars: 
 ratings: 
 reviews: 

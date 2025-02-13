@@ -9,7 +9,7 @@ appId: com.polispay.copay
 appCountry: 
 released: 2018-02-21
 updated: 2021-10-22
-version: 8.9.3
+version: '8.9.3'
 stars: 4.1
 ratings: 131
 reviews: 78

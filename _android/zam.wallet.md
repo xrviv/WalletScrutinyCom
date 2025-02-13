@@ -9,7 +9,7 @@ appId: zam.wallet
 appCountry: ru
 released: 2018-09-17
 updated: 2024-03-11
-version: 3.5.19
+version: '3.5.19'
 stars: 3.9
 ratings: 288
 reviews: 51

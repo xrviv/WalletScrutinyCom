@@ -9,7 +9,7 @@ appId: com.bitpapa
 appCountry: 
 released: 2020-08-18
 updated: 2024-01-22
-version: 1.12.3
+version: '1.12.3'
 stars: 3.8
 ratings: 5332
 reviews: 40

@@ -9,7 +9,7 @@ appCountry: th
 idd: '1584284794'
 released: 2021-11-16
 updated: 2022-01-20
-version: 1.0.7
+version: '1.0.7'
 stars: 0
 reviews: 0
 size: '76312576'

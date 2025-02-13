@@ -9,7 +9,7 @@ appId: com.profittrading.forbitmex
 appCountry: 
 released: 2019-06-11
 updated: 2025-02-02
-version: 7.0.4
+version: '7.0.4'
 stars: 4.4
 ratings: 348
 reviews: 9

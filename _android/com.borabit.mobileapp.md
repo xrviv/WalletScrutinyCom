@@ -8,7 +8,7 @@ appId: com.borabit.mobileapp
 appCountry: 
 released: 2020-06-17
 updated: 2022-10-19
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

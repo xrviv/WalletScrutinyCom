@@ -8,7 +8,7 @@ appId: com.badgermobile
 appCountry: 
 released: 2019-06-10
 updated: 2022-04-15
-version: 1.13.18
+version: '1.13.18'
 stars: 3.6
 ratings: 168
 reviews: 11

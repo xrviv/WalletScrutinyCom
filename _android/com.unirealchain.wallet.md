@@ -8,7 +8,7 @@ appId: com.unirealchain.wallet
 appCountry: 
 released: 2021-11-08
 updated: 2021-11-18
-version: 3.40.5
+version: '3.40.5'
 stars: 
 ratings: 
 reviews: 

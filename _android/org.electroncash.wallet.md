@@ -8,7 +8,7 @@ appId: org.electroncash.wallet
 appCountry: 
 released: 2018-12-08
 updated: 2024-09-13
-version: 4.4.1-3
+version: '4.4.1-3'
 stars: 4.1
 ratings: 191
 reviews: 19

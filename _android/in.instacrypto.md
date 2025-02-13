@@ -9,7 +9,7 @@ appId: in.instacrypto
 appCountry: 
 released: 
 updated: 2024-01-25
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: io.cieloex.app
 appCountry: 
 released: 2019-02-21
 updated: 2019-03-04
-version: 5.0.1
+version: '5.0.1'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.BIYAGlobal.www
 appCountry: 
 released: 2021-04-13
 updated: 2025-01-24
-version: 2.8.610
+version: '2.8.610'
 stars: 3.7
 ratings: 
 reviews: 5

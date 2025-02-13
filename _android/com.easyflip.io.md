@@ -8,7 +8,7 @@ appId: com.easyflip.io
 appCountry: 
 released: 2022-07-11
 updated: 2022-12-04
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

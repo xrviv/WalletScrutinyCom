@@ -8,7 +8,7 @@ appId: bd.nazmul81.global_chain
 appCountry: 
 released: 2021-01-28
 updated: 2021-01-29
-version: 1.0.4
+version: '1.0.4'
 stars: 
 ratings: 
 reviews: 

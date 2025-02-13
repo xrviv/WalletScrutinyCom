@@ -8,7 +8,7 @@ appId: com.cryptotrade_flutter.app
 appCountry: 
 released: 2019-07-01
 updated: 2019-07-02
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

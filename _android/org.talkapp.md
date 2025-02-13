@@ -9,7 +9,7 @@ appId: org.talkapp
 appCountry: 
 released: 2021-01-05
 updated: 2025-01-29
-version: 2.29.2
+version: '2.29.2'
 stars: 3.3
 ratings: 
 reviews: 

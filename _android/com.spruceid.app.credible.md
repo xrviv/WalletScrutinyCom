@@ -8,7 +8,7 @@ appId: com.spruceid.app.credible
 appCountry: 
 released: 
 updated: 2021-07-27
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

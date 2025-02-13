@@ -8,7 +8,7 @@ appId: com.debayarab.platform
 appCountry: 
 released: 2019-12-16
 updated: 2020-02-28
-version: 1.2.3
+version: '1.2.3'
 stars: 
 ratings: 
 reviews: 

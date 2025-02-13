@@ -8,7 +8,7 @@ appId: com.obolon9_mobile
 appCountry: 
 released: 2018-04-18
 updated: 2021-10-09
-version: 2.1.2
+version: '2.1.2'
 stars: 
 ratings: 
 reviews: 

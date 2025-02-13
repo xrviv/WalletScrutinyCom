@@ -8,7 +8,7 @@ appId: vip.kdex.app
 appCountry: 
 released: 2021-05-27
 updated: 2021-09-02
-version: 1.9.2
+version: '1.9.2'
 stars: 
 ratings: 
 reviews: 

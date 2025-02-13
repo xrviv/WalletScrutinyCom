@@ -9,7 +9,7 @@ appId: it.plutus.android
 appCountry: 
 released: 
 updated: 2025-02-06
-version: 4.9.4
+version: '4.9.4'
 stars: 4.3
 ratings: 
 reviews: 9

@@ -6,7 +6,7 @@ authors:
 released: 2016-04-09
 discontinued: 
 updated: 2024-05-27
-version: 1.9.15
+version: '1.9.15'
 binaries: 
 provider: 
 providerWebsite: 

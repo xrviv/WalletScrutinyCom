@@ -9,7 +9,7 @@ appId: com.modelxv64
 appCountry: us
 released: 2020-05-29
 updated: 2021-03-18
-version: 1.6.9
+version: '1.6.9'
 stars: 
 ratings: 
 reviews: 

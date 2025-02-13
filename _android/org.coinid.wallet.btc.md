@@ -9,7 +9,7 @@ appId: org.coinid.wallet.btc
 appCountry: 
 released: 2018-10-14
 updated: 2021-02-20
-version: 1.8.0
+version: '1.8.0'
 stars: 4.4
 ratings: 
 reviews: 5

@@ -8,7 +8,7 @@ appId: kz.intebix
 appCountry: 
 released: 2023-01-09
 updated: 2025-01-30
-version: 0.1.1
+version: '0.1.1'
 stars: 2.3
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.flutter.cryptox
 appCountry: 
 released: 2021-07-31
 updated: 2022-07-29
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

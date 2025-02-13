@@ -8,7 +8,7 @@ appId: com.mixcoins.app
 appCountry: 
 released: 2019-07-03
 updated: 2019-07-03
-version: 1.1.2
+version: '1.1.2'
 stars: 
 ratings: 
 reviews: 

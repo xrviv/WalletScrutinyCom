@@ -8,7 +8,7 @@ appId: com.eyalabs.eyawallet
 appCountry: 
 released: 2015-12-03
 updated: 2019-02-20
-version: 5.3.2
+version: '5.3.2'
 stars: 3.2
 ratings: 90
 reviews: 51

@@ -8,7 +8,7 @@ appId: com.onyze.wallet
 appCountry: 
 released: 
 updated: 2020-07-14
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: defisuisse.thorwallet
 appCountry: 
 released: 2021-12-23
 updated: 2025-01-31
-version: 3.0.0
+version: '3.0.0'
 stars: 3.9
 ratings: 
 reviews: 32

@@ -9,7 +9,7 @@ appId: com.anxintl.mythology
 appCountry: 
 released: 2016-04-18
 updated: 2016-10-29
-version: 1.3.3
+version: '1.3.3'
 stars: 
 ratings: 
 reviews: 

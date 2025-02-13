@@ -8,7 +8,7 @@ appId: com.lastbit.cards
 appCountry: 
 released: 
 updated: 2021-08-28
-version: Varies with device
+version: 'Varies with device'
 stars: 
 ratings: 
 reviews: 

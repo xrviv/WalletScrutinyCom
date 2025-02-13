@@ -6,7 +6,7 @@ authors:
 released: 2019-12-16
 discontinued: 
 updated: 2024-04-21
-version: 1.2.2-4
+version: '1.2.2-4'
 binaries: 
 provider: 
 providerWebsite: 

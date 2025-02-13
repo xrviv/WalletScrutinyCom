@@ -6,7 +6,7 @@ authors:
 released: 2022-10-12
 discontinued: 
 updated: 2022-10-17
-version: 0.0.2-alpha
+version: '0.0.2-alpha'
 binaries: https://github.com/BitcoinComfy/BitcoinMRE/tags
 dimensions: 
 weight: 

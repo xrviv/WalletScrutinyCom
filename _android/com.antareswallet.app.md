@@ -9,7 +9,7 @@ appId: com.antareswallet.app
 appCountry: us
 released: 2021-03-18
 updated: 2021-03-22
-version: 0.9.5+205
+version: '0.9.5+205'
 stars: 
 ratings: 48
 reviews: 

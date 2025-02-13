@@ -9,7 +9,7 @@ appId: com.dantown.Dantownapp
 appCountry: 
 released: 2021-03-27
 updated: 2024-10-24
-version: 2.0.63
+version: '2.0.63'
 stars: 4.2
 ratings: 
 reviews: 37

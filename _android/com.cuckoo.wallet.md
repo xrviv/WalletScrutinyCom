@@ -8,7 +8,7 @@ appId: com.cuckoo.wallet
 appCountry: 
 released: 2021-06-29
 updated: 2022-06-27
-version: 3.6.0
+version: '3.6.0'
 stars: 
 ratings: 
 reviews: 

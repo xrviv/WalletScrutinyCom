@@ -9,7 +9,7 @@ appId: com.atomex.android
 appCountry: 
 released: 2020-12-06
 updated: 2023-02-24
-version: 1.25.0
+version: '1.25.0'
 stars: 3.7
 ratings: 64
 reviews: 5

@@ -8,7 +8,7 @@ appId: com.econobit.app
 appCountry: 
 released: 2020-01-29
 updated: 2023-11-06
-version: 0.1.8
+version: '0.1.8'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.tmdstudios.cryptoledgerkotlin
 appCountry: 
 released: 
 updated: 2022-12-27
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

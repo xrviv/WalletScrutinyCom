@@ -9,7 +9,7 @@ appId: com.gcmasia.pro
 appCountry: HK
 released: 2017-04-24
 updated: 2024-08-18
-version: 90.4.010
+version: '90.4.010'
 stars: 4
 ratings: 
 reviews: 

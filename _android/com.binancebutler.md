@@ -8,7 +8,7 @@ appId: com.binancebutler
 appCountry: 
 released: 2019-07-06
 updated: 2021-06-09
-version: 1.2.5
+version: '1.2.5'
 stars: 
 ratings: 
 reviews: 

@@ -6,7 +6,7 @@ authors:
 released: 2024-03-05
 discontinued: 
 updated: 2025-01-06
-version: 4.11.0
+version: '4.11.0'
 binaries: 
 dimensions:
 - 90

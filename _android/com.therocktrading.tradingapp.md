@@ -9,7 +9,7 @@ appId: com.therocktrading.tradingapp
 appCountry: 
 released: 2018-10-29
 updated: 2022-07-11
-version: 1.6.1
+version: '1.6.1'
 stars: 
 ratings: 
 reviews: 

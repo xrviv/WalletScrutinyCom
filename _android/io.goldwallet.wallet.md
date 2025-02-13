@@ -8,7 +8,7 @@ appId: io.goldwallet.wallet
 appCountry: 
 released: 2020-02-18
 updated: 2023-05-17
-version: 6.5.2
+version: '6.5.2'
 stars: 4.2
 ratings: 504
 reviews: 13

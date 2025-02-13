@@ -8,7 +8,7 @@ appId: com.esos.ainvestments
 appCountry: 
 released: 
 updated: 2020-05-22
-version: 7.0.3(1)
+version: '7.0.3(1)'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.mntex.monetiumexchange
 appCountry: 
 released: 2020-11-03
 updated: 2020-11-17
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

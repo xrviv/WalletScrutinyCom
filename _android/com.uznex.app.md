@@ -9,7 +9,7 @@ appId: com.uznex.app
 appCountry: 
 released: 2020-04-28
 updated: 2024-02-19
-version: 2.0.0
+version: '2.0.0'
 stars: 
 ratings: 
 reviews: 

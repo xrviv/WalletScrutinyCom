@@ -8,7 +8,7 @@ appId: kr.raistone.stonewallet
 appCountry: 
 released: 2019-01-10
 updated: 2019-10-01
-version: 1.1.6
+version: '1.1.6'
 stars: 
 ratings: 
 reviews: 

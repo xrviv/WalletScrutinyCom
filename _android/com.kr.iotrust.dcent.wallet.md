@@ -9,7 +9,7 @@ appId: com.kr.iotrust.dcent.wallet
 appCountry: cn
 released: 2018-10-16
 updated: 2025-02-05
-version: 7.4.1
+version: '7.4.1'
 stars: 4
 ratings: 756
 reviews: 877

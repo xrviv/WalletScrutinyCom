@@ -8,7 +8,7 @@ appId: io.bitazure.wallet
 appCountry: 
 released: 2020-10-01
 updated: 2021-07-20
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

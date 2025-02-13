@@ -8,7 +8,7 @@ appId: com.bitcoincashsystems.app
 appCountry: 
 released: 2022-02-22
 updated: 2022-02-23
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

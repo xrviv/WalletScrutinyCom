@@ -9,7 +9,7 @@ appId: com.wallet.online
 appCountry: 
 released: 2019-11-08
 updated: 2021-04-22
-version: 1.1.3
+version: '1.1.3'
 stars: 
 ratings: 
 reviews: 

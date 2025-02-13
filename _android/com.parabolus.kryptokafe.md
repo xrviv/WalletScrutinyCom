@@ -8,7 +8,7 @@ appId: com.parabolus.kryptokafe
 appCountry: 
 released: 2021-02-19
 updated: 2022-05-18
-version: 1.0.8
+version: '1.0.8'
 stars: 
 ratings: 
 reviews: 

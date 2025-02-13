@@ -8,7 +8,7 @@ appId: com.modules.tradingbots.getextrabtc
 appCountry: 
 released: 
 updated: 2018-12-04
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.hilux.wallet
 appCountry: 
 released: 2019-03-31
 updated: 2019-12-04
-version: v2.70
+version: 'v2.70'
 stars: 5
 ratings: 55
 reviews: 4

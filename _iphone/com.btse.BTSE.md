@@ -9,7 +9,7 @@ appCountry: ng
 idd: 1494556510
 released: 2020-04-13
 updated: 2024-08-19
-version: 1.93.0
+version: '1.93.0'
 stars: 4.5
 reviews: 13
 size: '139407360'

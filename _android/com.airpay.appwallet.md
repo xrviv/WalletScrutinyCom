@@ -9,7 +9,7 @@ appId: com.airpay.appwallet
 appCountry: 
 released: 2022-04-15
 updated: 2022-04-15
-version: 1.0.8
+version: '1.0.8'
 stars: 
 ratings: 
 reviews: 

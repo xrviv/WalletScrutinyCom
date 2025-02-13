@@ -9,7 +9,7 @@ appId: com.hxg.wallet
 appCountry: 
 released: 2022-09-30
 updated: 2025-01-24
-version: 3.4.9
+version: '3.4.9'
 stars: 4
 ratings: 
 reviews: 131

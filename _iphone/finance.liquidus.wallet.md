@@ -9,7 +9,7 @@ appCountry: pk
 idd: '1625544806'
 released: 2023-01-25
 updated: 2024-11-20
-version: 1.0.18
+version: '1.0.18'
 stars: 0
 reviews: 0
 size: '61554688'

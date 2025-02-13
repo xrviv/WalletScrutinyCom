@@ -9,7 +9,7 @@ appId: com.xrex.mobile
 appCountry: au
 released: 2020-02-20
 updated: 2025-01-06
-version: 2.1.462
+version: '2.1.462'
 stars: 
 ratings: 
 reviews: 

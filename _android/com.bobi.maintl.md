@@ -8,7 +8,7 @@ appId: com.bobi.maintl
 appCountry: 
 released: 2021-03-18
 updated: 2021-06-17
-version: 0.2.3
+version: '0.2.3'
 stars: 
 ratings: 
 reviews: 

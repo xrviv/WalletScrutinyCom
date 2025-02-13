@@ -9,7 +9,7 @@ appId: com.coinlist.trade
 appCountry: us
 released: 2020-08-10
 updated: 2021-12-06
-version: 2.0.8
+version: '2.0.8'
 stars: 3
 ratings: 4377
 reviews: 193

@@ -9,7 +9,7 @@ appCountry: tw
 idd: 1328764142
 released: 2018-01-02
 updated: 2025-02-11
-version: 3.50.2
+version: '3.50.2'
 stars: 4.7
 reviews: 1163
 size: '139300864'

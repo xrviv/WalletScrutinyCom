@@ -8,7 +8,7 @@ appId: com.pentasecurity.pallet
 appCountry: 
 released: 2018-05-27
 updated: 2018-12-27
-version: 1.0.7.1
+version: '1.0.7.1'
 stars: 
 ratings: 
 reviews: 

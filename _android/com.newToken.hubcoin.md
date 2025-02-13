@@ -8,7 +8,7 @@ appId: com.newToken.hubcoin
 appCountry: 
 released: 2022-05-04
 updated: 2022-06-03
-version: 0.0.36
+version: '0.0.36'
 stars: 5
 ratings: 
 reviews: 

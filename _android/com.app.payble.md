@@ -9,7 +9,7 @@ appId: com.app.payble
 appCountry: 
 released: 2018-01-07
 updated: 2021-03-01
-version: 2.1.5
+version: '2.1.5'
 stars: 4.7
 ratings: 
 reviews: 

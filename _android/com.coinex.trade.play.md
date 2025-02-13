@@ -9,7 +9,7 @@ appId: com.coinex.trade.play
 appCountry: 
 released: 2019-12-27
 updated: 2025-01-22
-version: 3.40.2
+version: '3.40.2'
 stars: 4.7
 ratings: 60269
 reviews: 1383

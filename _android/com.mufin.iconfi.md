@@ -9,7 +9,7 @@ appId: com.mufin.iconfi
 appCountry: 
 released: 2021-01-27
 updated: 2023-01-09
-version: 1.2.2
+version: '1.2.2'
 stars: 4.4
 ratings: 220
 reviews: 27

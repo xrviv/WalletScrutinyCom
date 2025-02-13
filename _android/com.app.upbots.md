@@ -9,7 +9,7 @@ appId: com.app.upbots
 appCountry: 
 released: 2021-12-14
 updated: 2022-02-25
-version: 1.9.2
+version: '1.9.2'
 stars: 
 ratings: 
 reviews: 

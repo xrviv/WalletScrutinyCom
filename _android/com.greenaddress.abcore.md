@@ -10,7 +10,7 @@ appId: com.greenaddress.abcore
 appCountry: 
 released: 
 updated: 2019-10-16
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

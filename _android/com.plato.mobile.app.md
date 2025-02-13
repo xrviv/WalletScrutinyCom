@@ -8,7 +8,7 @@ appId: com.plato.mobile.app
 appCountry: 
 released: 2021-10-15
 updated: 2021-11-18
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

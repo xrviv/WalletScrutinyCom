@@ -9,7 +9,7 @@ appId: cz.confirmo.app.confirmo_flutter
 appCountry: 
 released: 2022-08-12
 updated: 2023-08-01
-version: 1.0.8
+version: '1.0.8'
 stars: 
 ratings: 
 reviews: 

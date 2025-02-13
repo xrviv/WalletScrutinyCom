@@ -9,7 +9,7 @@ appId: com.counos
 appCountry: 
 released: 2018-07-03
 updated: 2022-04-20
-version: 1.9.94
+version: '1.9.94'
 stars: 4.2
 ratings: 513
 reviews: 21

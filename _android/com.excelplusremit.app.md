@@ -8,7 +8,7 @@ appId: com.excelplusremit.app
 appCountry: 
 released: 2021-03-17
 updated: 2022-07-12
-version: 3.0.8
+version: '3.0.8'
 stars: 
 ratings: 
 reviews: 

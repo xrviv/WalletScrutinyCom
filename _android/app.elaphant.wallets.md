@@ -8,7 +8,7 @@ appId: app.elaphant.wallets
 appCountry: 
 released: 2020-10-08
 updated: 2021-05-03
-version: 1.99.15
+version: '1.99.15'
 stars: 4.8
 ratings: 10
 reviews: 1

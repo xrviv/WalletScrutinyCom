@@ -8,7 +8,7 @@ appId: app.exchange.optimax
 appCountry: 
 released: 2022-02-10
 updated: 2022-02-11
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

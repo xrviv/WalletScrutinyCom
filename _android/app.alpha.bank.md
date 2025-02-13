@@ -8,7 +8,7 @@ appId: app.alpha.bank
 appCountry: 
 released: 2021-05-30
 updated: 2021-06-02
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

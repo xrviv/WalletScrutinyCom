@@ -10,7 +10,7 @@ appCountry: jp
 idd: 1002555958
 released: 2015-07-08
 updated: 2025-01-25
-version: 5.3.0
+version: '5.3.0'
 stars: 4.5
 reviews: 2
 size: '84685824'

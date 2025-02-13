@@ -9,7 +9,7 @@ appId: id.huobi.indonesia
 appCountry: 
 released: 2020-03-09
 updated: 2021-07-01
-version: 2.0.2
+version: '2.0.2'
 stars: 
 ratings: 
 reviews: 

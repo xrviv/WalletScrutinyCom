@@ -9,7 +9,7 @@ appId: com.hashkey.hub
 appCountry: 
 released: 2019-03-17
 updated: 2022-04-07
-version: 4.0.0
+version: '4.0.0'
 stars: 4.3
 ratings: 
 reviews: 3

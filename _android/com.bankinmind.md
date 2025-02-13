@@ -8,7 +8,7 @@ appId: com.bankinmind
 appCountry: 
 released: 2022-06-16
 updated: 2023-05-01
-version: 1.0.71
+version: '1.0.71'
 stars: 
 ratings: 
 reviews: 

@@ -6,7 +6,7 @@ authors:
 released: 2018-09-11
 discontinued: 
 updated: 2019-10-25
-version: 0.5.9-alpha
+version: '0.5.9-alpha'
 binaries: 
 provider: Lightning Labs
 providerWebsite: https://lightning.engineering

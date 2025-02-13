@@ -8,7 +8,7 @@ appId: com.cryptocaptrades.pro
 appCountry: 
 released: 2021-07-23
 updated: 2021-08-16
-version: 1.0.2.210816
+version: '1.0.2.210816'
 stars: 
 ratings: 
 reviews: 

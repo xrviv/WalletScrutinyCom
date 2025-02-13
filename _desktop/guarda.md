@@ -6,7 +6,7 @@ authors:
 released: 2021-05-01
 discontinued: 
 updated: 2021-08-13
-version: 1.0.20
+version: '1.0.20'
 binaries: 
 provider: Guardaco LDA
 providerWebsite: 

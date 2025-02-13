@@ -9,7 +9,7 @@ appId: com.wallet.dex
 appCountry: 
 released: 2022-11-25
 updated: 2023-02-08
-version: 1.3.1
+version: '1.3.1'
 stars: 4.6
 ratings: 
 reviews: 12

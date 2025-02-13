@@ -9,7 +9,7 @@ appId: com.buengroup.buenbit
 appCountry: 
 released: 2021-12-30
 updated: 2025-02-06
-version: 3.27.0
+version: '3.27.0'
 stars: 3.7
 ratings: 
 reviews: 31

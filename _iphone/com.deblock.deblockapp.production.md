@@ -9,7 +9,7 @@ appCountry: fr
 idd: '6479202981'
 released: 2024-04-02
 updated: 2025-02-11
-version: 2.1.2
+version: '2.1.2'
 stars: 4.7
 reviews: 4369
 size: '659850240'

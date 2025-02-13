@@ -9,7 +9,7 @@ appId: com.libertify
 appCountry: 
 released: 2023-01-12
 updated: 2024-02-06
-version: 2.4.0
+version: '2.4.0'
 stars: 
 ratings: 
 reviews: 

@@ -6,7 +6,7 @@ authors:
 released: 2014-03-03
 discontinued: 
 updated: 2023-05-15
-version: 1.4.4
+version: '1.4.4'
 binaries: 
 provider: 
 providerWebsite: 

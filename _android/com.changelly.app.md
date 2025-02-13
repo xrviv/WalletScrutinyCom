@@ -10,7 +10,7 @@ appId: com.changelly.app
 appCountry: 
 released: 2018-08-28
 updated: 2025-01-31
-version: 3.34.0
+version: '3.34.0'
 stars: 4.6
 ratings: 5008
 reviews: 1024

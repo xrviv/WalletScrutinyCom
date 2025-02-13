@@ -9,7 +9,7 @@ appId: crypto.stars.wallet
 appCountry: 
 released: 2018-10-11
 updated: 2018-10-11
-version: 0.42.6
+version: '0.42.6'
 stars: 
 ratings: 
 reviews: 

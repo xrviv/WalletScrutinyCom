@@ -8,7 +8,7 @@ appId: com.kratosapp
 appCountry: 
 released: 2021-02-01
 updated: 2021-02-01
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

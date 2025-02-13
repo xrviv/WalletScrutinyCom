@@ -8,7 +8,7 @@ appId: com.gp.ubs
 appCountry: 
 released: 
 updated: 2021-06-20
-version: 1.1.2
+version: '1.1.2'
 stars: 2
 ratings: 5
 reviews: 5

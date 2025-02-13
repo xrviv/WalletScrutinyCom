@@ -6,7 +6,7 @@ authors:
 released: 2018-02-27
 discontinued: 
 updated: 2023-02-23
-version: 1.89.0.0
+version: '1.89.0.0'
 binaries: 
 provider: Panteam Ltd.
 providerWebsite: http://panteam.net

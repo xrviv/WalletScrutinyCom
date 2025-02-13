@@ -8,7 +8,7 @@ appId: com.legend.hyperw
 appCountry: 
 released: 
 updated: 2021-12-29
-version: 2.4.1
+version: '2.4.1'
 stars: 
 ratings: 
 reviews: 

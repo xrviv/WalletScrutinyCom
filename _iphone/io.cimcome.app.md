@@ -9,7 +9,7 @@ appCountry: bm
 idd: 1536525077
 released: 2020-12-09
 updated: 2024-11-22
-version: 2.2.13
+version: '2.2.13'
 stars: 0
 reviews: 0
 size: '81775616'

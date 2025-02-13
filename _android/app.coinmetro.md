@@ -9,7 +9,7 @@ appId: app.coinmetro
 appCountry: us
 released: 2017-12-10
 updated: 2024-12-18
-version: 5.50.798
+version: '5.50.798'
 stars: 4.4
 ratings: 419
 reviews: 87

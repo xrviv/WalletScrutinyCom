@@ -9,7 +9,7 @@ appId: io.trustverse.mars
 appCountry: 
 released: 2020-05-27
 updated: 2022-11-22
-version: 2.4.0G
+version: '2.4.0G'
 stars: 
 ratings: 
 reviews: 

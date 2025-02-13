@@ -9,7 +9,7 @@ appId: io.ledn.app
 appCountry: us
 released: 2021-01-04
 updated: 2023-08-24
-version: 0.8.6
+version: '0.8.6'
 stars: 2.3
 ratings: 71
 reviews: 12

@@ -9,7 +9,7 @@ appId: store.bit.global
 appCountry: 
 released: 2022-06-16
 updated: 2022-09-22
-version: 2.2.3
+version: '2.2.3'
 stars: 
 ratings: 
 reviews: 

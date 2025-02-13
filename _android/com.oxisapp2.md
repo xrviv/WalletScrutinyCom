@@ -8,7 +8,7 @@ appId: com.oxisapp2
 appCountry: 
 released: 2021-06-17
 updated: 2021-06-24
-version: 4.1.0
+version: '4.1.0'
 stars: 
 ratings: 
 reviews: 

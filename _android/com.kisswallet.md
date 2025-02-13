@@ -9,7 +9,7 @@ appId: com.kisswallet
 appCountry: 
 released: 2020-02-16
 updated: 2020-05-30
-version: 0.3.6
+version: '0.3.6'
 stars: 
 ratings: 
 reviews: 

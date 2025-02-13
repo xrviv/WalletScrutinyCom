@@ -6,7 +6,7 @@ authors:
 released: 2020-11-27
 discontinued: 
 updated: 2021-05-28
-version: 1.8.3
+version: '1.8.3'
 binaries: 
 dimensions: 
 weight: 

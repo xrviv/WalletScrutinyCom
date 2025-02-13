@@ -8,7 +8,7 @@ appId: io.albos.wallet
 appCountry: 
 released: 2019-07-01
 updated: 2021-10-17
-version: 2.4.18
+version: '2.4.18'
 stars: 
 ratings: 
 reviews: 

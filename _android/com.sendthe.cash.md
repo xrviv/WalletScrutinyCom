@@ -8,7 +8,7 @@ appId: com.sendthe.cash
 appCountry: 
 released: 2022-08-17
 updated: 2023-01-11
-version: 2.0.0
+version: '2.0.0'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.pulsarbank
 appCountry: 
 released: 2021-04-28
 updated: 2021-04-28
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

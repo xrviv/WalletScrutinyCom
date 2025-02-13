@@ -8,7 +8,7 @@ appId: finance.kala.app
 appCountry: 
 released: 
 updated: 2021-10-05
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

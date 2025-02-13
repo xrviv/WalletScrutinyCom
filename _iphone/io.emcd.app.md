@@ -9,7 +9,7 @@ appCountry: jp
 idd: '1606903304'
 released: 2022-01-29
 updated: 2024-09-24
-version: 2.5.0
+version: '2.5.0'
 stars: 0
 reviews: 0
 size: '187786240'

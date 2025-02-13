@@ -8,7 +8,7 @@ appId: io.fulmo
 appCountry: 
 released: 2019-01-09
 updated: 2019-06-11
-version: 1.0.0
+version: '1.0.0'
 stars: 4.3
 ratings: 11
 reviews: 7

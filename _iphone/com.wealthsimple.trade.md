@@ -9,7 +9,7 @@ appCountry: ca
 idd: 1403491709
 released: 2019-02-26
 updated: 2025-02-08
-version: 2.168.0
+version: '2.168.0'
 stars: 4.6
 reviews: 125475
 size: '177423360'

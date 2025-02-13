@@ -9,7 +9,7 @@ appId: com.barchart.app
 appCountry: 
 released: 2013-11-18
 updated: 2024-08-19
-version: 3.0.10
+version: '3.0.10'
 stars: 4.6
 ratings: 9788
 reviews: 2277

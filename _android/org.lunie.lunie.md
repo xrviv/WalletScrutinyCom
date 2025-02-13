@@ -8,7 +8,7 @@ appId: org.lunie.lunie
 appCountry: 
 released: 
 updated: 2020-11-26
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

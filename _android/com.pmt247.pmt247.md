@@ -8,7 +8,7 @@ appId: com.pmt247.pmt247
 appCountry: 
 released: 2019-10-02
 updated: 2019-10-02
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

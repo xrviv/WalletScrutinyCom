@@ -9,7 +9,7 @@ appId: com.nitroex.nitroexvipapp
 appCountry: us
 released: 2020-11-17
 updated: 2022-07-08
-version: 8.0.5
+version: '8.0.5'
 stars: 
 ratings: 
 reviews: 

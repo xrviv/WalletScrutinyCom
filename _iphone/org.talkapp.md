@@ -9,7 +9,7 @@ appCountry: hk
 idd: '1547227377'
 released: 2021-02-10
 updated: 2025-01-29
-version: 2.29.1
+version: '2.29.1'
 stars: 4.5
 reviews: 171
 size: '148534272'

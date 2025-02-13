@@ -9,7 +9,7 @@ appId: com.nitroex.nitroexchangeapp
 appCountry: tt
 released: 2021-06-23
 updated: 2025-01-02
-version: 3.2.5
+version: '3.2.5'
 stars: 4.1
 ratings: 231
 reviews: 160

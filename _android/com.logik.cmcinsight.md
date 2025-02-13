@@ -8,7 +8,7 @@ appId: com.logik.cmcinsight
 appCountry: 
 released: 2020-11-02
 updated: 2020-11-02
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

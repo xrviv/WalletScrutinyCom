@@ -8,7 +8,7 @@ appId: com.gk8.network
 appCountry: 
 released: 2021-09-01
 updated: 2025-01-14
-version: 15.0.0
+version: '15.0.0'
 stars: 
 ratings: 
 reviews: 

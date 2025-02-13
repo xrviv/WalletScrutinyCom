@@ -8,7 +8,7 @@ appId: com.eaglerobo.android
 appCountry: 
 released: 2021-10-20
 updated: 2021-11-22
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

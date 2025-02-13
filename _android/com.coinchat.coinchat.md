@@ -9,7 +9,7 @@ appId: com.coinchat.coinchat
 appCountry: 
 released: 2018-05-20
 updated: 2020-03-11
-version: 2.0.2
+version: '2.0.2'
 stars: 3.7
 ratings: 1190
 reviews: 29

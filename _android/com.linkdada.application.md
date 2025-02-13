@@ -8,7 +8,7 @@ appId: com.linkdada.application
 appCountry: 
 released: 2021-04-13
 updated: 2021-06-18
-version: 1.4.2
+version: '1.4.2'
 stars: 
 ratings: 
 reviews: 

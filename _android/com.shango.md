@@ -9,7 +9,7 @@ appId: com.shango
 appCountry: 
 released: 
 updated: 2019-06-01
-version: Varies with device
+version: 'Varies with device'
 stars: 
 ratings: 
 reviews: 

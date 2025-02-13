@@ -6,7 +6,7 @@ authors:
 released: 2017-03-22
 discontinued: 
 updated: 2024-04-10
-version: 1.7.0
+version: '1.7.0'
 binaries: 
 provider: ArkEcosystem
 providerWebsite: https://ark.io/

@@ -9,7 +9,7 @@ appId: com.ayrex.trading.dlvc
 appCountry: 
 released: 2020-05-14
 updated: 2020-05-14
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

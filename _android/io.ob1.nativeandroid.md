@@ -8,7 +8,7 @@ appId: io.ob1.nativeandroid
 appCountry: 
 released: 
 updated: 2020-09-27
-version: 1.3.7
+version: '1.3.7'
 stars: 3.7
 ratings: 394
 reviews: 173

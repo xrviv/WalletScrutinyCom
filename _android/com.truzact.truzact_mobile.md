@@ -9,7 +9,7 @@ appId: com.truzact.truzact_mobile
 appCountry: 
 released: 2022-02-13
 updated: 2023-07-12
-version: 4.6.7
+version: '4.6.7'
 stars: 
 ratings: 
 reviews: 

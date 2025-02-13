@@ -9,7 +9,7 @@ appId: com.evraon.trading
 appCountry: 
 released: 2019-06-14
 updated: 2022-12-07
-version: 1.8.2
+version: '1.8.2'
 stars: 
 ratings: 
 reviews: 

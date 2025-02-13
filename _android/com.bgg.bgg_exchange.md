@@ -8,7 +8,7 @@ appId: com.bgg.bgg_exchange
 appCountry: 
 released: 2018-10-29
 updated: 2020-09-09
-version: 1.6.7
+version: '1.6.7'
 stars: 4.2
 ratings: 36
 reviews: 4

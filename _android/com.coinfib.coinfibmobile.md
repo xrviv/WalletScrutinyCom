@@ -8,7 +8,7 @@ appId: com.coinfib.coinfibmobile
 appCountry: 
 released: 2022-03-16
 updated: 2022-04-01
-version: 1.0.4
+version: '1.0.4'
 stars: 
 ratings: 
 reviews: 

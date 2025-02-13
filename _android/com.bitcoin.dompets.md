@@ -8,7 +8,7 @@ appId: com.bitcoin.dompets
 appCountry: 
 released: 2017-09-29
 updated: 2017-09-30
-version: 1.0.0
+version: '1.0.0'
 stars: 2.9
 ratings: 13
 reviews: 7

@@ -8,7 +8,7 @@ appId: com.coinsfera
 appCountry: 
 released: 
 updated: 2020-08-23
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

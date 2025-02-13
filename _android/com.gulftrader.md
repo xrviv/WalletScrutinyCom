@@ -9,7 +9,7 @@ appId: com.gulftrader
 appCountry: 
 released: 
 updated: 2020-11-13
-version: 3.0.8
+version: '3.0.8'
 stars: 
 ratings: 
 reviews: 

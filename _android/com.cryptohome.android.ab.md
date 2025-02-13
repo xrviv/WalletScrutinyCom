@@ -8,7 +8,7 @@ appId: com.cryptohome.android.ab
 appCountry: 
 released: 2021-11-10
 updated: 2021-11-10
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

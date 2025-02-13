@@ -8,7 +8,7 @@ appId: com.xeniosmarkets
 appCountry: 
 released: 
 updated: 2022-01-24
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

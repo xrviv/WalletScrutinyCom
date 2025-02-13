@@ -9,7 +9,7 @@ appId: net.polyx.wallet
 appCountry: 
 released: 2021-10-01
 updated: 2022-09-16
-version: 1.5.1
+version: '1.5.1'
 stars: 
 ratings: 
 reviews: 

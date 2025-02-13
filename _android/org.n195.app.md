@@ -8,7 +8,7 @@ appId: org.n195.app
 appCountry: 
 released: 2019-07-01
 updated: 2019-07-01
-version: 1.0.1
+version: '1.0.1'
 stars: 4.8
 ratings: 
 reviews: 

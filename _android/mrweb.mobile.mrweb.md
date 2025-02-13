@@ -9,7 +9,7 @@ appId: mrweb.mobile.mrweb
 appCountry: 
 released: 2022-02-14
 updated: 2023-04-29
-version: 1.1.1
+version: '1.1.1'
 stars: 4.7
 ratings: 
 reviews: 12

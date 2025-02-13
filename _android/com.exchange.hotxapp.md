@@ -9,7 +9,7 @@ appId: com.exchange.hotxapp
 appCountry: 
 released: 2022-02-27
 updated: 2023-07-14
-version: 1.0.33
+version: '1.0.33'
 stars: 
 ratings: 
 reviews: 

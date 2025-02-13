@@ -8,7 +8,7 @@ authors:
 released: 2019-04-06
 discontinued: 
 updated: 2023-06-26
-version: v4.1.9
+version: 'v4.1.9'
 binaries: https://coldcard.com/downloads/
 dimensions: 
 weight: 

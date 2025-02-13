@@ -9,7 +9,7 @@ appId: com.quadency.app
 appCountry: 
 released: 2021-10-24
 updated: 2023-03-06
-version: 1.6.0
+version: '1.6.0'
 stars: 2.5
 ratings: 
 reviews: 5

@@ -9,7 +9,7 @@ appId: com.pandats.investxe
 appCountry: 
 released: 2020-12-09
 updated: 2021-06-10
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

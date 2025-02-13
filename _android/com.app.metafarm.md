@@ -8,7 +8,7 @@ appId: com.app.metafarm
 appCountry: 
 released: 2022-09-15
 updated: 2022-11-24
-version: 1.0.1
+version: '1.0.1'
 stars: 5
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.btcc.BTCCReactNative
 appCountry: 
 released: 2022-11-17
 updated: 2024-09-27
-version: 3.1.0
+version: '3.1.0'
 stars: 4.4
 ratings: 
 reviews: 79

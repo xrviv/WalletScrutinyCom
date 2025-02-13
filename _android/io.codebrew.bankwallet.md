@@ -8,7 +8,7 @@ appId: io.codebrew.bankwallet
 appCountry: 
 released: 2022-08-30
 updated: 2022-08-30
-version: 0.26.1
+version: '0.26.1'
 stars: 
 ratings: 
 reviews: 

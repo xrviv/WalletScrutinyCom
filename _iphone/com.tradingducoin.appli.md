@@ -9,7 +9,7 @@ appCountry: ml
 idd: 1405655976
 released: 2019-08-12
 updated: 2021-09-02
-version: 5.4.8
+version: '5.4.8'
 stars: 
 reviews: 
 size: 31381504

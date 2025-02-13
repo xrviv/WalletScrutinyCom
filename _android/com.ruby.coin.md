@@ -9,7 +9,7 @@ appId: com.ruby.coin
 appCountry: 
 released: 2022-09-21
 updated: 2022-11-09
-version: 1.0.5
+version: '1.0.5'
 stars: 
 ratings: 
 reviews: 

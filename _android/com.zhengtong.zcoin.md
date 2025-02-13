@@ -9,7 +9,7 @@ appId: com.zhengtong.zcoin
 appCountry: 
 released: 2021-12-01
 updated: 2022-11-23
-version: 2.0.8
+version: '2.0.8'
 stars: 2.9
 ratings: 
 reviews: 18

@@ -8,7 +8,7 @@ appId: com.usc.uscwallet
 appCountry: 
 released: 2020-12-13
 updated: 2020-12-21
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: io.eurekax.app
 appCountry: 
 released: 2020-03-09
 updated: 2020-10-31
-version: 1.1.1
+version: '1.1.1'
 stars: 
 ratings: 
 reviews: 

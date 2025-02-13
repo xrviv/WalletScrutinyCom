@@ -10,7 +10,7 @@ appCountry:
 idd: 1149581638
 released: 2016-10-24
 updated: 2025-01-29
-version: 14.28.2
+version: '14.28.2'
 stars: 4.3
 reviews: 3046
 size: '67064832'
@@ -26,12 +26,12 @@ date: 2023-03-13
 signer: 
 reviewArchive:
 - date: 2023-03-13
-  version: 14.27.1
+  version: '14.27.1'
   appHashes: []
   gitRevision: 4458285efc54bd9bc76d74f88e696201a4af4a93
   verdict: ftbfs
 - date: 2022-11-02
-  version: 12.6.4
+  version: '12.6.4'
   appHashes: []
   gitRevision: b323422a62c5d226572c32bffc8b499bbd9716a1
   verdict: nosource

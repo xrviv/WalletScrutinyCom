@@ -8,7 +8,7 @@ appId: mond.vision
 appCountry: 
 released: 2022-03-03
 updated: 2022-03-24
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

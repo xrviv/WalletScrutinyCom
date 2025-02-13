@@ -8,7 +8,7 @@ appId: poutineswap.app
 appCountry: 
 released: 2022-01-06
 updated: 2022-02-04
-version: 1.0.2
+version: '1.0.2'
 stars: 4.5
 ratings: 
 reviews: 

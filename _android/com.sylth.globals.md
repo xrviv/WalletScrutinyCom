@@ -8,7 +8,7 @@ appId: com.sylth.globals
 appCountry: 
 released: 2022-11-22
 updated: 2022-11-22
-version: 1.1.13
+version: '1.1.13'
 stars: 
 ratings: 
 reviews: 

@@ -10,7 +10,7 @@ appId: io.aquawallet.android
 appCountry: 
 released: 2024-01-02
 updated: 2025-02-12
-version: 0.2.9
+version: '0.2.9'
 stars: 4.4
 ratings: 
 reviews: 14

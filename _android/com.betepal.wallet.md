@@ -9,7 +9,7 @@ appId: com.betepal.wallet
 appCountry: 
 released: 2021-01-26
 updated: 2022-05-27
-version: 4.3.0
+version: '4.3.0'
 stars: 
 ratings: 
 reviews: 

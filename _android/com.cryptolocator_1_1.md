@@ -8,7 +8,7 @@ appId: com.cryptolocator_1_1
 appCountry: 
 released: 
 updated: 2020-04-03
-version: 1.3.31
+version: '1.3.31'
 stars: 
 ratings: 
 reviews: 

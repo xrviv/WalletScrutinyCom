@@ -8,7 +8,7 @@ appId: app.truste.wallet
 appCountry: 
 released: 2021-07-01
 updated: 2021-07-01
-version: 1.2.0
+version: '1.2.0'
 stars: 
 ratings: 
 reviews: 

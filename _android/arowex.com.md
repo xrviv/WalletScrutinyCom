@@ -8,7 +8,7 @@ appId: arowex.com
 appCountry: 
 released: 2021-07-16
 updated: 2021-07-17
-version: 0.0.0.1
+version: '0.0.0.1'
 stars: 
 ratings: 
 reviews: 

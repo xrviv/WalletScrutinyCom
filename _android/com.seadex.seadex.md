@@ -9,7 +9,7 @@ appId: com.seadex.seadex
 appCountry: 
 released: 2018-08-11
 updated: 2018-09-05
-version: 1.2.0
+version: '1.2.0'
 stars: 
 ratings: 
 reviews: 

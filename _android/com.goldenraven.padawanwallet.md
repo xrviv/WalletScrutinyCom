@@ -8,7 +8,7 @@ appId: com.goldenraven.padawanwallet
 appCountry: 
 released: 
 updated: 2024-10-28
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

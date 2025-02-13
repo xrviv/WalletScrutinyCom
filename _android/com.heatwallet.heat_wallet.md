@@ -8,7 +8,7 @@ appId: com.heatwallet.heat_wallet
 appCountry: 
 released: 2021-11-24
 updated: 2021-11-24
-version: 1.0.38
+version: '1.0.38'
 stars: 
 ratings: 
 reviews: 

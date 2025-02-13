@@ -9,7 +9,7 @@ appId: com.mathwallet.android
 appCountry: 
 released: 2021-10-26
 updated: 2025-01-14
-version: 5.6.3
+version: '5.6.3'
 stars: 3.6
 ratings: 
 reviews: 59

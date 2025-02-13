@@ -9,7 +9,7 @@ appId: com.mobileln
 appCountry: 
 released: 
 updated: 2019-04-11
-version: pre-alpha v0.2b
+version: 'pre-alpha v0.2b'
 stars: 
 ratings: 
 reviews: 

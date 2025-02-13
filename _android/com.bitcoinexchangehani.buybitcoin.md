@@ -8,7 +8,7 @@ appId: com.bitcoinexchangehani.buybitcoin
 appCountry: 
 released: 2018-01-25
 updated: 2018-01-26
-version: 2.2.2
+version: '2.2.2'
 stars: 4.3
 ratings: 6
 reviews: 2

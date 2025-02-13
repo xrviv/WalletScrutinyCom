@@ -9,7 +9,7 @@ appId: quarecy.crypto
 appCountry: 
 released: 2018-11-10
 updated: 2025-01-14
-version: 3.5.16
+version: '3.5.16'
 stars: 4.8
 ratings: 
 reviews: 459

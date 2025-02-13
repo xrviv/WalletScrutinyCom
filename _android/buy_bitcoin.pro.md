@@ -9,7 +9,7 @@ appId: buy_bitcoin.pro
 appCountry: 
 released: 2018-12-09
 updated: 2020-05-19
-version: 1.0.9
+version: '1.0.9'
 stars: 
 ratings: 
 reviews: 

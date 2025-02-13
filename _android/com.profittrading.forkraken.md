@@ -9,7 +9,7 @@ appId: com.profittrading.forkraken
 appCountry: 
 released: 2018-07-15
 updated: 2021-08-07
-version: VARY
+version: 'VARY'
 stars: 4.4
 ratings: 60
 reviews: 11

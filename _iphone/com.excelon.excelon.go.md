@@ -9,7 +9,7 @@ appCountry: sa
 idd: '1553611472'
 released: 2021-07-30
 updated: 2022-07-04
-version: 1.7.0
+version: '1.7.0'
 stars: 0
 reviews: 0
 size: '27952128'

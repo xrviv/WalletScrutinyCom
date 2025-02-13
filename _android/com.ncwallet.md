@@ -9,7 +9,7 @@ appId: com.ncwallet
 appCountry: 
 released: 2022-10-18
 updated: 2025-01-09
-version: 1.0.707
+version: '1.0.707'
 stars: 4.1
 ratings: 
 reviews: 464

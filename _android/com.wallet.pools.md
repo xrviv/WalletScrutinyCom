@@ -9,7 +9,7 @@ appId: com.wallet.pools
 appCountry: 
 released: 2023-03-28
 updated: 2024-05-13
-version: 1.1.5
+version: '1.1.5'
 stars: 4.7
 ratings: 
 reviews: 30

@@ -8,7 +8,7 @@ appId: com.cypper.casswallet
 appCountry: 
 released: 2019-10-29
 updated: 2019-12-07
-version: 2.0.7.6
+version: '2.0.7.6'
 stars: 
 ratings: 
 reviews: 

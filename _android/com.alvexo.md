@@ -9,7 +9,7 @@ appId: com.alvexo
 appCountry: gb
 released: 2018-07-13
 updated: 2023-11-07
-version: 3.0.188
+version: '3.0.188'
 stars: 4.1
 ratings: 826
 reviews: 21

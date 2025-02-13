@@ -9,7 +9,7 @@ appId: com.ecoonlineng.ecotrader
 appCountry: 
 released: 2020-11-13
 updated: 2024-05-12
-version: 4.9.1
+version: '4.9.1'
 stars: 3.9
 ratings: 
 reviews: 16

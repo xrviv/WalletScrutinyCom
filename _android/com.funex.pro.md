@@ -8,7 +8,7 @@ appId: com.funex.pro
 appCountry: 
 released: 2022-10-13
 updated: 2024-08-31
-version: 1.0.1
+version: '1.0.1'
 stars: 4.4
 ratings: 
 reviews: 

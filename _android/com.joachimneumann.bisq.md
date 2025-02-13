@@ -9,7 +9,7 @@ appId: com.joachimneumann.bisq
 appCountry: 
 released: 2018-09-06
 updated: 2025-01-15
-version: 1.3.2
+version: '1.3.2'
 stars: 2.8
 ratings: 69
 reviews: 16

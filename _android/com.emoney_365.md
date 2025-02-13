@@ -8,7 +8,7 @@ appId: com.emoney_365
 appCountry: 
 released: 2020-10-16
 updated: 2020-10-16
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

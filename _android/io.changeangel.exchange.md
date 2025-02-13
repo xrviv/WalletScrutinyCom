@@ -8,7 +8,7 @@ appId: io.changeangel.exchange
 appCountry: 
 released: 2022-05-24
 updated: 2024-08-30
-version: 1.1.2
+version: '1.1.2'
 stars: 
 ratings: 
 reviews: 

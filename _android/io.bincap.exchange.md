@@ -8,7 +8,7 @@ appId: io.bincap.exchange
 appCountry: 
 released: 2019-08-08
 updated: 2020-05-02
-version: 2.0.1
+version: '2.0.1'
 stars: 
 ratings: 
 reviews: 

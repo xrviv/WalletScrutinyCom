@@ -9,7 +9,7 @@ appId: io.changex.app
 appCountry: 
 released: 2022-05-31
 updated: 2024-01-23
-version: 2.9.8
+version: '2.9.8'
 stars: 3.6
 ratings: 
 reviews: 7

@@ -6,7 +6,7 @@ authors:
 released: 2020-06-30
 discontinued: 
 updated: 2023-09-21
-version: 2.0.2
+version: '2.0.2'
 binaries: 
 provider: Crypto Advance GmbH
 providerWebsite: 

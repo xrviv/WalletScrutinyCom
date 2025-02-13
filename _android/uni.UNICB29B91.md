@@ -8,7 +8,7 @@ appId: uni.UNICB29B91
 appCountry: 
 released: 2021-10-29
 updated: 2021-10-29
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

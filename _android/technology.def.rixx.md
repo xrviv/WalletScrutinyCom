@@ -9,7 +9,7 @@ appId: technology.def.rixx
 appCountry: 
 released: 2021-04-27
 updated: 2021-06-21
-version: 1.0.42
+version: '1.0.42'
 stars: 
 ratings: 
 reviews: 

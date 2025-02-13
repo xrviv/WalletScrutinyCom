@@ -9,7 +9,7 @@ appId: com.independentreserve.mobileapp
 appCountry: 
 released: 2021-10-18
 updated: 2025-01-07
-version: 9.0.4
+version: '9.0.4'
 stars: 
 ratings: 
 reviews: 

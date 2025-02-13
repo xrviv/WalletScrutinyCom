@@ -8,7 +8,7 @@ appId: com.mobile.dxone
 appCountry: 
 released: 2022-07-27
 updated: 2022-09-27
-version: 1.0.9
+version: '1.0.9'
 stars: 
 ratings: 
 reviews: 

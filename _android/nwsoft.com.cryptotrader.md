@@ -8,7 +8,7 @@ appId: nwsoft.com.cryptotrader
 appCountry: 
 released: 2018-04-19
 updated: 2018-07-19
-version: 1.11ai
+version: '1.11ai'
 stars: 
 ratings: 
 reviews: 

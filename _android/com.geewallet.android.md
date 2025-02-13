@@ -8,7 +8,7 @@ appId: com.geewallet.android
 appCountry: 
 released: 2019-09-23
 updated: 2024-03-20
-version: 0.7.444.0
+version: '0.7.444.0'
 stars: 
 ratings: 
 reviews: 

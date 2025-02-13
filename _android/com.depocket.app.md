@@ -8,7 +8,7 @@ appId: com.depocket.app
 appCountry: 
 released: 2022-01-20
 updated: 2023-01-12
-version: 1.1.6
+version: '1.1.6'
 stars: 4.8
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.tycotrader.myapplication
 appCountry: 
 released: 2019-04-12
 updated: 2020-03-19
-version: 3.9.2
+version: '3.9.2'
 stars: 
 ratings: 
 reviews: 

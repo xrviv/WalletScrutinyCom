@@ -8,7 +8,7 @@ appId: com.chainup.exchange.index
 appCountry: 
 released: 2020-05-23
 updated: 2020-05-25
-version: 4.4.7
+version: '4.4.7'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: at.bitpocket.pos
 appCountry: 
 released: 2016-07-08
 updated: 2017-10-20
-version: 1.1.8
+version: '1.1.8'
 stars: 4.6
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.cmgroup.luna
 appCountry: 
 released: 2021-05-10
 updated: 2021-07-24
-version: 1.0.8
+version: '1.0.8'
 stars: 
 ratings: 
 reviews: 

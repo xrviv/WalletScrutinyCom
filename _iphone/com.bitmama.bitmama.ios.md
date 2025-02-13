@@ -9,7 +9,7 @@ appCountry: za
 idd: 1561857024
 released: 2021-06-30
 updated: 2023-04-26
-version: 1.0.77
+version: '1.0.77'
 stars: 3
 reviews: 2
 size: '98912256'

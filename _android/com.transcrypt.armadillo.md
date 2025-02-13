@@ -9,7 +9,7 @@ appId: com.transcrypt.armadillo
 appCountry: ru
 released: 2018-05-23
 updated: 2022-03-09
-version: 2.08.9
+version: '2.08.9'
 stars: 4.8
 ratings: 172
 reviews: 20

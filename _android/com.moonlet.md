@@ -9,7 +9,7 @@ appId: com.moonlet
 appCountry: ro
 released: 2020-04-21
 updated: 2022-06-17
-version: 1.5.26
+version: '1.5.26'
 stars: 4
 ratings: 640
 reviews: 4

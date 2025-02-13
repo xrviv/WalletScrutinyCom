@@ -9,7 +9,7 @@ appId: com.javvy
 appCountry: 
 released: 2018-07-14
 updated: 2019-05-16
-version: 1.0.4
+version: '1.0.4'
 stars: 5
 ratings: 
 reviews: 6

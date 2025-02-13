@@ -9,7 +9,7 @@ appCountry: nl
 idd: '1409599830'
 released: 2018-07-29
 updated: 2025-02-03
-version: 6.3.0
+version: '6.3.0'
 stars: 3.3
 reviews: 56
 size: '189788160'

@@ -8,7 +8,7 @@ appId: com.quantiamobile
 appCountry: 
 released: 2022-07-19
 updated: 2022-12-14
-version: 1.0.6
+version: '1.0.6'
 stars: 4.1
 ratings: 
 reviews: 

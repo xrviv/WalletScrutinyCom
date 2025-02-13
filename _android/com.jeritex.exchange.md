@@ -9,7 +9,7 @@ appId: com.jeritex.exchange
 appCountry: 
 released: 2022-05-05
 updated: 2023-05-22
-version: 1.1.20
+version: '1.1.20'
 stars: 
 ratings: 
 reviews: 

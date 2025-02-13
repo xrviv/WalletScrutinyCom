@@ -9,7 +9,7 @@ appId: com.iMe.android
 appCountry: 
 released: 2019-07-22
 updated: 2025-02-04
-version: 11.7.3
+version: '11.7.3'
 stars: 4.5
 ratings: 
 reviews: 652

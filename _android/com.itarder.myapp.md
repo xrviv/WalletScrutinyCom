@@ -8,7 +8,7 @@ appId: com.itarder.myapp
 appCountry: 
 released: 2022-05-27
 updated: 2022-11-14
-version: 1.0.26
+version: '1.0.26'
 stars: 
 ratings: 
 reviews: 

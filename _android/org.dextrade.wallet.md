@@ -8,7 +8,7 @@ appId: org.dextrade.wallet
 appCountry: 
 released: 2022-08-22
 updated: 2025-01-23
-version: 1.94.0
+version: '1.94.0'
 stars: 5
 ratings: 
 reviews: 

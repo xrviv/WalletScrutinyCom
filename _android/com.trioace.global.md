@@ -8,7 +8,7 @@ appId: com.trioace.global
 appCountry: 
 released: 2022-01-02
 updated: 2022-01-03
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

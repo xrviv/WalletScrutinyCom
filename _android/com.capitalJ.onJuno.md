@@ -9,7 +9,7 @@ appId: com.capitalJ.onJuno
 appCountry: 
 released: 2021-03-01
 updated: 2024-11-11
-version: 4.0.45
+version: '4.0.45'
 stars: 1.9
 ratings: 
 reviews: 465

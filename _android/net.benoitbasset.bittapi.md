@@ -8,7 +8,7 @@ appId: net.benoitbasset.bittapi
 appCountry: 
 released: 2017-12-09
 updated: 2018-11-13
-version: 1.2.1
+version: '1.2.1'
 stars: 4.5
 ratings: 99
 reviews: 6

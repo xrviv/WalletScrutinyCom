@@ -8,7 +8,7 @@ appId: app.coinplug
 appCountry: 
 released: 2021-10-19
 updated: 2024-07-18
-version: 2.0.4
+version: '2.0.4'
 stars: 
 ratings: 
 reviews: 

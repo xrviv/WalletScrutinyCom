@@ -9,7 +9,7 @@ appId: com.castor.threecommas
 appCountry: 
 released: 2018-03-02
 updated: 2023-12-07
-version: 2.7.3
+version: '2.7.3'
 stars: 4.4
 ratings: 
 reviews: 685

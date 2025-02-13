@@ -9,7 +9,7 @@ appId: com.ivan.fgwallet
 appCountry: 
 released: 2017-12-28
 updated: 2025-01-27
-version: 3.9.5
+version: '3.9.5'
 stars: 
 ratings: 
 reviews: 

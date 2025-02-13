@@ -6,7 +6,7 @@ authors:
 released: 2018-11-01
 discontinued: 
 updated: 2018-11-22
-version: 0.3.0
+version: '0.3.0'
 binaries: https://github.com/KeyboxWallet/keyboxd/releases
 dimensions: 
 weight: 

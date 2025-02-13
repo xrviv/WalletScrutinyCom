@@ -8,7 +8,7 @@ appId: com.refyzsfiefa.zsfiefaad
 appCountry: 
 released: 2021-12-09
 updated: 2021-12-09
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

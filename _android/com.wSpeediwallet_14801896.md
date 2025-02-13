@@ -8,7 +8,7 @@ appId: com.wSpeediwallet_14801896
 appCountry: 
 released: 2021-12-08
 updated: 2021-12-08
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

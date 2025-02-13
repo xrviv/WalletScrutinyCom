@@ -8,7 +8,7 @@ appId: com.tradenext.android
 appCountry: 
 released: 
 updated: 2023-06-26
-version: 1.7.0
+version: '1.7.0'
 stars: 
 ratings: 
 reviews: 

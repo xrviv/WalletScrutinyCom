@@ -8,7 +8,7 @@ appId: com.nbl.bitcoinchampionapp
 appCountry: 
 released: 
 updated: 2021-02-23
-version: 1.0.2
+version: '1.0.2'
 stars: 4.6
 ratings: 12
 reviews: 9

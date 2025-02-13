@@ -9,7 +9,7 @@ appId: org.safecoin.safepay
 appCountry: 
 released: 2019-05-20
 updated: 2020-08-14
-version: 7.2.8
+version: '7.2.8'
 stars: 4.2
 ratings: 
 reviews: 5

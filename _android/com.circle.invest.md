@@ -9,7 +9,7 @@ appId: com.circle.invest
 appCountry: 
 released: 2018-03-13
 updated: 2022-04-28
-version: 1.5.5
+version: '1.5.5'
 stars: 3.8
 ratings: 
 reviews: 270

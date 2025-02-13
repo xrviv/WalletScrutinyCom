@@ -10,7 +10,7 @@ appId: com.cakewallet.cake_wallet
 appCountry: 
 released: 2020-01-01
 updated: 2025-02-02
-version: 4.23.0
+version: '4.23.0'
 stars: 4.7
 ratings: 730
 reviews: 479
@@ -27,22 +27,22 @@ date: 2025-01-14
 signer: 
 reviewArchive:
 - date: 2024-12-25
-  version: 4.21.0
+  version: '4.21.0'
   appHashes: []
   gitRevision: c5fd94bf4c89189529bbb9a0265239acf4f53f35
   verdict: nonverifiable
 - date: 2024-07-26
-  version: 4.19.1
+  version: '4.19.1'
   appHashes: []
   gitRevision: 71ff3b4fadbd0c5156f39ee8296ddaa8047fb6fe
   verdict: ftbfs
 - date: 2022-11-02
-  version: 4.4.0
+  version: '4.4.0'
   appHashes: []
   gitRevision: 58eb9afc078bac8a5a23d3af42a18f3ad543887c
   verdict: nonverifiable
 - date: 2021-04-14
-  version: 4.1.4
+  version: '4.1.4'
   appHashes: []
   gitRevision: 3f57101209712caf0bf7dae6466ce81d29359fca
   verdict: nonverifiable

@@ -9,7 +9,7 @@ appId: com.switchere.switchere
 appCountry: 
 released: 2021-11-15
 updated: 2024-08-07
-version: 1.1.24
+version: '1.1.24'
 stars: 3.4
 ratings: 
 reviews: 43

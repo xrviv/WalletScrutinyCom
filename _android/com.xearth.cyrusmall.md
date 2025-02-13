@@ -8,7 +8,7 @@ appId: com.xearth.cyrusmall
 appCountry: 
 released: 2021-09-14
 updated: 2021-09-15
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

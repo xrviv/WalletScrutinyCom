@@ -8,7 +8,7 @@ appId: com.bitmelech.wallet
 appCountry: 
 released: 
 updated: 2022-08-05
-version: 1.2.5
+version: '1.2.5'
 stars: 
 ratings: 
 reviews: 

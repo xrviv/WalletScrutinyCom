@@ -8,7 +8,7 @@ appId: com.startfinish.crypto
 appCountry: 
 released: 2021-09-01
 updated: 2021-09-01
-version: 5.3.10
+version: '5.3.10'
 stars: 
 ratings: 
 reviews: 

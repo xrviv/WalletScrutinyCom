@@ -9,7 +9,7 @@ appId: com.defiato
 appCountry: 
 released: 2021-10-26
 updated: 2023-01-18
-version: 1.2.9
+version: '1.2.9'
 stars: 4.1
 ratings: 
 reviews: 5

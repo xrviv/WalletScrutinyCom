@@ -8,7 +8,7 @@ authors:
 released: 2021-04-14
 discontinued: 
 updated: 2021-09-22
-version: 4.1.7
+version: '4.1.7'
 binaries: 
 dimensions:
 - 44

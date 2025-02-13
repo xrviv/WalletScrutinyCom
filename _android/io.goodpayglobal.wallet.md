@@ -9,7 +9,7 @@ appId: io.goodpayglobal.wallet
 appCountry: 
 released: 2021-04-07
 updated: 2023-09-19
-version: 1.0.23
+version: '1.0.23'
 stars: 
 ratings: 
 reviews: 

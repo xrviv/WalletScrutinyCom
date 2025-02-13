@@ -9,7 +9,7 @@ appId: com.bitasset.www
 appCountry: 
 released: 2018-09-20
 updated: 2021-03-23
-version: 3.4.12
+version: '3.4.12'
 stars: 2.7
 ratings: 47
 reviews: 29

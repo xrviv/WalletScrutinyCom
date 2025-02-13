@@ -8,7 +8,7 @@ appId: com.baanx.currencylife
 appCountry: 
 released: 2020-02-06
 updated: 2021-02-26
-version: 1.4.0
+version: '1.4.0'
 stars: 
 ratings: 
 reviews: 

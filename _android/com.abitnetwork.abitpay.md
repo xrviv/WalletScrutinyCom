@@ -8,7 +8,7 @@ appId: com.abitnetwork.abitpay
 appCountry: 
 released: 2021-06-18
 updated: 2021-10-09
-version: 1.2.6
+version: '1.2.6'
 stars: 4.4
 ratings: 
 reviews: 3

@@ -9,7 +9,7 @@ appId: com.cmbcwallet.uk
 appCountry: 
 released: 2019-06-10
 updated: 2019-07-02
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

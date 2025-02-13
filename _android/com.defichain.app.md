@@ -9,7 +9,7 @@ appId: com.defichain.app
 appCountry: qa
 released: 2021-08-22
 updated: 2024-08-29
-version: 2.43.3
+version: '2.43.3'
 stars: 3.2
 ratings: 319
 reviews: 308

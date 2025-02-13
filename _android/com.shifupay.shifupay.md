@@ -8,7 +8,7 @@ appId: com.shifupay.shifupay
 appCountry: 
 released: 2022-08-24
 updated: 2022-10-15
-version: 0.0.5
+version: '0.0.5'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appCountry: cn
 idd: '1123918627'
 released: 2016-06-25
 updated: 2024-12-05
-version: 6.7.5
+version: '6.7.5'
 stars: 4.8
 reviews: 562
 size: '128558080'

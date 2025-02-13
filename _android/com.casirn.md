@@ -8,7 +8,7 @@ appId: com.casirn
 appCountry: 
 released: 2020-11-01
 updated: 2020-12-29
-version: 4.0.1
+version: '4.0.1'
 stars: 
 ratings: 
 reviews: 

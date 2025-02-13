@@ -6,7 +6,7 @@ authors:
 released: 2019-09-14
 discontinued: 
 updated: 2023-09-28
-version: 1.3.8
+version: '1.3.8'
 binaries: 
 provider: Atomex OÜ
 providerWebsite: https://atomex.me

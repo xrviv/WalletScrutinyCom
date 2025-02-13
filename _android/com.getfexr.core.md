@@ -8,7 +8,7 @@ appId: com.getfexr.core
 appCountry: 
 released: 2022-06-08
 updated: 2024-10-02
-version: clubman
+version: 'clubman'
 stars: 4.3
 ratings: 
 reviews: 

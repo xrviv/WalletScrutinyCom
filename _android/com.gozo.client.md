@@ -8,7 +8,7 @@ appId: com.gozo.client
 appCountry: 
 released: 2019-03-28
 updated: 2023-01-11
-version: 4.39.8
+version: '4.39.8'
 stars: 3.7
 ratings: 
 reviews: 

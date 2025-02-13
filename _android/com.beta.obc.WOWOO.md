@@ -8,7 +8,7 @@ appId: com.beta.obc.WOWOO
 appCountry: 
 released: 2020-01-02
 updated: 2021-10-13
-version: 2.1.0
+version: '2.1.0'
 stars: 
 ratings: 
 reviews: 

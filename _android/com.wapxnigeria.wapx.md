@@ -8,7 +8,7 @@ appId: com.wapxnigeria.wapx
 appCountry: 
 released: 2022-09-29
 updated: 2022-11-03
-version: 1.1.7
+version: '1.1.7'
 stars: 
 ratings: 
 reviews: 

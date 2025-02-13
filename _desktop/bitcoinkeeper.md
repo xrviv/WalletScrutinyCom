@@ -6,7 +6,7 @@ authors:
 released: 2024-02-17
 discontinued: 
 updated: 2025-02-06
-version: 0.2.0
+version: '0.2.0'
 binaries: https://github.com/bithyve/keeper-desktop/releases/
 provider: BitHyve Limited
 providerWebsite: https://bithyve.com/

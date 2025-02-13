@@ -9,7 +9,7 @@ appId: com.bittrex.trade
 appCountry: 
 released: 2019-12-19
 updated: 2023-08-29
-version: 1.22.4
+version: '1.22.4'
 stars: 3.7
 ratings: 5144
 reviews: 653

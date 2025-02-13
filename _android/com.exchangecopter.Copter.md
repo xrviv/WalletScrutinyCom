@@ -9,7 +9,7 @@ appId: com.exchangecopter.Copter
 appCountry: 
 released: 2021-12-09
 updated: 2022-09-16
-version: 1.5.7
+version: '1.5.7'
 stars: 4.2
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.libonomywallet
 appCountry: 
 released: 2021-09-10
 updated: 2022-03-24
-version: 2.1.0
+version: '2.1.0'
 stars: 4.2
 ratings: 
 reviews: 4

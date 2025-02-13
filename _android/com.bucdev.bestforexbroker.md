@@ -9,7 +9,7 @@ appId: com.bucdev.bestforexbroker
 appCountry: 
 released: 2018-04-17
 updated: 2020-10-09
-version: 1.1.3
+version: '1.1.3'
 stars: 
 ratings: 
 reviews: 

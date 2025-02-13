@@ -9,7 +9,7 @@ appId: com.monero.app
 appCountry: 
 released: 2022-01-07
 updated: 2025-02-01
-version: 1.20.0
+version: '1.20.0'
 stars: 4.6
 ratings: 
 reviews: 41

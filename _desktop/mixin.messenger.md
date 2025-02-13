@@ -6,7 +6,7 @@ authors:
 released: 2019-03-15
 discontinued: 
 updated: 2024-03-27
-version: 1.2.4
+version: '1.2.4'
 binaries: 
 provider: Mixin Ltd.
 providerWebsite: 

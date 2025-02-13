@@ -9,7 +9,7 @@ appId: ph.pdax.mobile
 appCountry: ph
 released: 2021-01-18
 updated: 2025-02-07
-version: 12.3.0
+version: '12.3.0'
 stars: 4.9
 ratings: 3291
 reviews: 2628

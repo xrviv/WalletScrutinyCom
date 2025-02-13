@@ -7,7 +7,7 @@ authors:
 released: 2015-01-01
 discontinued: 
 updated: 2015-05-08
-version: 1.3.4
+version: '1.3.4'
 binaries: 
 dimensions:
 - 45

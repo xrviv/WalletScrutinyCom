@@ -6,7 +6,7 @@ authors:
 released: 2018-09-21
 discontinued: 
 updated: 2020-05-20
-version: 0.1.0
+version: '0.1.0'
 binaries: https://github.com/Papabyte/Hardware-cosigner/releases/tag/v0.1.0
 dimensions: 
 weight: 

@@ -9,7 +9,7 @@ appId: com.secux.firmwareupdate
 appCountry: 
 released: 2021-09-28
 updated: 2023-08-22
-version: 1.0.9
+version: '1.0.9'
 stars: 2.5
 ratings: 
 reviews: 11

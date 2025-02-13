@@ -9,7 +9,7 @@ appId: io.fchain.firefly
 appCountry: 
 released: 2019-05-08
 updated: 2022-02-10
-version: 3.4.2
+version: '3.4.2'
 stars: 3.9
 ratings: 
 reviews: 4

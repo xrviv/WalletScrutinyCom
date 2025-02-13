@@ -9,7 +9,7 @@ appId: com.xchange.ychanger
 appCountry: 
 released: 2021-06-08
 updated: 2024-07-31
-version: 4.2.1
+version: '4.2.1'
 stars: 4
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.btmex.exchange
 appCountry: 
 released: 2019-09-11
 updated: 2019-12-03
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

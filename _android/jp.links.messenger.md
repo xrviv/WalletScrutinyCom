@@ -9,7 +9,7 @@ appId: jp.links.messenger
 appCountry: 
 released: 2021-03-21
 updated: 2022-05-19
-version: 1.35.9
+version: '1.35.9'
 stars: 
 ratings: 
 reviews: 

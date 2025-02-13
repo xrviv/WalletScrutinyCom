@@ -6,7 +6,7 @@ authors:
 released: 2019-06-29
 discontinued: 
 updated: 2019-08-05
-version: case19
+version: 'case19'
 binaries: https://github.com/ksedgwic/lightning-pos/releases/tag/case19
 dimensions: 
 weight: 

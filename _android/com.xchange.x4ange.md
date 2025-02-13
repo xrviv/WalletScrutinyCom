@@ -9,7 +9,7 @@ appId: com.xchange.x4ange
 appCountry: 
 released: 2021-06-21
 updated: 2024-08-04
-version: 4.1.1
+version: '4.1.1'
 stars: 
 ratings: 
 reviews: 

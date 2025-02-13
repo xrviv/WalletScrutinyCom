@@ -8,7 +8,7 @@ appId: com.joydc.app
 appCountry: 
 released: 2020-01-24
 updated: 2020-02-02
-version: 1.0.7
+version: '1.0.7'
 stars: 
 ratings: 
 reviews: 

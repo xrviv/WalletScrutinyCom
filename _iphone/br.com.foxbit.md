@@ -9,7 +9,7 @@ appCountry: br
 idd: 1435319194
 released: 2019-03-24
 updated: 2025-01-31
-version: 3.15.5
+version: '3.15.5'
 stars: 4.4
 reviews: 5440
 size: '146093056'

@@ -9,7 +9,7 @@ appId: com.llc.bitcastle
 appCountry: 
 released: 2022-07-29
 updated: 2025-01-23
-version: 1.11.5
+version: '1.11.5'
 stars: 2.9
 ratings: 
 reviews: 14

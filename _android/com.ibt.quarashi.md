@@ -9,7 +9,7 @@ appId: com.ibt.quarashi
 appCountry: 
 released: 2021-07-09
 updated: 2022-05-04
-version: 1.0.55
+version: '1.0.55'
 stars: 
 ratings: 
 reviews: 

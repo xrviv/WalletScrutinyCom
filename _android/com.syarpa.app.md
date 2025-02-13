@@ -8,7 +8,7 @@ appId: com.syarpa.app
 appCountry: 
 released: 2022-09-30
 updated: 2024-09-11
-version: 2.0.0
+version: '2.0.0'
 stars: 
 ratings: 
 reviews: 

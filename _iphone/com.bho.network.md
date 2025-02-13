@@ -9,7 +9,7 @@ appCountry: ai
 idd: '1622316272'
 released: 2022-06-24
 updated: 2024-09-27
-version: 1.2.2
+version: '1.2.2'
 stars: 0
 reviews: 0
 size: '81250304'

@@ -8,7 +8,7 @@ appId: com.zab.lbc.app
 appCountry: 
 released: 2020-07-13
 updated: 2020-08-07
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

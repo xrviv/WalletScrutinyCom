@@ -8,7 +8,7 @@ appId: com.brick.wallet
 appCountry: 
 released: 2019-11-26
 updated: 2020-08-19
-version: 2.0.3
+version: '2.0.3'
 stars: 
 ratings: 
 reviews: 

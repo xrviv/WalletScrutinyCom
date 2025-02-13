@@ -8,7 +8,7 @@ appId: com.beyondcc.co.uk
 appCountry: 
 released: 2019-10-21
 updated: 2019-10-21
-version: 0.0.1
+version: '0.0.1'
 stars: 
 ratings: 
 reviews: 

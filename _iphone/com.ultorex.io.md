@@ -9,7 +9,7 @@ appCountry: vc
 idd: '1625009146'
 released: 2022-07-21
 updated: 2025-01-23
-version: 1.1.17
+version: '1.1.17'
 stars: 0
 reviews: 0
 size: '57819136'

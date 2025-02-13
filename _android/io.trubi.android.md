@@ -8,7 +8,7 @@ appId: io.trubi.android
 appCountry: 
 released: 
 updated: 2021-01-25
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

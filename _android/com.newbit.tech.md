@@ -8,7 +8,7 @@ appId: com.newbit.tech
 appCountry: 
 released: 2022-07-14
 updated: 2022-08-29
-version: 1.0.11
+version: '1.0.11'
 stars: 
 ratings: 
 reviews: 

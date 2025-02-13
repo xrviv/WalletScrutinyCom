@@ -9,7 +9,7 @@ appId: co.id.dompet.btc.indonesia
 appCountry: 
 released: 2017-01-15
 updated: 2021-10-26
-version: 2.4.9
+version: '2.4.9'
 stars: 3.9
 ratings: 4803
 reviews: 31

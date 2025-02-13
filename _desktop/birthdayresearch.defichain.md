@@ -6,7 +6,7 @@ authors:
 released: 2021-06-22
 discontinued: 
 updated: 2024-04-18
-version: 2.42.0
+version: '2.42.0'
 binaries: 
 provider: 
 providerWebsite: https://birthday.dev

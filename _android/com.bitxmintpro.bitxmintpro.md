@@ -8,7 +8,7 @@ appId: com.bitxmintpro.bitxmintpro
 appCountry: 
 released: 2021-10-01
 updated: 2021-10-01
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

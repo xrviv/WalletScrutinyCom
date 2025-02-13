@@ -8,7 +8,7 @@ appId: com.plus.crypto
 appCountry: 
 released: 2023-01-26
 updated: 2023-05-21
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

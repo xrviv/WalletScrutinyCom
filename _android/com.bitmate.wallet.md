@@ -8,7 +8,7 @@ appId: com.bitmate.wallet
 appCountry: 
 released: 2021-09-30
 updated: 2021-10-13
-version: 9120.10.10
+version: '9120.10.10'
 stars: 
 ratings: 
 reviews: 

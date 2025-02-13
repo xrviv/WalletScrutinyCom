@@ -10,7 +10,7 @@ appId: cryptoex.elegro.io
 appCountry: 
 released: 2019-06-26
 updated: 2021-04-29
-version: 1.0.4
+version: '1.0.4'
 stars: 
 ratings: 
 reviews: 

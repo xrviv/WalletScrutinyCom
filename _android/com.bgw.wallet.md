@@ -9,7 +9,7 @@ appId: com.bgw.wallet
 appCountry: 
 released: 2022-07-14
 updated: 2024-06-07
-version: 0.3.7
+version: '0.3.7'
 stars: 
 ratings: 
 reviews: 

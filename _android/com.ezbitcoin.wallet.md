@@ -8,7 +8,7 @@ appId: com.ezbitcoin.wallet
 appCountry: 
 released: 2019-10-09
 updated: 2020-11-18
-version: 1.2.1
+version: '1.2.1'
 stars: 
 ratings: 
 reviews: 

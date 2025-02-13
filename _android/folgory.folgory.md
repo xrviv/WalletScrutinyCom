@@ -9,7 +9,7 @@ appId: folgory.folgory
 appCountry: 
 released: 2021-04-09
 updated: 2021-04-09
-version: 1.0.1
+version: '1.0.1'
 stars: 2.7
 ratings: 20
 reviews: 14

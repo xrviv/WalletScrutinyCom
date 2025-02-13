@@ -8,7 +8,7 @@ appId: com.coinbase.wallite
 appCountry: 
 released: 2019-04-16
 updated: 2020-07-17
-version: 0.5-alpha
+version: '0.5-alpha'
 stars: 3.8
 ratings: 378
 reviews: 16

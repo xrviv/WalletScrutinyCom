@@ -9,7 +9,7 @@ appId: com.bitrah.pos
 appCountry: 
 released: 2020-07-21
 updated: 2023-02-07
-version: 3.0.1
+version: '3.0.1'
 stars: 
 ratings: 
 reviews: 

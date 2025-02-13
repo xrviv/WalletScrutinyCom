@@ -8,7 +8,7 @@ appId: net.benoitbasset.hitapi
 appCountry: 
 released: 2018-02-07
 updated: 2019-05-07
-version: 1.3.0
+version: '1.3.0'
 stars: 4.5
 ratings: 145
 reviews: 6

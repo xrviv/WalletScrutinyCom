@@ -8,7 +8,7 @@ appId: com.bitprivetech.bpve
 appCountry: 
 released: 
 updated: 2021-07-21
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

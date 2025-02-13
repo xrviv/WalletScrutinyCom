@@ -9,7 +9,7 @@ appId: com.oduwamultiwallet
 appCountry: 
 released: 2021-07-24
 updated: 2022-10-07
-version: 1.1.5
+version: '1.1.5'
 stars: 
 ratings: 
 reviews: 

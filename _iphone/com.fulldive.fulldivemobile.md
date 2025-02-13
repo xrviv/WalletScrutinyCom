@@ -9,7 +9,7 @@ appCountry: ph
 idd: '1233671930'
 released: 2017-12-21
 updated: 2023-01-17
-version: 4.61.3
+version: '4.61.3'
 stars: 4.3
 reviews: 43
 size: '82190336'

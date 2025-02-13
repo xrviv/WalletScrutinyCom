@@ -9,7 +9,7 @@ appId: com.pro1trading
 appCountry: 
 released: 2020-11-24
 updated: 2023-06-15
-version: 1.0.39
+version: '1.0.39'
 stars: 
 ratings: 
 reviews: 

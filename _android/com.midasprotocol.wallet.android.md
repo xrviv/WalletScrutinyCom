@@ -9,7 +9,7 @@ appId: com.midasprotocol.wallet.android
 appCountry: 
 released: 2018-11-02
 updated: 2021-12-20
-version: 2.0.8.1
+version: '2.0.8.1'
 stars: 4.3
 ratings: 450
 reviews: 25

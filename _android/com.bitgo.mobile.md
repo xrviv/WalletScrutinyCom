@@ -9,7 +9,7 @@ appId: com.bitgo.mobile
 appCountry: 
 released: 2022-04-15
 updated: 2023-01-19
-version: 1.7.0
+version: '1.7.0'
 stars: 3.1
 ratings: 
 reviews: 6

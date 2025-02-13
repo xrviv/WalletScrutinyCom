@@ -9,7 +9,7 @@ appId: com.colodax.colodax
 appCountry: us
 released: 2020-01-31
 updated: 2021-09-17
-version: 1.7.2
+version: '1.7.2'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.wRolariteX_12668517
 appCountry: 
 released: 2021-09-08
 updated: 2024-04-10
-version: Culubo
+version: 'Culubo'
 stars: 3.9
 ratings: 
 reviews: 

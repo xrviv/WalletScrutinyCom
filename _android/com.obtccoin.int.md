@@ -9,7 +9,7 @@ appId: com.obtccoin.int
 appCountry: 
 released: 2022-06-28
 updated: 2022-12-30
-version: 1.3.5
+version: '1.3.5'
 stars: 
 ratings: 
 reviews: 

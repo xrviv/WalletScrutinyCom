@@ -8,7 +8,7 @@ appId: com.ariomex.app
 appCountry: 
 released: 2020-09-10
 updated: 2020-09-10
-version: 2.0.0
+version: '2.0.0'
 stars: 3.9
 ratings: 125
 reviews: 6

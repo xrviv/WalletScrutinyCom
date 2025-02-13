@@ -9,7 +9,7 @@ appId: org.freewallet.lite.android
 appCountry: 
 released: 
 updated: 2019-03-01
-version: Varies with device
+version: 'Varies with device'
 stars: 
 ratings: 
 reviews: 

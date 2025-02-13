@@ -9,7 +9,7 @@ appId: com.safle
 appCountry: 
 released: 2022-08-07
 updated: 2025-01-30
-version: 1.6.6
+version: '1.6.6'
 stars: 4.8
 ratings: 
 reviews: 14

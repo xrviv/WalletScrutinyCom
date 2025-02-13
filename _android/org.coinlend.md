@@ -9,7 +9,7 @@ appId: org.coinlend
 appCountry: 
 released: 2018-07-19
 updated: 2020-06-30
-version: 0.0.36
+version: '0.0.36'
 stars: 4.4
 ratings: 83
 reviews: 3

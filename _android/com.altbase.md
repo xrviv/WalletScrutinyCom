@@ -9,7 +9,7 @@ appId: com.altbase
 appCountry: 
 released: 2022-01-06
 updated: 2022-06-15
-version: 1.1.3
+version: '1.1.3'
 stars: 4.5
 ratings: 
 reviews: 26

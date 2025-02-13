@@ -8,7 +8,7 @@ appId: com.fradx.application
 appCountry: 
 released: 2021-07-14
 updated: 2022-09-21
-version: 1.4.0
+version: '1.4.0'
 stars: 3.6
 ratings: 
 reviews: 

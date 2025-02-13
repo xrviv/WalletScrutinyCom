@@ -8,7 +8,7 @@ appId: com.linescode.b4y.app
 appCountry: 
 released: 2018-11-02
 updated: 2019-10-04
-version: 1.0.22
+version: '1.0.22'
 stars: 
 ratings: 
 reviews: 

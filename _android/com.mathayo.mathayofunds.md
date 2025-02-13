@@ -8,7 +8,7 @@ appId: com.mathayo.mathayofunds
 appCountry: 
 released: 2020-08-05
 updated: 2020-08-05
-version: 3.0.0
+version: '3.0.0'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.bicasoft_labs.crypto_tae
 appCountry: 
 released: 2021-08-15
 updated: 2021-09-08
-version: 2.2.1
+version: '2.2.1'
 stars: 
 ratings: 
 reviews: 

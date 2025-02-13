@@ -9,7 +9,7 @@ appId: com.cryptology.android
 appCountry: gb
 released: 2018-03-23
 updated: 2024-01-17
-version: 3.19.0
+version: '3.19.0'
 stars: 4.1
 ratings: 
 reviews: 3

@@ -8,7 +8,7 @@ appId: com.shopperoo.wallet
 appCountry: 
 released: 2022-08-07
 updated: 2022-08-08
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

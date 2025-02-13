@@ -9,7 +9,7 @@ appCountry: tt
 idd: '1629754003'
 released: 2022-07-02
 updated: 2023-04-01
-version: 3.8.8
+version: '3.8.8'
 stars: 0
 reviews: 0
 size: '46510080'

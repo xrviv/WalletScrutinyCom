@@ -9,7 +9,7 @@ appId: com.chainsafe.weipay
 appCountry: 
 released: 
 updated: 2019-02-18
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

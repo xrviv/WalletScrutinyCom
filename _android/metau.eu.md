@@ -8,7 +8,7 @@ appId: metau.eu
 appCountry: 
 released: 2023-03-23
 updated: 2023-05-22
-version: 0.0.3
+version: '0.0.3'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.uphold.card
 appCountry: 
 released: 2020-03-27
 updated: 2021-05-28
-version: 1.2.1
+version: '1.2.1'
 stars: 2.9
 ratings: 
 reviews: 192

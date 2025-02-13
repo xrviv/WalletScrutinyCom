@@ -8,7 +8,7 @@ appId: com.orading.myapplication
 appCountry: 
 released: 2023-02-23
 updated: 2023-02-23
-version: 1.2.7
+version: '1.2.7'
 stars: 
 ratings: 
 reviews: 

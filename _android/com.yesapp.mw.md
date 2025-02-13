@@ -9,7 +9,7 @@ appId: com.yesapp.mw
 appCountry: 
 released: 2022-10-11
 updated: 2023-03-05
-version: 11.3.10
+version: '11.3.10'
 stars: 
 ratings: 
 reviews: 

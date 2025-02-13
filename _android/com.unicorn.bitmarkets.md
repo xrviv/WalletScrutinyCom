@@ -8,7 +8,7 @@ appId: com.unicorn.bitmarkets
 appCountry: 
 released: 2022-04-05
 updated: 2022-04-15
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

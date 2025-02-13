@@ -9,7 +9,7 @@ appCountry: ar
 idd: 1321460860
 released: 2018-01-04
 updated: 2024-08-27
-version: 2024.8.2
+version: '2024.8.2'
 stars: 5
 reviews: 1
 size: '30024704'

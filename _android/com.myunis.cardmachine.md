@@ -8,7 +8,7 @@ appId: com.myunis.cardmachine
 appCountry: 
 released: 
 updated: 2021-03-11
-version: v1.0
+version: 'v1.0'
 stars: 
 ratings: 
 reviews: 

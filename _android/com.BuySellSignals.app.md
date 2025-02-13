@@ -9,7 +9,7 @@ appId: com.BuySellSignals.app
 appCountry: 
 released: 2019-06-02
 updated: 2019-07-01
-version: 1.0.9
+version: '1.0.9'
 stars: 
 ratings: 
 reviews: 

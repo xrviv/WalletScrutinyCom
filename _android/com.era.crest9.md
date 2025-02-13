@@ -8,7 +8,7 @@ appId: com.era.crest9
 appCountry: 
 released: 2021-10-08
 updated: 2021-10-16
-version: 1.0.12
+version: '1.0.12'
 stars: 
 ratings: 
 reviews: 

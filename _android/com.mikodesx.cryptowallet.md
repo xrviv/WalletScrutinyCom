@@ -8,7 +8,7 @@ appId: com.mikodesx.cryptowallet
 appCountry: 
 released: 2021-12-06
 updated: 2021-12-06
-version: 1.5.2
+version: '1.5.2'
 stars: 
 ratings: 
 reviews: 

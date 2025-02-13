@@ -9,7 +9,7 @@ appId: com.movocash.movo
 appCountry: 
 released: 2021-04-01
 updated: 2022-12-13
-version: 4.3.3
+version: '4.3.3'
 stars: 3.1
 ratings: 
 reviews: 143

@@ -9,7 +9,7 @@ appId: com.dexfin.dexfin
 appCountry: 
 released: 2021-05-24
 updated: 2021-11-30
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

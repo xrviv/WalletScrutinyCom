@@ -9,7 +9,7 @@ appId: com.simplefx.app
 appCountry: 
 released: 2017-12-18
 updated: 2025-02-06
-version: 3.0.37
+version: '3.0.37'
 stars: 3.9
 ratings: 291
 reviews: 7

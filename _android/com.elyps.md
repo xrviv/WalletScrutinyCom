@@ -9,7 +9,7 @@ appId: com.elyps
 appCountry: 
 released: 2020-04-29
 updated: 2024-09-03
-version: 11.0.0
+version: '11.0.0'
 stars: 
 ratings: 
 reviews: 

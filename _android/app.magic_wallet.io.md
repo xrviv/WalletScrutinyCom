@@ -9,7 +9,7 @@ appId: app.magic_wallet.io
 appCountry: 
 released: 2021-05-26
 updated: 2021-06-06
-version: 1.0.0
+version: '1.0.0'
 stars: 3.8
 ratings: 238
 reviews: 170

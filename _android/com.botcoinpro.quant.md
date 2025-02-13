@@ -9,7 +9,7 @@ appId: com.botcoinpro.quant
 appCountry: 
 released: 2021-06-05
 updated: 2021-06-29
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

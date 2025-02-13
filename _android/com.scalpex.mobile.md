@@ -8,7 +8,7 @@ appId: com.scalpex.mobile
 appCountry: 
 released: 
 updated: 2021-08-09
-version: 1.3.0
+version: '1.3.0'
 stars: 3.7
 ratings: 
 reviews: 

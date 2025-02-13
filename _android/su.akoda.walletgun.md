@@ -8,7 +8,7 @@ appId: su.akoda.walletgun
 appCountry: 
 released: 2021-10-13
 updated: 2021-10-13
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.algovision.volex
 appCountry: 
 released: 2021-10-04
 updated: 2022-02-02
-version: 1.2.2
+version: '1.2.2'
 stars: 
 ratings: 
 reviews: 

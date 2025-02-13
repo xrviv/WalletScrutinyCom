@@ -9,7 +9,7 @@ appCountry: lv
 idd: 1449352913
 released: 2019-03-07
 updated: 2024-08-26
-version: 1.2.65
+version: '1.2.65'
 stars: 3.6
 reviews: 74
 size: '291524608'

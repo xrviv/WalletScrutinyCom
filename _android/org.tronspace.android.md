@@ -9,7 +9,7 @@ appId: org.tronspace.android
 appCountry: 
 released: 2021-07-03
 updated: 2023-01-04
-version: 2.2.6
+version: '2.2.6'
 stars: 
 ratings: 
 reviews: 

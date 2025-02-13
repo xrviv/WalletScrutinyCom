@@ -9,7 +9,7 @@ appId: com.coinbit.global.android.exchange
 appCountry: 
 released: 2019-08-12
 updated: 2021-05-11
-version: 2.4.03
+version: '2.4.03'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: co.asachs.bitbuddy
 appCountry: 
 released: 2019-09-19
 updated: 2020-09-28
-version: 2.0.1
+version: '2.0.1'
 stars: 
 ratings: 
 reviews: 

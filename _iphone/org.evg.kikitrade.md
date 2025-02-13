@@ -9,7 +9,7 @@ appCountry: us
 idd: 1507120441
 released: 2020-07-28
 updated: 2023-01-12
-version: 5.0.02
+version: '5.0.02'
 stars: 5
 reviews: 10
 size: '110053376'

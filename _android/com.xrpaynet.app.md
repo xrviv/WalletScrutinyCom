@@ -9,7 +9,7 @@ appId: com.xrpaynet.app
 appCountry: 
 released: 2022-07-05
 updated: 2025-02-10
-version: 2.0.4.prod
+version: '2.0.4.prod'
 stars: 4.3
 ratings: 
 reviews: 39

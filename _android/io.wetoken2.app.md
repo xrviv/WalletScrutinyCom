@@ -9,7 +9,7 @@ appId: io.wetoken2.app
 appCountry: 
 released: 2021-11-15
 updated: 2023-02-21
-version: 1.8.4
+version: '1.8.4'
 stars: 3
 ratings: 
 reviews: 3

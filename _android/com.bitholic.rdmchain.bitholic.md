@@ -9,7 +9,7 @@ appId: com.bitholic.rdmchain.bitholic
 appCountry: 
 released: 2019-01-20
 updated: 2021-08-02
-version: 1.1.1
+version: '1.1.1'
 stars: 4.2
 ratings: 
 reviews: 

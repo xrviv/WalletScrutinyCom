@@ -8,7 +8,7 @@ appId: blockchains.my
 appCountry: 
 released: 2017-05-08
 updated: 2019-01-07
-version: 1.0.0.18
+version: '1.0.0.18'
 stars: 4.1
 ratings: 576
 reviews: 268

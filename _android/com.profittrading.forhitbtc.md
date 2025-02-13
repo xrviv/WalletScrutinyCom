@@ -9,7 +9,7 @@ appId: com.profittrading.forhitbtc
 appCountry: 
 released: 2018-07-23
 updated: 2021-08-07
-version: VARY
+version: 'VARY'
 stars: 4.5
 ratings: 41
 reviews: 3

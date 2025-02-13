@@ -9,7 +9,7 @@ appId: app.bankowallet.android
 appCountry: 
 released: 2019-07-22
 updated: 2020-06-29
-version: 1.3.17851
+version: '1.3.17851'
 stars: 
 ratings: 
 reviews: 

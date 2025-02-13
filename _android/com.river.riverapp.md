@@ -9,7 +9,7 @@ appId: com.river.riverapp
 appCountry: 
 released: 2023-10-20
 updated: 2025-02-06
-version: 4.56.0
+version: '4.56.0'
 stars: 4.6
 ratings: 
 reviews: 187

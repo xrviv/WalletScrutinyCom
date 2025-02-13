@@ -9,7 +9,7 @@ appId: com.coinmena.coinmenaapp
 appCountry: us
 released: 2021-08-07
 updated: 2025-02-09
-version: 2.14.6
+version: '2.14.6'
 stars: 3.5
 ratings: 914
 reviews: 50

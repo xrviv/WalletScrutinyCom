@@ -8,7 +8,7 @@ appId: com.plutopos
 appCountry: 
 released: 2022-04-28
 updated: 2022-06-08
-version: 1.3.0
+version: '1.3.0'
 stars: 
 ratings: 
 reviews: 

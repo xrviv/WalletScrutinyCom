@@ -9,7 +9,7 @@ appId: com.kinesis.kinesisapp
 appCountry: us
 released: 2020-02-28
 updated: 2025-01-13
-version: 2.4.1
+version: '2.4.1'
 stars: 3.6
 ratings: 424
 reviews: 92

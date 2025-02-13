@@ -8,7 +8,7 @@ appId: com.webview.digitdax
 appCountry: 
 released: 2020-08-13
 updated: 2020-08-13
-version: 10.00.02
+version: '10.00.02'
 stars: 
 ratings: 
 reviews: 

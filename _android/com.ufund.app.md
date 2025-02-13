@@ -9,7 +9,7 @@ appId: com.ufund.app
 appCountry: 
 released: 2021-10-21
 updated: 2024-04-22
-version: 1.1.5
+version: '1.1.5'
 stars: 
 ratings: 
 reviews: 

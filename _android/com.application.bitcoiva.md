@@ -9,7 +9,7 @@ appId: com.application.bitcoiva
 appCountry: 
 released: 2020-11-02
 updated: 2025-01-30
-version: 1.55.3
+version: '1.55.3'
 stars: 2.8
 ratings: 
 reviews: 4

@@ -9,7 +9,7 @@ appId: com.teroxx
 appCountry: us
 released: 2019-08-26
 updated: 2025-02-10
-version: 3.0.36
+version: '3.0.36'
 stars: 4.2
 ratings: 
 reviews: 

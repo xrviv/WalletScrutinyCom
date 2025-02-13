@@ -9,7 +9,7 @@ appId: com.hanryubank.fnsWallet
 appCountry: 
 released: 2021-07-30
 updated: 2022-10-17
-version: 2.1.2
+version: '2.1.2'
 stars: 4.6
 ratings: 
 reviews: 4

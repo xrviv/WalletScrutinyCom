@@ -8,7 +8,7 @@ appId: ru.uvitto.uvextrader
 appCountry: 
 released: 
 updated: 2020-04-05
-version: 2.0.2
+version: '2.0.2'
 stars: 
 ratings: 
 reviews: 

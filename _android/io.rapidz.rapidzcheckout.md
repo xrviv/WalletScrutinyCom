@@ -8,7 +8,7 @@ appId: io.rapidz.rapidzcheckout
 appCountry: 
 released: 2022-06-06
 updated: 2024-02-08
-version: 1.3.0
+version: '1.3.0'
 stars: 
 ratings: 
 reviews: 

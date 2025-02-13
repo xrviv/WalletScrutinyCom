@@ -6,7 +6,7 @@ authors:
 released: 2022-11-17
 discontinued: 
 updated: 2024-05-09
-version: 2.2.4
+version: '2.2.4'
 binaries: 
 provider: ShockNet
 providerWebsite: 

@@ -9,7 +9,7 @@ appId: com.luna.wallet
 appCountry: 
 released: 2022-04-06
 updated: 2022-07-01
-version: 1.0.4
+version: '1.0.4'
 stars: 5
 ratings: 
 reviews: 1

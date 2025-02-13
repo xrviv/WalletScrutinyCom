@@ -6,7 +6,7 @@ authors:
 released: 2021-06-03
 discontinued: 
 updated: 2024-04-02
-version: 1.9.32
+version: '1.9.32'
 binaries: 
 provider: Enigmo Private Limited
 providerWebsite: 

@@ -8,7 +8,7 @@ appId: co.yopay.wallet
 appCountry: 
 released: 
 updated: 2020-06-01
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

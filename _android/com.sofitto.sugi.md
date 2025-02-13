@@ -8,7 +8,7 @@ appId: com.sofitto.sugi
 appCountry: 
 released: 2019-03-20
 updated: 2020-10-12
-version: 1.8.2
+version: '1.8.2'
 stars: 
 ratings: 
 reviews: 

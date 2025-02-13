@@ -8,7 +8,7 @@ appId: com.snapresearch.snapbotmobile
 appCountry: 
 released: 2021-06-14
 updated: 2022-07-15
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

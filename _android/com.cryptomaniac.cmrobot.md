@@ -9,7 +9,7 @@ appId: com.cryptomaniac.cmrobot
 appCountry: 
 released: 2019-08-21
 updated: 2019-09-11
-version: 2.2.1
+version: '2.2.1'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.firstunion.uncwallet
 appCountry: 
 released: 2021-04-14
 updated: 2021-07-05
-version: 1.1.5
+version: '1.1.5'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.blockchain.nft.explore
 appCountry: 
 released: 2022-12-17
 updated: 2022-12-18
-version: 1.0.7
+version: '1.0.7'
 stars: 4.9
 ratings: 
 reviews: 

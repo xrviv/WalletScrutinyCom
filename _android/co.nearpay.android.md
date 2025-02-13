@@ -8,7 +8,7 @@ appId: co.nearpay.android
 appCountry: 
 released: 
 updated: 2023-01-03
-version: 1.44.1
+version: '1.44.1'
 stars: 
 ratings: 
 reviews: 

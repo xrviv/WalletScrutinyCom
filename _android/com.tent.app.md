@@ -8,7 +8,7 @@ appId: com.tent.app
 appCountry: 
 released: 2023-10-26
 updated: 2024-07-16
-version: 1.4.0
+version: '1.4.0'
 stars: 4
 ratings: 
 reviews: 

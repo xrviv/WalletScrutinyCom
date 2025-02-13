@@ -8,7 +8,7 @@ appId: app.paycaesar.mobilewallet
 appCountry: 
 released: 2020-09-08
 updated: 2021-07-07
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

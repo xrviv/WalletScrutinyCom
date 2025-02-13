@@ -9,7 +9,7 @@ appId: org.telegram.bananatok
 appCountry: KR
 released: 2019-08-11
 updated: 2024-12-28
-version: 5.0.3
+version: '5.0.3'
 stars: 3.9
 ratings: 
 reviews: 1437

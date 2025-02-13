@@ -8,7 +8,7 @@ appId: com.bonuspay.crypto.finance
 appCountry: 
 released: 2023-01-29
 updated: 2023-02-02
-version: 1.0.6
+version: '1.0.6'
 stars: 
 ratings: 
 reviews: 

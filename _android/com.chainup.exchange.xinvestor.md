@@ -8,7 +8,7 @@ appId: com.chainup.exchange.xinvestor
 appCountry: 
 released: 
 updated: 2022-07-12
-version: 5.4.0_push_v2
+version: '5.4.0_push_v2'
 stars: 
 ratings: 
 reviews: 

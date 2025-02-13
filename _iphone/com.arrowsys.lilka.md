@@ -9,7 +9,7 @@ appCountry: mn
 idd: 1098126251
 released: 2016-04-06
 updated: 2019-08-02
-version: 2.6.15
+version: '2.6.15'
 stars: 0
 reviews: 0
 size: '54119424'

@@ -9,7 +9,7 @@ appId: com.risewallet.riseapp
 appCountry: ca
 released: 2019-03-08
 updated: 2022-04-14
-version: 1.7.0
+version: '1.7.0'
 stars: 4.7
 ratings: 42
 reviews: 15

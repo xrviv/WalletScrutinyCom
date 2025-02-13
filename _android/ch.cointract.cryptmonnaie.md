@@ -8,7 +8,7 @@ appId: ch.cointract.cryptmonnaie
 appCountry: 
 released: 2021-07-05
 updated: 2022-02-14
-version: 2.0.28
+version: '2.0.28'
 stars: 
 ratings: 
 reviews: 

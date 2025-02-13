@@ -8,7 +8,7 @@ appId: io.antwallet
 appCountry: 
 released: 2021-11-15
 updated: 2021-11-23
-version: 1.0.2
+version: '1.0.2'
 stars: 4.2
 ratings: 
 reviews: 

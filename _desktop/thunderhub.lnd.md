@@ -6,7 +6,7 @@ authors:
 released: 2020-04-09
 discontinued: 
 updated: 2024-01-02
-version: 0.13.30
+version: '0.13.30'
 binaries: 
 provider: Thunderhub
 providerWebsite: 

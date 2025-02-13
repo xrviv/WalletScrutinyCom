@@ -9,7 +9,7 @@ appId: com.xcnk.cryptoloupe.android
 appCountry: 
 released: 2021-07-02
 updated: 2022-02-01
-version: 1.0.5
+version: '1.0.5'
 stars: 3.6
 ratings: 
 reviews: 2

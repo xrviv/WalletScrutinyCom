@@ -9,7 +9,7 @@ appId: com.alterdice.android
 appCountry: 
 released: 2018-09-24
 updated: 2018-11-22
-version: 1.3.7
+version: '1.3.7'
 stars: 2.6
 ratings: 
 reviews: 

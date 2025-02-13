@@ -9,7 +9,7 @@ appId: com.matbea
 appCountry: 
 released: 
 updated: 2025-01-20
-version: 1.6.9
+version: '1.6.9'
 stars: 3.6
 ratings: 
 reviews: 

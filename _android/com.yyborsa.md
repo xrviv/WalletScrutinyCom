@@ -8,7 +8,7 @@ appId: com.yyborsa
 appCountry: 
 released: 2021-08-20
 updated: 2021-08-20
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

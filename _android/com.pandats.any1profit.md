@@ -8,7 +8,7 @@ appId: com.pandats.any1profit
 appCountry: 
 released: 2019-05-02
 updated: 2019-05-02
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

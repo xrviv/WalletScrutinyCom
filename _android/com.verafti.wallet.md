@@ -9,7 +9,7 @@ appId: com.verafti.wallet
 appCountry: 
 released: 2021-07-21
 updated: 2021-09-23
-version: 1.1.3
+version: '1.1.3'
 stars: 2.6
 ratings: 127
 reviews: 4

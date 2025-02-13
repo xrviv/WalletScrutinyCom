@@ -9,7 +9,7 @@ appId: com.coinhub.pro
 appCountry: 
 released: 2021-08-20
 updated: 2025-02-06
-version: 2.2.5
+version: '2.2.5'
 stars: 4.1
 ratings: 
 reviews: 9

@@ -9,7 +9,7 @@ appId: com.zbx.app
 appCountry: us
 released: 2019-10-18
 updated: 2024-12-30
-version: 2.5.2
+version: '2.5.2'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: secfutures.aab
 appCountry: 
 released: 2022-04-30
 updated: 2022-04-30
-version: 1.0.5
+version: '1.0.5'
 stars: 
 ratings: 
 reviews: 

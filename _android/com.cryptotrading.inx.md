@@ -9,7 +9,7 @@ appId: com.cryptotrading.inx
 appCountry: 
 released: 2022-06-11
 updated: 2024-10-06
-version: 2.0.10
+version: '2.0.10'
 stars: 4.5
 ratings: 
 reviews: 17

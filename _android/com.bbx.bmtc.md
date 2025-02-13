@@ -9,7 +9,7 @@ appId: com.bbx.bmtc
 appCountry: us
 released: 2018-04-25
 updated: 2021-05-26
-version: 1.3.1
+version: '1.3.1'
 stars: 4.2
 ratings: 129
 reviews: 63

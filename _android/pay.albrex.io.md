@@ -8,7 +8,7 @@ appId: pay.albrex.io
 appCountry: 
 released: 2021-08-24
 updated: 2021-08-24
-version: 4.7.10
+version: '4.7.10'
 stars: 
 ratings: 
 reviews: 

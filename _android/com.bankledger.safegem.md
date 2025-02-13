@@ -8,7 +8,7 @@ appId: com.bankledger.safegem
 appCountry: 
 released: 2019-08-15
 updated: 2019-08-20
-version: 1.2.0
+version: '1.2.0'
 stars: 
 ratings: 
 reviews: 

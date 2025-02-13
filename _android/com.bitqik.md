@@ -9,7 +9,7 @@ appId: com.bitqik
 appCountry: 
 released: 2022-09-23
 updated: 2023-09-06
-version: 2.1.1
+version: '2.1.1'
 stars: 
 ratings: 
 reviews: 

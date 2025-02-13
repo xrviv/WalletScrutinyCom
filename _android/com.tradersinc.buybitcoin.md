@@ -9,7 +9,7 @@ appId: com.tradersinc.buybitcoin
 appCountry: 
 released: 2017-06-26
 updated: 2017-06-26
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

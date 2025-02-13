@@ -9,7 +9,7 @@ appId: com.aladiex.global
 appCountry: 
 released: 2020-07-04
 updated: 2021-04-27
-version: 1.7.9
+version: '1.7.9'
 stars: 
 ratings: 
 reviews: 

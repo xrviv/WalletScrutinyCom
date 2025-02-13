@@ -8,7 +8,7 @@ appId: com.centerprime.madi
 appCountry: 
 released: 2021-05-17
 updated: 2021-06-02
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

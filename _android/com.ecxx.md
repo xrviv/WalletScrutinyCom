@@ -8,7 +8,7 @@ appId: com.ecxx
 appCountry: 
 released: 
 updated: 2020-02-28
-version: 4.3.1
+version: '4.3.1'
 stars: 
 ratings: 
 reviews: 

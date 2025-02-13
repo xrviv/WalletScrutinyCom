@@ -9,7 +9,7 @@ appId: com.csesg.cs9
 appCountry: 
 released: 2020-09-28
 updated: 2021-07-28
-version: 1.2.9
+version: '1.2.9'
 stars: 
 ratings: 
 reviews: 

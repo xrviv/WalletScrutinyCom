@@ -9,7 +9,7 @@ appId: com.bitcoinglobal
 appCountry: us
 released: 2020-09-25
 updated: 2023-04-18
-version: 2.12.0
+version: '2.12.0'
 stars: 2.6
 ratings: 91
 reviews: 5

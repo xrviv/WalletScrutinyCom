@@ -8,7 +8,7 @@ appId: io.ssok
 appCountry: 
 released: 2021-08-02
 updated: 2021-08-23
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

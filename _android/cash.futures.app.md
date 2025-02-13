@@ -9,7 +9,7 @@ appId: cash.futures.app
 appCountry: 
 released: 2021-09-03
 updated: 2024-06-17
-version: 2.6.0
+version: '2.6.0'
 stars: 4.1
 ratings: 
 reviews: 10

@@ -8,7 +8,7 @@ appId: com.bt360.app
 appCountry: 
 released: 
 updated: 2019-10-02
-version: 1.1.2
+version: '1.1.2'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: cv.companion
 appCountry: 
 released: 2021-09-01
 updated: 2021-09-24
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.unodax.exchange
 appCountry: us
 released: 2018-04-04
 updated: 2022-03-10
-version: 2.5.8
+version: '2.5.8'
 stars: 
 ratings: 
 reviews: 

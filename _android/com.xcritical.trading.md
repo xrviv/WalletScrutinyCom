@@ -9,7 +9,7 @@ appId: com.xcritical.trading
 appCountry: 
 released: 
 updated: 2023-02-02
-version: 2.23.7
+version: '2.23.7'
 stars: 
 ratings: 
 reviews: 

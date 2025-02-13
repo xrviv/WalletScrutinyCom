@@ -8,7 +8,7 @@ appId: mx.goi.goimwallet
 appCountry: 
 released: 2020-12-10
 updated: 2021-07-19
-version: 1.16.0
+version: '1.16.0'
 stars: 
 ratings: 
 reviews: 

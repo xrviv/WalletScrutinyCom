@@ -9,7 +9,7 @@ appId: com.noid.cards
 appCountry: 
 released: 
 updated: 2023-03-26
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

@@ -6,7 +6,7 @@ authors:
 released: 2011-11-05
 discontinued: 
 updated: 2024-03-14
-version: 4.5.4
+version: '4.5.4'
 binaries: 
 provider: Thomas Voegtlin
 providerWebsite: 

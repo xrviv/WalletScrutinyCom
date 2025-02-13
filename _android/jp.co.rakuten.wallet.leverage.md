@@ -9,7 +9,7 @@ appId: jp.co.rakuten.wallet.leverage
 appCountry: 
 released: 2020-03-22
 updated: 2023-02-17
-version: 1.2.4
+version: '1.2.4'
 stars: 
 ratings: 
 reviews: 

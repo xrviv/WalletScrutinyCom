@@ -9,7 +9,7 @@ appId: com.gaifang.ATMOptionTest
 appCountry: 
 released: 2020-06-18
 updated: 2021-08-29
-version: 1.1.19
+version: '1.1.19'
 stars: 
 ratings: 
 reviews: 

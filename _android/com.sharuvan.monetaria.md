@@ -8,7 +8,7 @@ appId: com.sharuvan.monetaria
 appCountry: 
 released: 2021-12-26
 updated: 2021-12-23
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

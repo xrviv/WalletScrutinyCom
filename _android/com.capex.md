@@ -9,7 +9,7 @@ appId: com.capex
 appCountry: 
 released: 2022-02-15
 updated: 2023-09-21
-version: 2.0.2
+version: '2.0.2'
 stars: 
 ratings: 
 reviews: 

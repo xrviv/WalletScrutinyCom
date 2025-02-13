@@ -8,7 +8,7 @@ appId: skywallet.net
 appCountry: 
 released: 2020-05-11
 updated: 2020-05-11
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

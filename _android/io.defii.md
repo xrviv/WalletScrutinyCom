@@ -8,7 +8,7 @@ appId: io.defii
 appCountry: 
 released: 2021-04-24
 updated: 2021-08-05
-version: 2.0.3
+version: '2.0.3'
 stars: 
 ratings: 
 reviews: 

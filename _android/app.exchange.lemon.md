@@ -8,7 +8,7 @@ appId: app.exchange.lemon
 appCountry: 
 released: 2022-11-16
 updated: 2022-11-16
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

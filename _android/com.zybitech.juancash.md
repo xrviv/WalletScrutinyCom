@@ -9,7 +9,7 @@ appId: com.zybitech.juancash
 appCountry: 
 released: 2019-07-22
 updated: 2024-08-05
-version: V2.0.3
+version: 'V2.0.3'
 stars: 4.6
 ratings: 
 reviews: 3

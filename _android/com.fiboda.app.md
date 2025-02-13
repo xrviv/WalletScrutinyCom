@@ -9,7 +9,7 @@ appId: com.fiboda.app
 appCountry: us
 released: 2021-01-14
 updated: 2021-07-08
-version: 1.0.5
+version: '1.0.5'
 stars: 4.4
 ratings: 437
 reviews: 2

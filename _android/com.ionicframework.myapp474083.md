@@ -8,7 +8,7 @@ appId: com.ionicframework.myapp474083
 appCountry: 
 released: 2017-06-16
 updated: 2018-10-22
-version: 2.0.13
+version: '2.0.13'
 stars: 2.9
 ratings: 278
 reviews: 174

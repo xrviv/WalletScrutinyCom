@@ -9,7 +9,7 @@ appId: com.chainup.exchange.DsdaqGlobal
 appCountry: 
 released: 2021-10-26
 updated: 2022-07-18
-version: 5.4.1_push_v2
+version: '5.4.1_push_v2'
 stars: 
 ratings: 
 reviews: 

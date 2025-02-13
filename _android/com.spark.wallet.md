@@ -10,7 +10,7 @@ appId: com.spark.wallet
 appCountry: 
 released: 2018-12-10
 updated: 2021-11-08
-version: 0.3.1
+version: '0.3.1'
 stars: 4.5
 ratings: 
 reviews: 1

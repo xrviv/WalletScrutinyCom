@@ -9,7 +9,7 @@ appId: com.actoz.actpass
 appCountry: 
 released: 2022-11-29
 updated: 2025-01-15
-version: 2.0.5
+version: '2.0.5'
 stars: 4.4
 ratings: 
 reviews: 1

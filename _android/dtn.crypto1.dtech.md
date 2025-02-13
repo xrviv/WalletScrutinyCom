@@ -9,7 +9,7 @@ appId: dtn.crypto1.dtech
 appCountry: 
 released: 2021-03-05
 updated: 2021-03-05
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

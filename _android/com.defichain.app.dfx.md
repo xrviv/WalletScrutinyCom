@@ -9,7 +9,7 @@ appId: com.defichain.app.dfx
 appCountry: 
 released: 2021-08-24
 updated: 2023-03-22
-version: 1.20.1
+version: '1.20.1'
 stars: 3.5
 ratings: 
 reviews: 2

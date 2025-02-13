@@ -8,7 +8,7 @@ appId: com.bastionpay.bastionpay
 appCountry: 
 released: 2019-01-04
 updated: 2019-11-20
-version: v3.0.3
+version: 'v3.0.3'
 stars: 5
 ratings: 
 reviews: 101

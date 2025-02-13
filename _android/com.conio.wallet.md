@@ -9,7 +9,7 @@ appId: com.conio.wallet
 appCountry: 
 released: 
 updated: 2025-01-23
-version: 9.0.4
+version: '9.0.4'
 stars: 3.5
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.ideal.studio.milly_crypto
 appCountry: 
 released: 2021-01-11
 updated: 2021-02-23
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

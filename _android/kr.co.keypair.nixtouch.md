@@ -8,7 +8,7 @@ appId: kr.co.keypair.nixtouch
 appCountry: 
 released: 2018-10-19
 updated: 2019-12-27
-version: 1.0.0.65
+version: '1.0.0.65'
 stars: 5
 ratings: 
 reviews: 

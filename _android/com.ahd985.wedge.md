@@ -9,7 +9,7 @@ appId: com.ahd985.wedge
 appCountry: 
 released: 2021-09-29
 updated: 2023-04-04
-version: 1.4.3
+version: '1.4.3'
 stars: 4.3
 ratings: 
 reviews: 19

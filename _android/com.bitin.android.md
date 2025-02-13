@@ -9,7 +9,7 @@ appId: com.bitin.android
 appCountry: 
 released: 2018-03-11
 updated: 2022-02-11
-version: 2.0.0
+version: '2.0.0'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.capixal
 appCountry: 
 released: 
 updated: 2021-12-01
-version: 1.5.78-capixal
+version: '1.5.78-capixal'
 stars: 
 ratings: 
 reviews: 

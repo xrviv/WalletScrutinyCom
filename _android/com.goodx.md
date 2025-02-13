@@ -9,7 +9,7 @@ appId: com.goodx
 appCountry: 
 released: 
 updated: 2019-03-23
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

@@ -6,7 +6,7 @@ authors:
 released: 2019-04-14
 discontinued: 
 updated: 2019-05-03
-version: 0.1-alpha
+version: '0.1-alpha'
 binaries: 
 provider: Taegeun Moon
 providerWebsite: https://lunatk.github.io/

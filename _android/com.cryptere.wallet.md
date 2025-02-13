@@ -8,7 +8,7 @@ appId: com.cryptere.wallet
 appCountry: 
 released: 2022-06-17
 updated: 2022-07-01
-version: 0.9.11
+version: '0.9.11'
 stars: 
 ratings: 
 reviews: 

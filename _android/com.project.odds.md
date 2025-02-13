@@ -8,7 +8,7 @@ appId: com.project.odds
 appCountry: 
 released: 2022-03-29
 updated: 2024-02-01
-version: 1.0.6
+version: '1.0.6'
 stars: 
 ratings: 
 reviews: 

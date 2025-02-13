@@ -8,7 +8,7 @@ appId: com.bitleast.web.app
 appCountry: 
 released: 2021-04-25
 updated: 2021-04-30
-version: 1.2.1
+version: '1.2.1'
 stars: 
 ratings: 
 reviews: 

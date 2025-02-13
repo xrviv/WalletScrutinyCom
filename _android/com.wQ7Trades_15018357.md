@@ -8,7 +8,7 @@ appId: com.wQ7Trades_15018357
 appCountry: 
 released: 2022-01-13
 updated: 2022-01-13
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

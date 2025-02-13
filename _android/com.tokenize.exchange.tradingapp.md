@@ -9,7 +9,7 @@ appId: com.tokenize.exchange.tradingapp
 appCountry: us
 released: 2019-12-03
 updated: 2025-01-07
-version: 2.0.20
+version: '2.0.20'
 stars: 4.1
 ratings: 
 reviews: 7

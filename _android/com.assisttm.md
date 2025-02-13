@@ -8,7 +8,7 @@ appId: com.assisttm
 appCountry: 
 released: 2021-08-02
 updated: 2022-05-10
-version: 1.1.3
+version: '1.1.3'
 stars: 
 ratings: 
 reviews: 

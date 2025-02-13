@@ -9,7 +9,7 @@ appId: com.atani
 appCountry: 
 released: 2021-03-09
 updated: 2025-01-22
-version: 4.25.15
+version: '4.25.15'
 stars: 4.2
 ratings: 
 reviews: 61

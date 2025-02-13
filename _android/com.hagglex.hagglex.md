@@ -9,7 +9,7 @@ appId: com.hagglex.hagglex
 appCountry: us
 released: 2021-03-17
 updated: 2021-11-26
-version: 1.1.2
+version: '1.1.2'
 stars: 4.3
 ratings: 2775
 reviews: 90

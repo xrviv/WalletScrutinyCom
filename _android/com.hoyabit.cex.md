@@ -9,7 +9,7 @@ appId: com.hoyabit.cex
 appCountry: 
 released: 2023-03-10
 updated: 2025-01-22
-version: 1.30.1
+version: '1.30.1'
 stars: 4.9
 ratings: 
 reviews: 

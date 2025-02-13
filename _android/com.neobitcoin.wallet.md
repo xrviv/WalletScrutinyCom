@@ -8,7 +8,7 @@ appId: com.neobitcoin.wallet
 appCountry: 
 released: 2020-07-03
 updated: 2020-07-03
-version: 1.0.0
+version: '1.0.0'
 stars: 1
 ratings: 131
 reviews: 7

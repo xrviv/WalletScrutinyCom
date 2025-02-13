@@ -9,7 +9,7 @@ appId: com.xchange.baksman
 appCountry: ru
 released: 2020-02-03
 updated: 2024-07-31
-version: 4..1
+version: '4..1'
 stars: 4.2
 ratings: 60
 reviews: 26

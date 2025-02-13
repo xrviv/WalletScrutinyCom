@@ -9,7 +9,7 @@ appId: com.m3.Trendo
 appCountry: in
 released: 2020-08-20
 updated: 2021-09-25
-version: 2.5.42
+version: '2.5.42'
 stars: 4.8
 ratings: 4809
 reviews: 2616

@@ -9,7 +9,7 @@ appCountry: jp
 idd: '1417085535'
 released: 2018-12-10
 updated: 2024-09-28
-version: 1.4.6
+version: '1.4.6'
 stars: 4.4
 reviews: 14299
 size: '83835904'

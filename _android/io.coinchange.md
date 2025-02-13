@@ -9,7 +9,7 @@ appId: io.coinchange
 appCountry: 
 released: 2021-10-31
 updated: 2023-11-29
-version: 2.1.0
+version: '2.1.0'
 stars: 3.6
 ratings: 
 reviews: 154

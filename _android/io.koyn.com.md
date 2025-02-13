@@ -8,7 +8,7 @@ appId: io.koyn.com
 appCountry: 
 released: 2021-01-16
 updated: 2021-01-16
-version: 0.18.0
+version: '0.18.0'
 stars: 
 ratings: 
 reviews: 

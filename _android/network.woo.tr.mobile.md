@@ -8,7 +8,7 @@ appId: network.woo.tr.mobile
 appCountry: 
 released: 2022-10-20
 updated: 2023-05-04
-version: 3.4.0
+version: '3.4.0'
 stars: 
 ratings: 
 reviews: 

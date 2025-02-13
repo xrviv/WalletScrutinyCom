@@ -8,7 +8,7 @@ appId: com.efc.wallet
 appCountry: 
 released: 2021-03-30
 updated: 2021-04-05
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

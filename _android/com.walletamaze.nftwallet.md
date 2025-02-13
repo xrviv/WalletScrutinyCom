@@ -9,7 +9,7 @@ appId: com.walletamaze.nftwallet
 appCountry: 
 released: 2023-06-26
 updated: 2024-01-18
-version: 1.1.8
+version: '1.1.8'
 stars: 4.3
 ratings: 
 reviews: 1

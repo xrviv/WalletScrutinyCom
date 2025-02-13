@@ -9,7 +9,7 @@ appId: chat.sphinx
 appCountry: 
 released: 2021-09-30
 updated: 2024-03-18
-version: 1.0.0-beta21
+version: '1.0.0-beta21'
 stars: 3.7
 ratings: 
 reviews: 8

@@ -9,7 +9,7 @@ appId: com.sanuslife.sanuswallet2
 appCountry: 
 released: 2020-09-04
 updated: 2023-11-07
-version: 2.1.17
+version: '2.1.17'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appCountry: xk
 idd: '1567210224'
 released: 2021-05-31
 updated: 2024-07-08
-version: 3.0.9
+version: '3.0.9'
 stars: 0
 reviews: 0
 size: '207308800'

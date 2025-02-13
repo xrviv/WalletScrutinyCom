@@ -6,7 +6,7 @@ authors:
 released: 2017-10-13
 discontinued: 
 updated: 2024-04-16
-version: 0.9.31
+version: '0.9.31'
 binaries: 
 provider: J-Dog
 providerWebsite: 

@@ -9,7 +9,7 @@ appId: com.zb.global
 appCountry: 
 released: 2021-07-17
 updated: 2022-06-24
-version: 1.3.2.1478
+version: '1.3.2.1478'
 stars: 
 ratings: 
 reviews: 

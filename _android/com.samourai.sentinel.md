@@ -8,7 +8,7 @@ appId: com.samourai.sentinel
 appCountry: 
 released: 2015-05-23
 updated: 2023-11-07
-version: 5.0.1
+version: '5.0.1'
 stars: 4.1
 ratings: 313
 reviews: 47

@@ -8,7 +8,7 @@ appId: com.bitcoinsuisse.pay
 appCountry: 
 released: 2021-06-06
 updated: 2023-06-05
-version: 1.3.1
+version: '1.3.1'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.cobru.cobru
 appCountry: 
 released: 2021-06-26
 updated: 2023-12-19
-version: 4.0.99
+version: '4.0.99'
 stars: 
 ratings: 
 reviews: 

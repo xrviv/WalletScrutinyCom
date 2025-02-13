@@ -9,7 +9,7 @@ appId: com.trendo.android
 appCountry: 
 released: 2021-10-05
 updated: 2025-02-02
-version: 3.9.32_googleplay
+version: '3.9.32_googleplay'
 stars: 4.7
 ratings: 
 reviews: 638

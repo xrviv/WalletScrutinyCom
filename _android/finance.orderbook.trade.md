@@ -8,7 +8,7 @@ appId: finance.orderbook.trade
 appCountry: 
 released: 2021-12-29
 updated: 2021-12-29
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.newbit.wallet
 appCountry: 
 released: 2022-05-23
 updated: 2022-05-27
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

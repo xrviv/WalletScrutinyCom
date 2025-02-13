@@ -9,7 +9,7 @@ appId: io.mexo.app
 appCountry: us
 released: 2020-08-30
 updated: 2025-01-27
-version: 3.6.11
+version: '3.6.11'
 stars: 3.2
 ratings: 401
 reviews: 16

@@ -9,7 +9,7 @@ appId: com.redot.app
 appCountry: 
 released: 2020-03-03
 updated: 2023-10-19
-version: 1.0.61
+version: '1.0.61'
 stars: 4.3
 ratings: 37
 reviews: 3

@@ -9,7 +9,7 @@ appId: com.duniapay.africa
 appCountry: 
 released: 2019-10-02
 updated: 2022-03-29
-version: 3.0.9
+version: '3.0.9'
 stars: 4.7
 ratings: 
 reviews: 

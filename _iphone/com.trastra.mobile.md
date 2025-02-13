@@ -9,7 +9,7 @@ appCountry: de
 idd: 1446427008
 released: 2019-01-20
 updated: 2025-02-06
-version: 5.0.9
+version: '5.0.9'
 stars: 5
 reviews: 1
 size: '60826624'

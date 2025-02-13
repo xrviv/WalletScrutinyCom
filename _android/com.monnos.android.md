@@ -9,7 +9,7 @@ appId: com.monnos.android
 appCountry: br
 released: 2019-09-17
 updated: 2024-11-29
-version: 6.3.14
+version: '6.3.14'
 stars: 3.7
 ratings: 931
 reviews: 479

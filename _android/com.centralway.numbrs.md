@@ -8,7 +8,7 @@ appId: com.centralway.numbrs
 appCountry: 
 released: 2019-02-12
 updated: 2022-04-14
-version: 7.4.0
+version: '7.4.0'
 stars: 3.4
 ratings: 
 reviews: 6

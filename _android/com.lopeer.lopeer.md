@@ -9,7 +9,7 @@ appId: com.lopeer.lopeer
 appCountry: 
 released: 2022-08-13
 updated: 2023-12-05
-version: 2.2.7
+version: '2.2.7'
 stars: 
 ratings: 
 reviews: 

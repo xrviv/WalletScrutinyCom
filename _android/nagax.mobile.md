@@ -8,7 +8,7 @@ appId: nagax.mobile
 appCountry: 
 released: 
 updated: 2023-04-07
-version: 1.0.18
+version: '1.0.18'
 stars: 
 ratings: 
 reviews: 

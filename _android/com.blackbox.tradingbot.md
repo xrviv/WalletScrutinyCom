@@ -8,7 +8,7 @@ appId: com.blackbox.tradingbot
 appCountry: 
 released: 
 updated: 2019-09-11
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

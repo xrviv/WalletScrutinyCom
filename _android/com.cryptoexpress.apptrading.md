@@ -8,7 +8,7 @@ appId: com.cryptoexpress.apptrading
 appCountry: 
 released: 2022-05-10
 updated: 2022-05-10
-version: 1.0.5
+version: '1.0.5'
 stars: 
 ratings: 
 reviews: 

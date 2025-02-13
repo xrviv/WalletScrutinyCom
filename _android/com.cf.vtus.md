@@ -8,7 +8,7 @@ appId: com.cf.vtus
 appCountry: 
 released: 2022-04-26
 updated: 2023-03-08
-version: 1.0.13
+version: '1.0.13'
 stars: 
 ratings: 
 reviews: 

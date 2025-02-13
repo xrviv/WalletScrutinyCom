@@ -8,7 +8,7 @@ appId: com.sudonym.sudonym
 appCountry: 
 released: 
 updated: 2023-01-23
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

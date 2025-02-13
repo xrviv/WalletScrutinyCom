@@ -8,7 +8,7 @@ appId: ir.pulpal.app
 appCountry: 
 released: 2022-01-06
 updated: 2022-09-06
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

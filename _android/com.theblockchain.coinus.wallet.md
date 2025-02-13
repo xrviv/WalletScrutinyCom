@@ -9,7 +9,7 @@ appId: com.theblockchain.coinus.wallet
 appCountry: bj
 released: 2018-04-23
 updated: 2021-12-10
-version: 3.0.0
+version: '3.0.0'
 stars: 3.9
 ratings: 379
 reviews: 235

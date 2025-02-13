@@ -8,7 +8,7 @@ appId: com.rolbeet.app
 appCountry: 
 released: 2020-06-04
 updated: 2020-10-28
-version: 1.4.0
+version: '1.4.0'
 stars: 
 ratings: 
 reviews: 

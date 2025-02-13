@@ -9,7 +9,7 @@ appId: com.bancryp.mobuser.v2
 appCountry: 
 released: 2020-05-18
 updated: 2023-04-14
-version: 1.6.0
+version: '1.6.0'
 stars: 3.7
 ratings: 
 reviews: 

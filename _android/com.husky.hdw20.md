@@ -8,7 +8,7 @@ appId: com.husky.hdw20
 appCountry: 
 released: 2021-04-06
 updated: 2021-04-06
-version: 1.0.4
+version: '1.0.4'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.oberton.app
 appCountry: 
 released: 2021-09-15
 updated: 2024-07-19
-version: 2.15.9
+version: '2.15.9'
 stars: 4.9
 ratings: 
 reviews: 27

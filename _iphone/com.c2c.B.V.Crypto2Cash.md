@@ -9,7 +9,7 @@ appCountry: de
 idd: '1394099126'
 released: 2018-11-29
 updated: 2024-09-04
-version: 3.1.1
+version: '3.1.1'
 stars: 0
 reviews: 0
 size: '20125696'

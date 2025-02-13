@@ -10,7 +10,7 @@ appId: io.bitmax.exchange
 appCountry: 
 released: 
 updated: 2021-04-25
-version: 2.4.7
+version: '2.4.7'
 stars: 4.2
 ratings: 2788
 reviews: 947

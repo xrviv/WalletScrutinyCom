@@ -8,7 +8,7 @@ appId: com.quattro.wallet
 appCountry: 
 released: 2021-07-12
 updated: 2021-07-12
-version: 0.21.0
+version: '0.21.0'
 stars: 
 ratings: 
 reviews: 

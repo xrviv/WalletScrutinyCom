@@ -9,7 +9,7 @@ appId: io.coinhe
 appCountry: 
 released: 2019-03-19
 updated: 2020-06-05
-version: 1.0.6.7
+version: '1.0.6.7'
 stars: 4.5
 ratings: 
 reviews: 5

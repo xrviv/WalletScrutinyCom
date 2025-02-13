@@ -8,7 +8,7 @@ appId: com.reactivespace.tyslinmulticoinwallet
 appCountry: 
 released: 2019-07-26
 updated: 2020-09-21
-version: 2.1.38
+version: '2.1.38'
 stars: 4.2
 ratings: 
 reviews: 8

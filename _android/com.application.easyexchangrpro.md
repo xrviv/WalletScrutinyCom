@@ -8,7 +8,7 @@ appId: com.application.easyexchangrpro
 appCountry: 
 released: 2022-03-29
 updated: 2022-06-22
-version: 2.4.6
+version: '2.4.6'
 stars: 
 ratings: 
 reviews: 

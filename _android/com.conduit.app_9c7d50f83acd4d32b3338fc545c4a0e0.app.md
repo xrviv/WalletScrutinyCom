@@ -8,7 +8,7 @@ appId: com.conduit.app_9c7d50f83acd4d32b3338fc545c4a0e0.app
 appCountry: 
 released: 2021-03-31
 updated: 2021-03-31
-version: 1.4.6.17
+version: '1.4.6.17'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.swappy.forint
 appCountry: 
 released: 2022-05-16
 updated: 2023-04-12
-version: 0.0.20
+version: '0.0.20'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appCountry: us
 idd: '1566000240'
 released: 2021-05-12
 updated: 2022-05-14
-version: 2.0.4
+version: '2.0.4'
 stars: 4.5
 reviews: 26
 size: '71064576'

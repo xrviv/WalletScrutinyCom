@@ -8,7 +8,7 @@ appId: com.uwalletapp
 appCountry: 
 released: 
 updated: 2020-06-08
-version: 1.4.2
+version: '1.4.2'
 stars: 4.3
 ratings: 106
 reviews: 58

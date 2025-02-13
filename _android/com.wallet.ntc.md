@@ -8,7 +8,7 @@ appId: com.wallet.ntc
 appCountry: 
 released: 2022-06-02
 updated: 2022-06-03
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

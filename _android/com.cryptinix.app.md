@@ -9,7 +9,7 @@ appId: com.cryptinix.app
 appCountry: us
 released: 2020-11-24
 updated: 2023-10-11
-version: 1.2.8
+version: '1.2.8'
 stars: 
 ratings: 62
 reviews: 

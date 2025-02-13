@@ -10,7 +10,7 @@ appId: com.ezdefi
 appCountry: 
 released: 2019-11-29
 updated: 2021-09-08
-version: 0.3.9
+version: '0.3.9'
 stars: 4.1
 ratings: 633
 reviews: 13

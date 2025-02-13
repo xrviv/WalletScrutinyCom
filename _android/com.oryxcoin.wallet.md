@@ -8,7 +8,7 @@ appId: com.oryxcoin.wallet
 appCountry: 
 released: 2018-03-29
 updated: 2018-03-29
-version: v5.0.0
+version: 'v5.0.0'
 stars: 
 ratings: 
 reviews: 

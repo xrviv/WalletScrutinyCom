@@ -9,7 +9,7 @@ appId: network.privapp.wallet
 appCountry: 
 released: 2022-03-14
 updated: 2022-10-30
-version: 1.0.7
+version: '1.0.7'
 stars: 4.5
 ratings: 
 reviews: 20

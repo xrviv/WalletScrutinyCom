@@ -8,7 +8,7 @@ appId: com.trdc.token
 appCountry: 
 released: 2021-11-10
 updated: 2022-06-13
-version: 1.0.9
+version: '1.0.9'
 stars: 4.6
 ratings: 
 reviews: 7

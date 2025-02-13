@@ -8,7 +8,7 @@ appId: com.tdtc.vtrade.biteclipse
 appCountry: 
 released: 2019-11-20
 updated: 2021-07-03
-version: 1.0.6
+version: '1.0.6'
 stars: 3
 ratings: 
 reviews: 

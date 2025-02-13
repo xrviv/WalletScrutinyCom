@@ -9,7 +9,7 @@ appId: com.maskex.app
 appCountry: 
 released: 2021-10-20
 updated: 2025-02-10
-version: 4.1.8
+version: '4.1.8'
 stars: 4
 ratings: 
 reviews: 2

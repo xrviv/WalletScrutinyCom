@@ -8,7 +8,7 @@ appId: com.cbanx.androidapp
 appCountry: 
 released: 2018-08-25
 updated: 2019-06-25
-version: 2.1.20
+version: '2.1.20'
 stars: 
 ratings: 
 reviews: 

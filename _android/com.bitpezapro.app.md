@@ -9,7 +9,7 @@ appId: com.bitpezapro.app
 appCountry: us
 released: 2020-02-09
 updated: 2022-09-26
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

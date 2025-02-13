@@ -9,7 +9,7 @@ appId: com.bitoshi
 appCountry: 
 released: 2022-10-13
 updated: 2024-11-28
-version: 1.4.1
+version: '1.4.1'
 stars: 4.4
 ratings: 
 reviews: 19

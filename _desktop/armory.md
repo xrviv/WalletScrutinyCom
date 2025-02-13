@@ -6,7 +6,7 @@ authors:
 released: 2012-02-15
 discontinued: 
 updated: 2018-12-24
-version: 0.96.5
+version: '0.96.5'
 binaries: 
 provider: Armory Technologies
 providerWebsite: 

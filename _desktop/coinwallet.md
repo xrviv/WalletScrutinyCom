@@ -6,7 +6,7 @@ authors:
 released: 2020-05-16
 discontinued: 
 updated: 2024-04-18
-version: 6.3.0
+version: '6.3.0'
 binaries: 
 provider: Coin Wallet
 providerWebsite: 

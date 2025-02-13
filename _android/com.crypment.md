@@ -8,7 +8,7 @@ appId: com.crypment
 appCountry: 
 released: 2020-01-27
 updated: 2021-10-22
-version: 1.2.0
+version: '1.2.0'
 stars: 
 ratings: 
 reviews: 

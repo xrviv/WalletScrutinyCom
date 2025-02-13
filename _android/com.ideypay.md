@@ -9,7 +9,7 @@ appId: com.ideypay
 appCountry: 
 released: 2020-09-03
 updated: 2022-10-30
-version: 1.0.69
+version: '1.0.69'
 stars: 3.8
 ratings: 
 reviews: 7

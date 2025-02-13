@@ -6,7 +6,7 @@ authors:
 released: 2017-09-25
 discontinued: 
 updated: 2022-09-10
-version: 2.0.8
+version: '2.0.8'
 binaries: 
 provider: BitcoinZ
 providerWebsite: 

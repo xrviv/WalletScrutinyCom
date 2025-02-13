@@ -8,7 +8,7 @@ appId: com.hashcash.tomya
 appCountry: 
 released: 2020-04-28
 updated: 2020-06-20
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

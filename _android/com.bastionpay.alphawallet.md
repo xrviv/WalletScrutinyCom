@@ -8,7 +8,7 @@ appId: com.bastionpay.alphawallet
 appCountry: 
 released: 2019-05-12
 updated: 2019-09-04
-version: v2.0.5
+version: 'v2.0.5'
 stars: 3.8
 ratings: 41
 reviews: 14

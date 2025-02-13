@@ -9,7 +9,7 @@ appCountry: au
 idd: '1566499416'
 released: 2021-10-18
 updated: 2025-01-28
-version: 9.0.5
+version: '9.0.5'
 stars: 4.8
 reviews: 1207
 size: '83338240'

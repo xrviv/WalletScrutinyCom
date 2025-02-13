@@ -8,7 +8,7 @@ appId: com.finx
 appCountry: 
 released: 2022-03-11
 updated: 2022-07-29
-version: 1.0.0.5-finx
+version: '1.0.0.5-finx'
 stars: 
 ratings: 
 reviews: 

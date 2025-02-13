@@ -8,7 +8,7 @@ appId: com.unifiedpurse.app
 appCountry: 
 released: 2018-05-19
 updated: 2018-08-30
-version: 1.0.9
+version: '1.0.9'
 stars: 
 ratings: 
 reviews: 

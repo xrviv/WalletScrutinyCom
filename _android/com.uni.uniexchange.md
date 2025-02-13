@@ -9,7 +9,7 @@ appId: com.uni.uniexchange
 appCountry: 
 released: 2018-06-06
 updated: 2019-02-14
-version: 5.3.5
+version: '5.3.5'
 stars: 3.9
 ratings: 11
 reviews: 7

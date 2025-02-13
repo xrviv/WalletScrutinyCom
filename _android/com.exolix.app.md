@@ -9,7 +9,7 @@ appId: com.exolix.app
 appCountry: 
 released: 2022-07-11
 updated: 2023-08-21
-version: 1.0.5
+version: '1.0.5'
 stars: 4.4
 ratings: 
 reviews: 

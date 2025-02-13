@@ -8,7 +8,7 @@ appId: io.definitex.walllet
 appCountry: 
 released: 2021-04-14
 updated: 2021-04-14
-version: 0.18.2
+version: '0.18.2'
 stars: 5
 ratings: 
 reviews: 29

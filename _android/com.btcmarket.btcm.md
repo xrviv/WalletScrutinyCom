@@ -9,7 +9,7 @@ appId: com.btcmarket.btcm
 appCountry: 
 released: 2022-03-17
 updated: 2025-02-12
-version: 1.9.4
+version: '1.9.4'
 stars: 4.3
 ratings: 
 reviews: 2

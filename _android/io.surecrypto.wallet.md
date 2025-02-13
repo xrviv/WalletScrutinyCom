@@ -8,7 +8,7 @@ appId: io.surecrypto.wallet
 appCountry: 
 released: 2021-10-20
 updated: 2021-11-12
-version: 2.2.0
+version: '2.2.0'
 stars: 4.8
 ratings: 
 reviews: 27

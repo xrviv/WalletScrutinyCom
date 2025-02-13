@@ -9,7 +9,7 @@ appId: com.arumtrade.app.android
 appCountry: 
 released: 
 updated: 2021-11-18
-version: 1.0.4
+version: '1.0.4'
 stars: 3.5
 ratings: 
 reviews: 

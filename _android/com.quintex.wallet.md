@@ -8,7 +8,7 @@ appId: com.quintex.wallet
 appCountry: 
 released: 2022-05-12
 updated: 2022-05-28
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

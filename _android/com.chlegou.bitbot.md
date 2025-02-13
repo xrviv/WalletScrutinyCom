@@ -9,7 +9,7 @@ appId: com.chlegou.bitbot
 appCountry: 
 released: 2019-01-02
 updated: 2024-09-14
-version: 2.1.0
+version: '2.1.0'
 stars: 3.9
 ratings: 7718
 reviews: 434

@@ -8,7 +8,7 @@ appId: com.bullcoin.app
 appCountry: 
 released: 2021-02-22
 updated: 2023-07-11
-version: 1.2.2
+version: '1.2.2'
 stars: 
 ratings: 
 reviews: 

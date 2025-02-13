@@ -8,7 +8,7 @@ appId: com.nucex.app
 appCountry: 
 released: 2019-05-20
 updated: 2019-05-23
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

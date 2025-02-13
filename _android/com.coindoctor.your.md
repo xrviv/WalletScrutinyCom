@@ -8,7 +8,7 @@ appId: com.coindoctor.your
 appCountry: 
 released: 2019-01-08
 updated: 2019-03-11
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.mexcpro.client
 appCountry: 
 released: 2020-07-23
 updated: 2025-02-08
-version: VARY
+version: 'VARY'
 stars: 4.4
 ratings: 12371
 reviews: 970

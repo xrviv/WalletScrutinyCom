@@ -8,7 +8,7 @@ appId: org.metahash.metawallet
 appCountry: 
 released: 
 updated: 2018-11-14
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.primitives.bitdefender.release
 appCountry: 
 released: 2022-06-20
 updated: 2022-06-20
-version: 1.0-RELEASE
+version: '1.0-RELEASE'
 stars: 
 ratings: 
 reviews: 

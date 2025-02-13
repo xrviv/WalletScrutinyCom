@@ -8,7 +8,7 @@ appId: com.bitcoin.firstdigitalhub
 appCountry: 
 released: 2020-12-04
 updated: 2021-05-15
-version: 1.9.3.0.13
+version: '1.9.3.0.13'
 stars: 4.5
 ratings: 160
 reviews: 148

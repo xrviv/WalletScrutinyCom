@@ -9,7 +9,7 @@ appId: cz.hundredspires.crypton
 appCountry: 
 released: 2021-09-02
 updated: 2022-05-11
-version: 1.1.18
+version: '1.1.18'
 stars: 
 ratings: 
 reviews: 

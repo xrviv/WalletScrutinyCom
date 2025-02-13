@@ -8,7 +8,7 @@ appId: com.ironfx.exchange
 appCountry: 
 released: 2021-05-31
 updated: 2021-05-31
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

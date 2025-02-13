@@ -8,7 +8,7 @@ appId: com.cryptoasx.app
 appCountry: 
 released: 
 updated: 2021-12-06
-version: 1.1.65
+version: '1.1.65'
 stars: 
 ratings: 
 reviews: 

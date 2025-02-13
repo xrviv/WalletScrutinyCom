@@ -8,7 +8,7 @@ appId: com.vendescrow.vendescrow
 appCountry: 
 released: 2021-12-05
 updated: 2021-12-06
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.blockchaincommodities.enifex
 appCountry: 
 released: 2022-12-14
 updated: 2022-12-14
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.bitlink.smarttrade
 appCountry: 
 released: 2021-05-04
 updated: 2021-05-05
-version: 1.2.2
+version: '1.2.2'
 stars: 
 ratings: 
 reviews: 

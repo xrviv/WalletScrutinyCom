@@ -8,7 +8,7 @@ appId: com.marswap.io
 appCountry: 
 released: 
 updated: 2022-11-29
-version: 2.6.7
+version: '2.6.7'
 stars: 
 ratings: 
 reviews: 

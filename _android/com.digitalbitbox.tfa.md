@@ -9,7 +9,7 @@ appId: com.digitalbitbox.tfa
 appCountry: 
 released: 2016-01-24
 updated: 2019-10-17
-version: 3.0.5
+version: '3.0.5'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.leadwallet.io
 appCountry: 
 released: 
 updated: 2021-08-14
-version: Varies with device
+version: 'Varies with device'
 stars: 
 ratings: 
 reviews: 

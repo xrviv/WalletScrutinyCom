@@ -9,7 +9,7 @@ appId: com.papaya.gekkard
 appCountry: mt
 released: 2020-01-30
 updated: 2024-10-14
-version: 1.1.1
+version: '1.1.1'
 stars: 2.3
 ratings: 43
 reviews: 69

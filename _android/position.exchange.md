@@ -9,7 +9,7 @@ appId: position.exchange
 appCountry: 
 released: 2022-07-27
 updated: 2023-03-20
-version: 3.0.1
+version: '3.0.1'
 stars: 4.7
 ratings: 
 reviews: 9

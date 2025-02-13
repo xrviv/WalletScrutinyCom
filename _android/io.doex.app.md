@@ -9,7 +9,7 @@ appId: io.doex.app
 appCountry: 
 released: 2022-06-11
 updated: 2024-08-15
-version: 2.2.2
+version: '2.2.2'
 stars: 
 ratings: 
 reviews: 

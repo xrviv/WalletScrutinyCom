@@ -9,7 +9,7 @@ appId: life.cheeese.mnx
 appCountry: 
 released: 2019-03-22
 updated: 2024-06-09
-version: 4.5.3
+version: '4.5.3'
 stars: 
 ratings: 
 reviews: 

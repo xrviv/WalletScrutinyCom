@@ -8,7 +8,7 @@ appId: com.fastlocaltrade.fastlocaltrade
 appCountry: 
 released: 2019-05-11
 updated: 2019-12-06
-version: 1.1.1
+version: '1.1.1'
 stars: 
 ratings: 
 reviews: 

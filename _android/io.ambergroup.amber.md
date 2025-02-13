@@ -9,7 +9,7 @@ appId: io.ambergroup.amber
 appCountry: us
 released: 2020-09-21
 updated: 2024-12-31
-version: 3.0.3
+version: '3.0.3'
 stars: 4.6
 ratings: 2656
 reviews: 238

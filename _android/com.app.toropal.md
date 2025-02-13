@@ -8,7 +8,7 @@ appId: com.app.toropal
 appCountry: 
 released: 2019-02-18
 updated: 2023-01-14
-version: 2.0.0
+version: '2.0.0'
 stars: 4.8
 ratings: 
 reviews: 

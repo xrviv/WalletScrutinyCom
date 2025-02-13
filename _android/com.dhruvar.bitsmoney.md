@@ -8,7 +8,7 @@ appId: com.dhruvar.bitsmoney
 appCountry: 
 released: 2021-09-14
 updated: 2021-09-23
-version: 3.0.0
+version: '3.0.0'
 stars: 
 ratings: 
 reviews: 

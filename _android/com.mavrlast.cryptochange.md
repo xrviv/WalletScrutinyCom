@@ -8,7 +8,7 @@ appId: com.mavrlast.cryptochange
 appCountry: 
 released: 2017-09-27
 updated: 2017-09-27
-version: 1.0.1
+version: '1.0.1'
 stars: 
 ratings: 
 reviews: 

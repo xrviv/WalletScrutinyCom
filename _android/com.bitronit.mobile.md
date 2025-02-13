@@ -8,7 +8,7 @@ appId: com.bitronit.mobile
 appCountry: 
 released: 2021-09-28
 updated: 2023-05-18
-version: 1.18.0
+version: '1.18.0'
 stars: 4.7
 ratings: 
 reviews: 

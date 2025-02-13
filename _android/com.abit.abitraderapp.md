@@ -8,7 +8,7 @@ appId: com.abit.abitraderapp
 appCountry: 
 released: 2021-05-18
 updated: 2021-12-11
-version: 2.9.7
+version: '2.9.7'
 stars: 3.8
 ratings: 
 reviews: 15

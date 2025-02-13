@@ -9,7 +9,7 @@ appId: org.p2p.wallet
 appCountry: 
 released: 2021-10-23
 updated: 2023-07-05
-version: 2.8.0
+version: '2.8.0'
 stars: 4
 ratings: 
 reviews: 3

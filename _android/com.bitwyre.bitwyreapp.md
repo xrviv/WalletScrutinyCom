@@ -8,7 +8,7 @@ appId: com.bitwyre.bitwyreapp
 appCountry: 
 released: 2022-02-21
 updated: 2022-04-02
-version: 0.0.4
+version: '0.0.4'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.application.btctr
 appCountry: 
 released: 2022-03-18
 updated: 2022-04-30
-version: 1.0.3
+version: '1.0.3'
 stars: 
 ratings: 
 reviews: 

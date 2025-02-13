@@ -8,7 +8,7 @@ appId: webtrader.crystalballmarkets.com
 appCountry: 
 released: 2022-05-25
 updated: 2022-12-15
-version: 4.0.0
+version: '4.0.0'
 stars: 5
 ratings: 
 reviews: 

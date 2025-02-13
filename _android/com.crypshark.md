@@ -9,7 +9,7 @@ appId: com.crypshark
 appCountry: 
 released: 2021-05-20
 updated: 2022-07-19
-version: 1.0.0.39-cryptoshark
+version: '1.0.0.39-cryptoshark'
 stars: 
 ratings: 
 reviews: 

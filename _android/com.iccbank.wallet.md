@@ -8,7 +8,7 @@ appId: com.iccbank.wallet
 appCountry: 
 released: 2021-01-29
 updated: 2021-01-29
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

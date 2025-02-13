@@ -8,7 +8,7 @@ appId: uz.tanga.app
 appCountry: 
 released: 
 updated: 2020-09-17
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

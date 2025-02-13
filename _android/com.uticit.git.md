@@ -8,7 +8,7 @@ appId: com.uticit.git
 appCountry: 
 released: 2021-10-22
 updated: 2021-12-01
-version: 1.0.9
+version: '1.0.9'
 stars: 
 ratings: 
 reviews: 

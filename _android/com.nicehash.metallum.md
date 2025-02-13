@@ -9,7 +9,7 @@ appId: com.nicehash.metallum
 appCountry: 
 released: 2020-04-17
 updated: 2025-02-03
-version: 5.0.8
+version: '5.0.8'
 stars: 2.4
 ratings: 
 reviews: 632

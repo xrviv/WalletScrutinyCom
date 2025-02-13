@@ -8,7 +8,7 @@ appId: xtrading.eybinary.co
 appCountry: 
 released: 2022-09-13
 updated: 2022-09-26
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

@@ -7,7 +7,7 @@ authors:
 released: 2019-03-31
 discontinued: 
 updated: 2019-12-18
-version: 1.2.5
+version: '1.2.5'
 binaries: 
 dimensions: 
 weight: 

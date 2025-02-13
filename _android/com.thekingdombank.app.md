@@ -9,7 +9,7 @@ appId: com.thekingdombank.app
 appCountry: 
 released: 2021-12-17
 updated: 2024-11-05
-version: 8.6.6
+version: '8.6.6'
 stars: 
 ratings: 
 reviews: 

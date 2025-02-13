@@ -8,7 +8,7 @@ appId: wallet.brastoken.com
 appCountry: 
 released: 2022-01-16
 updated: 2022-01-19
-version: 1.0.2
+version: '1.0.2'
 stars: 4.8
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.profittrading.forhuobi
 appCountry: 
 released: 2018-11-21
 updated: 2021-12-03
-version: 3.0.2
+version: '3.0.2'
 stars: 
 ratings: 
 reviews: 

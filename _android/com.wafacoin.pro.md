@@ -8,7 +8,7 @@ appId: com.wafacoin.pro
 appCountry: 
 released: 
 updated: 2021-09-10
-version: 1.0.6.210910
+version: '1.0.6.210910'
 stars: 
 ratings: 
 reviews: 

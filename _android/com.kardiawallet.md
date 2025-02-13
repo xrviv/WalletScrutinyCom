@@ -9,7 +9,7 @@ appId: com.kardiawallet
 appCountry: vn
 released: 2021-01-13
 updated: 2024-12-25
-version: 3.0.0
+version: '3.0.0'
 stars: 4.3
 ratings: 1064
 reviews: 124

@@ -9,7 +9,7 @@ appId: com.exchange.Ciexv2
 appCountry: 
 released: 2022-07-20
 updated: 2024-05-27
-version: 5.9.8_push_v2_home_enturion
+version: '5.9.8_push_v2_home_enturion'
 stars: 3.7
 ratings: 
 reviews: 

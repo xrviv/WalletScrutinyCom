@@ -10,7 +10,7 @@ appId: com.crypto.exchange
 appCountry: nz
 released: 2021-05-26
 updated: 2025-02-04
-version: 2.55.0
+version: '2.55.0'
 stars: 4.6
 ratings: 4430
 reviews: 14

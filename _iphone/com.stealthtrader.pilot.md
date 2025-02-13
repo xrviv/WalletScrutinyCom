@@ -9,7 +9,7 @@ appCountry: ca
 idd: 1267973706
 released: 2017-08-25
 updated: 2022-02-15
-version: 6.02.377
+version: '6.02.377'
 stars: 3.9
 reviews: 20
 size: '32823296'

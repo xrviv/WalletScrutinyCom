@@ -8,7 +8,7 @@ appId: com.icointechnology.wallet.companion
 appCountry: 
 released: 2022-02-15
 updated: 2024-11-16
-version: 1.4.3.123
+version: '1.4.3.123'
 stars: 4.2
 ratings: 
 reviews: 3

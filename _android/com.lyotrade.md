@@ -9,7 +9,7 @@ appId: com.lyotrade
 appCountry: 
 released: 2022-06-30
 updated: 2023-12-17
-version: 3.0.2
+version: '3.0.2'
 stars: 
 ratings: 
 reviews: 

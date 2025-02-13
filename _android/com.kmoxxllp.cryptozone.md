@@ -8,7 +8,7 @@ appId: com.kmoxxllp.cryptozone
 appCountry: 
 released: 2022-02-16
 updated: 2022-02-25
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

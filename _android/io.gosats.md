@@ -9,7 +9,7 @@ appId: io.gosats
 appCountry: 
 released: 2021-01-06
 updated: 2025-01-15
-version: 2.5.8
+version: '2.5.8'
 stars: 2.5
 ratings: 
 reviews: 3

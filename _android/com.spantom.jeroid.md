@@ -9,7 +9,7 @@ appId: com.spantom.jeroid
 appCountry: us
 released: 2020-07-05
 updated: 2025-02-11
-version: 2.2.3
+version: '2.2.3'
 stars: 2.9
 ratings: 248
 reviews: 39

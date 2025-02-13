@@ -9,7 +9,7 @@ appId: com.ari10.bitcan
 appCountry: 
 released: 2022-06-14
 updated: 2025-02-10
-version: 1.13.1
+version: '1.13.1'
 stars: 
 ratings: 
 reviews: 

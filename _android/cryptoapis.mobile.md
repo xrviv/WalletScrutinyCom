@@ -8,7 +8,7 @@ appId: cryptoapis.mobile
 appCountry: 
 released: 2021-11-11
 updated: 2022-02-24
-version: 1.1.6
+version: '1.1.6'
 stars: 
 ratings: 
 reviews: 

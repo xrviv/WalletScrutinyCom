@@ -8,7 +8,7 @@ appId: io.melis.testwallet
 appCountry: 
 released: 2017-05-05
 updated: 2021-11-05
-version: 1.7.1
+version: '1.7.1'
 stars: 
 ratings: 
 reviews: 

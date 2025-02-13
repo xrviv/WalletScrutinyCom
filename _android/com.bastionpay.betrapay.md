@@ -9,7 +9,7 @@ appId: com.bastionpay.betrapay
 appCountry: 
 released: 2019-10-30
 updated: 2019-11-20
-version: v1.0.1
+version: 'v1.0.1'
 stars: 
 ratings: 
 reviews: 

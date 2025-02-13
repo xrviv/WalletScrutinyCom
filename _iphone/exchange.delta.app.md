@@ -9,7 +9,7 @@ appCountry: nz
 idd: 1567218518
 released: 2021-06-05
 updated: 2023-07-18
-version: 1.8.1
+version: '1.8.1'
 stars: 0
 reviews: 0
 size: '38301696'

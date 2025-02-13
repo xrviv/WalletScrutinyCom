@@ -8,7 +8,7 @@ appId: com.bitcaps
 appCountry: 
 released: 2020-10-30
 updated: 2021-04-06
-version: 1.5.2
+version: '1.5.2'
 stars: 
 ratings: 
 reviews: 

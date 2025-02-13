@@ -8,7 +8,7 @@ appId: wallet.smart.szty.com.smartwallet
 appCountry: 
 released: 2018-07-25
 updated: 2021-11-15
-version: 2.31.0
+version: '2.31.0'
 stars: 5
 ratings: 
 reviews: 2

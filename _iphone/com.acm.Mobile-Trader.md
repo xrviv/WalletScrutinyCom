@@ -9,7 +9,7 @@ appCountry: ch
 idd: '340408565'
 released: 2009-12-09
 updated: 2025-02-12
-version: 3.30.0
+version: '3.30.0'
 stars: 4.2
 reviews: 598
 size: '159020032'

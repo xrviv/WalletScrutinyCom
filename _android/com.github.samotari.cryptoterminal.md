@@ -9,7 +9,7 @@ appId: com.github.samotari.cryptoterminal
 appCountry: 
 released: 2020-01-14
 updated: 2020-01-14
-version: 1.6.0
+version: '1.6.0'
 stars: 
 ratings: 
 reviews: 

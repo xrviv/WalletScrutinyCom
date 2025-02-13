@@ -8,7 +8,7 @@ authors:
 released: 2020-01-01
 discontinued: 
 updated: 2023-10-09
-version: 1.10.5
+version: '1.10.5'
 binaries: 
 dimensions:
 - 41

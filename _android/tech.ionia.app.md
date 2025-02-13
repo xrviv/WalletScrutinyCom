@@ -9,7 +9,7 @@ appId: tech.ionia.app
 appCountry: 
 released: 2018-05-11
 updated: 2019-02-27
-version: 1.1.3
+version: '1.1.3'
 stars: 
 ratings: 
 reviews: 

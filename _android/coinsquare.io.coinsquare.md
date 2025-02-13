@@ -9,7 +9,7 @@ appId: coinsquare.io.coinsquare
 appCountry: 
 released: 2017-08-30
 updated: 2022-03-18
-version: 2.13.15
+version: '2.13.15'
 stars: 2.7
 ratings: 790
 reviews: 15

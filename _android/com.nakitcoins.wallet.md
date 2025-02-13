@@ -9,7 +9,7 @@ appId: com.nakitcoins.wallet
 appCountry: us
 released: 2021-03-30
 updated: 2022-03-29
-version: 2.2.0
+version: '2.2.0'
 stars: 
 ratings: 
 reviews: 

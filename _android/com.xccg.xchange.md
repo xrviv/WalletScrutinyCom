@@ -9,7 +9,7 @@ appId: com.xccg.xchange
 appCountry: 
 released: 2020-05-12
 updated: 2024-08-15
-version: 4.1.1
+version: '4.1.1'
 stars: 4.2
 ratings: 
 reviews: 

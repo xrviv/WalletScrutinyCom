@@ -9,7 +9,7 @@ appId: com.czprime
 appCountry: 
 released: 2020-06-11
 updated: 2024-02-14
-version: 1.5.69
+version: '1.5.69'
 stars: 3.1
 ratings: 2461
 reviews: 418

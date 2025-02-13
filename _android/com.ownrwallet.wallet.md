@@ -10,7 +10,7 @@ appId: com.ownrwallet.wallet
 appCountry: 
 released: 2019-05-20
 updated: 2023-09-20
-version: 1.72.0
+version: '1.72.0'
 stars: 4
 ratings: 2072
 reviews: 112
@@ -27,7 +27,7 @@ date: 2024-09-14
 signer: 
 reviewArchive:
 - date: 2020-12-01
-  version: 1.10.1
+  version: '1.10.1'
   appHashes: []
   gitRevision: 8af53e3cbda241989d723aaebf71781579e70c3b
   verdict: custodial

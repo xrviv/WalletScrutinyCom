@@ -9,7 +9,7 @@ appId: com.bitgate.flutter
 appCountry: 
 released: 
 updated: 2023-04-14
-version: 0.9.4
+version: '0.9.4'
 stars: 
 ratings: 
 reviews: 

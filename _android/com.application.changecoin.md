@@ -9,7 +9,7 @@ appId: com.application.changecoin
 appCountry: us
 released: 2020-05-12
 updated: 2022-02-10
-version: 1.2.6
+version: '1.2.6'
 stars: 4.2
 ratings: 
 reviews: 

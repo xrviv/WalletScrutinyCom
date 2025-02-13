@@ -9,7 +9,7 @@ appId: io.xbts.app
 appCountry: 
 released: 2021-04-26
 updated: 2022-08-17
-version: 0.1.29
+version: '0.1.29'
 stars: 4
 ratings: 
 reviews: 4

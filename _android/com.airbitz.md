@@ -9,7 +9,7 @@ appId: com.airbitz
 appCountry: 
 released: 2014-04-01
 updated: 2018-09-21
-version: 2.4.12
+version: '2.4.12'
 stars: 3.4
 ratings: 1150
 reviews: 490

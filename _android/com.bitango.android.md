@@ -8,7 +8,7 @@ appId: com.bitango.android
 appCountry: 
 released: 2021-12-17
 updated: 2022-06-04
-version: 1.1.0
+version: '1.1.0'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.cfdv2.test
 appCountry: 
 released: 
 updated: 2020-06-24
-version: 0.6.2
+version: '0.6.2'
 stars: 
 ratings: 
 reviews: 

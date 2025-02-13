@@ -8,7 +8,7 @@ appId: com.qlexchange
 appCountry: 
 released: 
 updated: 2022-05-03
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

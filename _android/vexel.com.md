@@ -9,7 +9,7 @@ appId: vexel.com
 appCountry: 
 released: 2021-04-27
 updated: 2023-10-20
-version: 1.51.2
+version: '1.51.2'
 stars: 
 ratings: 
 reviews: 

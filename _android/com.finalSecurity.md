@@ -8,7 +8,7 @@ appId: com.finalSecurity
 appCountry: 
 released: 2020-04-17
 updated: 2020-12-16
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.bcdex.wallet
 appCountry: 
 released: 2018-05-17
 updated: 2018-05-29
-version: 1.0.0.93
+version: '1.0.0.93'
 stars: 
 ratings: 
 reviews: 

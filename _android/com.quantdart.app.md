@@ -9,7 +9,7 @@ appId: com.quantdart.app
 appCountry: us
 released: 2020-09-16
 updated: 2022-01-27
-version: 1.1.25
+version: '1.1.25'
 stars: 
 ratings: 
 reviews: 

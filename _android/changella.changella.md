@@ -8,7 +8,7 @@ appId: changella.changella
 appCountry: 
 released: 2022-06-08
 updated: 2023-08-20
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

@@ -9,7 +9,7 @@ appId: com.liberty.jaxx
 appCountry: 
 released: 2018-09-01
 updated: 2022-06-15
-version: 3.0.0
+version: '3.0.0'
 stars: 3.7
 ratings: 5474
 reviews: 428

@@ -8,7 +8,7 @@ appId: com.yusewallet
 appCountry: 
 released: 2022-05-31
 updated: 2023-02-18
-version: 1.0.15
+version: '1.0.15'
 stars: 
 ratings: 
 reviews: 

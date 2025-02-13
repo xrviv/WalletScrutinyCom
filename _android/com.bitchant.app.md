@@ -8,7 +8,7 @@ appId: com.bitchant.app
 appCountry: 
 released: 2021-03-17
 updated: 2022-11-07
-version: 1.3.1
+version: '1.3.1'
 stars: 
 ratings: 
 reviews: 

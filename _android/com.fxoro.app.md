@@ -9,7 +9,7 @@ appId: com.fxoro.app
 appCountry: 
 released: 2022-06-16
 updated: 2025-01-21
-version: 1.5.3
+version: '1.5.3'
 stars: 
 ratings: 
 reviews: 

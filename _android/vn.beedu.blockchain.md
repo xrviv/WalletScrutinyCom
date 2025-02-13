@@ -9,7 +9,7 @@ appId: vn.beedu.blockchain
 appCountry: 
 released: 2021-11-09
 updated: 2023-07-13
-version: 1.4.20
+version: '1.4.20'
 stars: 4
 ratings: 
 reviews: 31

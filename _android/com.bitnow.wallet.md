@@ -8,7 +8,7 @@ appId: com.bitnow.wallet
 appCountry: 
 released: 2021-06-24
 updated: 2021-06-24
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

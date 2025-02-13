@@ -9,7 +9,7 @@ appId: com.chiba.client
 appCountry: 
 released: 2018-04-19
 updated: 2018-05-08
-version: 1.0.11
+version: '1.0.11'
 stars: 
 ratings: 
 reviews: 

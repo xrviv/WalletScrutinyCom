@@ -8,7 +8,7 @@ appId: kr.co.a131t
 appCountry: 
 released: 2019-06-26
 updated: 2019-06-27
-version: 1.0-R
+version: '1.0-R'
 stars: 
 ratings: 
 reviews: 

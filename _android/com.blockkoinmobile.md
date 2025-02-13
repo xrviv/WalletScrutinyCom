@@ -8,7 +8,7 @@ appId: com.blockkoinmobile
 appCountry: 
 released: 2020-08-17
 updated: 2023-07-26
-version: 1.6.12
+version: '1.6.12'
 stars: 5
 ratings: 
 reviews: 

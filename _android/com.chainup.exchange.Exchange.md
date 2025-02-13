@@ -9,7 +9,7 @@ appId: com.chainup.exchange.Exchange
 appCountry: 
 released: 2022-06-21
 updated: 2022-09-30
-version: 5.4.12
+version: '5.4.12'
 stars: 4.1
 ratings: 
 reviews: 9

@@ -9,7 +9,7 @@ appId: io.kaiser.kaiserwallet2
 appCountry: 
 released: 2018-10-03
 updated: 2022-11-12
-version: 2.9.11
+version: '2.9.11'
 stars: 
 ratings: 
 reviews: 

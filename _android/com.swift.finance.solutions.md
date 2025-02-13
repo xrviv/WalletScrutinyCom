@@ -8,7 +8,7 @@ appId: com.swift.finance.solutions
 appCountry: 
 released: 2022-04-26
 updated: 2022-10-29
-version: 1.0.2
+version: '1.0.2'
 stars: 
 ratings: 
 reviews: 

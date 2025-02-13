@@ -9,7 +9,7 @@ appId: com.voicapps.app2cash
 appCountry: us
 released: 2019-09-17
 updated: 2024-04-28
-version: 2.1.00
+version: '2.1.00'
 stars: 4.4
 ratings: 
 reviews: 2

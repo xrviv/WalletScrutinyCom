@@ -8,7 +8,7 @@ appId: quasar.sprint.bank.app
 appCountry: 
 released: 2021-12-12
 updated: 2021-12-23
-version: 1.0.4
+version: '1.0.4'
 stars: 2.7
 ratings: 
 reviews: 

@@ -8,7 +8,7 @@ appId: com.xsats.xsats
 appCountry: 
 released: 
 updated: 2021-02-22
-version: 1.1.7
+version: '1.1.7'
 stars: 
 ratings: 
 reviews: 

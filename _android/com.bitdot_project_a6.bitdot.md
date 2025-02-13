@@ -8,7 +8,7 @@ appId: com.bitdot_project_a6.bitdot
 appCountry: 
 released: 2022-06-13
 updated: 2022-06-14
-version: 1.2.1
+version: '1.2.1'
 stars: 
 ratings: 
 reviews: 

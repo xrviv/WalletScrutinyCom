@@ -10,7 +10,7 @@ appId: com.jubiter.app
 appCountry: 
 released: 2020-11-19
 updated: 2022-04-26
-version: 2.7.0
+version: '2.7.0'
 stars: 
 ratings: 
 reviews: 

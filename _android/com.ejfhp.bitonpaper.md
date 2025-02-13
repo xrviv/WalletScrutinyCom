@@ -8,7 +8,7 @@ appId: com.ejfhp.bitonpaper
 appCountry: 
 released: 2021-02-13
 updated: 2021-06-14
-version: v2.0.0
+version: 'v2.0.0'
 stars: 
 ratings: 
 reviews: 

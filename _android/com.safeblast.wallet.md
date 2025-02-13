@@ -8,7 +8,7 @@ appId: com.safeblast.wallet
 appCountry: 
 released: 2021-07-14
 updated: 2021-07-14
-version: 0.1.3
+version: '0.1.3'
 stars: 
 ratings: 
 reviews: 

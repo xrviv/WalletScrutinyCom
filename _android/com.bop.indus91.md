@@ -8,7 +8,7 @@ appId: com.bop.indus91
 appCountry: 
 released: 2021-10-27
 updated: 2021-11-18
-version: 0.0.3
+version: '0.0.3'
 stars: 
 ratings: 
 reviews: 

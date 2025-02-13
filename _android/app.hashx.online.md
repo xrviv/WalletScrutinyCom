@@ -8,7 +8,7 @@ appId: app.hashx.online
 appCountry: 
 released: 2021-09-03
 updated: 2021-09-13
-version: 1.0.15
+version: '1.0.15'
 stars: 3.5
 ratings: 
 reviews: 7

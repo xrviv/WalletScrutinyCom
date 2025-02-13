@@ -9,7 +9,7 @@ appId: africa.talos.android
 appCountry: 
 released: 2021-07-04
 updated: 2022-05-27
-version: 2.2.5
+version: '2.2.5'
 stars: 
 ratings: 
 reviews: 

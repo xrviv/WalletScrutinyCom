@@ -8,7 +8,7 @@ appId: com.eron.eronwallet
 appCountry: 
 released: 2022-07-20
 updated: 2022-07-20
-version: 3.40.91
+version: '3.40.91'
 stars: 
 ratings: 
 reviews: 

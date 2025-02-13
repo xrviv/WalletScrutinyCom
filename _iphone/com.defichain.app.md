@@ -9,7 +9,7 @@ appCountry: qa
 idd: 1572472820
 released: 2021-08-18
 updated: 2024-08-29
-version: 2.43.3
+version: '2.43.3'
 stars: 0
 reviews: 0
 size: '38431744'

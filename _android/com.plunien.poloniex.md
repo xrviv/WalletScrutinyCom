@@ -9,7 +9,7 @@ appId: com.plunien.poloniex
 appCountry: 
 released: 2017-06-19
 updated: 2025-02-05
-version: 2.11.0
+version: '2.11.0'
 stars: 3.1
 ratings: 7425
 reviews: 235

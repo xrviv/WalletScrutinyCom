@@ -9,7 +9,7 @@ appId: com.fhm.safcoin
 appCountry: 
 released: 2018-12-13
 updated: 2022-03-30
-version: 2.0.5
+version: '2.0.5'
 stars: 
 ratings: 
 reviews: 

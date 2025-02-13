@@ -8,7 +8,7 @@ appId: io.bytedex.mobile
 appCountry: 
 released: 2022-12-16
 updated: 2023-01-05
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

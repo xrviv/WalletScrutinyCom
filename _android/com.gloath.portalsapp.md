@@ -9,7 +9,7 @@ appId: com.gloath.portalsapp
 appCountry: 
 released: 2018-03-20
 updated: 2020-12-20
-version: 0.0.4a
+version: '0.0.4a'
 stars: 4.5
 ratings: 138
 reviews: 23

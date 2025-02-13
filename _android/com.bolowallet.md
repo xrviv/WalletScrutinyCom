@@ -8,7 +8,7 @@ appId: com.bolowallet
 appCountry: 
 released: 
 updated: 2019-12-12
-version: VARY
+version: 'VARY'
 stars: 
 ratings: 
 reviews: 

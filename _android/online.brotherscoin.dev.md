@@ -8,7 +8,7 @@ appId: online.brotherscoin.dev
 appCountry: 
 released: 2020-09-23
 updated: 2020-09-24
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

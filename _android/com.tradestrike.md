@@ -9,7 +9,7 @@ appId: com.tradestrike
 appCountry: 
 released: 2022-09-26
 updated: 2024-10-09
-version: 4.2.3
+version: '4.2.3'
 stars: 4.5
 ratings: 
 reviews: 22

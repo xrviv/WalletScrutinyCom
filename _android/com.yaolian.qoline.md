@@ -9,7 +9,7 @@ appId: com.yaolian.qoline
 appCountry: 
 released: 2021-07-14
 updated: 2024-02-19
-version: 1.9.26
+version: '1.9.26'
 stars: 
 ratings: 
 reviews: 

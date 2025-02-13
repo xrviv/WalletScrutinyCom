@@ -9,7 +9,7 @@ appCountry: mn
 idd: '1600049260'
 released: 2021-12-20
 updated: 2025-01-31
-version: 2.0.67
+version: '2.0.67'
 stars: 4.7
 reviews: 9
 size: '73522176'

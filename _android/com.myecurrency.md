@@ -9,7 +9,7 @@ appId: com.myecurrency
 appCountry: 
 released: 2022-05-20
 updated: 2024-06-12
-version: 1.2.0
+version: '1.2.0'
 stars: 5
 ratings: 
 reviews: 3

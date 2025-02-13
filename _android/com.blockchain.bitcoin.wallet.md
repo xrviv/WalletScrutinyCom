@@ -9,7 +9,7 @@ appId: com.blockchain.bitcoin.wallet
 appCountry: 
 released: 2021-01-19
 updated: 2023-08-26
-version: 2.0.2
+version: '2.0.2'
 stars: 4.5
 ratings: 729
 reviews: 65
@@ -26,7 +26,7 @@ date: 2023-12-19
 signer: 
 reviewArchive:
 - date: 2021-06-04
-  version: 1.0.3.7
+  version: '1.0.3.7'
   appHashes: []
   gitRevision: b994137e4f91927a8680b389b81bb5945d1ddf71
   verdict: obfuscated

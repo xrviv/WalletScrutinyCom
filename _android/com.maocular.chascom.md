@@ -8,7 +8,7 @@ appId: com.maocular.chascom
 appCountry: 
 released: 2022-05-05
 updated: 2022-05-05
-version: 1.0.0
+version: '1.0.0'
 stars: 
 ratings: 
 reviews: 

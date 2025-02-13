@@ -8,7 +8,7 @@ appId: com.latiniocoin.wallet
 appCountry: 
 released: 2021-05-11
 updated: 2021-05-12
-version: v1.0.0
+version: 'v1.0.0'
 stars: 
 ratings: 
 reviews: 
