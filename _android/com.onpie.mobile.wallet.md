@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.onpie.mobile.wallet
 appCountry: 
-released: 2021-10-13
-updated: 2022-11-04
+released: '2021-10-13'
+updated: '2022-11-04'
 version: '1.1.11'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

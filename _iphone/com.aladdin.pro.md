@@ -7,8 +7,8 @@ authors:
 appId: com.aladdin.pro
 appCountry: us
 idd: '1481967751'
-released: 2019-11-22
-updated: 2023-02-07
+released: '2019-11-22'
+updated: '2023-02-07'
 version: '1.15.7'
 stars: 4
 reviews: 21
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-09-10
+date: '2024-09-10'
 signer: 
 reviewArchive: 
 twitter: abbcfoundation

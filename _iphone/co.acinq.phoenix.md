@@ -8,8 +8,8 @@ authors:
 appId: co.acinq.phoenix
 appCountry: gb
 idd: 1544097028
-released: 2021-07-13
-updated: 2024-11-25
+released: '2021-07-13'
+updated: '2024-11-25'
 version: '2.4.3'
 stars: 4.8
 reviews: 19
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nonverifiable
 appHashes: []
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: PhoenixWallet

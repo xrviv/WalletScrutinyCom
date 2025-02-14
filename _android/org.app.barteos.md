@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: org.app.barteos
 appCountry: 
-released: 2021-04-30
-updated: 2024-08-16
+released: '2021-04-30'
+updated: '2024-08-16'
 version: '1.0.16'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: 

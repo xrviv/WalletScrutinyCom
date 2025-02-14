@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: mn.trade
 appCountry: us
-released: 2018-04-13
-updated: 2023-05-30
+released: '2018-04-13'
+updated: '2023-05-30'
 version: '3.0.9'
 stars: 2.2
 ratings: 429
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2022-05-31
+date: '2022-05-31'
 signer: 
 reviewArchive: 
 twitter: TradeMnOfficial

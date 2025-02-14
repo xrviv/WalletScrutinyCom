@@ -7,7 +7,7 @@ users: 100
 appId: com.cordova.kine
 appCountry: 
 released: 
-updated: 2021-07-12
+updated: '2021-07-12'
 version: '1.0.9'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.oxiinc.bmkoin
 appCountry: 
-released: 2020-10-24
-updated: 2020-11-25
+released: '2020-10-24'
+updated: '2020-11-25'
 version: '1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-31
+date: '2023-05-31'
 signer: 
 reviewArchive: 
 twitter: 

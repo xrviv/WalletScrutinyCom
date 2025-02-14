@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.fiboda.app
 appCountry: us
-released: 2021-01-14
-updated: 2021-07-08
+released: '2021-01-14'
+updated: '2021-07-08'
 version: '1.0.5'
 stars: 4.4
 ratings: 437
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -8,7 +8,7 @@ users: 10000
 appId: io.sparkbase.app
 appCountry: 
 released: 
-updated: 2023-03-31
+updated: '2023-03-31'
 version: '3.8.8'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-10-28
+date: '2024-10-28'
 signer: 
 reviewArchive: 
 twitter: 

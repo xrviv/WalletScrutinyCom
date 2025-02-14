@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.solidimobileapp4
 appCountry: 
-released: 2023-01-26
-updated: 2023-01-26
+released: '2023-01-26'
+updated: '2023-01-26'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.app.moen.ex
 appCountry: 
-released: 2022-04-28
-updated: 2022-05-06
+released: '2022-04-28'
+updated: '2022-05-06'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

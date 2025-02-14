@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.bettamask.production
 appCountry: 
-released: 2022-10-12
-updated: 2022-10-12
+released: '2022-10-12'
+updated: '2022-10-12'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-10-19
+date: '2024-10-19'
 signer: 
 reviewArchive: 
 twitter: 

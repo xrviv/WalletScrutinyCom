@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.emberfund.ember
 appCountry: us
-released: 2019-01-24
-updated: 2024-12-09
+released: '2019-01-24'
+updated: '2024-12-09'
 version: '35.6'
 stars: 3.8
 ratings: 1026
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-15
+date: '2024-07-15'
 signer: 
 reviewArchive: 
 twitter: Ember_Fund

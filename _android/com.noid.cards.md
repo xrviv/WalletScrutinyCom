@@ -8,7 +8,7 @@ users: 1
 appId: com.noid.cards
 appCountry: 
 released: 
-updated: 2023-03-26
+updated: '2023-03-26'
 version: 'VARY'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: noidcards

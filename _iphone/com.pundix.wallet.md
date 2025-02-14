@@ -7,8 +7,8 @@ authors:
 appId: com.pundix.wallet
 appCountry: 
 idd: 1321754661
-released: 2019-01-26
-updated: 2020-12-29
+released: '2019-01-26'
+updated: '2020-12-29'
 version: '2.9.4'
 stars: 3.9
 reviews: 84
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2022-12-28
+date: '2022-12-28'
 signer: 
 reviewArchive: 
 twitter: PundiXLabs

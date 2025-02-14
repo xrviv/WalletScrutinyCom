@@ -7,8 +7,8 @@ authors:
 users: 5000000
 appId: id.co.bitcoin
 appCountry: 
-released: 2014-12-15
-updated: 2025-02-04
+released: '2014-12-15'
+updated: '2025-02-04'
 version: '5.4.5'
 stars: 4.4
 ratings: 97568
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-05-31
+date: '2021-05-31'
 signer: 
 reviewArchive: 
 twitter: indodax

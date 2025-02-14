@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.digicox.mobile
 appCountry: 
-released: 2021-07-13
-updated: 2021-07-13
+released: '2021-07-13'
+updated: '2021-07-13'
 version: '1.0'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-04-22
+date: '2023-04-22'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.thoryield.androidapp
 appCountry: 
-released: 2022-03-30
-updated: 2024-11-01
+released: '2022-03-30'
+updated: '2024-11-01'
 version: '2.0.42'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-06-03
+date: '2023-06-03'
 signer: 
 reviewArchive: 
 twitter: thoryieldapp

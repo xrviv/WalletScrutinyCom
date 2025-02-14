@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.airpay.appwallet
 appCountry: 
-released: 2022-04-15
-updated: 2022-04-15
+released: '2022-04-15'
+updated: '2022-04-15'
 version: '1.0.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-10-28
+date: '2024-10-28'
 signer: 
 reviewArchive: 
 twitter: airpayfinance

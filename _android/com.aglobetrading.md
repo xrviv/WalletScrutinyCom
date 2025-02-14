@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.aglobetrading
 appCountry: 
-released: 2021-01-19
-updated: 2021-03-18
+released: '2021-01-19'
+updated: '2021-03-18'
 version: '1.6'
 stars: 4.1
 ratings: 46
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-15
+date: '2021-11-15'
 signer: 
 reviewArchive: 
 twitter: 

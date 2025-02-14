@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: net.polyx.wallet
 appCountry: 
-released: 2021-10-01
-updated: 2022-09-16
+released: '2021-10-01'
+updated: '2022-09-16'
 version: '1.5.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: Polyxchange

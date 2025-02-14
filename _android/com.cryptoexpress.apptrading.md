@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.cryptoexpress.apptrading
 appCountry: 
-released: 2022-05-10
-updated: 2022-05-10
+released: '2022-05-10'
+updated: '2022-05-10'
 version: '1.0.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

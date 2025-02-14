@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.baanx.baanx
 appCountry: us
-released: 2019-10-10
-updated: 2023-02-02
+released: '2019-10-10'
+updated: '2023-02-02'
 version: '3.1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-05-30
+date: '2023-05-30'
 signer: 
 reviewArchive: 
 twitter: baanx_bxx

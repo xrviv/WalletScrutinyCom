@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: vision.genesis.clientapp.investor
 appCountry: us
-released: 2018-02-15
-updated: 2022-03-16
+released: '2018-02-15'
+updated: '2022-03-16'
 version: '2.7.7'
 stars: 4.8
 ratings: 369
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: genesis_vision

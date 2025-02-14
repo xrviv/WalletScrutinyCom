@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.bop.indus91
 appCountry: 
-released: 2021-10-27
-updated: 2021-11-18
+released: '2021-10-27'
+updated: '2021-11-18'
 version: '0.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: 

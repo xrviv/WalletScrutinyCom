@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.sfox.android
 appCountry: 
-released: 2021-12-24
-updated: 2024-11-15
+released: '2021-12-24'
+updated: '2024-11-15'
 version: '1.3.0'
 stars: 3.6
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2023-06-02
+date: '2023-06-02'
 signer: 
 reviewArchive: 
 twitter: 

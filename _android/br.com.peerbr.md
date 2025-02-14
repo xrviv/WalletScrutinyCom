@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: br.com.peerbr
 appCountry: 
-released: 2019-05-24
-updated: 2025-02-12
+released: '2019-05-24'
+updated: '2025-02-12'
 version: '6.2.0'
 stars: 5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: wip
 appHashes: 
-date: 2024-11-29
+date: '2024-11-29'
 signer: 
 reviewArchive: 
 twitter: 

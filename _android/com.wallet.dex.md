@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.wallet.dex
 appCountry: 
-released: 2022-11-25
-updated: 2023-02-08
+released: '2022-11-25'
+updated: '2023-02-08'
 version: '1.3.1'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-30
+date: '2024-07-30'
 signer: 
 reviewArchive: 
 twitter: Dexwallets

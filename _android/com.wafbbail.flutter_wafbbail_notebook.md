@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.wafbbail.flutter_wafbbail_notebook
 appCountry: 
-released: 2021-09-20
-updated: 2021-10-24
+released: '2021-09-20'
+updated: '2021-10-24'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

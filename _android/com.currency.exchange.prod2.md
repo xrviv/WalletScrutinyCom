@@ -8,8 +8,8 @@ authors:
 users: 1000000
 appId: com.currency.exchange.prod2
 appCountry: 
-released: 2019-04-15
-updated: 2024-12-10
+released: '2019-04-15'
+updated: '2024-12-10'
 version: '1.42.11'
 stars: 2.6
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-01-23
+date: '2024-01-23'
 signer: 
 reviewArchive: 
 twitter: dzengicom

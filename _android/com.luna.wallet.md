@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.luna.wallet
 appCountry: 
-released: 2022-04-06
-updated: 2022-07-01
+released: '2022-04-06'
+updated: '2022-07-01'
 version: '1.0.4'
 stars: 5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

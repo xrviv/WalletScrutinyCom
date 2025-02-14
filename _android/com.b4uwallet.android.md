@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.b4uwallet.android
 appCountry: 
-released: 2018-10-19
-updated: 2021-04-22
+released: '2018-10-19'
+updated: '2021-04-22'
 version: '4.3.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-09-04
+date: '2023-09-04'
 signer: 
 reviewArchive: 
 twitter: b4uwallet_b4u

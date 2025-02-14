@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.finnswap.app
 appCountry: 
-released: 2022-03-14
-updated: 2022-03-14
+released: '2022-03-14'
+updated: '2022-03-14'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

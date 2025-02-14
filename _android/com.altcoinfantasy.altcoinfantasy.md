@@ -8,8 +8,8 @@ authors:
 users: 100000
 appId: com.altcoinfantasy.altcoinfantasy
 appCountry: us
-released: 2018-01-05
-updated: 2021-01-07
+released: '2018-01-05'
+updated: '2021-01-07'
 version: '3.3.6-google'
 stars: 4.1
 ratings: 2310
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: altcoinfantasy

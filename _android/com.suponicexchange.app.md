@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.suponicexchange.app
 appCountry: 
-released: 2020-01-23
-updated: 2020-01-23
+released: '2020-01-23'
+updated: '2020-01-23'
 version: '1.0'
 stars: 3.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-06-03
+date: '2023-06-03'
 signer: 
 reviewArchive: 
 twitter: 

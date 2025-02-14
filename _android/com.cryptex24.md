@@ -8,7 +8,7 @@ users: 1000
 appId: com.cryptex24
 appCountry: 
 released: 
-updated: 2023-01-05
+updated: '2023-01-05'
 version: '2.16.0'
 stars: 3.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-12-27
+date: '2024-12-27'
 signer: 
 reviewArchive: 
 twitter: 

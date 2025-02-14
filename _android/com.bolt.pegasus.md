@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bolt.pegasus
 appCountry: 
-released: 2019-08-26
-updated: 2023-07-20
+released: '2019-08-26'
+updated: '2023-07-20'
 version: '1.23.1'
 stars: 3.5
 ratings: 365
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-31
+date: '2024-10-31'
 signer: 
 reviewArchive: 
 twitter: bolt_global

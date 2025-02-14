@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.app.ringworld
 appCountry: 
-released: 2022-02-26
-updated: 2022-02-27
+released: '2022-02-26'
+updated: '2022-02-27'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 appId: crypto.wallet.chainapp
 appCountry: us
 idd: '1558608737'
-released: 2021-03-24
-updated: 2023-03-22
+released: '2021-03-24'
+updated: '2023-03-22'
 version: '2.0.0'
 stars: 5
 reviews: 3
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

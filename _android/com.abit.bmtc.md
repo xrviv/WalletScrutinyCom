@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.abit.bmtc
 appCountry: ae
-released: 2020-03-03
-updated: 2021-04-25
+released: '2020-03-03'
+updated: '2021-04-25'
 version: '2.3.2'
 stars: 
 ratings: 75
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2021-11-04
+date: '2021-11-04'
 signer: 
 reviewArchive: 
 twitter: abitofficial

@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: bitcoin.bot.finaladstest
 appCountry: 
-released: 2020-10-17
-updated: 2020-10-17
+released: '2020-10-17'
+updated: '2020-10-17'
 version: '1.0'
 stars: 2.6
 ratings: 11
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2022-01-15
+date: '2022-01-15'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.app.truil
 appCountry: 
-released: 2020-09-09
-updated: 2020-09-17
+released: '2020-09-09'
+updated: '2020-09-17'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

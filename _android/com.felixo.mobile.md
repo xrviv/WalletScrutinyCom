@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.felixo.mobile
 appCountry: 
-released: 2019-10-17
-updated: 2022-08-22
+released: '2019-10-17'
+updated: '2022-08-22'
 version: '2.0.0'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-08-13
+date: '2024-08-13'
 signer: 
 reviewArchive: 
 twitter: felixoexchange

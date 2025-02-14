@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: armory.appvmz.bt
 appCountry: 
-released: 2022-06-07
-updated: 2022-06-08
+released: '2022-06-07'
+updated: '2022-06-08'
 version: '1.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-11
+date: '2023-01-11'
 signer: 
 reviewArchive: 
 twitter: 

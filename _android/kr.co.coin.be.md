@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: kr.co.coin.be
 appCountry: 
-released: 2020-02-22
-updated: 2020-02-23
+released: '2020-02-22'
+updated: '2020-02-23'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

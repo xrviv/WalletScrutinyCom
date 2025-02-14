@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.app.breet
 appCountry: 
-released: 2022-02-21
-updated: 2024-06-20
+released: '2022-02-21'
+updated: '2024-06-20'
 version: '4.1.7'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2023-07-19
+date: '2023-07-19'
 signer: 
 reviewArchive: 
 twitter: breetapp

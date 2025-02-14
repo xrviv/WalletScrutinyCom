@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.virtualcoins.bitcoin
 appCountry: 
-released: 2020-06-09
-updated: 2020-06-29
+released: '2020-06-09'
+updated: '2020-06-29'
 version: '1.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

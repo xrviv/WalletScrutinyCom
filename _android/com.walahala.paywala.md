@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.walahala.paywala
 appCountry: 
-released: 2020-02-20
-updated: 2020-07-23
+released: '2020-02-20'
+updated: '2020-07-23'
 version: '1.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-04-07
+date: '2022-04-07'
 signer: 
 reviewArchive: 
 twitter: 

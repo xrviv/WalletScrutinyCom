@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.zodeak.exchange
 appCountry: 
-released: 2023-01-18
-updated: 2023-01-18
+released: '2023-01-18'
+updated: '2023-01-18'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.app.xt
 appCountry: 
-released: 2021-04-14
-updated: 2025-01-21
+released: '2021-04-14'
+updated: '2025-01-21'
 version: '4.84.0'
 stars: 3.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-07-31
+date: '2022-07-31'
 signer: 
 reviewArchive: 
 twitter: XTexchange

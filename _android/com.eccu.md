@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.eccu
 appCountry: 
-released: 2020-07-06
-updated: 2020-11-06
+released: '2020-07-06'
+updated: '2020-11-06'
 version: '1.12'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

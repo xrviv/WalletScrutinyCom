@@ -7,8 +7,8 @@ authors:
 appId: co.busha.apple
 appCountry: 
 idd: 1450373493
-released: 2019-02-03
-updated: 2023-08-17
+released: '2019-02-03'
+updated: '2023-08-17'
 version: '6.3.2'
 stars: 4.3
 reviews: 617
@@ -21,7 +21,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2023-09-04
+date: '2023-09-04'
 signer: 
 reviewArchive: 
 twitter: getbusha

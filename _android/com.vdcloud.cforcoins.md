@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.vdcloud.cforcoins
 appCountry: 
-released: 2018-05-13
-updated: 2020-05-13
+released: '2018-05-13'
+updated: '2020-05-13'
 version: '2.7.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2023-04-12
+date: '2023-04-12'
 signer: 
 reviewArchive: 
 twitter: CoinsCfor

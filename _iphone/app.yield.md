@@ -7,8 +7,8 @@ authors:
 appId: app.yield
 appCountry: ng
 idd: '1591189242'
-released: 2022-06-15
-updated: 2024-05-31
+released: '2022-06-15'
+updated: '2024-05-31'
 version: '24.0527'
 stars: 4.4
 reviews: 39
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-22
+date: '2024-07-22'
 signer: 
 reviewArchive: 
 twitter: yieldapp

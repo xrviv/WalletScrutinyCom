@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.samourai.sentinel
 appCountry: 
-released: 2015-05-23
-updated: 2023-11-07
+released: '2015-05-23'
+updated: '2023-11-07'
 version: '5.0.1'
 stars: 4.1
 ratings: 313
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: samouraiwallet

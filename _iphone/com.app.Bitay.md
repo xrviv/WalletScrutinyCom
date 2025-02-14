@@ -7,8 +7,8 @@ authors:
 appId: com.app.Bitay
 appCountry: us
 idd: 1458595661
-released: 2019-04-14
-updated: 2022-11-25
+released: '2019-04-14'
+updated: '2022-11-25'
 version: '3.1.9'
 stars: 4.3
 reviews: 8
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-30
+date: '2023-01-30'
 signer: 
 reviewArchive: 
 twitter: BitayTurkiye

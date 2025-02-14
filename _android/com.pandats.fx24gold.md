@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.pandats.fx24gold
 appCountry: 
-released: 2020-12-17
-updated: 2020-12-23
+released: '2020-12-17'
+updated: '2020-12-23'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

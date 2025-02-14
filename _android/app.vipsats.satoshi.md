@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: app.vipsats.satoshi
 appCountry: 
-released: 2022-11-06
-updated: 2023-08-20
+released: '2022-11-06'
+updated: '2023-08-20'
 version: '1.3.1'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-12-02
+date: '2023-12-02'
 signer: 
 reviewArchive: 
 twitter: vipsats

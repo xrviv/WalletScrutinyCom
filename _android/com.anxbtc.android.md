@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.anxbtc.android
 appCountry: 
-released: 2014-04-29
-updated: 2016-08-17
+released: '2014-04-29'
+updated: '2016-08-17'
 version: '1.8.0'
 stars: 4.1
 ratings: 135
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2021-05-08
+date: '2021-05-08'
 signer: 
 reviewArchive: 
 twitter: 

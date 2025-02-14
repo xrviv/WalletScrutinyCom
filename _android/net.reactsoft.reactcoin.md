@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: net.reactsoft.reactcoin
 appCountry: 
-released: 2017-08-09
-updated: 2017-11-13
+released: '2017-08-09'
+updated: '2017-11-13'
 version: '1.0.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

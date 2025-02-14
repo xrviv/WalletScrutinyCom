@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.bit.teo
 appCountry: 
-released: 2019-12-27
-updated: 2021-05-24
+released: '2019-12-27'
+updated: '2021-05-24'
 version: '1.014'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

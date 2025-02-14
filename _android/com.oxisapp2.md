@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.oxisapp2
 appCountry: 
-released: 2021-06-17
-updated: 2021-06-24
+released: '2021-06-17'
+updated: '2021-06-24'
 version: '4.1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.tradersinc.buybitcoin
 appCountry: 
-released: 2017-06-26
-updated: 2017-06-26
+released: '2017-06-26'
+updated: '2017-06-26'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-06-07
+date: '2023-06-07'
 signer: 
 reviewArchive: 
 twitter: 

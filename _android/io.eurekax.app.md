@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: io.eurekax.app
 appCountry: 
-released: 2020-03-09
-updated: 2020-10-31
+released: '2020-03-09'
+updated: '2020-10-31'
 version: '1.1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

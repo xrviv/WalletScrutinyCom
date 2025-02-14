@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.letsbit.app
 appCountry: 
-released: 2022-05-06
-updated: 2025-01-24
+released: '2022-05-06'
+updated: '2025-01-24'
 version: 'v1.46.0'
 stars: 2.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-07
+date: '2023-04-07'
 signer: 
 reviewArchive: 
 twitter: LetsBit_ok

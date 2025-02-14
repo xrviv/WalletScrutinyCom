@@ -7,8 +7,8 @@ authors:
 appId: com.forextb.forextb
 appCountry: dk
 idd: 1532850884
-released: 2020-10-21
-updated: 2023-02-14
+released: '2020-10-21'
+updated: '2023-02-14'
 version: '2.5.2'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.regelity.mobileex
 appCountry: 
-released: 2022-12-15
-updated: 2024-12-30
+released: '2022-12-15'
+updated: '2024-12-30'
 version: '2.0.47'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-07-17
+date: '2023-07-17'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 appId: com.wisebitcoin.broker.iostest
 appCountry: iq
 idd: 1549126437
-released: 2021-01-18
-updated: 2022-11-24
+released: '2021-01-18'
+updated: '2022-11-24'
 version: '3.9.0'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: wisebitcoin

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.warp.app
 appCountry: 
-released: 2021-08-06
-updated: 2022-04-01
+released: '2021-08-06'
+updated: '2022-04-01'
 version: '1.2.36'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: WarpDefi

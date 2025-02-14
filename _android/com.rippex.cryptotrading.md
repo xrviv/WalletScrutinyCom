@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.rippex.cryptotrading
 appCountry: 
-released: 2021-03-13
-updated: 2020-11-23
+released: '2021-03-13'
+updated: '2020-11-23'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2022-02-25
+date: '2022-02-25'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: io.exnovin.app
 appCountry: 
-released: 2020-12-12
-updated: 2025-02-05
+released: '2020-12-12'
+updated: '2025-02-05'
 version: '3.2.0'
 stars: 4.8
 ratings: 930
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-15
+date: '2021-09-15'
 signer: 
 reviewArchive: 
 twitter: Exnovin_io

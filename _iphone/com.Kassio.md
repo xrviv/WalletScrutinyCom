@@ -7,8 +7,8 @@ authors:
 appId: com.Kassio
 appCountry: in
 idd: '1610537547'
-released: 2022-03-25
-updated: 2023-10-27
+released: '2022-03-25'
+updated: '2023-10-27'
 version: '1.1.2'
 stars: 5
 reviews: 12
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-10-23
+date: '2024-10-23'
 signer: 
 reviewArchive: 
 twitter: KassioNetwork

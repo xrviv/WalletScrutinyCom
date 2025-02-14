@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: cm.viaziza.smalldeals
 appCountry: 
-released: 2022-03-08
-updated: 2024-08-09
+released: '2022-03-08'
+updated: '2024-08-09'
 version: '3.1.0'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-05-04
+date: '2024-05-04'
 signer: 
 reviewArchive: 
 twitter: 

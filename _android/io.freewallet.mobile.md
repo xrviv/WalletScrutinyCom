@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.freewallet.mobile
 appCountry: 
-released: 2016-09-01
-updated: 2019-03-17
+released: '2016-09-01'
+updated: '2019-03-17'
 version: '0.1.9'
 stars: 3.9
 ratings: 82
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: ftbfs
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: freewallet

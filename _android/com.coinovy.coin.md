@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.coinovy.coin
 appCountry: 
-released: 2021-08-27
-updated: 2022-04-07
+released: '2021-08-27'
+updated: '2022-04-07'
 version: '1.0.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

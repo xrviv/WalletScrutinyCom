@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.xearth.cyrusmall
 appCountry: 
-released: 2021-09-14
-updated: 2021-09-15
+released: '2021-09-14'
+updated: '2021-09-15'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

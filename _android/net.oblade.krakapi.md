@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: net.oblade.krakapi
 appCountry: 
-released: 2019-08-09
-updated: 2023-01-10
+released: '2019-08-09'
+updated: '2023-01-10'
 version: '2.6.8'
 stars: 4.1
 ratings: 533
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nowallet
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: 

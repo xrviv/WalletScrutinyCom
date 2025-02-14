@@ -7,7 +7,7 @@ users: 50
 appId: sg.bhex.app
 appCountry: 
 released: 
-updated: 2023-02-09
+updated: '2023-02-09'
 version: '1.2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.ok.coin
 appCountry: 
-released: 2018-08-30
-updated: 2018-09-06
+released: '2018-08-30'
+updated: '2018-09-06'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-22
+date: '2021-10-22'
 signer: 
 reviewArchive: 
 twitter: 

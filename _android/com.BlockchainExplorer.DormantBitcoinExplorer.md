@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.BlockchainExplorer.DormantBitcoinExplorer
 appCountry: 
-released: 2023-01-03
-updated: 2024-08-25
+released: '2023-01-03'
+updated: '2024-08-25'
 version: '1.2.4'
 stars: 3.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-09-16
+date: '2024-09-16'
 signer: 
 reviewArchive: 
 twitter: 

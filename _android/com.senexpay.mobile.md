@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.senexpay.mobile
 appCountry: 
-released: 2022-08-16
-updated: 2024-12-01
+released: '2022-08-16'
+updated: '2024-12-01'
 version: '1.7.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-09-07
+date: '2023-09-07'
 signer: 
 reviewArchive: 
 twitter: senexpay

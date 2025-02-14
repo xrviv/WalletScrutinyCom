@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.exchange.wethio.io
 appCountry: 
-released: 2021-10-21
-updated: 2022-11-24
+released: '2021-10-21'
+updated: '2022-11-24'
 version: '2.3.3'
 stars: 5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-11-13
+date: '2024-11-13'
 signer: 
 reviewArchive: 
 twitter: wethiox

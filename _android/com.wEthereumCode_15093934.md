@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.wEthereumCode_15093934
 appCountry: 
-released: 2022-01-28
-updated: 2022-01-28
+released: '2022-01-28'
+updated: '2022-01-28'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

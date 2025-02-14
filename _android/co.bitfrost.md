@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: co.bitfrost
 appCountry: 
-released: 2022-05-12
-updated: 2022-06-02
+released: '2022-05-12'
+updated: '2022-06-02'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2024-05-24
+date: '2024-05-24'
 signer: 
 reviewArchive: 
 twitter: 

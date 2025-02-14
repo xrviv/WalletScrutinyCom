@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.exswallet
 appCountry: 
-released: 2020-07-12
-updated: 2022-01-21
+released: '2020-07-12'
+updated: '2022-01-21'
 version: '1.1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-11-12
+date: '2024-11-12'
 signer: 
 reviewArchive: 
 twitter: MIRAQLE_MQL

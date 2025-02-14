@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.bbex
 appCountry: 
-released: 2019-07-12
-updated: 2019-11-06
+released: '2019-07-12'
+updated: '2019-11-06'
 version: '1.0.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

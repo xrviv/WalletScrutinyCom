@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.cobinhood.exchange
 appCountry: 
-released: 2017-12-25
-updated: 2019-04-29
+released: '2017-12-25'
+updated: '2019-04-29'
 version: '3.50.1'
 stars: 2.8
 ratings: 648
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

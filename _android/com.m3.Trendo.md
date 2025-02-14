@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.m3.Trendo
 appCountry: in
-released: 2020-08-20
-updated: 2021-09-25
+released: '2020-08-20'
+updated: '2021-09-25'
 version: '2.5.42'
 stars: 4.8
 ratings: 4809
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2021-10-15
+date: '2021-10-15'
 signer: 
 reviewArchive: 
 twitter: 

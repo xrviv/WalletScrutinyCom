@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.application.blocdesk
 appCountry: 
-released: 2020-02-05
-updated: 2020-03-03
+released: '2020-02-05'
+updated: '2020-03-03'
 version: '1.1.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

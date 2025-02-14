@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: ms.shamirswallet.app
 appCountry: 
-released: 2020-07-28
-updated: 2020-12-04
+released: '2020-07-28'
+updated: '2020-12-04'
 version: '1.3.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-04-25
+date: '2022-04-25'
 signer: 
 reviewArchive: 
 twitter: 

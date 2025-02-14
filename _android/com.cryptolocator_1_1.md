@@ -7,7 +7,7 @@ users: 1000
 appId: com.cryptolocator_1_1
 appCountry: 
 released: 
-updated: 2020-04-03
+updated: '2020-04-03'
 version: '1.3.31'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

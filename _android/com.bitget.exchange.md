@@ -7,8 +7,8 @@ authors:
 users: 10000000
 appId: com.bitget.exchange
 appCountry: us
-released: 2020-04-03
-updated: 2025-02-07
+released: '2020-04-03'
+updated: '2025-02-07'
 version: '2.50.6'
 stars: 3.7
 ratings: 5691
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-17
+date: '2021-09-17'
 signer: 
 reviewArchive: 
 twitter: bitgetglobal

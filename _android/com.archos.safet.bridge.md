@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.archos.safet.bridge
 appCountry: 
-released: 2019-09-11
-updated: 2019-12-18
+released: '2019-09-11'
+updated: '2019-12-18'
 version: '1.11-Release'
 stars: 3.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-11-07
+date: '2024-11-07'
 signer: 
 reviewArchive: 
 twitter: 

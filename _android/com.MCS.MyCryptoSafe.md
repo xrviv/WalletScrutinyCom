@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.MCS.MyCryptoSafe
 appCountry: 
-released: 2020-10-08
-updated: 2020-10-08
+released: '2020-10-08'
+updated: '2020-10-08'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: 

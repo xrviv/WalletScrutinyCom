@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.hncrevolution.app
 appCountry: 
-released: 2021-07-07
-updated: 2021-08-20
+released: '2021-07-07'
+updated: '2021-08-20'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -8,7 +8,7 @@ users: 1000
 appId: com.orbitgtm
 appCountry: 
 released: 
-updated: 2022-01-11
+updated: '2022-01-11'
 version: '1.7.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-31
+date: '2023-05-31'
 signer: 
 reviewArchive: 
 twitter: 

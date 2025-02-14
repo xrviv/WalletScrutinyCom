@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: org.coinid.wallet.tbtc
 appCountry: 
-released: 2019-02-06
-updated: 2021-02-20
+released: '2019-02-06'
+updated: '2021-02-20'
 version: '1.8.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

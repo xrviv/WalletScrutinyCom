@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.techio.sendenero
 appCountry: 
-released: 2021-02-24
-updated: 2022-05-02
+released: '2021-02-24'
+updated: '2022-05-02'
 version: '3.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: 

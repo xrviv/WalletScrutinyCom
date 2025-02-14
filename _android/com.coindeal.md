@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.coindeal
 appCountry: 
-released: 2019-11-04
-updated: 2020-08-18
+released: '2019-11-04'
+updated: '2020-08-18'
 version: '1.0.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: coindealcom

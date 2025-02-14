@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: org.coincabin
 appCountry: 
-released: 2022-07-29
-updated: 2023-11-17
+released: '2022-07-29'
+updated: '2023-11-17'
 version: '1.0.305'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nobtc
 appHashes: 
-date: 2024-11-12
+date: '2024-11-12'
 signer: 
 reviewArchive: 
 twitter: everstrike_io

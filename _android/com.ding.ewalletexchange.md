@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.ding.ewalletexchange
 appCountry: 
-released: 2022-04-11
-updated: 2023-08-20
+released: '2022-04-11'
+updated: '2023-08-20'
 version: '2.0'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

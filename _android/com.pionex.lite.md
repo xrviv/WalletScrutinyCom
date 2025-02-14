@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.pionex.lite
 appCountry: cn
-released: 2021-05-14
-updated: 2021-12-17
+released: '2021-05-14'
+updated: '2021-12-17'
 version: '1.1.9'
 stars: 3.6
 ratings: 33
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-02-25
+date: '2022-02-25'
 signer: 
 reviewArchive: 
 twitter: 

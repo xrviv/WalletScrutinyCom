@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.tetrazus
 appCountry: 
-released: 2019-11-06
-updated: 2020-02-11
+released: '2019-11-06'
+updated: '2020-02-11'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

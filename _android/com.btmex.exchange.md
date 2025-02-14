@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.btmex.exchange
 appCountry: 
-released: 2019-09-11
-updated: 2019-12-03
+released: '2019-09-11'
+updated: '2019-12-03'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: 

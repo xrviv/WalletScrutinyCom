@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.movocash.movo
 appCountry: 
-released: 2021-04-01
-updated: 2022-12-13
+released: '2021-04-01'
+updated: '2022-12-13'
 version: '4.3.3'
 stars: 3.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: MovoCash

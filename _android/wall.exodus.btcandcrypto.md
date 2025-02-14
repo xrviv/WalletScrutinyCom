@@ -8,8 +8,8 @@ authors:
 users: 100
 appId: wall.exodus.btcandcrypto
 appCountry: 
-released: 2021-07-16
-updated: 2021-07-16
+released: '2021-07-16'
+updated: '2021-07-16'
 version: '6.045'
 stars: 
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-08-06
+date: '2021-08-06'
 signer: 
 reviewArchive: 
 twitter: 

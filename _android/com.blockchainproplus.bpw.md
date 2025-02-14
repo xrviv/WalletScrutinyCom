@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.blockchainproplus.bpw
 appCountry: 
-released: 2021-04-02
-updated: 2021-04-23
+released: '2021-04-02'
+updated: '2021-04-23'
 version: '1.1.1'
 stars: 3.8
 ratings: 60
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: obfuscated
 appHashes: 
-date: 2021-07-02
+date: '2021-07-02'
 signer: 
 reviewArchive: 
 twitter: 

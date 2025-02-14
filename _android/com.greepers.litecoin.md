@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.greepers.litecoin
 appCountry: 
-released: 2021-09-03
-updated: 2021-11-01
+released: '2021-09-03'
+updated: '2021-11-01'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

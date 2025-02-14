@@ -7,8 +7,8 @@ authors:
 appId: com.cryptiswap
 appCountry: us
 idd: '1558998980'
-released: 2021-04-19
-updated: 2023-03-09
+released: '2021-04-19'
+updated: '2023-03-09'
 version: '1.0.8'
 stars: 4.8
 reviews: 20
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: nowallet
 appHashes: 
-date: 2024-03-07
+date: '2024-03-07'
 signer: 
 reviewArchive: 
 twitter: 

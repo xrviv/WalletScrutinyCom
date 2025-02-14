@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.lightningnfcapp
 appCountry: 
-released: 2022-08-19
-updated: 2024-09-03
+released: '2022-08-19'
+updated: '2024-09-03'
 version: '0.3.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-04-04
+date: '2024-04-04'
 signer: 
 reviewArchive: 
 twitter: ones_and_zeroz

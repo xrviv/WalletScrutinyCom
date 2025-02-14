@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bigomex.blockchain
 appCountry: 
-released: 2020-09-14
-updated: 2021-06-22
+released: '2020-09-14'
+updated: '2021-06-22'
 version: '1.2.7'
 stars: 4.1
 ratings: 319
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: bigomexofficial

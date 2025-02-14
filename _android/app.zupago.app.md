@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: app.zupago.app
 appCountry: us
-released: 2021-04-30
-updated: 2024-05-16
+released: '2021-04-30'
+updated: '2024-05-16'
 version: '2.0.2'
 stars: 4.7
 ratings: 221
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

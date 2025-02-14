@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.cropty.droid
 appCountry: 
-released: 2022-07-04
-updated: 2024-12-30
+released: '2022-07-04'
+updated: '2024-12-30'
 version: '2.4.2'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-30
+date: '2023-07-30'
 signer: 
 reviewArchive: 
 twitter: cropty_app

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.trade.tech.android
 appCountry: 
-released: 2019-01-02
-updated: 2022-07-29
+released: '2019-01-02'
+updated: '2022-07-29'
 version: '1.15.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2024-07-19
+date: '2024-07-19'
 signer: 
 reviewArchive: 
 twitter: 

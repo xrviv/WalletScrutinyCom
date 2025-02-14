@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.metatech.moonfarm
 appCountry: 
-released: 2022-07-29
-updated: 2023-02-23
+released: '2022-07-29'
+updated: '2023-02-23'
 version: '1.1.2'
 stars: 3.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-08-04
+date: '2024-08-04'
 signer: 
 reviewArchive: 
 twitter: MoonfarmFinance

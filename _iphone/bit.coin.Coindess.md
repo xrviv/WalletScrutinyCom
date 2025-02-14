@@ -7,8 +7,8 @@ authors:
 appId: bit.coin.Coindess
 appCountry: us
 idd: '1316631103'
-released: 2017-11-29
-updated: 2022-12-12
+released: '2017-11-29'
+updated: '2022-12-12'
 version: '2.17.7'
 stars: 5
 reviews: 2
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: FIAHUBVN

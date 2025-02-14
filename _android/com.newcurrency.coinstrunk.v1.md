@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.newcurrency.coinstrunk.v1
 appCountry: 
-released: 2020-10-15
-updated: 2022-03-09
+released: '2020-10-15'
+updated: '2022-03-09'
 version: '1.12'
 stars: 4.1
 ratings: 635
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: 

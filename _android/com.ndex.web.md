@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.ndex.web
 appCountry: 
-released: 2018-10-10
-updated: 2020-04-02
+released: '2018-10-10'
+updated: '2020-04-02'
 version: '1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-29
+date: '2023-04-29'
 signer: 
 reviewArchive: 
 twitter: 

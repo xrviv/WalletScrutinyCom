@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.molnike.crypto.backup
 appCountry: 
-released: 2023-01-08
-updated: 2023-02-28
+released: '2023-01-08'
+updated: '2023-02-28'
 version: '0.4'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: 

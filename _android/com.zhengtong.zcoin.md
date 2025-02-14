@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.zhengtong.zcoin
 appCountry: 
-released: 2021-12-01
-updated: 2022-11-23
+released: '2021-12-01'
+updated: '2022-11-23'
 version: '2.0.8'
 stars: 2.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-11-13
+date: '2024-11-13'
 signer: 
 reviewArchive: 
 twitter: ZT_exchange

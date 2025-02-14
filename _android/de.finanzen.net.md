@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: de.finanzen.net
 appCountry: 
-released: 2012-03-26
-updated: 2024-12-19
+released: '2012-03-26'
+updated: '2024-12-19'
 version: '5.5.1'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2022-12-06
+date: '2022-12-06'
 signer: 
 reviewArchive: 
 twitter: FinanzenNet

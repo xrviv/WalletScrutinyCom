@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.orading.myapplication
 appCountry: 
-released: 2023-02-23
-updated: 2023-02-23
+released: '2023-02-23'
+updated: '2023-02-23'
 version: '1.2.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.app.cofinexexchange34
 appCountry: sg
-released: 2021-02-12
-updated: 2022-12-08
+released: '2021-02-12'
+updated: '2022-12-08'
 version: '3.0'
 stars: 
 ratings: 10
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: CofinexExchange

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: io.algowave.algowaveapp
 appCountry: 
-released: 2018-07-09
-updated: 2021-04-29
+released: '2018-07-09'
+updated: '2021-04-29'
 version: '3.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-05
+date: '2023-05-05'
 signer: 
 reviewArchive: 
 twitter: 

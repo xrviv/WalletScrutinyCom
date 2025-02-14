@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.sendVillageHQ.comi_block
 appCountry: 
-released: 2022-09-11
-updated: 2023-08-27
+released: '2022-09-11'
+updated: '2023-08-27'
 version: '1.1.6'
 stars: 4.2
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-08-21
+date: '2024-08-21'
 signer: 
 reviewArchive: 
 twitter: 

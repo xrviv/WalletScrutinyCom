@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.openbit.app
 appCountry: 
-released: 2021-11-10
-updated: 2022-03-25
+released: '2021-11-10'
+updated: '2022-03-25'
 version: '1.1.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

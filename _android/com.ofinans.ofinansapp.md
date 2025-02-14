@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.ofinans.ofinansapp
 appCountry: 
-released: 2021-06-10
-updated: 2024-04-23
+released: '2021-06-10'
+updated: '2024-04-23'
 version: '2.0.7'
 stars: 5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-09-08
+date: '2024-09-08'
 signer: 
 reviewArchive: 
 twitter: MiracleCashMore

@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: bitcoin.bank2
 appCountry: 
-released: 2022-04-23
-updated: 2022-04-23
+released: '2022-04-23'
+updated: '2022-04-23'
 version: '9.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

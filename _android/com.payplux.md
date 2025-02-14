@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.payplux
 appCountry: 
-released: 2020-01-22
-updated: 2022-11-02
+released: '2020-01-22'
+updated: '2022-11-02'
 version: '1.1.85'
 stars: 3.4
 ratings: 291
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-11-04
+date: '2024-11-04'
 signer: 
 reviewArchive: 
 twitter: PayPlux

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.coiny.android
 appCountry: 
-released: 2018-04-11
-updated: 2019-01-17
+released: '2018-04-11'
+updated: '2019-01-17'
 version: '1.6.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2022-01-13
+date: '2022-01-13'
 signer: 
 reviewArchive: 
 twitter: Coiny_io

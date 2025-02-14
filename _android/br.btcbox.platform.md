@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: br.btcbox.platform
 appCountry: 
-released: 2021-09-30
-updated: 2021-09-30
+released: '2021-09-30'
+updated: '2021-09-30'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-10-16
+date: '2023-10-16'
 signer: 
 reviewArchive: 
 twitter: 

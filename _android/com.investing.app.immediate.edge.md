@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.investing.app.immediate.edge
 appCountry: 
-released: 2023-01-24
-updated: 2023-01-24
+released: '2023-01-24'
+updated: '2023-01-24'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-07-21
+date: '2023-07-21'
 signer: 
 reviewArchive: 
 twitter: 

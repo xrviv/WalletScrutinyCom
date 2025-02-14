@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.github.keyhunter
 appCountry: 
-released: 2022-05-17
-updated: 2024-09-04
+released: '2022-05-17'
+updated: '2024-09-04'
 version: '2.2.2'
 stars: 3.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-09-04
+date: '2023-09-04'
 signer: 
 reviewArchive: 
 twitter: 

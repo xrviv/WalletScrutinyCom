@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: ammer.wallet
 appCountry: 
-released: 2022-12-05
-updated: 2024-11-27
+released: '2022-12-05'
+updated: '2024-11-27'
 version: 'VARY'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: AmmerCards

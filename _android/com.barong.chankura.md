@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.barong.chankura
 appCountry: 
-released: 2020-10-28
-updated: 2020-11-02
+released: '2020-10-28'
+updated: '2020-11-02'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

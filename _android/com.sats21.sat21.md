@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.sats21.sat21
 appCountry: 
-released: 2020-12-30
-updated: 2021-01-13
+released: '2020-12-30'
+updated: '2021-01-13'
 version: '0.8.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

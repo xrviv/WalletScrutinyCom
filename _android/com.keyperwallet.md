@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.keyperwallet
 appCountry: 
-released: 2019-10-22
-updated: 2020-09-02
+released: '2019-10-22'
+updated: '2020-09-02'
 version: '1.7'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-11-12
+date: '2024-11-12'
 signer: 
 reviewArchive: 
 twitter: 

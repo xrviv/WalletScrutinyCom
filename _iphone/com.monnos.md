@@ -7,8 +7,8 @@ authors:
 appId: com.monnos
 appCountry: br
 idd: 1476884342
-released: 2019-09-30
-updated: 2024-10-01
+released: '2019-09-30'
+updated: '2024-10-01'
 version: '6.3.9'
 stars: 4.5
 reviews: 223
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: monnosGlobal

@@ -7,8 +7,8 @@ authors:
 appId: com.laxoWallet
 appCountry: us
 idd: 1504656252
-released: 2020-04-03
-updated: 2022-07-18
+released: '2020-04-03'
+updated: '2022-07-18'
 version: '2.3.9'
 stars: 4.9
 reviews: 55
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: Voltfinance

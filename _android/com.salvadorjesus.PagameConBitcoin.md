@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.salvadorjesus.PagameConBitcoin
 appCountry: 
-released: 2018-01-24
-updated: 2020-03-06
+released: '2018-01-24'
+updated: '2020-03-06'
 version: '2.2.3.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2022-02-25
+date: '2022-02-25'
 signer: 
 reviewArchive: 
 twitter: 

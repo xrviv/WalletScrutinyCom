@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: w3axis.com.epocket
 appCountry: 
-released: 2018-06-23
-updated: 2025-02-09
+released: '2018-06-23'
+updated: '2025-02-09'
 version: '2.63'
 stars: 5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-09-06
+date: '2023-09-06'
 signer: 
 reviewArchive: 
 twitter: e_Pocket

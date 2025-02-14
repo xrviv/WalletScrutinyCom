@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.tazminsho.app
 appCountry: 
-released: 2020-02-22
-updated: 2020-07-12
+released: '2020-02-22'
+updated: '2020-07-12'
 version: '2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

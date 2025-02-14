@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.exchanger24pb.myapplication24
 appCountry: 
-released: 2020-02-07
-updated: 2023-11-26
+released: '2020-02-07'
+updated: '2023-11-26'
 version: '4.0.1'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nowallet
 appHashes: 
-date: 2024-11-21
+date: '2024-11-21'
 signer: 
 reviewArchive: 
 twitter: 24Paybank

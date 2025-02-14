@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.foxtrading.fox
 appCountry: 
-released: 2018-05-14
-updated: 2019-05-08
+released: '2018-05-14'
+updated: '2019-05-08'
 version: '0.7.11'
 stars: 3.3
 ratings: 38
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: foxtradingauto

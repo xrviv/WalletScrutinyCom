@@ -8,8 +8,8 @@ authors:
 users: 100
 appId: wallet.jax.bnc.com
 appCountry: 
-released: 2021-07-14
-updated: 2021-07-14
+released: '2021-07-14'
+updated: '2021-07-14'
 version: '1.0'
 stars: 
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-08-23
+date: '2021-08-23'
 signer: 
 reviewArchive: 
 twitter: 

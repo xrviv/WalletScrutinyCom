@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.womegacryptowallet_16429089
 appCountry: 
-released: 2022-12-25
-updated: 2023-06-06
+released: '2022-12-25'
+updated: '2023-06-06'
 version: '1.0.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: fewusers
 appHashes: 
-date: 2024-06-03
+date: '2024-06-03'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: io.coinchange
 appCountry: 
-released: 2021-10-31
-updated: 2023-11-29
+released: '2021-10-31'
+updated: '2023-11-29'
 version: '2.1.0'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-11-25
+date: '2024-11-25'
 signer: 
 reviewArchive: 
 twitter: coinchangeio

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: io.fujidon.android
 appCountry: 
-released: 2021-05-06
-updated: 2023-05-29
+released: '2021-05-06'
+updated: '2023-05-29'
 version: '1.2.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

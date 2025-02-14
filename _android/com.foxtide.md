@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: com.foxtide
 appCountry: 
-released: 2020-04-23
-updated: 2020-05-09
+released: '2020-04-23'
+updated: '2020-05-09'
 version: '1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

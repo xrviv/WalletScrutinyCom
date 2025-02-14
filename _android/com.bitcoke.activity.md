@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bitcoke.activity
 appCountry: 
-released: 2022-02-13
-updated: 2022-10-07
+released: '2022-02-13'
+updated: '2022-10-07'
 version: '7.0.0.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-03-09
+date: '2023-03-09'
 signer: 
 reviewArchive: 
 twitter: BitCokedotcom

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.techx.arya
 appCountry: us
-released: 2019-09-10
-updated: 2023-04-11
+released: '2019-09-10'
+updated: '2023-04-11'
 version: '2.21.0'
 stars: 3.7
 ratings: 379
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nowallet
 appHashes: 
-date: 2024-04-09
+date: '2024-04-09'
 signer: 
 reviewArchive: 
 twitter: TheAryaApp

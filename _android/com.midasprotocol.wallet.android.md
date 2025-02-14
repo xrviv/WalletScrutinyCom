@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.midasprotocol.wallet.android
 appCountry: 
-released: 2018-11-02
-updated: 2021-12-20
+released: '2018-11-02'
+updated: '2021-12-20'
 version: '2.0.8.1'
 stars: 4.3
 ratings: 450
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: MidasProtocol

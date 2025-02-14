@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.betconix
 appCountry: 
-released: 2021-07-01
-updated: 2021-12-14
+released: '2021-07-01'
+updated: '2021-12-14'
 version: '6.7'
 stars: 3.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: betconix

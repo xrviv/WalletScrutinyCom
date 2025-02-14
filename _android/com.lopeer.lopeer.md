@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.lopeer.lopeer
 appCountry: 
-released: 2022-08-13
-updated: 2023-12-05
+released: '2022-08-13'
+updated: '2023-12-05'
 version: '2.2.7'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-09-25
+date: '2024-09-25'
 signer: 
 reviewArchive: 
 twitter: 

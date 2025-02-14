@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: cloud.cashforexgroup.com
 appCountry: 
-released: 2022-04-30
-updated: 2022-05-01
+released: '2022-04-30'
+updated: '2022-05-01'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

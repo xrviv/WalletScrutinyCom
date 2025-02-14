@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.diamondbtc.ytapp
 appCountry: 
-released: 2021-03-13
-updated: 2021-03-13
+released: '2021-03-13'
+updated: '2021-03-13'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.lifelabsio.lifeapp
 appCountry: 
-released: 2018-10-05
-updated: 2020-03-20
+released: '2018-10-05'
+updated: '2020-03-20'
 version: '0.6.1'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

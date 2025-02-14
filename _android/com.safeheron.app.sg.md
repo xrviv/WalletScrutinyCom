@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.safeheron.app.sg
 appCountry: 
-released: 2022-07-17
-updated: 2024-12-30
+released: '2022-07-17'
+updated: '2024-12-30'
 version: '1.5.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2023-06-03
+date: '2023-06-03'
 signer: 
 reviewArchive: 
 twitter: 

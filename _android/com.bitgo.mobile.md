@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bitgo.mobile
 appCountry: 
-released: 2022-04-15
-updated: 2023-01-19
+released: '2022-04-15'
+updated: '2023-01-19'
 version: '1.7.0'
 stars: 3.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-03
+date: '2024-10-03'
 signer: 
 reviewArchive: 
 twitter: BitGo

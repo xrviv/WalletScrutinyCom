@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.namicorp.exchange
 appCountry: 
-released: 2019-11-06
-updated: 2024-11-18
+released: '2019-11-06'
+updated: '2024-11-18'
 version: '2.2.6'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-07-20
+date: '2022-07-20'
 signer: 
 reviewArchive: 
 twitter: NamiTrade

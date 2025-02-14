@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: ru.zamzamwallet
 appCountry: ru
-released: 2020-06-26
-updated: 2023-05-27
+released: '2020-06-26'
+updated: '2023-05-27'
 version: '2.8.92'
 stars: 3.6
 ratings: 139
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nowallet
 appHashes: 
-date: 2024-05-24
+date: '2024-05-24'
 signer: 
 reviewArchive: 
 twitter: 

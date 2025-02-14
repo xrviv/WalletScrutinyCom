@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.zedXeWallet
 appCountry: 
-released: 2020-05-07
-updated: 2020-06-11
+released: '2020-05-07'
+updated: '2020-06-11'
 version: '1.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nosource
 appHashes: 
-date: 2023-06-12
+date: '2023-06-12'
 signer: 
 reviewArchive: 
 twitter: Zed_Xe

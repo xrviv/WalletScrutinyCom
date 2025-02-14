@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: org.mediatec.coinsnex
 appCountry: 
-released: 2018-07-19
-updated: 2018-07-19
+released: '2018-07-19'
+updated: '2018-07-19'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: app.com.unihash
 appCountry: 
-released: 2018-10-31
-updated: 2023-02-08
+released: '2018-10-31'
+updated: '2023-02-08'
 version: '4.0'
 stars: 2.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-09-21
+date: '2024-09-21'
 signer: 
 reviewArchive: 
 twitter: 

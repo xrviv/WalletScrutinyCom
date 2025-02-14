@@ -7,8 +7,8 @@ authors:
 appId: com.forex4you.ios
 appCountry: th
 idd: 1008039704
-released: 2015-10-11
-updated: 2024-12-20
+released: '2015-10-11'
+updated: '2024-12-20'
 version: '6.6.1'
 stars: 4.7
 reviews: 474
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: []
-date: 2021-12-24
+date: '2021-12-24'
 signer: 
 reviewArchive: 
 twitter: 

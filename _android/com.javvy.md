@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.javvy
 appCountry: 
-released: 2018-07-14
-updated: 2019-05-16
+released: '2018-07-14'
+updated: '2019-05-16'
 version: '1.0.4'
 stars: 5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-26
+date: '2023-05-26'
 signer: 
 reviewArchive: 
 twitter: javvycrypto

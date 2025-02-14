@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: life.bbx.bbxpro
 appCountry: 
-released: 2021-05-08
-updated: 2022-01-13
+released: '2021-05-08'
+updated: '2022-01-13'
 version: '1.3.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-10-16
+date: '2023-10-16'
 signer: 
 reviewArchive: 
 twitter: 

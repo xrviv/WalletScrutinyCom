@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.tech.cryptoocean
 appCountry: 
-released: 2022-07-20
-updated: 2022-08-18
+released: '2022-07-20'
+updated: '2022-08-18'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2024-08-08
+date: '2024-08-08'
 signer: 
 reviewArchive: 
 twitter: 

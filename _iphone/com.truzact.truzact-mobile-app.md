@@ -7,8 +7,8 @@ authors:
 appId: com.truzact.truzact-mobile-app
 appCountry: ng
 idd: '1611893549'
-released: 2022-03-02
-updated: 2023-07-12
+released: '2022-03-02'
+updated: '2023-07-12'
 version: '4.1.3'
 stars: 4.6
 reviews: 14
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: truzact

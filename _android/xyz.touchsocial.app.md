@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: xyz.touchsocial.app
 appCountry: 
-released: 2020-02-27
-updated: 2020-08-11
+released: '2020-02-27'
+updated: '2020-08-11'
 version: '1.2.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

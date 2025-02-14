@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.arz8x.app.arz8x
 appCountry: 
-released: 2020-05-08
-updated: 2024-08-29
+released: '2020-05-08'
+updated: '2024-08-29'
 version: '5.0.3'
 stars: 4.4
 ratings: 1706
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-23
+date: '2024-10-23'
 signer: 
 reviewArchive: 
 twitter: 

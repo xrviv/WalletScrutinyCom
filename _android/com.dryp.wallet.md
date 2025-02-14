@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.dryp.wallet
 appCountry: 
-released: 2021-11-18
-updated: 2021-11-18
+released: '2021-11-18'
+updated: '2021-11-18'
 version: '0.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

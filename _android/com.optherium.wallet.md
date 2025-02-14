@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.optherium.wallet
 appCountry: 
-released: 2018-08-23
-updated: 2019-03-12
+released: '2018-08-23'
+updated: '2019-03-12'
 version: '1.3.5'
 stars: 5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-31
+date: '2023-05-31'
 signer: 
 reviewArchive: 
 twitter: optherium

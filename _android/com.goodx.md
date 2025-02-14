@@ -8,7 +8,7 @@ users: 1000
 appId: com.goodx
 appCountry: 
 released: 
-updated: 2019-03-23
+updated: '2019-03-23'
 version: 'VARY'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-25
+date: '2023-05-25'
 signer: 
 reviewArchive: 
 twitter: 

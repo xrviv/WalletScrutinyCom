@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.kpapwallet
 appCountry: 
-released: 2020-03-23
-updated: 2020-07-06
+released: '2020-03-23'
+updated: '2020-07-06'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

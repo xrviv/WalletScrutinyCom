@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: app.zabira.ng
 appCountry: 
-released: 2022-02-23
-updated: 2024-05-07
+released: '2022-02-23'
+updated: '2024-05-07'
 version: '1.0.28'
 stars: 3.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-08-17
+date: '2024-08-17'
 signer: 
 reviewArchive: 
 twitter: thezabira

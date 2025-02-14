@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: uni.UNIDFF115B
 appCountry: 
-released: 2022-02-09
-updated: 2022-01-25
+released: '2022-02-09'
+updated: '2022-01-25'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

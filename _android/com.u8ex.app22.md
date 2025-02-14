@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.u8ex.app22
 appCountry: 
-released: 2022-04-08
-updated: 2022-04-09
+released: '2022-04-08'
+updated: '2022-04-09'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-06-07
+date: '2023-06-07'
 signer: 
 reviewArchive: 
 twitter: 

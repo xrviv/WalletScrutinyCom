@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.rapiexchange
 appCountry: 
-released: 2022-04-19
-updated: 2025-02-05
+released: '2022-04-19'
+updated: '2025-02-05'
 version: '2.70'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-29
+date: '2023-04-29'
 signer: 
 reviewArchive: 
 twitter: 

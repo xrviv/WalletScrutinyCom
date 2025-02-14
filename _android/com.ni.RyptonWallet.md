@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.ni.RyptonWallet
 appCountry: 
-released: 2020-04-13
-updated: 2020-04-13
+released: '2020-04-13'
+updated: '2020-04-13'
 version: '1.0'
 stars: 3.7
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: 

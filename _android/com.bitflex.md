@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.bitflex
 appCountry: 
-released: 2021-09-27
-updated: 2021-09-27
+released: '2021-09-27'
+updated: '2021-09-27'
 version: '2.0-beta'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

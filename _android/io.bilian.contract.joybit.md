@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.bilian.contract.joybit
 appCountry: 
-released: 2022-07-04
-updated: 2022-07-08
+released: '2022-07-04'
+updated: '2022-07-08'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-10-16
+date: '2023-10-16'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: finance.orderbook.trade
 appCountry: 
-released: 2021-12-29
-updated: 2021-12-29
+released: '2021-12-29'
+updated: '2021-12-29'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: 

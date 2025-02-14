@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: io.gmt.app.twa
 appCountry: 
-released: 2023-02-22
-updated: 2024-10-23
+released: '2023-02-22'
+updated: '2024-10-23'
 version: '33'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-06-29
+date: '2023-06-29'
 signer: 
 reviewArchive: 
 twitter: Gomining_token

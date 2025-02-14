@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.superex.ex
 appCountry: 
-released: 2022-03-23
-updated: 2025-01-25
+released: '2022-03-23'
+updated: '2025-01-25'
 version: '2.9.33'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-01-31
+date: '2023-01-31'
 signer: 
 reviewArchive: 
 twitter: SuperExet

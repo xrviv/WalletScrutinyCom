@@ -8,8 +8,8 @@ authors:
 appId: com.onekey.wallet
 appCountry: us
 idd: 1568432215
-released: 2021-06-01
-updated: 2021-11-19
+released: '2021-06-01'
+updated: '2021-11-19'
 version: '2.12.2'
 stars: 4.8
 reviews: 18
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2022-03-07
+date: '2022-03-07'
 signer: 
 reviewArchive: 
 twitter: OneKeyHQ

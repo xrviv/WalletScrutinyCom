@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: me.proton.wallet.android
 appCountry: 
-released: 2025-02-04
-updated: 2025-02-04
+released: '2025-02-04'
+updated: '2025-02-04'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: ftbfs
 appHashes: []
-date: 2024-08-12
+date: '2024-08-12'
 signer: 
 reviewArchive: 
 twitter: ProtonPrivacy

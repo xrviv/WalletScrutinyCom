@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.mobileapp.rbitex
 appCountry: 
-released: 2021-10-29
-updated: 2022-06-12
+released: '2021-10-29'
+updated: '2022-06-12'
 version: '3.0.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

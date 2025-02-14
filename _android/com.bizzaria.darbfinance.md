@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.bizzaria.darbfinance
 appCountry: 
-released: 2019-10-02
-updated: 2019-10-07
+released: '2019-10-02'
+updated: '2019-10-07'
 version: '1.3.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.nouroeddinne.miner.bitcoin.free
 appCountry: 
-released: 2021-03-18
-updated: 2023-12-29
+released: '2021-03-18'
+updated: '2023-12-29'
 version: '40.40'
 stars: 4.6
 ratings: 3855
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-07-10
+date: '2024-07-10'
 signer: 
 reviewArchive: 
 twitter: 

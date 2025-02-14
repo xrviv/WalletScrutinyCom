@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: gbbit.app.wallet
 appCountry: 
-released: 2017-12-11
-updated: 2020-05-07
+released: '2017-12-11'
+updated: '2020-05-07'
 version: '10.61'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-03
+date: '2023-05-03'
 signer: 
 reviewArchive: 
 twitter: 

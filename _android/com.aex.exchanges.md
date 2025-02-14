@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.aex.exchanges
 appCountry: 
-released: 2023-02-24
-updated: 2023-08-18
+released: '2023-02-24'
+updated: '2023-08-18'
 version: '1.1.5'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-22
+date: '2024-07-22'
 signer: 
 reviewArchive: 
 twitter: openex_hq

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: app.coingram
 appCountry: 
-released: 2019-07-02
-updated: 2024-04-19
+released: '2019-07-02'
+updated: '2024-04-19'
 version: '4.5.2'
 stars: 4.8
 ratings: 43980
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-08-27
+date: '2021-08-27'
 signer: 
 reviewArchive: 
 twitter: 

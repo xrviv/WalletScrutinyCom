@@ -7,8 +7,8 @@ authors:
 appId: app.flitsnode.flits
 appCountry: 
 idd: 1460563713
-released: 2019-04-30
-updated: 2021-02-09
+released: '2019-04-30'
+updated: '2021-02-09'
 version: '4.4'
 stars: 3.9
 reviews: 73
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: FlitsNode

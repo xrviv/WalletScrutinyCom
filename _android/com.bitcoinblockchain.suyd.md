@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.bitcoinblockchain.suyd
 appCountry: 
-released: 2021-02-10
-updated: 2021-03-06
+released: '2021-02-10'
+updated: '2021-03-06'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

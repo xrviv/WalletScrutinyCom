@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.coingrig
 appCountry: 
-released: 2021-11-05
-updated: 2022-06-22
+released: '2021-11-05'
+updated: '2022-06-22'
 version: '1.3.11'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-10-03
+date: '2024-10-03'
 signer: 
 reviewArchive: 
 twitter: coingrig

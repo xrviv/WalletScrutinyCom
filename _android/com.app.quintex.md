@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.app.quintex
 appCountry: 
-released: 2022-06-13
-updated: 2022-07-12
+released: '2022-06-13'
+updated: '2022-07-12'
 version: '3.5.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

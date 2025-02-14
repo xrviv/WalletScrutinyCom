@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.digivault.authenticator
 appCountry: 
-released: 2021-07-28
-updated: 2023-10-19
+released: '2021-07-28'
+updated: '2023-10-19'
 version: '1.0.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-08-07
+date: '2024-08-07'
 signer: 
 reviewArchive: 
 twitter: 

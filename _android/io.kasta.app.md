@@ -8,7 +8,7 @@ users: 10000
 appId: io.kasta.app
 appCountry: 
 released: 
-updated: 2023-12-08
+updated: '2023-12-08'
 version: '1.27.115-prod-105a6f8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: ka_app

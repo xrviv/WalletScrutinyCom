@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.alfredwallet.wallet
 appCountry: 
-released: 2021-08-12
-updated: 2023-08-23
+released: '2021-08-12'
+updated: '2023-08-23'
 version: '1.18'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-10-28
+date: '2024-10-28'
 signer: 
 reviewArchive: 
 twitter: 

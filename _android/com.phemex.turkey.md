@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.phemex.turkey
 appCountry: 
-released: 2021-09-30
-updated: 2022-09-27
+released: '2021-09-30'
+updated: '2022-09-27'
 version: '1.2.5'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-09-08
+date: '2024-09-08'
 signer: 
 reviewArchive: 
 twitter: 

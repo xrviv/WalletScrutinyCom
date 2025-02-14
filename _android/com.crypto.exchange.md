@@ -8,8 +8,8 @@ authors:
 users: 1000000
 appId: com.crypto.exchange
 appCountry: nz
-released: 2021-05-26
-updated: 2025-02-04
+released: '2021-05-26'
+updated: '2025-02-04'
 version: '2.55.0'
 stars: 4.6
 ratings: 4430
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-24
+date: '2021-10-24'
 signer: 
 reviewArchive: 
 twitter: cryptocom

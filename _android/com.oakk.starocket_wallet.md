@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.oakk.starocket_wallet
 appCountry: 
-released: 2022-05-29
-updated: 2025-02-07
+released: '2022-05-29'
+updated: '2025-02-07'
 version: '3.0.6'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-29
+date: '2023-04-29'
 signer: 
 reviewArchive: 
 twitter: TruBit_Latam

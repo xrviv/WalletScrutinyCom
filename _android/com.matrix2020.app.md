@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.matrix2020.app
 appCountry: 
-released: 2022-03-24
-updated: 2022-04-27
+released: '2022-03-24'
+updated: '2022-04-27'
 version: '1.6.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: 

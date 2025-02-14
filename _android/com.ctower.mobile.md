@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.ctower.mobile
 appCountry: 
-released: 2020-07-17
-updated: 2020-08-20
+released: '2020-07-17'
+updated: '2020-08-20'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-03-24
+date: '2022-03-24'
 signer: 
 reviewArchive: 
 twitter: 

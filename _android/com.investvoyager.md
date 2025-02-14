@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.investvoyager
 appCountry: 
-released: 2020-02-25
-updated: 2023-07-13
+released: '2020-02-25'
+updated: '2023-07-13'
 version: '4.0.0'
 stars: 3.4
 ratings: 26380
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-09-04
+date: '2023-09-04'
 signer: 
 reviewArchive: 
 twitter: investvoyager

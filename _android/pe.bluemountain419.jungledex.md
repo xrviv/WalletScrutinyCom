@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: pe.bluemountain419.jungledex
 appCountry: 
-released: 2020-02-11
-updated: 2020-02-20
+released: '2020-02-11'
+updated: '2020-02-20'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

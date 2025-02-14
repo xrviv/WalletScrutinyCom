@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: adt.ng.app
 appCountry: 
-released: 2021-05-22
-updated: 2021-05-14
+released: '2021-05-22'
+updated: '2021-05-14'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.node.coindirect
 appCountry: 
-released: 2018-10-10
-updated: 2021-07-07
+released: '2018-10-10'
+updated: '2021-07-07'
 version: '1.3.0'
 stars: 1.7
 ratings: 543
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: coindirectcom

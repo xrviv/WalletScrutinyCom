@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: glim.network
 appCountry: 
-released: 2022-06-26
-updated: 2023-11-12
+released: '2022-06-26'
+updated: '2023-11-12'
 version: '1.1.0'
 stars: 3.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-07-14
+date: '2024-07-14'
 signer: 
 reviewArchive: 
 twitter: GlimNetwork

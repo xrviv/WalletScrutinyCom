@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.phemex.app
 appCountry: 
-released: 2020-02-19
-updated: 2025-01-17
+released: '2020-02-19'
+updated: '2025-01-17'
 version: '5.5.39'
 stars: 4.6
 ratings: 15997
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-04-13
+date: '2021-04-13'
 signer: 
 reviewArchive: 
 twitter: phemex_official

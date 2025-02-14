@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.bitcoinwallet.btclun
 appCountry: 
-released: 2023-02-07
-updated: 2023-06-01
+released: '2023-02-07'
+updated: '2023-06-01'
 version: '3.04.28'
 stars: 2.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: 

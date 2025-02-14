@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.ahex.app
 appCountry: 
-released: 2022-06-23
-updated: 2022-06-23
+released: '2022-06-23'
+updated: '2022-06-23'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: 

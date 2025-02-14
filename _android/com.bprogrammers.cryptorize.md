@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.bprogrammers.cryptorize
 appCountry: 
-released: 2020-07-03
-updated: 2024-05-22
+released: '2020-07-03'
+updated: '2024-05-22'
 version: '2.3.1'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-09-04
+date: '2024-09-04'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.gwallet.main
 appCountry: 
-released: 2021-08-11
-updated: 2022-07-22
+released: '2021-08-11'
+updated: '2022-07-22'
 version: '1.06'
 stars: 4.9
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

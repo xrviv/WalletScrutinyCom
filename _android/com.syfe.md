@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.syfe
 appCountry: 
-released: 2020-02-13
-updated: 2025-01-31
+released: '2020-02-13'
+updated: '2025-01-31'
 version: '12.7.0'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2023-07-10
+date: '2023-07-10'
 signer: 
 reviewArchive: 
 twitter: SyfeSG

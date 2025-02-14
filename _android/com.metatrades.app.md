@@ -7,7 +7,7 @@ users: 1000
 appId: com.metatrades.app
 appCountry: 
 released: 
-updated: 2023-01-05
+updated: '2023-01-05'
 version: '1.1.93'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-16
+date: '2023-04-16'
 signer: 
 reviewArchive: 
 twitter: 

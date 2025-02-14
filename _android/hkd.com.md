@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: hkd.com
 appCountry: 
-released: 2020-09-11
-updated: 2024-06-25
+released: '2020-09-11'
+updated: '2024-06-25'
 version: '2.9.3'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-02-13
+date: '2023-02-13'
 signer: 
 reviewArchive: 
 twitter: HKD_exchange

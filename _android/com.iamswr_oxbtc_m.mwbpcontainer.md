@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.iamswr_oxbtc_m.mwbpcontainer
 appCountry: 
-released: 2021-08-23
-updated: 2021-08-24
+released: '2021-08-23'
+updated: '2021-08-24'
 version: '1.3.8'
 stars: 2.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: oxbitcoin

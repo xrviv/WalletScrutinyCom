@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.exbito.app
 appCountry: 
-released: 2021-10-17
-updated: 2024-05-05
+released: '2021-10-17'
+updated: '2024-05-05'
 version: '2.1.3'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-20
+date: '2023-07-20'
 signer: 
 reviewArchive: 
 twitter: ExbitoMarket

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.crypto.treasure
 appCountry: 
-released: 2022-12-01
-updated: 2023-02-08
+released: '2022-12-01'
+updated: '2023-02-08'
 version: '1.0.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nosource
 appHashes: 
-date: 2025-01-29
+date: '2025-01-29'
 signer: 
 reviewArchive: 
 twitter: treasurewallett

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.lcx.app
 appCountry: 
-released: 2021-10-26
-updated: 2025-02-11
+released: '2021-10-26'
+updated: '2025-02-11'
 version: '2.3.36'
 stars: 3.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-06-22
+date: '2022-06-22'
 signer: 
 reviewArchive: 
 twitter: lcx

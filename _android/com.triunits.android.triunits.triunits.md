@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.triunits.android.triunits.triunits
 appCountry: 
-released: 2022-06-05
-updated: 2023-09-26
+released: '2022-06-05'
+updated: '2023-09-26'
 version: '1.0.15'
 stars: 4.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-11-19
+date: '2024-11-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 appId: co.airbitz.airbitz
 appCountry: 
 idd: 843536046
-released: 2014-03-28
-updated: 2018-09-21
+released: '2014-03-28'
+updated: '2018-09-21'
 version: '2.4.12'
 stars: 3.8
 reviews: 82
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: ftbfs
 appHashes: 
-date: 2021-10-19
+date: '2021-10-19'
 signer: 
 reviewArchive: 
 twitter: 

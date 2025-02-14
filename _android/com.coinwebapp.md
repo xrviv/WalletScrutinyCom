@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.coinwebapp
 appCountry: 
-released: 2023-04-28
-updated: 2024-11-29
+released: '2023-04-28'
+updated: '2024-11-29'
 version: '1.1.1'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-04-10
+date: '2024-04-10'
 signer: 
 reviewArchive: 
 twitter: CoinwebOfficial

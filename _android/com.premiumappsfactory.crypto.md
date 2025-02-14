@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.premiumappsfactory.crypto
 appCountry: 
-released: 2021-09-05
-updated: 2024-01-01
+released: '2021-09-05'
+updated: '2024-01-01'
 version: '6.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: fewusers
 appHashes: 
-date: 2024-12-27
+date: '2024-12-27'
 signer: 
 reviewArchive: 
 twitter: 

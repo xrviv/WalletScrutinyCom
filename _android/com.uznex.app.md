@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.uznex.app
 appCountry: 
-released: 2020-04-28
-updated: 2024-02-19
+released: '2020-04-28'
+updated: '2024-02-19'
 version: '2.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-15
+date: '2024-12-15'
 signer: 
 reviewArchive: 
 twitter: 

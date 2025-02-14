@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.gleec
 appCountry: 
-released: 2021-02-26
-updated: 2023-12-11
+released: '2021-02-26'
+updated: '2023-12-11'
 version: '1.2'
 stars: 3.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: GleecOfficial

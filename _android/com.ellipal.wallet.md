@@ -8,8 +8,8 @@ authors:
 users: 50000
 appId: com.ellipal.wallet
 appCountry: us
-released: 2018-07-02
-updated: 2025-01-24
+released: '2018-07-02'
+updated: '2025-01-24'
 version: '4.5.1'
 stars: 4
 ratings: 933
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-17
+date: '2024-07-17'
 signer: 
 reviewArchive: 
 twitter: ellipalwallet

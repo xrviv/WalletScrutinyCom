@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.eliminatum.app
 appCountry: 
-released: 2018-09-12
-updated: 2022-01-28
+released: '2018-09-12'
+updated: '2022-01-28'
 version: '8.0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-01-19
+date: '2024-01-19'
 signer: 
 reviewArchive: 
 twitter: GoCrypto_

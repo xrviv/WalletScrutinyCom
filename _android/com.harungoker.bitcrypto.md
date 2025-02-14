@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.harungoker.bitcrypto
 appCountry: 
-released: 2022-06-27
-updated: 2022-06-27
+released: '2022-06-27'
+updated: '2022-06-27'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2025-02-04
+date: '2025-02-04'
 signer: 
 reviewArchive: 
 twitter: 

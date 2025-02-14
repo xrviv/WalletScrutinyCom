@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.fscwallet
 appCountry: 
-released: 2019-12-23
-updated: 2021-06-18
+released: '2019-12-23'
+updated: '2021-06-18'
 version: '4.0.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-25
+date: '2023-05-25'
 signer: 
 reviewArchive: 
 twitter: 

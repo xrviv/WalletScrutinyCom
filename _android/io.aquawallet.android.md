@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: io.aquawallet.android
 appCountry: 
-released: 2024-01-02
-updated: 2025-02-12
+released: '2024-01-02'
+updated: '2025-02-12'
 version: '0.2.9'
 stars: 4.4
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: ftbfs
 appHashes: []
-date: 2024-09-06
+date: '2024-09-06'
 signer: 
 reviewArchive: 
 twitter: AquaBitcoin

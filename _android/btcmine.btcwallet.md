@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: btcmine.btcwallet
 appCountry: 
-released: 2017-08-13
-updated: 2017-08-13
+released: '2017-08-13'
+updated: '2017-08-13'
 version: '1.1'
 stars: 3.9
 ratings: 16
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-07-09
+date: '2021-07-09'
 signer: 
 reviewArchive: 
 twitter: 

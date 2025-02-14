@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.BuySellSignals.app
 appCountry: 
-released: 2019-06-02
-updated: 2019-07-01
+released: '2019-06-02'
+updated: '2019-07-01'
 version: '1.0.9'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

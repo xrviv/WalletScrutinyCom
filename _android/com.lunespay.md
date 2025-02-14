@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.lunespay
 appCountry: 
-released: 2021-07-14
-updated: 2021-08-10
+released: '2021-07-14'
+updated: '2021-08-10'
 version: '1.0.7'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: LunesPlatform

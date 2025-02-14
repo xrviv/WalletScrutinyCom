@@ -7,7 +7,7 @@ users: 100
 appId: com.xunibiksfwa.chonsdfj
 appCountry: 
 released: 
-updated: 2021-12-28
+updated: '2021-12-28'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

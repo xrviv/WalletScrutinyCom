@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.patriciaapp
 appCountry: us
-released: 2020-02-14
-updated: 2023-05-25
+released: '2020-02-14'
+updated: '2023-05-25'
 version: '1.5.2'
 stars: 2
 ratings: 3910
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: PatriciaSwitch

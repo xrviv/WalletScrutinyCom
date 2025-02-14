@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.signalfinancialfcu.signalfinancialfcu
 appCountry: 
-released: 2022-09-20
-updated: 2024-05-22
+released: '2022-09-20'
+updated: '2024-05-22'
 version: '4013.0.2'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-08-28
+date: '2023-08-28'
 signer: 
 reviewArchive: 
 twitter: signalFCU

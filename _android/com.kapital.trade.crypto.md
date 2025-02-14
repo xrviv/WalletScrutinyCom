@@ -8,8 +8,8 @@ authors:
 users: 1000000
 appId: com.kapital.trade.crypto
 appCountry: cz
-released: 2021-01-20
-updated: 2025-02-07
+released: '2021-01-20'
+updated: '2025-02-07'
 version: '1.95.1'
 stars: 4.4
 ratings: 1225
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2024-02-22
+date: '2024-02-22'
 signer: 
 reviewArchive: 
 twitter: capitalcom

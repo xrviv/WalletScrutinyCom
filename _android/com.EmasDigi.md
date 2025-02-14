@@ -7,8 +7,8 @@ authors:
 users: 5000000
 appId: com.EmasDigi
 appCountry: 
-released: 2018-01-21
-updated: 2025-02-10
+released: '2018-01-21'
+updated: '2025-02-10'
 version: '6.0.7'
 stars: 4.3
 ratings: 27168
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2021-08-21
+date: '2021-08-21'
 signer: 
 reviewArchive: 
 twitter: 

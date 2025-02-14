@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.mobillium.btcturk
 appCountry: tr
-released: 2020-05-06
-updated: 2024-08-09
+released: '2020-05-06'
+updated: '2024-08-09'
 version: '1.30.0'
 stars: 4.3
 ratings: 14766
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-10
+date: '2021-10-10'
 signer: 
 reviewArchive: 
 twitter: btcturk

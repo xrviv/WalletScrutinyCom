@@ -7,8 +7,8 @@ authors:
 appId: com.coinstore.sg
 appCountry: us
 idd: '1567160644'
-released: 2021-05-12
-updated: 2025-01-22
+released: '2021-05-12'
+updated: '2025-01-22'
 version: '3.4.0'
 stars: 4.1
 reviews: 90
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-06-24
+date: '2022-06-24'
 signer: 
 reviewArchive: 
 twitter: coinstore_en

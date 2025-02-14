@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.magnum.wallet
 appCountry: 
-released: 2019-04-23
-updated: 2019-08-29
+released: '2019-04-23'
+updated: '2019-08-29'
 version: '1.0.12'
 stars: 3.9
 ratings: 232
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: magnum_wallet

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: org.qwallet
 appCountry: 
-released: 2019-06-05
-updated: 2019-06-06
+released: '2019-06-05'
+updated: '2019-06-06'
 version: '0.1.4'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

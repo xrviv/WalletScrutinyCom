@@ -7,8 +7,8 @@ authors:
 users: 100
 appId: ja.xx.exch.ange
 appCountry: 
-released: 2021-09-01
-updated: 2021-09-01
+released: '2021-09-01'
+updated: '2021-09-01'
 version: '1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: []
-date: 2022-01-15
+date: '2022-01-15'
 signer: 
 reviewArchive: 
 twitter: 

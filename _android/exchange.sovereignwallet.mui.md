@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: exchange.sovereignwallet.mui
 appCountry: kr
-released: 2018-06-25
-updated: 2021-03-10
+released: '2018-06-25'
+updated: '2021-03-10'
 version: '1.18.0'
 stars: 4.2
 ratings: 74
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-15
+date: '2021-11-15'
 signer: 
 reviewArchive: 
 twitter: MUIcommunity

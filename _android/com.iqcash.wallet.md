@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.iqcash.wallet
 appCountry: 
-released: 2020-05-05
-updated: 2020-05-05
+released: '2020-05-05'
+updated: '2020-05-05'
 version: 'v1.0.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

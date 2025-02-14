@@ -7,8 +7,8 @@ authors:
 appId: com.zumopay.core
 appCountry: gb
 idd: '1449986847'
-released: 2019-11-07
-updated: 2025-01-29
+released: '2019-11-07'
+updated: '2025-01-29'
 version: '5.12.0'
 stars: 4.3
 reviews: 303
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2023-12-15
+date: '2023-12-15'
 signer: 
 reviewArchive: 
 twitter: zumopay

@@ -7,7 +7,7 @@ users: 100
 appId: com.evermarkets.emx
 appCountry: 
 released: 
-updated: 2020-04-08
+updated: '2020-04-08'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

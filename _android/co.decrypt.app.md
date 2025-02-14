@@ -8,8 +8,8 @@ authors:
 users: 100000
 appId: co.decrypt.app
 appCountry: 
-released: 2020-05-06
-updated: 2024-07-18
+released: '2020-05-06'
+updated: '2024-07-18'
 version: '5.0.0'
 stars: 4
 ratings: 2220
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-12-13
+date: '2023-12-13'
 signer: 
 reviewArchive: 
 twitter: decryptmedia

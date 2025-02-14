@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.public.app
 appCountry: 
-released: 2019-09-06
-updated: 2025-02-10
+released: '2019-09-06'
+updated: '2025-02-10'
 version: '3.180.2'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2023-07-21
+date: '2023-07-21'
 signer: 
 reviewArchive: 
 twitter: public

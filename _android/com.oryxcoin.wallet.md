@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.oryxcoin.wallet
 appCountry: 
-released: 2018-03-29
-updated: 2018-03-29
+released: '2018-03-29'
+updated: '2018-03-29'
 version: 'v5.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.cm.coinmark
 appCountry: 
-released: 2021-09-17
-updated: 2022-08-27
+released: '2021-09-17'
+updated: '2022-08-27'
 version: '1.3.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

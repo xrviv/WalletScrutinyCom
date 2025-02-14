@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.tiim.gooptions
 appCountry: us
-released: 2017-08-04
-updated: 2021-09-30
+released: '2017-08-04'
+updated: '2021-09-30'
 version: '1.4.2'
 stars: 4.3
 ratings: 261
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-10-08
+date: '2024-10-08'
 signer: 
 reviewArchive: 
 twitter: 

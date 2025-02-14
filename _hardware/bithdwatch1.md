@@ -5,9 +5,9 @@ authors:
 - kiwilamb
 - danny
 - leo
-released: 2017-12-30
+released: '2017-12-30'
 discontinued: 
-updated: 2021-12-14
+updated: '2021-12-14'
 version: 'v4.1.8'
 binaries: https://github.com/bithd/bithd-mcu/releases/
 dimensions:
@@ -30,10 +30,10 @@ verdict: nonverifiable
 appHashes:
 - 7c3126aaff2e983c89f621fa7a3d269385832aeeccc3f13ddd1e540656b059d2
 - 90d795380fa7def90f4924a672b64d086b55892266be8baae12c63871ab6598b
-date: 2022-04-18
+date: '2022-04-18'
 signer: 
 reviewArchive:
-- date: 2021-12-11
+- date: '2021-12-11'
   version: '4.1.7'
   appHashes:
   - 0a89405429ea6aa5abe8533f538f45bbaff36044b62aefcaaa63ef52bffebde0

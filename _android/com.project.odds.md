@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.project.odds
 appCountry: 
-released: 2022-03-29
-updated: 2024-02-01
+released: '2022-03-29'
+updated: '2024-02-01'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2025-01-15
+date: '2025-01-15'
 signer: 
 reviewArchive: 
 twitter: 

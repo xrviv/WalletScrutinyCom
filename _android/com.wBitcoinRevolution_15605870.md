@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.wBitcoinRevolution_15605870
 appCountry: 
-released: 2022-06-09
-updated: 2022-06-09
+released: '2022-06-09'
+updated: '2022-06-09'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

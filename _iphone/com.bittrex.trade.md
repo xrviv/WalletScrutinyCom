@@ -7,8 +7,8 @@ authors:
 appId: com.bittrex.trade
 appCountry: 
 idd: 1465314783
-released: 2019-12-19
-updated: 2023-04-05
+released: '2019-12-19'
+updated: '2023-04-05'
 version: '1.22.0'
 stars: 4.6
 reviews: 4357
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: BittrexGlobal

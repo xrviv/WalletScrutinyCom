@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.sylth.globals
 appCountry: 
-released: 2022-11-22
-updated: 2022-11-22
+released: '2022-11-22'
+updated: '2022-11-22'
 version: '1.1.13'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

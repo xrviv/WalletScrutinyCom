@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: pixel.websolutions.union_btc
 appCountry: 
-released: 2021-09-29
-updated: 2022-09-07
+released: '2021-09-29'
+updated: '2022-09-07'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

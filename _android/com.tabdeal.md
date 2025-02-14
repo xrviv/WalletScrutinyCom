@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.tabdeal
 appCountry: 
-released: 2021-08-14
-updated: 2025-01-18
+released: '2021-08-14'
+updated: '2025-01-18'
 version: '5.6.3'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-08
+date: '2023-07-08'
 signer: 
 reviewArchive: 
 twitter: tabdealplatform

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.rinnas.anyiwest
 appCountry: 
-released: 2021-06-04
-updated: 2021-06-20
+released: '2021-06-04'
+updated: '2021-06-20'
 version: '1.0.2'
 stars: 4.6
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: 

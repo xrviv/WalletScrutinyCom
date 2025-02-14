@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: io.crypto.wallet
 appCountry: 
-released: 2018-11-03
-updated: 2018-11-03
+released: '2018-11-03'
+updated: '2018-11-03'
 version: '0.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

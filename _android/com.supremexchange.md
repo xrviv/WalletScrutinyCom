@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.supremexchange
 appCountry: 
-released: 2018-12-21
-updated: 2020-11-23
+released: '2018-12-21'
+updated: '2020-11-23'
 version: '2.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

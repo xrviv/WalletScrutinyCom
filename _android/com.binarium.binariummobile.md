@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.binarium.binariummobile
 appCountry: 
-released: 2019-09-16
-updated: 2024-07-10
+released: '2019-09-16'
+updated: '2024-07-10'
 version: '1.1.0.2'
 stars: 3.5
 ratings: 2731
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-03
+date: '2021-09-03'
 signer: 
 reviewArchive: 
 twitter: 

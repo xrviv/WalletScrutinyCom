@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.publet
 appCountry: 
-released: 2020-06-11
-updated: 2020-11-20
+released: '2020-06-11'
+updated: '2020-11-20'
 version: '1.9'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-06-02
+date: '2023-06-02'
 signer: 
 reviewArchive: 
 twitter: 

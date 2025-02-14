@@ -7,8 +7,8 @@ authors:
 appId: com.xcapit.iosapp
 appCountry: ar
 idd: '1545648148'
-released: 2020-12-28
-updated: 2024-01-30
+released: '2020-12-28'
+updated: '2024-01-30'
 version: '3.31.1'
 stars: 4.4
 reviews: 30
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: nobtc
 appHashes: 
-date: 2025-01-27
+date: '2025-01-27'
 signer: 
 reviewArchive: 
 twitter: 

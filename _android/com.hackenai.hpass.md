@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.hackenai.hpass
 appCountry: 
-released: 2021-11-24
-updated: 2022-09-15
+released: '2021-11-24'
+updated: '2022-09-15'
 version: '1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2024-09-06
+date: '2024-09-06'
 signer: 
 reviewArchive: 
 twitter: 

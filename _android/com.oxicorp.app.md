@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.oxicorp.app
 appCountry: 
-released: 2020-05-09
-updated: 2021-01-26
+released: '2020-05-09'
+updated: '2021-01-26'
 version: '6.0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-31
+date: '2023-05-31'
 signer: 
 reviewArchive: 
 twitter: 

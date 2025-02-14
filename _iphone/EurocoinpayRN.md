@@ -7,8 +7,8 @@ authors:
 appId: EurocoinpayRN
 appCountry: es
 idd: '1483125957'
-released: 2019-12-15
-updated: 2025-02-02
+released: '2019-12-15'
+updated: '2025-02-02'
 version: '6.10'
 stars: 4.8
 reviews: 9
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-24
+date: '2023-07-24'
 signer: 
 reviewArchive: 
 twitter: eurocoinpay

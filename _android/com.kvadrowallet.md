@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.kvadrowallet
 appCountry: 
-released: 2020-11-16
-updated: 2021-08-14
+released: '2020-11-16'
+updated: '2021-08-14'
 version: '1.2.13'
 stars: 3.9
 ratings: 57
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-15
+date: '2021-11-15'
 signer: 
 reviewArchive: 
 twitter: 

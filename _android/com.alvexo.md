@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.alvexo
 appCountry: gb
-released: 2018-07-13
-updated: 2023-11-07
+released: '2018-07-13'
+updated: '2023-11-07'
 version: '3.0.188'
 stars: 4.1
 ratings: 826
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nosendreceive
 appHashes: 
-date: 2024-11-04
+date: '2024-11-04'
 signer: 
 reviewArchive: 
 twitter: Alvexo_Trade

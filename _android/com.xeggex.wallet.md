@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.xeggex.wallet
 appCountry: 
-released: 2022-07-12
-updated: 2022-07-12
+released: '2022-07-12'
+updated: '2022-07-12'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: xeggex

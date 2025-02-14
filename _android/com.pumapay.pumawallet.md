@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.pumapay.pumawallet
 appCountry: 
-released: 2018-05-07
-updated: 2021-10-25
+released: '2018-05-07'
+updated: '2021-10-25'
 version: '3.9.9'
 stars: 3.4
 ratings: 368
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: PumaPay

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.terracredit.pro
 appCountry: 
-released: 2020-12-30
-updated: 2021-03-02
+released: '2020-12-30'
+updated: '2021-03-02'
 version: '1.0.4.210302'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: terrabitcrypto

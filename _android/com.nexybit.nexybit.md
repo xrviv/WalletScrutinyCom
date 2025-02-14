@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.nexybit.nexybit
 appCountry: 
-released: 2018-12-31
-updated: 2019-02-18
+released: '2018-12-31'
+updated: '2019-02-18'
 version: '1.0.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-04-08
+date: '2023-04-08'
 signer: 
 reviewArchive: 
 twitter: 

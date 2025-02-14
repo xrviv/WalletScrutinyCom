@@ -7,7 +7,7 @@ users: 5
 appId: com.wallet.serecoin
 appCountry: 
 released: 
-updated: 2022-06-15
+updated: '2022-06-15'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-25
+date: '2024-07-25'
 signer: 
 reviewArchive: 
 twitter: 

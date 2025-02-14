@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.app.belfrics
 appCountry: us
-released: 2017-10-17
-updated: 2022-08-06
+released: '2017-10-17'
+updated: '2022-08-06'
 version: '2.1.15'
 stars: 4.8
 ratings: 110
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: Belfrics

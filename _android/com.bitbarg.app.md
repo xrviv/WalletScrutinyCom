@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.bitbarg.app
 appCountry: 
-released: 2022-03-12
-updated: 2024-12-18
+released: '2022-03-12'
+updated: '2024-12-18'
 version: '3.2.5'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2023-07-07
+date: '2023-07-07'
 signer: 
 reviewArchive: 
 twitter: bitbarg

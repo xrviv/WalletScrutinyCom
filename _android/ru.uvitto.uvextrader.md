@@ -7,7 +7,7 @@ users: 100
 appId: ru.uvitto.uvextrader
 appCountry: 
 released: 
-updated: 2020-04-05
+updated: '2020-04-05'
 version: '2.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

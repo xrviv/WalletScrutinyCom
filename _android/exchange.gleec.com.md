@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: exchange.gleec.com
 appCountry: 
-released: 2021-02-17
-updated: 2024-12-06
+released: '2021-02-17'
+updated: '2024-12-06'
 version: '1.35.0'
 stars: 2.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-11-28
+date: '2024-11-28'
 signer: 
 reviewArchive: 
 twitter: 

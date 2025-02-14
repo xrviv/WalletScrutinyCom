@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.pons.dao
 appCountry: 
-released: 2021-02-08
-updated: 2021-09-18
+released: '2021-02-08'
+updated: '2021-09-18'
 version: '1.0.0.20'
 stars: 
 ratings: 52
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2021-11-30
+date: '2021-11-30'
 signer: 
 reviewArchive: 
 twitter: daoconsensus

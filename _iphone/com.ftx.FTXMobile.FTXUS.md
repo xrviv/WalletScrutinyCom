@@ -7,8 +7,8 @@ authors:
 appId: com.ftx.FTXMobile.FTXUS
 appCountry: us
 idd: 1512655474
-released: 2020-05-21
-updated: 2022-04-14
+released: '2020-05-21'
+updated: '2022-04-14'
 version: '1.2.1'
 stars: 3.4
 reviews: 260
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-11
+date: '2023-01-11'
 signer: 
 reviewArchive: 
 twitter: ftx_us

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.yayd.exchangglobal
 appCountry: 
-released: 2022-03-15
-updated: 2023-05-23
+released: '2022-03-15'
+updated: '2023-05-23'
 version: '7.30.2'
 stars: 2.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: 

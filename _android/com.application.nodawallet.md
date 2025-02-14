@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.application.nodawallet
 appCountry: 
-released: 2020-09-14
-updated: 2022-05-20
+released: '2020-09-14'
+updated: '2022-05-20'
 version: '1.0.20'
 stars: 4.7
 ratings: 849
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-11-30
+date: '2024-11-30'
 signer: 
 reviewArchive: 
 twitter: DexNodaWallett

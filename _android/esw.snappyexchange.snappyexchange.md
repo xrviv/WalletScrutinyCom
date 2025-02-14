@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: esw.snappyexchange.snappyexchange
 appCountry: 
-released: 2022-01-15
-updated: 2024-11-15
+released: '2022-01-15'
+updated: '2024-11-15'
 version: '2.3.3 (36)'
 stars: 3.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-06-14
+date: '2023-06-14'
 signer: 
 reviewArchive: 
 twitter: 

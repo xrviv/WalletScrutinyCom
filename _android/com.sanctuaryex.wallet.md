@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.sanctuaryex.wallet
 appCountry: 
-released: 2021-05-10
-updated: 2022-09-02
+released: '2021-05-10'
+updated: '2022-09-02'
 version: '2.0.16'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-12-04
+date: '2024-12-04'
 signer: 
 reviewArchive: 
 twitter: 

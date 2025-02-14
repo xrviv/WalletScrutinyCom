@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.cryptowallet.deviantx
 appCountry: 
-released: 2018-11-12
-updated: 2019-08-01
+released: '2018-11-12'
+updated: '2019-08-01'
 version: '2.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: DeviantCoin

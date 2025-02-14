@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: crypto.wallet.chainapp
 appCountry: 
-released: 2021-03-24
-updated: 2023-03-23
+released: '2021-03-24'
+updated: '2023-03-23'
 version: '2.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

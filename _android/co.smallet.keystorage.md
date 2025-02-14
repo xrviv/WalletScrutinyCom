@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: co.smallet.keystorage
 appCountry: 
-released: 2018-07-03
-updated: 2024-03-15
+released: '2018-07-03'
+updated: '2024-03-15'
 version: '0.9.1.45'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-10-03
+date: '2024-10-03'
 signer: 
 reviewArchive: 
 twitter: 

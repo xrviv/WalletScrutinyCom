@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: kr.raistone.stonewallet
 appCountry: 
-released: 2019-01-10
-updated: 2019-10-01
+released: '2019-01-10'
+updated: '2019-10-01'
 version: '1.1.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

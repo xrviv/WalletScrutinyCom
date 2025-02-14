@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.cryptomindex
 appCountry: 
-released: 2021-08-17
-updated: 2021-08-17
+released: '2021-08-17'
+updated: '2021-08-17'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: 

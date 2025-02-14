@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: intowin.co.kr.p2coin
 appCountry: 
-released: 2018-08-30
-updated: 2018-08-31
+released: '2018-08-30'
+updated: '2018-08-31'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-04-16
+date: '2023-04-16'
 signer: 
 reviewArchive: 
 twitter: 

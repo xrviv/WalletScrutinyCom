@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: net.neenote.wallet
 appCountry: 
-released: 2021-04-26
-updated: 2021-04-26
+released: '2021-04-26'
+updated: '2021-04-26'
 version: '4.0.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.shashank.doch
 appCountry: 
-released: 2019-08-07
-updated: 2020-08-11
+released: '2019-08-07'
+updated: '2020-08-11'
 version: '1.6.7'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-06-02
+date: '2023-06-02'
 signer: 
 reviewArchive: 
 twitter: 

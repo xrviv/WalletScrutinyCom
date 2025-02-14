@@ -8,7 +8,7 @@ users: 1000
 appId: net.treeum.multi.invest
 appCountry: 
 released: 
-updated: 2022-09-01
+updated: '2022-09-01'
 version: '1.0.31'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: wip
 appHashes: 
-date: 2024-08-23
+date: '2024-08-23'
 signer: 
 reviewArchive: 
 twitter: 

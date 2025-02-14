@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.paycaff.safepaytm
 appCountry: 
-released: 2019-05-29
-updated: 2022-08-14
+released: '2019-05-29'
+updated: '2022-08-14'
 version: '6.0'
 stars: 4.2
 ratings: 143
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-09-06
+date: '2024-09-06'
 signer: 
 reviewArchive: 
 twitter: 

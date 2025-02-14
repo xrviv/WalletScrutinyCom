@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.oracle.wallet
 appCountry: us
-released: 2021-01-19
-updated: 2021-12-28
+released: '2021-01-19'
+updated: '2021-12-28'
 version: '1.4.9'
 stars: 4.6
 ratings: 38
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2022-01-31
+date: '2022-01-31'
 signer: 
 reviewArchive: 
 twitter: Oracle_Wallet

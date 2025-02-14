@@ -7,8 +7,8 @@ authors:
 appId: com.mathglobal.mathwallet5
 appCountry: us
 idd: '1582612388'
-released: 2021-08-30
-updated: 2025-01-06
+released: '2021-08-30'
+updated: '2025-01-06'
 version: '5.4.3'
 stars: 3.6
 reviews: 41
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-01-05
+date: '2024-01-05'
 signer: 
 reviewArchive: 
 twitter: Mathwallet

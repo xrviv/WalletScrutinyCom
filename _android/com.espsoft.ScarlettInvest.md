@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.espsoft.ScarlettInvest
 appCountry: 
-released: 2020-08-25
-updated: 2022-03-07
+released: '2020-08-25'
+updated: '2022-03-07'
 version: '1.20'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

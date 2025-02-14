@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.bastionpay.alphawallet
 appCountry: 
-released: 2019-05-12
-updated: 2019-09-04
+released: '2019-05-12'
+updated: '2019-09-04'
 version: 'v2.0.5'
 stars: 3.8
 ratings: 41
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-12-22
+date: '2021-12-22'
 signer: 
 reviewArchive: 
 twitter: 

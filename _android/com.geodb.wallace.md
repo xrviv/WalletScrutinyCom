@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.geodb.wallace
 appCountry: 
-released: 2022-08-23
-updated: 2024-10-17
+released: '2022-08-23'
+updated: '2024-10-17'
 version: '1.6.35'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-12-04
+date: '2024-12-04'
 signer: 
 reviewArchive: 
 twitter: 

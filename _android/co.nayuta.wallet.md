@@ -7,7 +7,7 @@ users: 500
 appId: co.nayuta.wallet
 appCountry: 
 released: 
-updated: 2019-10-15
+updated: '2019-10-15'
 version: 'Varies with device'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2019-12-29
+date: '2019-12-29'
 signer: 
 reviewArchive: 
 twitter: 

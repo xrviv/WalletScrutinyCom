@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: net.vite.wallet
 appCountry: 
-released: 2019-01-02
-updated: 2024-05-13
+released: '2019-01-02'
+updated: '2024-05-13'
 version: 'v5.0.1'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2024-05-08
+date: '2024-05-08'
 signer: 
 reviewArchive: 
 twitter: vitelabs

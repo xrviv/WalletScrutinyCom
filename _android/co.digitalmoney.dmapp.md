@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: co.digitalmoney.dmapp
 appCountry: us
-released: 2021-02-12
-updated: 2022-02-15
+released: '2021-02-12'
+updated: '2022-02-15'
 version: '1.4.9'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: 

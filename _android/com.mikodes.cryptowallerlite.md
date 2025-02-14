@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.mikodes.cryptowallerlite
 appCountry: 
-released: 2021-12-08
-updated: 2021-12-08
+released: '2021-12-08'
+updated: '2021-12-08'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

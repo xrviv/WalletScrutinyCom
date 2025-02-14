@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.wBlocklink_11263223
 appCountry: 
-released: 2020-08-26
-updated: 2020-08-26
+released: '2020-08-26'
+updated: '2020-08-26'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

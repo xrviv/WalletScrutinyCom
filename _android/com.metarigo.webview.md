@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.metarigo.webview
 appCountry: 
-released: 2022-08-23
-updated: 2024-08-28
+released: '2022-08-23'
+updated: '2024-08-28'
 version: '2.0.38'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-09-05
+date: '2023-09-05'
 signer: 
 reviewArchive: 
 twitter: 

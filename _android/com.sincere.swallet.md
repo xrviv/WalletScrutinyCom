@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.sincere.swallet
 appCountry: 
-released: 2022-04-11
-updated: 2023-04-21
+released: '2022-04-11'
+updated: '2023-04-21'
 version: '2.6.0'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-04-17
+date: '2024-04-17'
 signer: 
 reviewArchive: 
 twitter: SWallet_ai

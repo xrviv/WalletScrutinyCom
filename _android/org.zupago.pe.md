@@ -8,7 +8,7 @@ users: 100
 appId: org.zupago.pe
 appCountry: 
 released: 
-updated: 2018-12-08
+updated: '2018-12-08'
 version: 'Varies with device'
 stars: 5
 ratings: 5
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-04-15
+date: '2021-04-15'
 signer: 
 reviewArchive: 
 twitter: 

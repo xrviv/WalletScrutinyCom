@@ -7,8 +7,8 @@ authors:
 appId: com.bankofhodlers.app
 appCountry: 
 idd: 1509251174
-released: 2020-05-12
-updated: 2023-11-09
+released: '2020-05-12'
+updated: '2023-11-09'
 version: '2.9.0.1'
 stars: 4
 reviews: 299
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-09-03
+date: '2024-09-03'
 signer: 
 reviewArchive: 
 twitter: Vauld_

@@ -6,8 +6,8 @@ authors:
 users: 0
 appId: com.wpduf.biid
 appCountry: 
-released: 2022-05-12
-updated: 2022-05-24
+released: '2022-05-12'
+updated: '2022-05-24'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: 

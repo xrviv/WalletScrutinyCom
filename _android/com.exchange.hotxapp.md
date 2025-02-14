@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.exchange.hotxapp
 appCountry: 
-released: 2022-02-27
-updated: 2023-07-14
+released: '2022-02-27'
+updated: '2023-07-14'
 version: '1.0.33'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-08-31
+date: '2024-08-31'
 signer: 
 reviewArchive: 
 twitter: 

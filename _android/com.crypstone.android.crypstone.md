@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.crypstone.android.crypstone
 appCountry: 
-released: 2018-07-03
-updated: 2018-07-03
+released: '2018-07-03'
+updated: '2018-07-03'
 version: '2.0'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: CrypstoneGlobal

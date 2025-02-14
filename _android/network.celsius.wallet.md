@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: network.celsius.wallet
 appCountry: 
-released: 2018-06-04
-updated: 2022-06-27
+released: '2018-06-04'
+updated: '2022-06-27'
 version: '5.2.0'
 stars: 1.4
 ratings: 7732
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: celsiusnetwork

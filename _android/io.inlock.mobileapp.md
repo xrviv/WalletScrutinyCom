@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.inlock.mobileapp
 appCountry: us
-released: 2020-08-04
-updated: 2023-04-01
+released: '2020-08-04'
+updated: '2023-04-01'
 version: '2.1.1'
 stars: 3.8
 ratings: 108
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: inlock_token

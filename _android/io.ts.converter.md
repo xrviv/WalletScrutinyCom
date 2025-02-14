@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: io.ts.converter
 appCountry: 
-released: 2023-02-26
-updated: 2024-06-19
+released: '2023-02-26'
+updated: '2024-06-19'
 version: '3.0.0'
 stars: 3.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2024-01-19
+date: '2024-01-19'
 signer: 
 reviewArchive: 
 twitter: tapswapkenya

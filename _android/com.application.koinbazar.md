@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.application.koinbazar
 appCountry: in
-released: 2021-05-17
-updated: 2024-12-18
+released: '2021-05-17'
+updated: '2024-12-18'
 version: '3.0.56'
 stars: 3.6
 ratings: 7090
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-04
+date: '2021-10-04'
 signer: 
 reviewArchive: 
 twitter: koinbazar

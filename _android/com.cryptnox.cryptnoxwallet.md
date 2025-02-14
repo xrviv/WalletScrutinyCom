@@ -7,8 +7,8 @@ authors:
 users: 500
 appId: com.cryptnox.cryptnoxwallet
 appCountry: 
-released: 2023-09-29
-updated: 2025-02-11
+released: '2023-09-29'
+updated: '2025-02-11'
 version: '2.6.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2023-11-15
+date: '2023-11-15'
 signer: 
 reviewArchive: 
 twitter: CryptnoxTech

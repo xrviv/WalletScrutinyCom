@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: land.tether.tetherland
 appCountry: 
-released: 2019-12-09
-updated: 2023-08-01
+released: '2019-12-09'
+updated: '2023-08-01'
 version: '7.1.0'
 stars: 4.1
 ratings: 1685
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nobtc
 appHashes: 
-date: 2022-02-25
+date: '2022-02-25'
 signer: 
 reviewArchive: 
 twitter: tetherland

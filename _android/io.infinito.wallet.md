@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: io.infinito.wallet
 appCountry: 
-released: 2017-11-15
-updated: 2022-09-06
+released: '2017-11-15'
+updated: '2022-09-06'
 version: '2.36.16'
 stars: 3.7
 ratings: 2198
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nosource
 appHashes: 
-date: 2024-08-26
+date: '2024-08-26'
 signer: 
 reviewArchive: 
 twitter: Infinito_Ltd

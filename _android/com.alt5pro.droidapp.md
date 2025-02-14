@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.alt5pro.droidapp
 appCountry: 
-released: 2020-03-23
-updated: 2022-02-16
+released: '2020-03-23'
+updated: '2022-02-16'
 version: '1.9'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-15
+date: '2024-11-15'
 signer: 
 reviewArchive: 
 twitter: alt_sigma

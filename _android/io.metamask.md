@@ -8,8 +8,8 @@ authors:
 users: 10000000
 appId: io.metamask
 appCountry: 
-released: 2020-09-01
-updated: 2025-02-05
+released: '2020-09-01'
+updated: '2025-02-05'
 version: '7.39.0'
 stars: 4.5
 ratings: 57131
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: MetaMask

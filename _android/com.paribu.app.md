@@ -7,8 +7,8 @@ authors:
 users: 5000000
 appId: com.paribu.app
 appCountry: 
-released: 2019-06-14
-updated: 2025-02-06
+released: '2019-06-14'
+updated: '2025-02-06'
 version: '5.0.16'
 stars: 4
 ratings: 73042
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-12-16
+date: '2023-12-16'
 signer: 
 reviewArchive: 
 twitter: paribucom

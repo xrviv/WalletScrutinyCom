@@ -8,7 +8,7 @@ users: 1000
 appId: com.blockabc.abcwallet
 appCountry: 
 released: 
-updated: 2020-06-17
+updated: '2020-06-17'
 version: '1.7.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: obfuscated
 appHashes: 
-date: 2021-04-13
+date: '2021-04-13'
 signer: 
 reviewArchive: 
 twitter: 

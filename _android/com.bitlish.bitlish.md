@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.bitlish.bitlish
 appCountry: 
-released: 2017-07-11
-updated: 2020-01-20
+released: '2017-07-11'
+updated: '2020-01-20'
 version: '2.0.10'
 stars: 4
 ratings: 225
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2020-03-20
+date: '2020-03-20'
 signer: 
 reviewArchive: 
 twitter: bitlish_com

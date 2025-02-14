@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.beeone.techbank
 appCountry: 
-released: 2019-07-14
-updated: 2022-02-15
+released: '2019-07-14'
+updated: '2022-02-15'
 version: '4.9.11'
 stars: 4.1
 ratings: 700
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-04-07
+date: '2022-04-07'
 signer: 
 reviewArchive: 
 twitter: 

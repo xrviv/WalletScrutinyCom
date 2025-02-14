@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: domain2.com.moneym
 appCountry: 
-released: 2019-06-29
-updated: 2021-05-29
+released: '2019-06-29'
+updated: '2021-05-29'
 version: '19.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2022-03-24
+date: '2022-03-24'
 signer: 
 reviewArchive: 
 twitter: 

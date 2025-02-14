@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: money.snowball.defi
 appCountry: 
-released: 2020-09-30
-updated: 2024-09-17
+released: '2020-09-30'
+updated: '2024-09-17'
 version: '3.5.1'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-04-15
+date: '2023-04-15'
 signer: 
 reviewArchive: 
 twitter: snowball_money

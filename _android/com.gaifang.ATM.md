@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.gaifang.ATM
 appCountry: 
-released: 2021-05-10
-updated: 2021-09-18
+released: '2021-05-10'
+updated: '2021-09-18'
 version: '1.1.20'
 stars: 4.7
 ratings: 35
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2021-11-26
+date: '2021-11-26'
 signer: 
 reviewArchive: 
 twitter: 

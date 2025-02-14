@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: net.inoutscripts.demo.inoutblockchainfiatexchanger
 appCountry: 
-released: 2021-10-01
-updated: 2024-03-05
+released: '2021-10-01'
+updated: '2024-03-05'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

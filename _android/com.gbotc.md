@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.gbotc
 appCountry: 
-released: 2021-07-19
-updated: 2022-06-01
+released: '2021-07-19'
+updated: '2022-06-01'
 version: '1.0.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.yyjonin.test_joinin
 appCountry: 
-released: 2022-04-28
-updated: 2022-07-20
+released: '2022-04-28'
+updated: '2022-07-20'
 version: '4.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.MOTradingplatform
 appCountry: 
-released: 2020-07-31
-updated: 2020-08-07
+released: '2020-07-31'
+updated: '2020-08-07'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

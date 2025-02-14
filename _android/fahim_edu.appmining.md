@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: fahim_edu.appmining
 appCountry: 
-released: 2021-03-27
-updated: 2025-01-15
+released: '2021-03-27'
+updated: '2025-01-15'
 version: '5.01.15'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-06-14
+date: '2023-06-14'
 signer: 
 reviewArchive: 
 twitter: 

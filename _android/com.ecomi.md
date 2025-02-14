@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.ecomi
 appCountry: 
-released: 2018-08-15
-updated: 2024-06-20
+released: '2018-08-15'
+updated: '2024-06-20'
 version: '3.0.9'
 stars: 2.9
 ratings: 140
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-09-20
+date: '2023-09-20'
 signer: 
 reviewArchive: 
 twitter: ecomi_

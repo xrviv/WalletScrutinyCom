@@ -6,8 +6,8 @@ authors:
 users: 5000
 appId: com.swissquote.epb
 appCountry: 
-released: 2019-03-29
-updated: 2021-10-25
+released: '2019-03-29'
+updated: '2021-10-25'
 version: '1.1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

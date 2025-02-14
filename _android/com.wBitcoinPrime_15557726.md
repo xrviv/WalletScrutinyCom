@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.wBitcoinPrime_15557726
 appCountry: 
-released: 2022-05-26
-updated: 2022-05-26
+released: '2022-05-26'
+updated: '2022-05-26'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-16
+date: '2023-04-16'
 signer: 
 reviewArchive: 
 twitter: 

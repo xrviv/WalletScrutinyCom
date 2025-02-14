@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.currency.nnn
 appCountry: 
-released: 2022-05-15
-updated: 2022-04-25
+released: '2022-05-15'
+updated: '2022-04-25'
 version: '2.1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-03-31
+date: '2023-03-31'
 signer: 
 reviewArchive: 
 twitter: 

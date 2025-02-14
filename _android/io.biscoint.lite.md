@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: io.biscoint.lite
 appCountry: 
-released: 2022-04-05
-updated: 2025-02-04
+released: '2022-04-05'
+updated: '2025-02-04'
 version: '2.7.11'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2023-03-02
+date: '2023-03-02'
 signer: 
 reviewArchive: 
 twitter: BityOficial

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.airbitz
 appCountry: 
-released: 2014-04-01
-updated: 2018-09-21
+released: '2014-04-01'
+updated: '2018-09-21'
 version: '2.4.12'
 stars: 3.4
 ratings: 1150
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: ftbfs
 appHashes: 
-date: 2021-12-29
+date: '2021-12-29'
 signer: 
 reviewArchive: 
 twitter: 

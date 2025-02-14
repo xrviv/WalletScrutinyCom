@@ -6,8 +6,8 @@ authors:
 users: 1000000
 appId: io.getdelta.android
 appCountry: us
-released: 2017-09-23
-updated: 2025-01-24
+released: '2017-09-23'
+updated: '2025-01-24'
 version: '2025.1.1'
 stars: 4.3
 ratings: 26395
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-11-01
+date: '2021-11-01'
 signer: 
 reviewArchive: 
 twitter: 

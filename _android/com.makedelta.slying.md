@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.makedelta.slying
 appCountry: 
-released: 2021-08-07
-updated: 2025-01-20
+released: '2021-08-07'
+updated: '2025-01-20'
 version: '8.0.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-06-14
+date: '2023-06-14'
 signer: 
 reviewArchive: 
 twitter: 

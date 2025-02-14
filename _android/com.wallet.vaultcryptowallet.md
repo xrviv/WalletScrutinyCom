@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.wallet.vaultcryptowallet
 appCountry: 
-released: 2021-08-18
-updated: 2023-05-16
+released: '2021-08-18'
+updated: '2023-05-16'
 version: '1.1.8'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 appId: mn.coinhub.coinhub
 appCountry: us
 idd: '1585102002'
-released: 2021-09-23
-updated: 2023-04-19
+released: '2021-09-23'
+updated: '2023-04-19'
 version: '1.3.3'
 stars: 3.5
 reviews: 11
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-09-04
+date: '2023-09-04'
 signer: 
 reviewArchive: 
 twitter: CoinhubMongolia

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.pocketbits
 appCountry: 
-released: 2021-08-03
-updated: 2023-08-31
+released: '2021-08-03'
+updated: '2023-08-31'
 version: '1.3.7'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-08-26
+date: '2024-08-26'
 signer: 
 reviewArchive: 
 twitter: PocketBitsIndia

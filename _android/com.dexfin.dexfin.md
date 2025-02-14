@@ -7,8 +7,8 @@ authors:
 users: 100
 appId: com.dexfin.dexfin
 appCountry: 
-released: 2021-05-24
-updated: 2021-11-30
+released: '2021-05-24'
+updated: '2021-11-30'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

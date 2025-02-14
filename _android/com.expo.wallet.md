@@ -8,7 +8,7 @@ users: 1000
 appId: com.expo.wallet
 appCountry: 
 released: 
-updated: 2021-02-18
+updated: '2021-02-18'
 version: '1.0.15'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-24
+date: '2023-05-24'
 signer: 
 reviewArchive: 
 twitter: 

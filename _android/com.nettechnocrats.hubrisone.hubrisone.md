@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.nettechnocrats.hubrisone.hubrisone
 appCountry: 
-released: 2018-12-13
-updated: 2020-10-29
+released: '2018-12-13'
+updated: '2020-10-29'
 version: '2.1.6'
 stars: 3.1
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.ukcoin.exchange
 appCountry: 
-released: 2020-07-16
-updated: 2020-07-17
+released: '2020-07-16'
+updated: '2020-07-17'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

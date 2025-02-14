@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: btctrade.BTCBOX
 appCountry: 
-released: 2016-04-18
-updated: 2024-12-13
+released: '2016-04-18'
+updated: '2024-12-13'
 version: '1.274'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-19
+date: '2023-04-19'
 signer: 
 reviewArchive: 
 twitter: BtcboxE

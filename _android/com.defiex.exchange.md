@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.defiex.exchange
 appCountry: 
-released: 2020-07-09
-updated: 2020-08-21
+released: '2020-07-09'
+updated: '2020-08-21'
 version: '1.3.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

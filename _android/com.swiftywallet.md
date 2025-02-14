@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.swiftywallet
 appCountry: 
-released: 2022-03-07
-updated: 2022-05-25
+released: '2022-03-07'
+updated: '2022-05-25'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-10-03
+date: '2024-10-03'
 signer: 
 reviewArchive: 
 twitter: 

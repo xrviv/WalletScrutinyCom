@@ -6,8 +6,8 @@ authors:
 users: 5000
 appId: com.fivea.app
 appCountry: 
-released: 2022-02-15
-updated: 2023-02-17
+released: '2022-02-15'
+updated: '2023-02-17'
 version: '1.1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-17
+date: '2023-05-17'
 signer: 
 reviewArchive: 
 twitter: 

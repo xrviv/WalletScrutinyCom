@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.cryptooptions.kraken.buy.crypto
 appCountry: 
-released: 2021-07-24
-updated: 2021-07-24
+released: '2021-07-24'
+updated: '2021-07-24'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: 

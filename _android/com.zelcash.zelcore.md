@@ -8,8 +8,8 @@ authors:
 users: 100000
 appId: com.zelcash.zelcore
 appCountry: 
-released: 2018-09-21
-updated: 2025-01-29
+released: '2018-09-21'
+updated: '2025-01-29'
 version: '8.13.0'
 stars: 3.4
 ratings: 834
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-13
+date: '2024-07-13'
 signer: 
 reviewArchive: 
 twitter: zelcash

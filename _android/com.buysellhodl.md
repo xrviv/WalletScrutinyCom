@@ -7,7 +7,7 @@ users: 10000
 appId: com.buysellhodl
 appCountry: 
 released: 
-updated: 2019-10-11
+updated: '2019-10-11'
 version: '1.12.7'
 stars: 4.3
 ratings: 157
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2020-05-29
+date: '2020-05-29'
 signer: 
 reviewArchive: 
 twitter: BuySellHodlApp

@@ -6,8 +6,8 @@ authors:
 users: 50000
 appId: com.blockchain.android
 appCountry: 
-released: 2020-06-15
-updated: 2021-01-04
+released: '2020-06-15'
+updated: '2021-01-04'
 version: '1.0.7.5'
 stars: 4.4
 ratings: 2737
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: obfuscated
 appHashes: 
-date: 2021-01-15
+date: '2021-01-15'
 signer: 
 reviewArchive: 
 twitter: 

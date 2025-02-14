@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.worldwebms.multisigwallet
 appCountry: 
-released: 2019-02-15
-updated: 2023-12-14
+released: '2019-02-15'
+updated: '2023-12-14'
 version: '4.5.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-11-21
+date: '2024-11-21'
 signer: 
 reviewArchive: 
 twitter: UnidoEP

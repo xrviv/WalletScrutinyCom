@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.abstocks
 appCountry: 
-released: 2021-08-30
-updated: 2022-02-07
+released: '2021-08-30'
+updated: '2022-02-07'
 version: '1.6.106'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

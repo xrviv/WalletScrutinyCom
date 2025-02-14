@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.coinpoket
 appCountry: 
-released: 2019-04-11
-updated: 2021-02-26
+released: '2019-04-11'
+updated: '2021-02-26'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

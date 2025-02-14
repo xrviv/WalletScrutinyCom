@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.backpacker.wallet
 appCountry: 
-released: 2019-11-16
-updated: 2019-11-20
+released: '2019-11-16'
+updated: '2019-11-20'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

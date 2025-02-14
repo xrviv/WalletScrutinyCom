@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.thehumanplus.shuffle
 appCountry: 
-released: 2020-04-06
-updated: 2024-11-01
+released: '2020-04-06'
+updated: '2024-11-01'
 version: '2.0.2'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-09-11
+date: '2023-09-11'
 signer: 
 reviewArchive: 
 twitter: hupayx

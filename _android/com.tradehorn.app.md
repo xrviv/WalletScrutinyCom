@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.tradehorn.app
 appCountry: 
-released: 2020-06-23
-updated: 2020-11-23
+released: '2020-06-23'
+updated: '2020-11-23'
 version: '1.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

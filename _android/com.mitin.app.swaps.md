@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.mitin.app.swaps
 appCountry: 
-released: 2022-01-26
-updated: 2023-08-30
+released: '2022-01-26'
+updated: '2023-08-30'
 version: '1.1.5'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: swapsapp_

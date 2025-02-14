@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.btcckorea
 appCountry: 
-released: 2019-01-22
-updated: 2019-07-01
+released: '2019-01-22'
+updated: '2019-07-01'
 version: '1.0.19'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-13
+date: '2023-05-13'
 signer: 
 reviewArchive: 
 twitter: 

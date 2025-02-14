@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: io.sevenlabs.app
 appCountry: 
-released: 2021-07-05
-updated: 2023-06-12
+released: '2021-07-05'
+updated: '2023-06-12'
 version: '1.3.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-08-23
+date: '2024-08-23'
 signer: 
 reviewArchive: 
 twitter: 

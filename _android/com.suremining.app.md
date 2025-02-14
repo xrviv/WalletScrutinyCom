@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.suremining.app
 appCountry: 
-released: 2020-03-24
-updated: 2020-03-24
+released: '2020-03-24'
+updated: '2020-03-24'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

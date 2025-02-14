@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.app.treenwallet
 appCountry: 
-released: 2021-07-01
-updated: 2021-08-09
+released: '2021-07-01'
+updated: '2021-08-09'
 version: '1.1.0'
 stars: 3.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

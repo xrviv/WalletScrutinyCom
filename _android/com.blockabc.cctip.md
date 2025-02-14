@@ -6,8 +6,8 @@ authors:
 users: 500000
 appId: com.blockabc.cctip
 appCountry: 
-released: 2020-07-21
-updated: 2025-02-08
+released: '2020-07-21'
+updated: '2025-02-08'
 version: '4.0.2'
 stars: 4.1
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-06-28
+date: '2022-06-28'
 signer: 
 reviewArchive: 
 twitter: cctip_com

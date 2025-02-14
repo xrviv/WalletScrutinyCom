@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.monabey.monachanger
 appCountry: 
-released: 2020-09-01
-updated: 2020-09-16
+released: '2020-09-01'
+updated: '2020-09-16'
 version: '2.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

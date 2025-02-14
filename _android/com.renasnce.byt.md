@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.renasnce.byt
 appCountry: 
-released: 2022-06-30
-updated: 2023-02-26
+released: '2022-06-30'
+updated: '2023-02-26'
 version: '0.30.29'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-14
+date: '2024-07-14'
 signer: 
 reviewArchive: 
 twitter: 

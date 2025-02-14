@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.cfdglobal.android
 appCountry: gb
-released: 2017-10-04
-updated: 2024-11-11
+released: '2017-10-04'
+updated: '2024-11-11'
 version: '2.30.2'
 stars: 4.4
 ratings: 336
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: capex_en

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.mobiletrade.fms.globaltradeatf
 appCountry: ag
-released: 2020-06-10
-updated: 2021-11-22
+released: '2020-06-10'
+updated: '2021-11-22'
 version: '1.5.78-mobiletrade.fms.globaltradeatf'
 stars: 2.9
 ratings: 389
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: TradeATF

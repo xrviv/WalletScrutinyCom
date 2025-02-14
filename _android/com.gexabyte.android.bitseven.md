@@ -7,7 +7,7 @@ users: 50
 appId: com.gexabyte.android.bitseven
 appCountry: 
 released: 
-updated: 2021-10-18
+updated: '2021-10-18'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: 

@@ -8,8 +8,8 @@ authors:
 users: 100000000
 appId: com.paypal.android.p2pmobile
 appCountry: 
-released: 2016-02-19
-updated: 2025-02-07
+released: '2016-02-19'
+updated: '2025-02-07'
 version: '8.77.1'
 stars: 4.2
 ratings: 2452159
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2021-08-22
+date: '2021-08-22'
 signer: 
 reviewArchive: 
 twitter: PayPal

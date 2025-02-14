@@ -7,8 +7,8 @@ authors:
 appId: com.dex.digitalexchangeid
 appCountry: us
 idd: 1498360108
-released: 2020-04-01
-updated: 2022-10-25
+released: '2020-04-01'
+updated: '2022-10-25'
 version: '1.0.92'
 stars: 5
 reviews: 1
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-11
+date: '2023-01-11'
 signer: 
 reviewArchive: 
 twitter: Digiexchangeid

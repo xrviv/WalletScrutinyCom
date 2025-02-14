@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.dartafrica
 appCountry: 
-released: 2021-11-05
-updated: 2022-04-01
+released: '2021-11-05'
+updated: '2022-04-01'
 version: '1.1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: 

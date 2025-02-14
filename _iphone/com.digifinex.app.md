@@ -7,8 +7,8 @@ authors:
 appId: com.digifinex.app
 appCountry: 
 idd: 1397735851
-released: 2018-08-25
-updated: 2022-05-26
+released: '2018-08-25'
+updated: '2022-05-26'
 version: '2022.05.25'
 stars: 4.9
 reviews: 713
@@ -21,7 +21,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2022-10-21
+date: '2022-10-21'
 signer: 
 reviewArchive: 
 twitter: DigiFinex

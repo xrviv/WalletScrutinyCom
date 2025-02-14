@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.opolo.io
 appCountry: 
-released: 2020-09-01
-updated: 2021-06-08
+released: '2020-09-01'
+updated: '2021-06-08'
 version: '1.3.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: OpoloWallet

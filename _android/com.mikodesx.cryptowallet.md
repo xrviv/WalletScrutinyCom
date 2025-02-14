@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.mikodesx.cryptowallet
 appCountry: 
-released: 2021-12-06
-updated: 2021-12-06
+released: '2021-12-06'
+updated: '2021-12-06'
 version: '1.5.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

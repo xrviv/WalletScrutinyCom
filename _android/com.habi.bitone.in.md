@@ -8,7 +8,7 @@ users: 1000
 appId: com.habi.bitone.in
 appCountry: 
 released: 
-updated: 2021-05-14
+updated: '2021-05-14'
 version: '1.3.9'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

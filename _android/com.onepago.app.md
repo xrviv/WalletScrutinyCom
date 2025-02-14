@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.onepago.app
 appCountry: 
-released: 2022-02-03
-updated: 2022-05-17
+released: '2022-02-03'
+updated: '2022-05-17'
 version: '1.3.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

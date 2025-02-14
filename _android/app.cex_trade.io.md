@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: app.cex_trade.io
 appCountry: 
-released: 2022-07-10
-updated: 2022-07-10
+released: '2022-07-10'
+updated: '2022-07-10'
 version: '1.1'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: fake
 appHashes: 
-date: 2023-07-02
+date: '2023-07-02'
 signer: 
 reviewArchive: 
 twitter: 

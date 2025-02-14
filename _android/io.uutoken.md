@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: io.uutoken
 appCountry: 
-released: 2022-12-08
-updated: 2022-12-14
+released: '2022-12-08'
+updated: '2022-12-14'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

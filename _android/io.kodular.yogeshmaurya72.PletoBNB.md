@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: io.kodular.yogeshmaurya72.PletoBNB
 appCountry: 
-released: 2022-04-11
-updated: 2022-04-11
+released: '2022-04-11'
+updated: '2022-04-11'
 version: '3.0.3.1'
 stars: 4.1
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

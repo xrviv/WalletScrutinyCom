@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: nuyandsellitcoin.marketplayceguidebinnace
 appCountry: 
-released: 2021-11-10
-updated: 2022-09-09
+released: '2021-11-10'
+updated: '2022-09-09'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: 

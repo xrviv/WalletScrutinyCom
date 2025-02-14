@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.fynzon
 appCountry: 
-released: 2021-07-18
-updated: 2021-11-03
+released: '2021-07-18'
+updated: '2021-11-03'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

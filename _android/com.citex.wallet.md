@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.citex.wallet
 appCountry: 
-released: 2019-11-09
-updated: 2020-02-08
+released: '2019-11-09'
+updated: '2020-02-08'
 version: '1.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: 

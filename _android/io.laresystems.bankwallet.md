@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: io.laresystems.bankwallet
 appCountry: 
-released: 2022-03-07
-updated: 2022-03-20
+released: '2022-03-07'
+updated: '2022-03-20'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.metallicus.webauth
 appCountry: 
-released: 2021-12-11
-updated: 2025-02-07
+released: '2021-12-11'
+updated: '2025-02-07'
 version: '2.1.19'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: protonxpr

@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: io.cieloex.app
 appCountry: 
-released: 2019-02-21
-updated: 2019-03-04
+released: '2019-02-21'
+updated: '2019-03-04'
 version: '5.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: 

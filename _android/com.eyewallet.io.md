@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.eyewallet.io
 appCountry: 
-released: 2019-07-26
-updated: 2020-07-02
+released: '2019-07-26'
+updated: '2020-07-02'
 version: '4.5.7'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-25
+date: '2023-05-25'
 signer: 
 reviewArchive: 
 twitter: 

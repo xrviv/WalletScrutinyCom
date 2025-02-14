@@ -6,8 +6,8 @@ authors:
 users: 1000000
 appId: com.electroneum.mobile
 appCountry: 
-released: 2017-12-13
-updated: 2024-05-01
+released: '2017-12-13'
+updated: '2024-05-01'
 version: '5.6.0'
 stars: 2.8
 ratings: 58803
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2020-06-08
+date: '2020-06-08'
 signer: 
 reviewArchive: 
 twitter: 

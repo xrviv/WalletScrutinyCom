@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.mobile.BetaDeal
 appCountry: 
-released: 2021-06-30
-updated: 2022-01-26
+released: '2021-06-30'
+updated: '2022-01-26'
 version: '1.1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-02-16
+date: '2022-02-16'
 signer: 
 reviewArchive: 
 twitter: 

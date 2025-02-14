@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.btcus.pro
 appCountry: 
-released: 2021-03-30
-updated: 2021-03-30
+released: '2021-03-30'
+updated: '2021-03-30'
 version: '1.0.3.210330'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-03-07
+date: '2022-03-07'
 signer: 
 reviewArchive: 
 twitter: 

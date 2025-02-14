@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: sone.finance.wallet
 appCountry: 
-released: 2021-07-09
-updated: 2022-10-18
+released: '2021-07-09'
+updated: '2022-10-18'
 version: '1.0.12'
 stars: 2.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-18
+date: '2023-04-18'
 signer: 
 reviewArchive: 
 twitter: 

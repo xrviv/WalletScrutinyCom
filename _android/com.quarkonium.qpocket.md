@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.quarkonium.qpocket
 appCountry: us
-released: 2019-07-22
-updated: 2022-12-22
+released: '2019-07-22'
+updated: '2022-12-22'
 version: '5.5.0'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: qPocket_wallet

@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: app.simple.com
 appCountry: 
-released: 2023-04-24
-updated: 2025-02-10
+released: '2023-04-24'
+updated: '2025-02-10'
 version: '3.7.1'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-06-13
+date: '2023-06-13'
 signer: 
 reviewArchive: 
 twitter: smpl_app

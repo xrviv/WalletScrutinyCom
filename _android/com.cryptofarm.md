@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.cryptofarm
 appCountry: 
-released: 2021-06-10
-updated: 2025-02-10
+released: '2021-06-10'
+updated: '2025-02-10'
 version: '1.0.1404'
 stars: 4
 ratings: 6172
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-11-01
+date: '2021-11-01'
 signer: 
 reviewArchive: 
 twitter: CryptoTabnet

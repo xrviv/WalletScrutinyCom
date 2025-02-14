@@ -8,8 +8,8 @@ authors:
 users: 100
 appId: com.edhnbus.wxcgr
 appCountry: 
-released: 2021-07-21
-updated: 2021-07-21
+released: '2021-07-21'
+updated: '2021-07-21'
 version: '0.92'
 stars: 
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-08-08
+date: '2021-08-08'
 signer: 
 reviewArchive: 
 twitter: 

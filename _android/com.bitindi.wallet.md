@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.bitindi.wallet
 appCountry: 
-released: 2022-09-28
-updated: 2022-09-29
+released: '2022-09-28'
+updated: '2022-09-29'
 version: '0.1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: io.coinhe
 appCountry: 
-released: 2019-03-19
-updated: 2020-06-05
+released: '2019-03-19'
+updated: '2020-06-05'
 version: '1.0.6.7'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-05
+date: '2023-05-05'
 signer: 
 reviewArchive: 
 twitter: 

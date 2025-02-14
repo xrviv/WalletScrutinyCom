@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.fchain.coinviva
 appCountry: 
-released: 2020-02-21
-updated: 2020-08-17
+released: '2020-02-21'
+updated: '2020-08-17'
 version: '1.1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-10-16
+date: '2023-10-16'
 signer: 
 reviewArchive: 
 twitter: 

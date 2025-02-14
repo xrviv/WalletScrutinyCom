@@ -7,8 +7,8 @@ authors:
 appId: io.hexawallet.hexa2
 appCountry: in
 idd: 1586334138
-released: 2021-11-01
-updated: 2025-01-20
+released: '2021-11-01'
+updated: '2025-01-20'
 version: '2.4.8'
 stars: 5
 reviews: 9
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: ftbfs
 appHashes: 
-date: 2021-12-19
+date: '2021-12-19'
 signer: 
 reviewArchive: 
 twitter: HexaWallet

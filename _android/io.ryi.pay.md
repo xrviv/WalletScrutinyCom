@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: io.ryi.pay
 appCountry: 
-released: 2021-06-12
-updated: 2022-06-14
+released: '2021-06-12'
+updated: '2022-06-14'
 version: '1.0.8'
 stars: 4.6
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

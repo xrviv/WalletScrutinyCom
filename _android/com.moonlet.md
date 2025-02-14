@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.moonlet
 appCountry: ro
-released: 2020-04-21
-updated: 2022-06-17
+released: '2020-04-21'
+updated: '2022-06-17'
 version: '1.5.26'
 stars: 4
 ratings: 640
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nobtc
 appHashes: 
-date: 2024-06-07
+date: '2024-06-07'
 signer: 
 reviewArchive: 
 twitter: moonlet_wallet

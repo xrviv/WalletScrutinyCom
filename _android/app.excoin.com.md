@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: app.excoin.com
 appCountry: 
-released: 2022-03-20
-updated: 2022-09-16
+released: '2022-03-20'
+updated: '2022-09-16'
 version: '1.1.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

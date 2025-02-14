@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.decomlab.wallet
 appCountry: us
-released: 2021-07-26
-updated: 2021-09-02
+released: '2021-07-26'
+updated: '2021-09-02'
 version: '1.2.1'
 stars: 3.5
 ratings: 121
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: gomoonwallet

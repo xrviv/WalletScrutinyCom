@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.prizmbit
 appCountry: 
-released: 2019-06-28
-updated: 2021-09-16
+released: '2019-06-28'
+updated: '2021-09-16'
 version: '1.5'
 stars: 3.8
 ratings: 555
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-12-22
+date: '2021-12-22'
 signer: 
 reviewArchive: 
 twitter: prizmbit

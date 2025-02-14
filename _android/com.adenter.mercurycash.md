@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.adenter.mercurycash
 appCountry: 
-released: 2017-07-28
-updated: 2022-09-06
+released: '2017-07-28'
+updated: '2022-09-06'
 version: '4.4.3'
 stars: 4.1
 ratings: 228
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-08-26
+date: '2024-08-26'
 signer: 
 reviewArchive: 
 twitter: mercurycash

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: global.finx.FINX
 appCountry: 
-released: 2022-10-26
-updated: 2023-02-23
+released: '2022-10-26'
+updated: '2023-02-23'
 version: '0.4.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-11-29
+date: '2024-11-29'
 signer: 
 reviewArchive: 
 twitter: FINXSupport

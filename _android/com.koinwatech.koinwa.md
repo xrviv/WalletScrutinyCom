@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.koinwatech.koinwa
 appCountry: 
-released: 2021-08-08
-updated: 2024-02-24
+released: '2021-08-08'
+updated: '2024-02-24'
 version: '3.2.3'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-30
+date: '2024-07-30'
 signer: 
 reviewArchive: 
 twitter: 

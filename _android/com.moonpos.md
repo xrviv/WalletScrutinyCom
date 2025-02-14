@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.moonpos
 appCountry: 
-released: 2018-05-04
-updated: 2024-08-12
+released: '2018-05-04'
+updated: '2024-08-12'
 version: '1.2.8'
 stars: 4.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2024-07-01
+date: '2024-07-01'
 signer: 
 reviewArchive: 
 twitter: 

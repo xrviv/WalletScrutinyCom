@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.binance.us
 appCountry: 
-released: 2019-12-23
-updated: 2024-11-28
+released: '2019-12-23'
+updated: '2024-11-28'
 version: '3.19.0'
 stars: 3.2
 ratings: 7187
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2020-11-17
+date: '2020-11-17'
 signer: 
 reviewArchive: 
 twitter: binanceus

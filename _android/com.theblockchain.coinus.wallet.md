@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.theblockchain.coinus.wallet
 appCountry: bj
-released: 2018-04-23
-updated: 2021-12-10
+released: '2018-04-23'
+updated: '2021-12-10'
 version: '3.0.0'
 stars: 3.9
 ratings: 379
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: CoinUs_Official

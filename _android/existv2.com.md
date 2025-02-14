@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: existv2.com
 appCountry: 
-released: 2019-06-29
-updated: 2019-06-30
+released: '2019-06-29'
+updated: '2019-06-30'
 version: '3.0'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nosource
 appHashes: 
-date: 2022-06-23
+date: '2022-06-23'
 signer: 
 reviewArchive: 
 twitter: nyecoin1

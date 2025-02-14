@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.startfinish.crypto
 appCountry: 
-released: 2021-09-01
-updated: 2021-09-01
+released: '2021-09-01'
+updated: '2021-09-01'
 version: '5.3.10'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-11-16
+date: '2021-11-16'
 signer: 
 reviewArchive: 
 twitter: 

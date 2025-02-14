@@ -6,8 +6,8 @@ authors:
 appId: se.blockfirm.Pine
 appCountry: 
 idd: 1445357961
-released: 2019-12-29
-updated: 2022-07-21
+released: '2019-12-29'
+updated: '2022-07-21'
 version: '1.3.6'
 stars: 5
 reviews: 3
@@ -20,7 +20,7 @@ bugbounty:
 meta: obsolete
 verdict: wip
 appHashes: 
-date: 2024-07-10
+date: '2024-07-10'
 signer: 
 reviewArchive: 
 twitter: 

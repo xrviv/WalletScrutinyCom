@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.silenca.cryptoneed
 appCountry: us
-released: 2020-04-15
-updated: 2021-04-27
+released: '2020-04-15'
+updated: '2021-04-27'
 version: '1.0.31'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

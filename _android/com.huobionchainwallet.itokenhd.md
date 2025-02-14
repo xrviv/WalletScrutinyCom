@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.huobionchainwallet.itokenhd
 appCountry: 
-released: 2023-04-12
-updated: 2023-08-30
+released: '2023-04-12'
+updated: '2023-08-30'
 version: '4.00.05.003'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: iTokenWallet

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.unitedbit.app
 appCountry: 
-released: 2021-10-07
-updated: 2022-04-19
+released: '2021-10-07'
+updated: '2022-04-19'
 version: '1.1.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

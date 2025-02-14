@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bitqik
 appCountry: 
-released: 2022-09-23
-updated: 2023-09-06
+released: '2022-09-23'
+updated: '2023-09-06'
 version: '2.1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-09-01
+date: '2024-09-01'
 signer: 
 reviewArchive: 
 twitter: bitqikofficial

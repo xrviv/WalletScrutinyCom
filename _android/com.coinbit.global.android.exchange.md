@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.coinbit.global.android.exchange
 appCountry: 
-released: 2019-08-12
-updated: 2021-05-11
+released: '2019-08-12'
+updated: '2021-05-11'
 version: '2.4.03'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

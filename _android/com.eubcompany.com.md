@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.eubcompany.com
 appCountry: 
-released: 2021-12-04
-updated: 2021-12-04
+released: '2021-12-04'
+updated: '2021-12-04'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

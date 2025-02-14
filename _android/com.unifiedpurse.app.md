@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.unifiedpurse.app
 appCountry: 
-released: 2018-05-19
-updated: 2018-08-30
+released: '2018-05-19'
+updated: '2018-08-30'
 version: '1.0.9'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: 

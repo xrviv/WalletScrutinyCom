@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: finance.hollox.app
 appCountry: 
-released: 2022-11-13
-updated: 2024-10-04
+released: '2022-11-13'
+updated: '2024-10-04'
 version: '6.0.4'
 stars: 5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-09-28
+date: '2024-09-28'
 signer: 
 reviewArchive: 
 twitter: Holloxintl

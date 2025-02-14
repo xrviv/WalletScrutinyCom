@@ -7,7 +7,7 @@ users: 100
 appId: com.modules.tradingbots.getextrabtc
 appCountry: 
 released: 
-updated: 2018-12-04
+updated: '2018-12-04'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

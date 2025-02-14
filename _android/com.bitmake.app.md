@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.bitmake.app
 appCountry: 
-released: 2022-07-04
-updated: 2024-01-26
+released: '2022-07-04'
+updated: '2024-01-26'
 version: '1.4.3'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: BitMakeOfficial

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.credits.Wallet
 appCountry: 
-released: 2020-10-26
-updated: 2024-12-10
+released: '2020-10-26'
+updated: '2024-12-10'
 version: '7.0.1.1'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-02
+date: '2023-07-02'
 signer: 
 reviewArchive: 
 twitter: creditscom

@@ -8,8 +8,8 @@ authors:
 users: 1000000
 appId: com.huobionchainwallet.gp
 appCountry: 
-released: 2019-10-17
-updated: 2023-06-05
+released: '2019-10-17'
+updated: '2023-06-05'
 version: '3.03.06.003'
 stars: 4
 ratings: 33247
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2021-04-20
+date: '2021-04-20'
 signer: 
 reviewArchive: 
 twitter: HuobiWallet

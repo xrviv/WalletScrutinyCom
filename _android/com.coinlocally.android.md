@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.coinlocally.android
 appCountry: 
-released: 2022-04-21
-updated: 2024-12-24
+released: '2022-04-21'
+updated: '2024-12-24'
 version: '3.3.23'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-02-21
+date: '2023-02-21'
 signer: 
 reviewArchive: 
 twitter: coinlocallyclyc

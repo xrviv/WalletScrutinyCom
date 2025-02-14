@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.sixpencer.simplework
 appCountry: 
-released: 2020-10-09
-updated: 2021-06-23
+released: '2020-10-09'
+updated: '2021-06-23'
 version: '1.4.3'
 stars: 4.2
 ratings: 194
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

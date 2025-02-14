@@ -8,7 +8,7 @@ users: 100000
 appId: com.twogetherbank.app
 appCountry: 
 released: 
-updated: 2022-06-14
+updated: '2022-06-14'
 version: '1.9.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 2gether_global

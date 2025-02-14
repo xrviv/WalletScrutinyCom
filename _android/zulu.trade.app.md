@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: zulu.trade.app
 appCountry: us
-released: 2011-03-04
-updated: 2025-01-15
+released: '2011-03-04'
+updated: '2025-01-15'
 version: '5.0.26'
 stars: 3.6
 ratings: 2010
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-10-10
+date: '2021-10-10'
 signer: 
 reviewArchive: 
 twitter: zulutrade

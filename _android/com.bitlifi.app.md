@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.bitlifi.app
 appCountry: 
-released: 2023-05-04
-updated: 2024-10-30
+released: '2023-05-04'
+updated: '2024-10-30'
 version: '1.10.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-11-01
+date: '2023-11-01'
 signer: 
 reviewArchive: 
 twitter: bitlifi

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: io.coinmerce.app
 appCountry: 
-released: 2018-07-09
-updated: 2025-01-29
+released: '2018-07-09'
+updated: '2025-01-29'
 version: '6.3.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-15
+date: '2023-04-15'
 signer: 
 reviewArchive: 
 twitter: coinmerce

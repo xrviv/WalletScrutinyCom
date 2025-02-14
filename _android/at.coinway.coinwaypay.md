@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: at.coinway.coinwaypay
 appCountry: 
-released: 2019-02-06
-updated: 2021-10-11
+released: '2019-02-06'
+updated: '2021-10-11'
 version: '1.4.0'
 stars: 4.6
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,7 +7,7 @@ users: 50
 appId: com.gp.ubs
 appCountry: 
 released: 
-updated: 2021-06-20
+updated: '2021-06-20'
 version: '1.1.2'
 stars: 2
 ratings: 5
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-09-04
+date: '2021-09-04'
 signer: 
 reviewArchive: 
 twitter: 

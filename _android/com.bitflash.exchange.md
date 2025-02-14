@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bitflash.exchange
 appCountry: 
-released: 2022-04-07
-updated: 2022-04-28
+released: '2022-04-07'
+updated: '2022-04-28'
 version: '4.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-03-29
+date: '2023-03-29'
 signer: 
 reviewArchive: 
 twitter: 

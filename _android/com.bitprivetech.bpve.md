@@ -7,7 +7,7 @@ users: 10
 appId: com.bitprivetech.bpve
 appCountry: 
 released: 
-updated: 2021-07-21
+updated: '2021-07-21'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

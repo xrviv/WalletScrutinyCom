@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.thebitcoinprofit92022.app
 appCountry: 
-released: 2022-07-25
-updated: 2022-07-25
+released: '2022-07-25'
+updated: '2022-07-25'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

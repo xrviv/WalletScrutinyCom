@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.lpen
 appCountry: 
-released: 2022-04-01
-updated: 2022-04-15
+released: '2022-04-01'
+updated: '2022-04-15'
 version: '1.0.1260'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: 

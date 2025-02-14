@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.application.betchips
 appCountry: 
-released: 2020-03-20
-updated: 2020-04-24
+released: '2020-03-20'
+updated: '2020-04-24'
 version: '1.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.tigerandpartners.leo_react_native
 appCountry: 
-released: 2022-06-14
-updated: 2024-09-02
+released: '2022-06-14'
+updated: '2024-09-02'
 version: '2.1.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-30
+date: '2024-11-30'
 signer: 
 reviewArchive: 
 twitter: LEO12_EXCHANGE

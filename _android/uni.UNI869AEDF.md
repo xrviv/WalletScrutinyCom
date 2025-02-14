@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: uni.UNI869AEDF
 appCountry: 
-released: 2022-10-26
-updated: 2023-05-12
+released: '2022-10-26'
+updated: '2023-05-12'
 version: '0.8.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: 

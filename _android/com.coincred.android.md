@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.coincred.android
 appCountry: 
-released: 2021-09-01
-updated: 2025-01-02
+released: '2021-09-01'
+updated: '2025-01-02'
 version: '2.5.3'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-06-27
+date: '2022-06-27'
 signer: 
 reviewArchive: 
 twitter: CoinCRED_

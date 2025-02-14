@@ -7,8 +7,8 @@ authors:
 users: 100
 appId: com.morix.wallet
 appCountry: 
-released: 2020-07-15
-updated: 2023-01-17
+released: '2020-07-15'
+updated: '2023-01-17'
 version: 'v2.0.11'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-10-10
+date: '2024-10-10'
 signer: 
 reviewArchive: 
 twitter: MoriXjp

@@ -7,8 +7,8 @@ authors:
 appId: com.FinovelCyprusLimited.Skilling
 appCountry: in
 idd: 1441386723
-released: 2019-05-30
-updated: 2024-09-02
+released: '2019-05-30'
+updated: '2024-09-02'
 version: '2.5.6'
 stars: 4.5
 reviews: 11
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2024-10-07
+date: '2024-10-07'
 signer: 
 reviewArchive: 
 twitter: SkillingTrading

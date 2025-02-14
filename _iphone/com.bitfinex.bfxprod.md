@@ -7,8 +7,8 @@ authors:
 appId: com.bitfinex.bfxprod
 appCountry: 
 idd: 1436383182
-released: 2019-01-25
-updated: 2024-10-03
+released: '2019-01-25'
+updated: '2024-10-03'
 version: '7.2.0'
 stars: 4
 reviews: 159
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-05-31
+date: '2021-05-31'
 signer: 
 reviewArchive: 
 twitter: bitfinex

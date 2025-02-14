@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: vn.beedu.blockchain
 appCountry: 
-released: 2021-11-09
-updated: 2023-07-13
+released: '2021-11-09'
+updated: '2023-07-13'
 version: '1.4.20'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-07-10
+date: '2024-07-10'
 signer: 
 reviewArchive: 
 twitter: LynKey_

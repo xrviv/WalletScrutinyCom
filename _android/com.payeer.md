@@ -7,8 +7,8 @@ authors:
 users: 5000000
 appId: com.payeer
 appCountry: 
-released: 2018-01-03
-updated: 2022-10-18
+released: '2018-01-03'
+updated: '2022-10-18'
 version: 'VARY'
 stars: 4.5
 ratings: 36999
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-10-07
+date: '2024-10-07'
 signer: 
 reviewArchive: 
 twitter: 

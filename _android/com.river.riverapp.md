@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.river.riverapp
 appCountry: 
-released: 2023-10-20
-updated: 2025-02-06
+released: '2023-10-20'
+updated: '2025-02-06'
 version: '4.56.0'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-12-15
+date: '2023-12-15'
 signer: 
 reviewArchive: 
 twitter: River

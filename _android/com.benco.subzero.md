@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.benco.subzero
 appCountry: 
-released: 2022-01-28
-updated: 2022-06-22
+released: '2022-01-28'
+updated: '2022-06-22'
 version: '1.5.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

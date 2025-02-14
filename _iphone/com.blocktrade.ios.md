@@ -7,8 +7,8 @@ authors:
 appId: com.blocktrade.ios
 appCountry: de
 idd: 1360294403
-released: 2018-10-30
-updated: 2024-03-27
+released: '2018-10-30'
+updated: '2024-03-27'
 version: '4.1.3'
 stars: 4.6
 reviews: 30
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-10-07
+date: '2024-10-07'
 signer: 
 reviewArchive: 
 twitter: Blocktradecom

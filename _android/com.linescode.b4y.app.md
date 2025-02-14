@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.linescode.b4y.app
 appCountry: 
-released: 2018-11-02
-updated: 2019-10-04
+released: '2018-11-02'
+updated: '2019-10-04'
 version: '1.0.22'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

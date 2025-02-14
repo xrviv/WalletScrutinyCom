@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.inflowchange.inflowchange
 appCountry: 
-released: 2023-02-17
-updated: 2023-06-25
+released: '2023-02-17'
+updated: '2023-06-25'
 version: '1.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: inflowchange

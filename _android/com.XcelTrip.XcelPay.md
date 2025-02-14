@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.XcelTrip.XcelPay
 appCountry: 
-released: 2019-05-30
-updated: 2024-08-12
+released: '2019-05-30'
+updated: '2024-08-12'
 version: '2.88.2'
 stars: 4.4
 ratings: 3713
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-05-25
+date: '2021-05-25'
 signer: 
 reviewArchive: 
 twitter: XcelPayWallet

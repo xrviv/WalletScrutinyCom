@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: com.pockan.aicryptotrade
 appCountry: 
-released: 2022-04-04
-updated: 2022-04-04
+released: '2022-04-04'
+updated: '2022-04-04'
 version: '11.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-11-15
+date: '2024-11-15'
 signer: 
 reviewArchive: 
 twitter: 

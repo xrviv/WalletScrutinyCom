@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: bitcoin.invest.crypto.app
 appCountry: 
-released: 2021-03-18
-updated: 2021-03-18
+released: '2021-03-18'
+updated: '2021-03-18'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

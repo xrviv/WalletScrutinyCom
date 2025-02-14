@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.pqi.wallet
 appCountry: 
-released: 2022-03-24
-updated: 2023-01-17
+released: '2022-03-24'
+updated: '2023-01-17'
 version: 'v2.0.11'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2025-01-06
+date: '2025-01-06'
 signer: 
 reviewArchive: 
 twitter: 

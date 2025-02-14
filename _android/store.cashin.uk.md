@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: store.cashin.uk
 appCountry: gb
-released: 2021-04-02
-updated: 2022-02-10
+released: '2021-04-02'
+updated: '2022-02-10'
 version: '4.5.0'
 stars: 4.6
 ratings: 36
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-05-31
+date: '2022-05-31'
 signer: 
 reviewArchive: 
 twitter: 

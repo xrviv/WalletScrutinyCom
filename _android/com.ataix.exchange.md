@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.ataix.exchange
 appCountry: ee
-released: 2019-09-20
-updated: 2022-06-07
+released: '2019-09-20'
+updated: '2022-06-07'
 version: '2.1.4'
 stars: 3.5
 ratings: 48
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: ATAIXcom

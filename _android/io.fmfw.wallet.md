@@ -7,7 +7,7 @@ users: 1000
 appId: io.fmfw.wallet
 appCountry: 
 released: 
-updated: 2023-02-23
+updated: '2023-02-23'
 version: '1.3.13'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

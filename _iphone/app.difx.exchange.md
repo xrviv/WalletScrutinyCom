@@ -7,8 +7,8 @@ authors:
 appId: app.difx.exchange
 appCountry: hr
 idd: '1588944811'
-released: 2021-10-10
-updated: 2024-05-14
+released: '2021-10-10'
+updated: '2024-05-14'
 version: '5.1.3'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-24
+date: '2023-07-24'
 signer: 
 reviewArchive: 
 twitter: difx_io

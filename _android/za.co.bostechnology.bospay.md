@@ -7,7 +7,7 @@ users: 50
 appId: za.co.bostechnology.bospay
 appCountry: 
 released: 
-updated: 2022-08-03
+updated: '2022-08-03'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-09-08
+date: '2024-09-08'
 signer: 
 reviewArchive: 
 twitter: 

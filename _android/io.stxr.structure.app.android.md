@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: io.stxr.structure.app.android
 appCountry: 
-released: 2022-05-06
-updated: 2023-03-21
+released: '2022-05-06'
+updated: '2023-03-21'
 version: '1.5.6'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: structure_fi

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.airtimedatahub.app
 appCountry: 
-released: 2019-02-19
-updated: 2023-06-23
+released: '2019-02-19'
+updated: '2023-06-23'
 version: '3.5.1'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nowallet
 appHashes: 
-date: 2024-06-18
+date: '2024-06-18'
 signer: 
 reviewArchive: 
 twitter: airtimedatahub

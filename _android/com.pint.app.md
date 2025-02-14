@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.pint.app
 appCountry: 
-released: 2018-04-25
-updated: 2021-03-06
+released: '2018-04-25'
+updated: '2021-03-06'
 version: '2.0.32'
 stars: 3.6
 ratings: 221
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: bitfialabs

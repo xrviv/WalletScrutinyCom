@@ -7,8 +7,8 @@ authors:
 appId: coin98.crypto.finance.insights
 appCountry: us
 idd: 1561969966
-released: 2021-05-14
-updated: 2025-02-04
+released: '2021-05-14'
+updated: '2025-02-04'
 version: '15.8.8'
 stars: 4.5
 reviews: 652
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2022-01-10
+date: '2022-01-10'
 signer: 
 reviewArchive: 
 twitter: coin98_wallet

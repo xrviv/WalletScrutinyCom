@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.moneybrain.moneybrain
 appCountry: gb
-released: 2019-10-17
-updated: 2024-12-13
+released: '2019-10-17'
+updated: '2024-12-13'
 version: '3.4.34'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-11-22
+date: '2021-11-22'
 signer: 
 reviewArchive: 
 twitter: MoneybrainBiPS

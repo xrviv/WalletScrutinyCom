@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.xcapit.app
 appCountry: 
-released: 2020-11-04
-updated: 2024-01-25
+released: '2020-11-04'
+updated: '2024-01-25'
 version: '3.31.0'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nobtc
 appHashes: 
-date: 2025-01-27
+date: '2025-01-27'
 signer: 
 reviewArchive: 
 twitter: 

@@ -8,8 +8,8 @@ authors:
 users: 50000
 appId: com.sf.monarch
 appCountry: 
-released: 2018-10-19
-updated: 2023-11-21
+released: '2018-10-19'
+updated: '2023-11-21'
 version: '2.6.3'
 stars: 4.1
 ratings: 821
@@ -23,7 +23,7 @@ bugbounty:
 meta: defunct
 verdict: nosource
 appHashes: 
-date: 2024-07-13
+date: '2024-07-13'
 signer: 
 reviewArchive: 
 twitter: Monarchtoken

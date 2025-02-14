@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.unocoin.unocoinwallet
 appCountry: 
-released: 2016-11-30
-updated: 2025-01-06
+released: '2016-11-30'
+updated: '2025-01-06'
 version: '5.3.24'
 stars: 3.5
 ratings: 20365
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2020-05-29
+date: '2020-05-29'
 signer: 
 reviewArchive: 
 twitter: Unocoin

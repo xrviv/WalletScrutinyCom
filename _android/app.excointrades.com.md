@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: app.excointrades.com
 appCountry: 
-released: 2022-03-28
-updated: 2023-02-13
+released: '2022-03-28'
+updated: '2023-02-13'
 version: '1.1.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

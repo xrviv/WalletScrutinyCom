@@ -7,7 +7,7 @@ users: 100
 appId: be.flitz.flitz_mobile_production
 appCountry: 
 released: 
-updated: 2021-12-21
+updated: '2021-12-21'
 version: '0.15.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.ethercredit.wallet
 appCountry: 
-released: 2020-09-23
-updated: 2020-09-23
+released: '2020-09-23'
+updated: '2020-09-23'
 version: '1.0'
 stars: 3.8
 ratings: 5
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-01-15
+date: '2022-01-15'
 signer: 
 reviewArchive: 
 twitter: 

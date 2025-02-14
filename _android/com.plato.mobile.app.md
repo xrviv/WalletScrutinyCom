@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.plato.mobile.app
 appCountry: 
-released: 2021-10-15
-updated: 2021-11-18
+released: '2021-10-15'
+updated: '2021-11-18'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

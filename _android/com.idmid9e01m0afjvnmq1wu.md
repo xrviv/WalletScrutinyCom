@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.idmid9e01m0afjvnmq1wu
 appCountry: 
-released: 2018-06-09
-updated: 2018-06-09
+released: '2018-06-09'
+updated: '2018-06-09'
 version: '1.0.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

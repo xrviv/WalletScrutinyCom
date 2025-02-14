@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.coinchat.coinchat
 appCountry: 
-released: 2018-05-20
-updated: 2020-03-11
+released: '2018-05-20'
+updated: '2020-03-11'
 version: '2.0.2'
 stars: 3.7
 ratings: 1190
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-06-01
+date: '2023-06-01'
 signer: 
 reviewArchive: 
 twitter: 

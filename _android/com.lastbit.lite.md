@@ -8,7 +8,7 @@ users: 1000
 appId: com.lastbit.lite
 appCountry: 
 released: 
-updated: 2021-05-11
+updated: '2021-05-11'
 version: 'Varies with device'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-04-25
+date: '2022-04-25'
 signer: 
 reviewArchive: 
 twitter: lastbitpay

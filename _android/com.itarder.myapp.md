@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.itarder.myapp
 appCountry: 
-released: 2022-05-27
-updated: 2022-11-14
+released: '2022-05-27'
+updated: '2022-11-14'
 version: '1.0.26'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

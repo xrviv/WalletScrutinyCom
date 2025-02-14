@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.bitpro.cp
 appCountry: 
-released: 2023-04-09
-updated: 2023-04-09
+released: '2023-04-09'
+updated: '2023-04-09'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

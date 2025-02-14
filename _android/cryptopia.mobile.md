@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: cryptopia.mobile
 appCountry: 
-released: 2019-09-05
-updated: 2019-09-08
+released: '2019-09-05'
+updated: '2019-09-08'
 version: '1.0.2'
 stars: 1.9
 ratings: 30
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

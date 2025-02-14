@@ -8,7 +8,7 @@ users: 10000
 appId: com.gulftrader
 appCountry: 
 released: 
-updated: 2020-11-13
+updated: '2020-11-13'
 version: '3.0.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-08-07
+date: '2023-08-07'
 signer: 
 reviewArchive: 
 twitter: 

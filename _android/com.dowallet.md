@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.dowallet
 appCountry: 
-released: 2019-01-01
-updated: 2022-11-22
+released: '2019-01-01'
+updated: '2022-11-22'
 version: '1.1.41'
 stars: 4
 ratings: 883
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-10-03
+date: '2024-10-03'
 signer: 
 reviewArchive: 
 twitter: 

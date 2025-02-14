@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.maxxwallet
 appCountry: 
-released: 2019-03-25
-updated: 2019-06-12
+released: '2019-03-25'
+updated: '2019-06-12'
 version: '3.7.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

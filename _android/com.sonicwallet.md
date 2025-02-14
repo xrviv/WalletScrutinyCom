@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.sonicwallet
 appCountry: 
-released: 2022-02-17
-updated: 2024-11-16
+released: '2022-02-17'
+updated: '2024-11-16'
 version: '1.1.41'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: SonicWalletHQ

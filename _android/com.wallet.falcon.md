@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.wallet.falcon
 appCountry: 
-released: 2021-04-01
-updated: 2021-09-21
+released: '2021-04-01'
+updated: '2021-09-21'
 version: '3.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

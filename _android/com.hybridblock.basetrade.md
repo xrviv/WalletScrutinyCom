@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.hybridblock.basetrade
 appCountry: 
-released: 2019-05-23
-updated: 2020-02-13
+released: '2019-05-23'
+updated: '2020-02-13'
 version: '5.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

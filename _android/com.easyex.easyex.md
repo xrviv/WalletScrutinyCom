@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.easyex.easyex
 appCountry: 
-released: 2022-05-17
-updated: 2022-10-12
+released: '2022-05-17'
+updated: '2022-10-12'
 version: '35.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

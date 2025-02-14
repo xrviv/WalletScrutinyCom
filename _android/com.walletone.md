@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.walletone
 appCountry: 
-released: 2020-07-01
-updated: 2020-07-01
+released: '2020-07-01'
+updated: '2020-07-01'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

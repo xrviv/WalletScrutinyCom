@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.neobitcoin.wallet
 appCountry: 
-released: 2020-07-03
-updated: 2020-07-03
+released: '2020-07-03'
+updated: '2020-07-03'
 version: '1.0.0'
 stars: 1
 ratings: 131
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: 

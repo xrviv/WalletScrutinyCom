@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.pro1trading
 appCountry: 
-released: 2020-11-24
-updated: 2023-06-15
+released: '2020-11-24'
+updated: '2023-06-15'
 version: '1.0.39'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nowallet
 appHashes: 
-date: 2024-06-17
+date: '2024-06-17'
 signer: 
 reviewArchive: 
 twitter: pro1trading

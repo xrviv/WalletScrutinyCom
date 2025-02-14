@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.bitbay.pay.bitcoin.pos.terminal
 appCountry: 
-released: 2019-03-18
-updated: 2023-11-07
+released: '2019-03-18'
+updated: '2023-11-07'
 version: '1.7.3(59)'
 stars: 5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: zondaglobal

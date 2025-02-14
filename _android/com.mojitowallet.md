@@ -9,7 +9,7 @@ users: 5000
 appId: com.mojitowallet
 appCountry: 
 released: 
-updated: 2024-12-15
+updated: '2024-12-15'
 version: '0.4.1'
 stars: 
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: ftbfs
 appHashes: []
-date: 2024-12-21
+date: '2024-12-21'
 signer: 
 reviewArchive: 
 twitter: mintlayer

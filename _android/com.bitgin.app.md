@@ -8,7 +8,7 @@ users: 1000
 appId: com.bitgin.app
 appCountry: 
 released: 
-updated: 2023-05-24
+updated: '2023-05-24'
 version: '2.2.2'
 stars: 2.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: 

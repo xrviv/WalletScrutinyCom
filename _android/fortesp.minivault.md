@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: fortesp.minivault
 appCountry: 
-released: 2020-10-18
-updated: 2020-11-25
+released: '2020-10-18'
+updated: '2020-11-25'
 version: '1.3.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

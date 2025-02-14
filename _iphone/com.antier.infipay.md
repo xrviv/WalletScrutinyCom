@@ -7,8 +7,8 @@ authors:
 appId: com.antier.infipay
 appCountry: in
 idd: 1532993675
-released: 2020-11-03
-updated: 2021-04-09
+released: '2020-11-03'
+updated: '2021-04-09'
 version: '1.1.2'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2023-03-30
+date: '2023-03-30'
 signer: 
 reviewArchive: 
 twitter: 

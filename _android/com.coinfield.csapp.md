@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.coinfield.csapp
 appCountry: ca
-released: 2019-05-16
-updated: 2022-12-19
+released: '2019-05-16'
+updated: '2022-12-19'
 version: '3.1.5'
 stars: 3
 ratings: 1231
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-12-15
+date: '2024-12-15'
 signer: 
 reviewArchive: 
 twitter: CoinFieldEx

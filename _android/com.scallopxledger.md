@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.scallopxledger
 appCountry: 
-released: 2021-11-28
-updated: 2025-02-12
+released: '2021-11-28'
+updated: '2025-02-12'
 version: '1.6.3'
 stars: 3.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2025-01-27
+date: '2025-01-27'
 signer: 
 reviewArchive: 
 twitter: ScallopOfficial

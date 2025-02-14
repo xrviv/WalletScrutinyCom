@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.ttg
 appCountry: 
-released: 2022-02-17
-updated: 2023-08-25
+released: '2022-02-17'
+updated: '2023-08-25'
 version: '5.10.23'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: tradethegames

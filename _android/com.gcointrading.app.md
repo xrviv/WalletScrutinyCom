@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.gcointrading.app
 appCountry: 
-released: 2018-08-19
-updated: 2018-08-20
+released: '2018-08-19'
+updated: '2018-08-20'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

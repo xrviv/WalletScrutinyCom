@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: online.figcoin.figvault
 appCountry: tt
-released: 2020-12-23
-updated: 2021-09-08
+released: '2020-12-23'
+updated: '2021-09-08'
 version: '0.25.0'
 stars: 4.4
 ratings: 42
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

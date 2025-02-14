@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.vendescrow.vendescrow
 appCountry: 
-released: 2021-12-05
-updated: 2021-12-06
+released: '2021-12-05'
+updated: '2021-12-06'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

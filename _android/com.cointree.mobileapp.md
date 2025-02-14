@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.cointree.mobileapp
 appCountry: 
-released: 2022-10-12
-updated: 2024-03-18
+released: '2022-10-12'
+updated: '2024-03-18'
 version: '1.2.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty: https://www.cointree.com/company/bug-bounty
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-09-06
+date: '2023-09-06'
 signer: 
 reviewArchive: 
 twitter: CointreeAus

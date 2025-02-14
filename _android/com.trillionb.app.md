@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.trillionb.app
 appCountry: 
-released: 2022-01-14
-updated: 2022-01-27
+released: '2022-01-14'
+updated: '2022-01-27'
 version: '1.1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

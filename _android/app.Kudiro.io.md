@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: app.Kudiro.io
 appCountry: 
-released: 2022-07-11
-updated: 2022-07-12
+released: '2022-07-11'
+updated: '2022-07-12'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

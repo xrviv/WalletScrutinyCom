@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.bytedex.mobile.tr
 appCountry: 
-released: 2022-12-16
-updated: 2024-03-15
+released: '2022-12-16'
+updated: '2024-03-15'
 version: '2.0.16'
 stars: 4.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-08
+date: '2024-12-08'
 signer: 
 reviewArchive: 
 twitter: byteexchange

@@ -7,8 +7,8 @@ authors:
 appId: cc.coincollect.app
 appCountry: us
 idd: 1473471322
-released: 2019-11-05
-updated: 2020-01-13
+released: '2019-11-05'
+updated: '2020-01-13'
 version: '1.7.6'
 stars: 1
 reviews: 1
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: nosource
 appHashes: 
-date: 2022-01-15
+date: '2022-01-15'
 signer: 
 reviewArchive: 
 twitter: coincollectHQ

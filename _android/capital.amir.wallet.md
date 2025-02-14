@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: capital.amir.wallet
 appCountry: 
-released: 2021-08-03
-updated: 2024-03-21
+released: '2021-08-03'
+updated: '2024-03-21'
 version: '3.23.3.01'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: 

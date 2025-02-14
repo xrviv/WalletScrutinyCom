@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.coldwallet
 appCountry: 
-released: 2019-06-06
-updated: 2019-06-15
+released: '2019-06-06'
+updated: '2019-06-15'
 version: '1.2.8.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

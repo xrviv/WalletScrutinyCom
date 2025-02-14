@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: network.wx.app
 appCountry: 
-released: 2022-09-30
-updated: 2024-01-12
+released: '2022-09-30'
+updated: '2024-01-12'
 version: '1.11.8'
 stars: 3.7
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: nobtc
 appHashes: 
-date: 2025-01-06
+date: '2025-01-06'
 signer: 
 reviewArchive: 
 twitter: WXNetwork

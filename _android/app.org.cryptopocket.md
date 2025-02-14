@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: app.org.cryptopocket
 appCountry: 
-released: 2018-11-13
-updated: 2019-09-16
+released: '2018-11-13'
+updated: '2019-09-16'
 version: '1.2.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-06
+date: '2023-05-06'
 signer: 
 reviewArchive: 
 twitter: 

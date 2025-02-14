@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.therocktrading.tradingapp
 appCountry: 
-released: 2018-10-29
-updated: 2022-07-11
+released: '2018-10-29'
+updated: '2022-07-11'
 version: '1.6.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2023-07-21
+date: '2023-07-21'
 signer: 
 reviewArchive: 
 twitter: therocktrading

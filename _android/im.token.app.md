@@ -8,8 +8,8 @@ authors:
 users: 1000000
 appId: im.token.app
 appCountry: 
-released: 2018-05-31
-updated: 2025-02-05
+released: '2018-05-31'
+updated: '2025-02-05'
 version: '2.16.3'
 stars: 4.3
 ratings: 4350
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-15
+date: '2024-07-15'
 signer: 
 reviewArchive: 
 twitter: imTokenOfficial

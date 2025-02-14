@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.btuprotocol.btu_wallet
 appCountry: ba
-released: 2021-03-15
-updated: 2024-05-17
+released: '2021-03-15'
+updated: '2024-05-17'
 version: '2.87.0'
 stars: 4.1
 ratings: 156
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: versoapp

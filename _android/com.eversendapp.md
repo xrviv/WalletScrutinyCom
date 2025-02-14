@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.eversendapp
 appCountry: lv
-released: 2019-02-01
-updated: 2025-02-07
+released: '2019-02-01'
+updated: '2025-02-07'
 version: '0.6.17'
 stars: 3.7
 ratings: 5009
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2021-11-01
+date: '2021-11-01'
 signer: 
 reviewArchive: 
 twitter: eversendapp

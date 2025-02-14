@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.ideypay
 appCountry: 
-released: 2020-09-03
-updated: 2022-10-30
+released: '2020-09-03'
+updated: '2022-10-30'
 version: '1.0.69'
 stars: 3.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: ideypay

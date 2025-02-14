@@ -7,7 +7,7 @@ users: 10
 appId: com.luxon.coinrivet
 appCountry: 
 released: 
-updated: 2022-05-12
+updated: '2022-05-12'
 version: '1.0.0.53'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

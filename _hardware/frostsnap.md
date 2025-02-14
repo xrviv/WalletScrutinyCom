@@ -3,9 +3,9 @@ title: Frost Snap
 appId: frostsnap
 authors:
 - danny
-released: 2022-09-16
+released: '2022-09-16'
 discontinued: 
-updated: 2024-10-09
+updated: '2024-10-09'
 version: '0.1.0'
 binaries: 
 dimensions: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: unreleased
 appHashes: 
-date: 2024-10-21
+date: '2024-10-21'
 signer: 
 reviewArchive: 
 twitter: FrostsnapTech

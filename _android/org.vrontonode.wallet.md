@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: org.vrontonode.wallet
 appCountry: 
-released: 2019-11-29
-updated: 2019-11-29
+released: '2019-11-29'
+updated: '2019-11-29'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-06
+date: '2023-05-06'
 signer: 
 reviewArchive: 
 twitter: 

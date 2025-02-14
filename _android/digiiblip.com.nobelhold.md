@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: digiiblip.com.nobelhold
 appCountry: 
-released: 2019-06-24
-updated: 2019-10-05
+released: '2019-06-24'
+updated: '2019-10-05'
 version: '1.23'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

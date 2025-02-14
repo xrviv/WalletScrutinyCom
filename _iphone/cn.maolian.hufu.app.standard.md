@@ -7,8 +7,8 @@ authors:
 appId: cn.maolian.hufu.app.standard
 appCountry: us
 idd: 1387872759
-released: 2018-06-28
-updated: 2022-09-15
+released: '2018-06-28'
+updated: '2022-09-15'
 version: '4.6.96'
 stars: 2.8
 reviews: 149
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-10-08
+date: '2024-10-08'
 signer: 
 reviewArchive: 
 twitter: Hoo_exchange

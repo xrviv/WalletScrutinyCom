@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: org.cryptosignals.free.wallet.bitcoinand.crypto
 appCountry: 
-released: 2021-06-19
-updated: 2021-06-19
+released: '2021-06-19'
+updated: '2021-06-19'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-09-19
+date: '2021-09-19'
 signer: 
 reviewArchive: 
 twitter: 

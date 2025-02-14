@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.crebit
 appCountry: 
-released: 2019-06-23
-updated: 2019-06-24
+released: '2019-06-23'
+updated: '2019-06-24'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

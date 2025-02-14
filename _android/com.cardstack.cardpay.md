@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.cardstack.cardpay
 appCountry: 
-released: 2022-04-06
-updated: 2023-02-16
+released: '2022-04-06'
+updated: '2023-02-16'
 version: '1.2.0'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nobtc
 appHashes: 
-date: 2024-02-12
+date: '2024-02-12'
 signer: 
 reviewArchive: 
 twitter: cardstack

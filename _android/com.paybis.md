@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.paybis
 appCountry: 
-released: 2021-09-06
-updated: 2025-02-03
+released: '2021-09-06'
+updated: '2025-02-03'
 version: '1.6.15'
 stars: 4.5
 ratings: 173
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2022-11-02
+date: '2022-11-02'
 signer: 
 reviewArchive: 
 twitter: paybis

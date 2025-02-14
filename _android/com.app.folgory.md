@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.app.folgory
 appCountry: 
-released: 2019-08-14
-updated: 2019-08-14
+released: '2019-08-14'
+updated: '2019-08-14'
 version: '1.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-11
+date: '2023-05-11'
 signer: 
 reviewArchive: 
 twitter: 

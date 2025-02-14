@@ -3,9 +3,9 @@ title: Lightning Labs Lightning App
 appId: lightning.app
 authors:
 - danny
-released: 2018-09-11
+released: '2018-09-11'
 discontinued: 
-updated: 2019-10-25
+updated: '2019-10-25'
 version: '0.5.9-alpha'
 binaries: 
 provider: Lightning Labs
@@ -17,7 +17,7 @@ icon: lightning.app.png
 bugbounty: 
 meta: obsolete
 verdict: wip
-date: 2024-04-25
+date: '2024-04-25'
 reviewArchive: 
 twitter: lightning
 social: 

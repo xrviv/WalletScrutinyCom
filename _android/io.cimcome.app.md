@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.cimcome.app
 appCountry: bm
-released: 2020-12-09
-updated: 2024-12-10
+released: '2020-12-09'
+updated: '2024-12-10'
 version: '2.2.16'
 stars: 4
 ratings: 10
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2021-11-22
+date: '2021-11-22'
 signer: 
 reviewArchive: 
 twitter: cimcome

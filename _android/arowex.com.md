@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: arowex.com
 appCountry: 
-released: 2021-07-16
-updated: 2021-07-17
+released: '2021-07-16'
+updated: '2021-07-17'
 version: '0.0.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

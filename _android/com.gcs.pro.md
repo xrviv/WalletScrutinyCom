@@ -7,7 +7,7 @@ users: 100
 appId: com.gcs.pro
 appCountry: 
 released: 
-updated: 2022-05-09
+updated: '2022-05-09'
 version: '1.0.4.220509'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: 

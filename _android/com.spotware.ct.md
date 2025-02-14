@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.spotware.ct
 appCountry: 
-released: 2014-02-10
-updated: 2025-02-12
+released: '2014-02-10'
+updated: '2025-02-12'
 version: '5.1.150'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2023-07-01
+date: '2023-07-01'
 signer: 
 reviewArchive: 
 twitter: cTrader

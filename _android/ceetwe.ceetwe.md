@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: ceetwe.ceetwe
 appCountry: 
-released: 2021-11-06
-updated: 2022-01-02
+released: '2021-11-06'
+updated: '2022-01-02'
 version: '22.01'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.exchange.bitcoindefi
 appCountry: 
-released: 2021-08-26
-updated: 2021-08-26
+released: '2021-08-26'
+updated: '2021-08-26'
 version: '1.0.0'
 stars: 4.4
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

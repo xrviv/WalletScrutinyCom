@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.sg9e9.bitonewallet
 appCountry: 
-released: 2020-06-07
-updated: 2020-07-17
+released: '2020-06-07'
+updated: '2020-07-17'
 version: '1.1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-04
+date: '2023-09-04'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.colodax.colodax
 appCountry: us
-released: 2020-01-31
-updated: 2021-09-17
+released: '2020-01-31'
+updated: '2021-09-17'
 version: '1.7.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: colodax

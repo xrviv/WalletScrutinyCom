@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.web.whatashot
 appCountry: 
-released: 2021-10-27
-updated: 2021-12-23
+released: '2021-10-27'
+updated: '2021-12-23'
 version: '1.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 appId: com.aximetria.prod
 appCountry: ch
 idd: '1592909669'
-released: 2021-11-08
-updated: 2023-04-05
+released: '2021-11-08'
+updated: '2023-04-05'
 version: '3.23.0'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-09-08
+date: '2023-09-08'
 signer: 
 reviewArchive: 
 twitter: aximetriagmbh

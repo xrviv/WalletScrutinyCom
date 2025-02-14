@@ -7,8 +7,8 @@ authors:
 appId: com.brave-corporation.brave-pay
 appCountry: es
 idd: '1623258095'
-released: 2022-05-16
-updated: 2023-10-26
+released: '2022-05-16'
+updated: '2023-10-26'
 version: '1.7.1'
 stars: 5
 reviews: 5
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-08
+date: '2024-12-08'
 signer: 
 reviewArchive: 
 twitter: BraveCorporati1

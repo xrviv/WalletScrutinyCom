@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.plasmapay.androidapp
 appCountry: us
-released: 2019-07-31
-updated: 2021-10-07
+released: '2019-07-31'
+updated: '2021-10-07'
 version: '2.0.4'
 stars: 3
 ratings: 31
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-17
+date: '2021-11-17'
 signer: 
 reviewArchive: 
 twitter: 0xPlasma

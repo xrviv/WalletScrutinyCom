@@ -7,7 +7,7 @@ users: 10
 appId: com.tezelt
 appCountry: 
 released: 
-updated: 2020-05-18
+updated: '2020-05-18'
 version: '1.5.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

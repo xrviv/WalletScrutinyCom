@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.maskex.app
 appCountry: 
-released: 2021-10-20
-updated: 2025-02-10
+released: '2021-10-20'
+updated: '2025-02-10'
 version: '4.1.8'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-07
+date: '2023-04-07'
 signer: 
 reviewArchive: 
 twitter: MaskexGlobal

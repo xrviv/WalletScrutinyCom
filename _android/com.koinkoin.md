@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.koinkoin
 appCountry: 
-released: 2021-02-22
-updated: 2024-07-17
+released: '2021-02-22'
+updated: '2024-07-17'
 version: '2.3.5'
 stars: 3.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-04
+date: '2024-11-04'
 signer: 
 reviewArchive: 
 twitter: koinkoin13

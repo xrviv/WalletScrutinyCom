@@ -7,8 +7,8 @@ authors:
 appId: cobo.vault.hot.re
 appCountry: us
 idd: 1483305773
-released: 2020-04-01
-updated: 2021-03-24
+released: '2020-04-01'
+updated: '2021-03-24'
 version: '2.2.6'
 stars: 3.5
 reviews: 12
@@ -21,7 +21,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2021-11-17
+date: '2021-11-17'
 signer: 
 reviewArchive: 
 twitter: Cobo_Wallet

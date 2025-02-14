@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.alexchanger.alexchanger
 appCountry: 
-released: 2020-06-12
-updated: 2020-06-12
+released: '2020-06-12'
+updated: '2020-06-12'
 version: '1.0'
 stars: 4.4
 ratings: 271
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

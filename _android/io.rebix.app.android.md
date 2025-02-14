@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.rebix.app.android
 appCountry: 
-released: 2022-01-25
-updated: 2022-10-16
+released: '2022-01-25'
+updated: '2022-10-16'
 version: '0.6.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: 

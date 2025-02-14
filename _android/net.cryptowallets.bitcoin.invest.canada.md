@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: net.cryptowallets.bitcoin.invest.canada
 appCountry: 
-released: 2021-06-27
-updated: 2021-06-28
+released: '2021-06-27'
+updated: '2021-06-28'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: 

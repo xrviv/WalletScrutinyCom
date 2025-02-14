@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.profittrading.forcoinbase
 appCountry: 
-released: 2018-05-15
-updated: 2021-05-16
+released: '2018-05-15'
+updated: '2021-05-16'
 version: 'VARY'
 stars: 4.2
 ratings: 156
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: ProfitTrading_

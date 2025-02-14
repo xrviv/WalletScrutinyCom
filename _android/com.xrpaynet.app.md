@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.xrpaynet.app
 appCountry: 
-released: 2022-07-05
-updated: 2025-02-10
+released: '2022-07-05'
+updated: '2025-02-10'
 version: '2.0.4.prod'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2023-07-24
+date: '2023-07-24'
 signer: 
 reviewArchive: 
 twitter: XRPayNet

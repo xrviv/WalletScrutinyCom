@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.ariomex.app
 appCountry: 
-released: 2020-09-10
-updated: 2020-09-10
+released: '2020-09-10'
+updated: '2020-09-10'
 version: '2.0.0'
 stars: 3.9
 ratings: 125
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-11-07
+date: '2024-11-07'
 signer: 
 reviewArchive: 
 twitter: 

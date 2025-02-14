@@ -7,8 +7,8 @@ authors:
 appId: com.app.speed1
 appCountry: us
 idd: '6462426281'
-released: 2023-08-24
-updated: 2025-02-08
+released: '2023-08-24'
+updated: '2025-02-08'
 version: '1.12.3'
 stars: 4.7
 reviews: 428
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: speedwallet

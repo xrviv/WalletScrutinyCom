@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: plus.ARQ.D2020120901
 appCountry: 
-released: 2020-12-09
-updated: 2021-01-06
+released: '2020-12-09'
+updated: '2021-01-06'
 version: '2021010601'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

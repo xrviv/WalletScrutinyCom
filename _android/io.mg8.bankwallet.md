@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: io.mg8.bankwallet
 appCountry: 
-released: 2020-11-22
-updated: 2020-11-22
+released: '2020-11-22'
+updated: '2020-11-22'
 version: '1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

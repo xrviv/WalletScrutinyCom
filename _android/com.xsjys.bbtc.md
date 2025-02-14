@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.xsjys.bbtc
 appCountry: 
-released: 2022-03-01
-updated: 2023-11-07
+released: '2022-03-01'
+updated: '2023-11-07'
 version: '1.5.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-07-19
+date: '2024-07-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.thisoption.extons
 appCountry: 
-released: 2021-05-10
-updated: 2021-05-10
+released: '2021-05-10'
+updated: '2021-05-10'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: 

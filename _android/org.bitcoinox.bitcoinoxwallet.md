@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: org.bitcoinox.bitcoinoxwallet
 appCountry: 
-released: 2019-02-04
-updated: 2024-12-22
+released: '2019-02-04'
+updated: '2024-12-22'
 version: '2.8.8'
 stars: 3.9
 ratings: 32
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: bitcoin_ox

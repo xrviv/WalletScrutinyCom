@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.agile.walletapp
 appCountry: 
-released: 2019-06-06
-updated: 2019-06-06
+released: '2019-06-06'
+updated: '2019-06-06'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

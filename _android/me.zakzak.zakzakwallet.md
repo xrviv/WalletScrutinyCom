@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: me.zakzak.zakzakwallet
 appCountry: 
-released: 2019-04-01
-updated: 2020-06-10
+released: '2019-04-01'
+updated: '2020-06-10'
 version: '2.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

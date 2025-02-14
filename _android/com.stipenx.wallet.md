@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.stipenx.wallet
 appCountry: 
-released: 2020-07-14
-updated: 2020-07-28
+released: '2020-07-14'
+updated: '2020-07-28'
 version: '1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

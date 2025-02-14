@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: in.digitx
 appCountry: 
-released: 2020-12-20
-updated: 2021-11-29
+released: '2020-12-20'
+updated: '2021-11-29'
 version: '34.0.0'
 stars: 4.1
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

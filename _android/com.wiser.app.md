@@ -7,7 +7,7 @@ users: 100
 appId: com.wiser.app
 appCountry: 
 released: 
-updated: 2023-01-06
+updated: '2023-01-06'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-08-15
+date: '2024-08-15'
 signer: 
 reviewArchive: 
 twitter: 

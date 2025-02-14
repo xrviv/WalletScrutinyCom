@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.cexchange.app
 appCountry: 
-released: 2021-02-21
-updated: 2024-11-19
+released: '2021-02-21'
+updated: '2024-11-19'
 version: '13.0.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-11-15
+date: '2024-11-15'
 signer: 
 reviewArchive: 
 twitter: cExchange2

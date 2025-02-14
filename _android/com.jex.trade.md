@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.jex.trade
 appCountry: 
-released: 2019-04-25
-updated: 2021-10-25
+released: '2019-04-25'
+updated: '2021-10-25'
 version: '2.8.4'
 stars: 3.6
 ratings: 1476
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-01-15
+date: '2022-01-15'
 signer: 
 reviewArchive: 
 twitter: 

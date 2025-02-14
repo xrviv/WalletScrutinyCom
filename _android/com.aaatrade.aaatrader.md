@@ -8,7 +8,7 @@ users: 10000
 appId: com.aaatrade.aaatrader
 appCountry: 
 released: 
-updated: 2023-09-22
+updated: '2023-09-22'
 version: '1.1.10'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-11-19
+date: '2024-11-19'
 signer: 
 reviewArchive: 
 twitter: 

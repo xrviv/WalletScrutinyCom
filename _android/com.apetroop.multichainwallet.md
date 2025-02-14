@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.apetroop.multichainwallet
 appCountry: 
-released: 2020-08-10
-updated: 2020-09-04
+released: '2020-08-10'
+updated: '2020-09-04'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: 

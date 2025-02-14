@@ -7,8 +7,8 @@ authors:
 appId: org.Matbea
 appCountry: ru
 idd: '1518987729'
-released: 2020-06-30
-updated: 2023-09-19
+released: '2020-06-30'
+updated: '2023-09-19'
 version: '1.4.9'
 stars: 3.5
 reviews: 127
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-09-24
+date: '2024-09-24'
 signer: 
 reviewArchive: 
 twitter: 

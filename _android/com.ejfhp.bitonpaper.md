@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.ejfhp.bitonpaper
 appCountry: 
-released: 2021-02-13
-updated: 2021-06-14
+released: '2021-02-13'
+updated: '2021-06-14'
 version: 'v2.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: io.nexo.pro
 appCountry: 
-released: 2023-03-02
-updated: 2023-08-31
+released: '2023-03-02'
+updated: '2023-08-31'
 version: '1.4.3'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: Nexo

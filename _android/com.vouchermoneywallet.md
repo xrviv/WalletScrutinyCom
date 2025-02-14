@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.vouchermoneywallet
 appCountry: in
-released: 2020-12-15
-updated: 2021-03-03
+released: '2020-12-15'
+updated: '2021-03-03'
 version: '1.38.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-01-11
+date: '2023-01-11'
 signer: 
 reviewArchive: 
 twitter: 

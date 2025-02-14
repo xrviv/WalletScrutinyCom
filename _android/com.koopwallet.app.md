@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.koopwallet.app
 appCountry: 
-released: 2022-12-20
-updated: 2023-07-11
+released: '2022-12-20'
+updated: '2023-07-11'
 version: '21.0.0'
 stars: 3.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nosource
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: KooP360

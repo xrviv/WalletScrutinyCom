@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.hashcash.paybitoadmin
 appCountry: 
-released: 2022-06-16
-updated: 2023-05-12
+released: '2022-06-16'
+updated: '2023-05-12'
 version: '1.0.11'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

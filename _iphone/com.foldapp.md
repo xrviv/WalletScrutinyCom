@@ -7,8 +7,8 @@ authors:
 appId: com.foldapp
 appCountry: us
 idd: 1480424785
-released: 2019-11-18
-updated: 2025-02-12
+released: '2019-11-18'
+updated: '2025-02-12'
 version: '141.1.1'
 stars: 4.2
 reviews: 2032
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-09-15
+date: '2021-09-15'
 signer: 
 reviewArchive: 
 twitter: fold_app

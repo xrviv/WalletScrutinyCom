@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.crypterium
 appCountry: 
-released: 2018-01-21
-updated: 2025-01-29
+released: '2018-01-21'
+updated: '2025-01-29'
 version: '13.0'
 stars: 3.4
 ratings: 8728
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-05-20
+date: '2021-05-20'
 signer: 
 reviewArchive: 
 twitter: crypterium

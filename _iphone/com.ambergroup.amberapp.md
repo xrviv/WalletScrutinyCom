@@ -7,8 +7,8 @@ authors:
 appId: com.ambergroup.amberapp
 appCountry: us
 idd: 1515652068
-released: 2020-09-21
-updated: 2025-01-02
+released: '2020-09-21'
+updated: '2025-01-02'
 version: '3.0.3'
 stars: 4.5
 reviews: 195
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-11
+date: '2021-09-11'
 signer: 
 reviewArchive: 
 twitter: ambergroup_io

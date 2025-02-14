@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: coinunited.io
 appCountry: cn
-released: 2021-04-30
-updated: 2025-01-12
+released: '2021-04-30'
+updated: '2025-01-12'
 version: '5.0.8'
 stars: 3.2
 ratings: 151
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-11-15
+date: '2021-11-15'
 signer: 
 reviewArchive: 
 twitter: realcoinunited

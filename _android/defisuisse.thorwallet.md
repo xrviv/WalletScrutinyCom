@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: defisuisse.thorwallet
 appCountry: 
-released: 2021-12-23
-updated: 2025-01-31
+released: '2021-12-23'
+updated: '2025-01-31'
 version: '3.0.0'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: THORWalletDEX

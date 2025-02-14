@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.union.cash
 appCountry: 
-released: 2021-06-25
-updated: 2024-08-19
+released: '2021-06-25'
+updated: '2024-08-19'
 version: '1.3.7'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-11-17
+date: '2023-11-17'
 signer: 
 reviewArchive: 
 twitter: unioncash_eu

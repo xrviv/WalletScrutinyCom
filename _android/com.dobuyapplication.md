@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.dobuyapplication
 appCountry: 
-released: 2021-06-21
-updated: 2021-11-30
+released: '2021-06-21'
+updated: '2021-11-30'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

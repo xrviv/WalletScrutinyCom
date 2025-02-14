@@ -7,8 +7,8 @@ authors:
 appId: com.okcoin.OKCoinAppstore
 appCountry: us
 idd: 867444712
-released: 2014-07-18
-updated: 2023-06-20
+released: '2014-07-18'
+updated: '2023-06-20'
 version: '5.3.110'
 stars: 4.7
 reviews: 3494
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-06-17
+date: '2024-06-17'
 signer: 
 reviewArchive: 
 twitter: OKcoin

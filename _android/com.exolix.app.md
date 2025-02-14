@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.exolix.app
 appCountry: 
-released: 2022-07-11
-updated: 2023-08-21
+released: '2022-07-11'
+updated: '2023-08-21'
 version: '1.0.5'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nowallet
 appHashes: 
-date: 2024-08-16
+date: '2024-08-16'
 signer: 
 reviewArchive: 
 twitter: Exolix_com

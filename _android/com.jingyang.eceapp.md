@@ -7,7 +7,7 @@ users: 1000
 appId: com.jingyang.eceapp
 appCountry: 
 released: 
-updated: 2021-07-21
+updated: '2021-07-21'
 version: '1.0'
 stars: 2.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

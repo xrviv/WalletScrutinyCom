@@ -9,7 +9,7 @@ users: 1000
 appId: org.bitcoin.wallet
 appCountry: 
 released: 
-updated: 2021-02-09
+updated: '2021-02-09'
 version: '1.0'
 stars: 4.3
 ratings: 9
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nonverifiable
 appHashes: 
-date: 2021-06-16
+date: '2021-06-16'
 signer: 
 reviewArchive: 
 twitter: 

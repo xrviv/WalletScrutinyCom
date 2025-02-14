@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.verico.tradn
 appCountry: 
-released: 2020-04-24
-updated: 2021-07-19
+released: '2020-04-24'
+updated: '2021-07-19'
 version: '1.5.106'
 stars: 
 ratings: 39
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2021-11-15
+date: '2021-11-15'
 signer: 
 reviewArchive: 
 twitter: 

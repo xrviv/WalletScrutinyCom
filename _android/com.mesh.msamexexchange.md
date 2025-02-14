@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.mesh.msamexexchange
 appCountry: 
-released: 2021-06-02
-updated: 2024-03-08
+released: '2021-06-02'
+updated: '2024-03-08'
 version: '2.0.92'
 stars: 4.6
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-11-29
+date: '2024-11-29'
 signer: 
 reviewArchive: 
 twitter: 

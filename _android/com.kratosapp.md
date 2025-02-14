@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.kratosapp
 appCountry: 
-released: 2021-02-01
-updated: 2021-02-01
+released: '2021-02-01'
+updated: '2021-02-01'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

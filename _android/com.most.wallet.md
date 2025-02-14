@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.most.wallet
 appCountry: 
-released: 2022-02-04
-updated: 2025-02-06
+released: '2022-02-04'
+updated: '2025-02-06'
 version: '1.5.42'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-20
+date: '2024-07-20'
 signer: 
 reviewArchive: 
 twitter: 

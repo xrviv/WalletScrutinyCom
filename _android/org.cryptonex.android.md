@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: org.cryptonex.android
 appCountry: 
-released: 2019-06-15
-updated: 2020-03-18
+released: '2019-06-15'
+updated: '2020-03-18'
 version: '2.4.9'
 stars: 1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: Cryptonex_CNX

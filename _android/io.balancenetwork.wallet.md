@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.balancenetwork.wallet
 appCountry: 
-released: 2022-05-06
-updated: 2024-05-03
+released: '2022-05-06'
+updated: '2024-05-03'
 version: '1.0.23'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-10-31
+date: '2024-10-31'
 signer: 
 reviewArchive: 
 twitter: balancenetwork_

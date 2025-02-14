@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: it.casatta.testnet
 appCountry: 
-released: 2020-05-17
-updated: 2021-08-06
+released: '2020-05-17'
+updated: '2021-08-06'
 version: '1.20-testnet'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

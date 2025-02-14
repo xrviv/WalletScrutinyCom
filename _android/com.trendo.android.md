@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.trendo.android
 appCountry: 
-released: 2021-10-05
-updated: 2025-02-02
+released: '2021-10-05'
+updated: '2025-02-02'
 version: '3.9.32_googleplay'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-04
+date: '2023-04-04'
 signer: 
 reviewArchive: 
 twitter: 

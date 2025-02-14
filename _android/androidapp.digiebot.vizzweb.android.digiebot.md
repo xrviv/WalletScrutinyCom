@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: androidapp.digiebot.vizzweb.android.digiebot
 appCountry: 
-released: 2019-01-24
-updated: 2021-08-16
+released: '2019-01-24'
+updated: '2021-08-16'
 version: '1.24'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

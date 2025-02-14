@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.fortuvest.fortuvest
 appCountry: 
-released: 2020-03-27
-updated: 2020-03-27
+released: '2020-03-27'
+updated: '2020-03-27'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

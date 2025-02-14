@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.cryptominer.btc.miner.cloud.mining
 appCountry: 
-released: 2021-07-31
-updated: 2021-10-20
+released: '2021-07-31'
+updated: '2021-10-20'
 version: '1.2'
 stars: 3.7
 ratings: 3598
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2021-11-16
+date: '2021-11-16'
 signer: 
 reviewArchive: 
 twitter: 

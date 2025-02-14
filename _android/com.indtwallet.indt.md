@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.indtwallet.indt
 appCountry: 
-released: 2022-09-26
-updated: 2023-05-23
+released: '2022-09-26'
+updated: '2023-05-23'
 version: '1.0.15'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

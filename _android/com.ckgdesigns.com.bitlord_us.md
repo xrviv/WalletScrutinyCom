@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.ckgdesigns.com.bitlord_us
 appCountry: 
-released: 2019-09-26
-updated: 2019-09-27
+released: '2019-09-26'
+updated: '2019-09-27'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

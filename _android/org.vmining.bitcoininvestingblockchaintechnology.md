@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: org.vmining.bitcoininvestingblockchaintechnology
 appCountry: 
-released: 2020-11-12
-updated: 2020-11-12
+released: '2020-11-12'
+updated: '2020-11-12'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-06
+date: '2021-10-06'
 signer: 
 reviewArchive: 
 twitter: 

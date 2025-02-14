@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.application.easyexchangrpro
 appCountry: 
-released: 2022-03-29
-updated: 2022-06-22
+released: '2022-03-29'
+updated: '2022-06-22'
 version: '2.4.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-10
+date: '2023-05-10'
 signer: 
 reviewArchive: 
 twitter: 

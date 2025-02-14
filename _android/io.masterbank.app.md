@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: io.masterbank.app
 appCountry: 
-released: 2021-10-29
-updated: 2023-08-23
+released: '2021-10-29'
+updated: '2023-08-23'
 version: '0.11.1'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nobtc
 appHashes: 
-date: 2024-08-19
+date: '2024-08-19'
 signer: 
 reviewArchive: 
 twitter: masterpay7

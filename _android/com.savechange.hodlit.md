@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.savechange.hodlit
 appCountry: 
-released: 2020-04-18
-updated: 2020-11-16
+released: '2020-04-18'
+updated: '2020-11-16'
 version: '1.0.12'
 stars: 2.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: hodlitapp

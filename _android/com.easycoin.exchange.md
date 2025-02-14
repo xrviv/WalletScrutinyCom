@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.easycoin.exchange
 appCountry: 
-released: 2022-05-16
-updated: 2023-07-07
+released: '2022-05-16'
+updated: '2023-07-07'
 version: '1.0.76'
 stars: 5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-07-01
+date: '2024-07-01'
 signer: 
 reviewArchive: 
 twitter: EasyCoinsCrypto

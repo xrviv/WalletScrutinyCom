@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.emet.faswet
 appCountry: 
-released: 2020-06-08
-updated: 2021-07-14
+released: '2020-06-08'
+updated: '2021-07-14'
 version: '1.9.2'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-10-28
+date: '2024-10-28'
 signer: 
 reviewArchive: 
 twitter: emet_group_eng

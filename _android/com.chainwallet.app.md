@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.chainwallet.app
 appCountry: 
-released: 2023-01-03
-updated: 2024-08-07
+released: '2023-01-03'
+updated: '2024-08-07'
 version: '1.0.35'
 stars: 3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-11-19
+date: '2024-11-19'
 signer: 
 reviewArchive: 
 twitter: chain

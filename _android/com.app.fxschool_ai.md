@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.app.fxschool_ai
 appCountry: 
-released: 2022-03-04
-updated: 2024-01-21
+released: '2022-03-04'
+updated: '2024-01-21'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-30
+date: '2024-07-30'
 signer: 
 reviewArchive: 
 twitter: 

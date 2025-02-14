@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.abbc.aladdin.pro
 appCountry: us
-released: 2019-11-15
-updated: 2023-02-03
+released: '2019-11-15'
+updated: '2023-02-03'
 version: '1.15.7'
 stars: 4.8
 ratings: 5401
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-05
+date: '2024-10-05'
 signer: 
 reviewArchive: 
 twitter: abbcfoundation

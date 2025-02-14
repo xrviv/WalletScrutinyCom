@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: vexel.com
 appCountry: 
-released: 2021-04-27
-updated: 2023-10-20
+released: '2021-04-27'
+updated: '2023-10-20'
 version: '1.51.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-10-16
+date: '2024-10-16'
 signer: 
 reviewArchive: 
 twitter: 

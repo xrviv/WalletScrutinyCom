@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.bitcoinindia.Btciapp
 appCountry: 
-released: 2018-06-11
-updated: 2021-07-29
+released: '2018-06-11'
+updated: '2021-07-29'
 version: '3.1.45'
 stars: 1.5
 ratings: 1341
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-09-25
+date: '2021-09-25'
 signer: 
 reviewArchive: 
 twitter: BTC_india

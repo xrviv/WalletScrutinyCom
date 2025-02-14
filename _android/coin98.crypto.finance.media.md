@@ -8,8 +8,8 @@ authors:
 users: 500000
 appId: coin98.crypto.finance.media
 appCountry: us
-released: 2019-12-19
-updated: 2025-01-17
+released: '2019-12-19'
+updated: '2025-01-17'
 version: '15.8.7'
 stars: 4.2
 ratings: 18096
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-15
+date: '2024-07-15'
 signer: 
 reviewArchive: 
 twitter: coin98_wallet

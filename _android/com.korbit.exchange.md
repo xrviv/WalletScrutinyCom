@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.korbit.exchange
 appCountry: us
-released: 2018-07-22
-updated: 2025-02-11
+released: '2018-07-22'
+updated: '2025-02-11'
 version: '10.7.2'
 stars: 2.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-10
+date: '2021-09-10'
 signer: 
 reviewArchive: 
 twitter: 

@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: com.sparkpoint
 appCountry: us
-released: 2019-07-20
-updated: 2023-08-24
+released: '2019-07-20'
+updated: '2023-08-24'
 version: '12.1.1'
 stars: 3.7
 ratings: 608
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: sparkpointio

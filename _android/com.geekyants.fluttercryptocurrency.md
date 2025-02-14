@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.geekyants.fluttercryptocurrency
 appCountry: 
-released: 2020-04-30
-updated: 2020-04-30
+released: '2020-04-30'
+updated: '2020-04-30'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

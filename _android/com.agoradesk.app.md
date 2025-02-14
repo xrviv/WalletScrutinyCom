@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.agoradesk.app
 appCountry: 
-released: 2022-08-18
-updated: 2024-05-28
+released: '2022-08-18'
+updated: '2024-05-28'
 version: '1.1.39'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty: https://agoradesk.com/security-bounty-whitehat
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-08-17
+date: '2023-08-17'
 signer: 
 reviewArchive: 
 twitter: AgoraDesk

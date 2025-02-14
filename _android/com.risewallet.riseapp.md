@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.risewallet.riseapp
 appCountry: ca
-released: 2019-03-08
-updated: 2022-04-14
+released: '2019-03-08'
+updated: '2022-04-14'
 version: '1.7.0'
 stars: 4.7
 ratings: 42
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-04-16
+date: '2023-04-16'
 signer: 
 reviewArchive: 
 twitter: RiseWallet

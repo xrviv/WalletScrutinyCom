@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.net_cents.netcents2
 appCountry: us
-released: 2017-10-12
-updated: 2022-11-19
+released: '2017-10-12'
+updated: '2022-11-19'
 version: '2.11.15'
 stars: 3.5
 ratings: 150
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-11
+date: '2023-01-11'
 signer: 
 reviewArchive: 
 twitter: netcentshq

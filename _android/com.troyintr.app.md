@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.troyintr.app
 appCountry: 
-released: 2019-05-23
-updated: 2019-05-23
+released: '2019-05-23'
+updated: '2019-05-23'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

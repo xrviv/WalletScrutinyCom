@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: us.atayen.ihave
 appCountry: 
-released: 2022-05-24
-updated: 2023-04-24
+released: '2022-05-24'
+updated: '2023-04-24'
 version: '1.5.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-12-08
+date: '2024-12-08'
 signer: 
 reviewArchive: 
 twitter: 

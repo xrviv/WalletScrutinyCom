@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.coinstats.crypto.portfolio
 appCountry: 
-released: 2018-04-27
-updated: 2025-02-11
+released: '2018-04-27'
+updated: '2025-02-11'
 version: '5.20.4'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-09-06
+date: '2024-09-06'
 signer: 
 reviewArchive: 
 twitter: CoinStats

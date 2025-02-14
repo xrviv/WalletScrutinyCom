@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: me.flashex.app.a
 appCountry: 
-released: 2020-08-25
-updated: 2020-08-26
+released: '2020-08-25'
+updated: '2020-08-26'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-11-26
+date: '2021-11-26'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.top1.group.international.android
 appCountry: 
-released: 2019-07-10
-updated: 2020-08-03
+released: '2019-07-10'
+updated: '2020-08-03'
 version: '3.9.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

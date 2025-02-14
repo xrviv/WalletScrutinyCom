@@ -7,8 +7,8 @@ authors:
 users: 10
 appId: augstrain.asn
 appCountry: 
-released: 2020-09-10
-updated: 2020-09-10
+released: '2020-09-10'
+updated: '2020-09-10'
 version: '8.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-08-31
+date: '2021-08-31'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.notch.token
 appCountry: 
-released: 2022-02-21
-updated: 2022-02-21
+released: '2022-02-21'
+updated: '2022-02-21'
 version: 'V1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

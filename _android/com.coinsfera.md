@@ -7,7 +7,7 @@ users: 100
 appId: com.coinsfera
 appCountry: 
 released: 
-updated: 2020-08-23
+updated: '2020-08-23'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.pro.bitcointoyou
 appCountry: 
-released: 2019-10-31
-updated: 2023-09-26
+released: '2019-10-31'
+updated: '2023-09-26'
 version: '0.0.228'
 stars: 3.1
 ratings: 1359
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-09-21
+date: '2024-09-21'
 signer: 
 reviewArchive: 
 twitter: bitcointoyou

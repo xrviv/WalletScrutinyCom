@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.zyth.app
 appCountry: 
-released: 2020-04-07
-updated: 2021-12-17
+released: '2020-04-07'
+updated: '2021-12-17'
 version: '4.3'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: UZythOfficial

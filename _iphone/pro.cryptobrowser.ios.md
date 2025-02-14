@@ -7,8 +7,8 @@ authors:
 appId: pro.cryptobrowser.ios
 appCountry: us
 idd: 1524974223
-released: 2020-09-21
-updated: 2020-09-24
+released: '2020-09-21'
+updated: '2020-09-24'
 version: '5.4.4'
 stars: 2.7
 reviews: 162
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-08-31
+date: '2024-08-31'
 signer: 
 reviewArchive: 
 twitter: 

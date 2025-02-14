@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: app.pay98
 appCountry: 
-released: 2018-05-31
-updated: 2021-07-16
+released: '2018-05-31'
+updated: '2021-07-16'
 version: '2.0.2'
 stars: 4.6
 ratings: 15329
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-04-16
+date: '2023-04-16'
 signer: 
 reviewArchive: 
 twitter: 

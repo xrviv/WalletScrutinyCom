@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.contacripto.app
 appCountry: 
-released: 2022-06-07
-updated: 2022-06-08
+released: '2022-06-07'
+updated: '2022-06-08'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-10-31
+date: '2024-10-31'
 signer: 
 reviewArchive: 
 twitter: 

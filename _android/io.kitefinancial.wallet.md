@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.kitefinancial.wallet
 appCountry: 
-released: 2020-07-22
-updated: 2023-12-07
+released: '2020-07-22'
+updated: '2023-12-07'
 version: '2.3.0'
 stars: 2.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-10
+date: '2024-07-10'
 signer: 
 reviewArchive: 
 twitter: kite_financial

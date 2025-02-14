@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: vinetexchange.android
 appCountry: 
-released: 2022-08-26
-updated: 2024-06-19
+released: '2022-08-26'
+updated: '2024-06-19'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-06-23
+date: '2024-06-23'
 signer: 
 reviewArchive: 
 twitter: 

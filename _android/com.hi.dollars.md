@@ -6,8 +6,8 @@ authors:
 users: 1000000
 appId: com.hi.dollars
 appCountry: EE
-released: 2021-11-04
-updated: 2024-11-06
+released: '2021-11-04'
+updated: '2024-11-06'
 version: '2.19.1'
 stars: 2
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-12-06
+date: '2022-12-06'
 signer: 
 reviewArchive: 
 twitter: hi_com_official

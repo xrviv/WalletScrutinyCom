@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.BitcoinsBillionaireApps.BitcoinBillionaire
 appCountry: 
-released: 2022-03-28
-updated: 2022-03-28
+released: '2022-03-28'
+updated: '2022-03-28'
 version: '0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

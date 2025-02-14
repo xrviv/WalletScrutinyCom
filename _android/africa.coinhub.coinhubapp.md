@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: africa.coinhub.coinhubapp
 appCountry: 
-released: 2021-11-21
-updated: 2022-01-25
+released: '2021-11-21'
+updated: '2022-01-25'
 version: '1.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-09-08
+date: '2023-09-08'
 signer: 
 reviewArchive: 
 twitter: 

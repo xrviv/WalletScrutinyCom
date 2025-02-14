@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: exchange.btc6x.com
 appCountry: 
-released: 2022-03-04
-updated: 2022-03-04
+released: '2022-03-04'
+updated: '2022-03-04'
 version: '1.1'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-09-26
+date: '2024-09-26'
 signer: 
 reviewArchive: 
 twitter: 

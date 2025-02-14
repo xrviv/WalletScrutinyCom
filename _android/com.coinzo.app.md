@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.coinzo.app
 appCountry: 
-released: 2021-02-24
-updated: 2021-05-11
+released: '2021-02-24'
+updated: '2021-05-11'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-03-30
+date: '2023-03-30'
 signer: 
 reviewArchive: 
 twitter: 

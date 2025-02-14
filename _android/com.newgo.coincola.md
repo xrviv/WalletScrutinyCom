@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.newgo.coincola
 appCountry: 
-released: 2017-07-07
-updated: 2025-01-21
+released: '2017-07-07'
+updated: '2025-01-21'
 version: '5.11.0'
 stars: 4.6
 ratings: 1597
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2020-12-03
+date: '2020-12-03'
 signer: 
 reviewArchive: 
 twitter: CoinCola_Global

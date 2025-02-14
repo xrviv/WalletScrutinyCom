@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.wirebitdigitalapp
 appCountry: 
-released: 2021-08-20
-updated: 2023-09-27
+released: '2021-08-20'
+updated: '2023-09-27'
 version: '1.12.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-30
+date: '2024-11-30'
 signer: 
 reviewArchive: 
 twitter: 

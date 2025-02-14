@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bbx.bmtc
 appCountry: us
-released: 2018-04-25
-updated: 2021-05-26
+released: '2018-04-25'
+updated: '2021-05-26'
 version: '1.3.1'
 stars: 4.2
 ratings: 129
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-11-10
+date: '2021-11-10'
 signer: 
 reviewArchive: 
 twitter: 

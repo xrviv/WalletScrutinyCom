@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.gbsystems.gbpayappsafe
 appCountry: 
-released: 2019-06-01
-updated: 2019-06-02
+released: '2019-06-01'
+updated: '2019-06-02'
 version: '1.0.0'
 stars: 3.3
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

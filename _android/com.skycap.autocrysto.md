@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.skycap.autocrysto
 appCountry: 
-released: 2019-11-18
-updated: 2020-04-27
+released: '2019-11-18'
+updated: '2020-04-27'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

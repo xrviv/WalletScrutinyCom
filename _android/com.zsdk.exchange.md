@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.zsdk.exchange
 appCountry: 
-released: 2019-01-18
-updated: 2022-10-07
+released: '2019-01-18'
+updated: '2022-10-07'
 version: '3.2.0'
 stars: 1.9
 ratings: 187
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-09-26
+date: '2024-09-26'
 signer: 
 reviewArchive: 
 twitter: ZBG_Exchange

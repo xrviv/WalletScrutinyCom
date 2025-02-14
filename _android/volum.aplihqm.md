@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: volum.aplihqm
 appCountry: 
-released: 2021-11-20
-updated: 2021-11-21
+released: '2021-11-20'
+updated: '2021-11-21'
 version: '9.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-05-17
+date: '2023-05-17'
 signer: 
 reviewArchive: 
 twitter: 

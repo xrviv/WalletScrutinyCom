@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.rodiniawallet.app
 appCountry: 
-released: 2021-08-15
-updated: 2021-11-21
+released: '2021-08-15'
+updated: '2021-11-21'
 version: '1.3.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

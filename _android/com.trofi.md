@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.trofi
 appCountry: 
-released: 2022-04-12
-updated: 2023-03-16
+released: '2022-04-12'
+updated: '2023-03-16'
 version: '3.2.7'
 stars: 4.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: yieldapp

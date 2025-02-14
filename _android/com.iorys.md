@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.iorys
 appCountry: 
-released: 2021-06-21
-updated: 2024-09-10
+released: '2021-06-21'
+updated: '2024-09-10'
 version: '1.7.14'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: 

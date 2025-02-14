@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.logisticprotrade.droidapp
 appCountry: 
-released: 2021-05-18
-updated: 2022-02-16
+released: '2021-05-18'
+updated: '2022-02-16'
 version: '1.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

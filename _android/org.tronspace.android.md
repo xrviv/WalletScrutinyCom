@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: org.tronspace.android
 appCountry: 
-released: 2021-07-03
-updated: 2023-01-04
+released: '2021-07-03'
+updated: '2023-01-04'
 version: '2.2.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-12-27
+date: '2024-12-27'
 signer: 
 reviewArchive: 
 twitter: Kointrack_tech

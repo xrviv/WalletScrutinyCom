@@ -7,8 +7,8 @@ authors:
 appId: com.billance.cn
 appCountry: us
 idd: '1610497530'
-released: 2022-03-01
-updated: 2025-02-09
+released: '2022-03-01'
+updated: '2025-02-09'
 version: '3.8.9'
 stars: 4.3
 reviews: 20
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-01
+date: '2023-07-01'
 signer: 
 reviewArchive: 
 twitter: tapbitglobal

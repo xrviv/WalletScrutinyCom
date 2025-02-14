@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: co.bandicoot.ztrader
 appCountry: 
-released: 2014-05-04
-updated: 2016-08-07
+released: '2014-05-04'
+updated: '2016-08-07'
 version: '1.2.2'
 stars: 3.4
 ratings: 1211
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

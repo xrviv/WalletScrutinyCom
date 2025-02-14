@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.didi.message
 appCountry: 
-released: 2020-04-30
-updated: 2022-05-26
+released: '2020-04-30'
+updated: '2022-05-26'
 version: '1.16.0'
 stars: 4.3
 ratings: 1141
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: DiDimessage

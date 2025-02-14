@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.ara.WMUWallet
 appCountry: 
-released: 2021-07-17
-updated: 2021-07-27
+released: '2021-07-17'
+updated: '2021-07-27'
 version: '1.00.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-11-29
+date: '2024-11-29'
 signer: 
 reviewArchive: 
 twitter: 

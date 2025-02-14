@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: em.elevationmarkets
 appCountry: 
-released: 2021-12-21
-updated: 2021-12-22
+released: '2021-12-21'
+updated: '2021-12-22'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

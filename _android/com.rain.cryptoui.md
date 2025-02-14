@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.rain.cryptoui
 appCountry: 
-released: 2021-05-13
-updated: 2023-08-23
+released: '2021-05-13'
+updated: '2023-08-23'
 version: '1.3.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: fewusers
 appHashes: 
-date: 2024-08-19
+date: '2024-08-19'
 signer: 
 reviewArchive: 
 twitter: 

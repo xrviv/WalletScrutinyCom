@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.aax.exchange
 appCountry: 
-released: 2019-03-04
-updated: 2022-10-31
+released: '2019-03-04'
+updated: '2022-10-31'
 version: '3.3.7'
 stars: 3.8
 ratings: 3299
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: AAXExchange

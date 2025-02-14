@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.herufinance
 appCountry: 
-released: 2022-08-03
-updated: 2022-12-05
+released: '2022-08-03'
+updated: '2022-12-05'
 version: '1.2.7'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-30
+date: '2024-07-30'
 signer: 
 reviewArchive: 
 twitter: 

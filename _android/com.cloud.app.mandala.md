@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.cloud.app.mandala
 appCountry: us
-released: 2021-08-19
-updated: 2022-12-01
+released: '2021-08-19'
+updated: '2022-12-01'
 version: '1.2.0'
 stars: 3.2
 ratings: 155
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-05-17
+date: '2023-05-17'
 signer: 
 reviewArchive: 
 twitter: mandalaex

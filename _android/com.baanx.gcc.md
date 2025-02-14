@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.baanx.gcc
 appCountry: 
-released: 2020-06-14
-updated: 2020-09-17
+released: '2020-06-14'
+updated: '2020-09-17'
 version: '1.2.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.paypack.company
 appCountry: 
-released: 2021-01-04
-updated: 2021-02-04
+released: '2021-01-04'
+updated: '2021-02-04'
 version: '1.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

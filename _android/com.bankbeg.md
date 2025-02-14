@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.bankbeg
 appCountry: 
-released: 2021-10-31
-updated: 2021-10-31
+released: '2021-10-31'
+updated: '2021-10-31'
 version: '2.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: 

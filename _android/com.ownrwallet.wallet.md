@@ -8,8 +8,8 @@ authors:
 users: 100000
 appId: com.ownrwallet.wallet
 appCountry: 
-released: 2019-05-20
-updated: 2023-09-20
+released: '2019-05-20'
+updated: '2023-09-20'
 version: '1.72.0'
 stars: 4
 ratings: 2072
@@ -23,10 +23,10 @@ bugbounty:
 meta: stale
 verdict: nosource
 appHashes: 
-date: 2024-09-14
+date: '2024-09-14'
 signer: 
 reviewArchive:
-- date: 2020-12-01
+- date: '2020-12-01'
   version: '1.10.1'
   appHashes: []
   gitRevision: 8af53e3cbda241989d723aaebf71781579e70c3b

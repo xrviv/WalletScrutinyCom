@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: io.emcd.emcd_flutter.prod
 appCountry: 
-released: 2022-01-03
-updated: 2025-02-04
+released: '2022-01-03'
+updated: '2025-02-04'
 version: '2.9.1'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-07
+date: '2023-07-07'
 signer: 
 reviewArchive: 
 twitter: emcd_io

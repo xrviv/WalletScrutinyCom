@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.zeux.finapp
 appCountry: gb
-released: 2019-05-22
-updated: 2021-10-07
+released: '2019-05-22'
+updated: '2021-10-07'
 version: '2.20.0'
 stars: 4.3
 ratings: 1655
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-09-04
+date: '2023-09-04'
 signer: 
 reviewArchive: 
 twitter: ZeuxApp

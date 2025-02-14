@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.application.koinpark
 appCountry: 
-released: 2023-02-04
-updated: 2025-02-05
+released: '2023-02-04'
+updated: '2025-02-05'
 version: '1.58'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-29
+date: '2023-07-29'
 signer: 
 reviewArchive: 
 twitter: KoinparkInfo

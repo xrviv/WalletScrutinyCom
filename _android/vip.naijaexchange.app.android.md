@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: vip.naijaexchange.app.android
 appCountry: 
-released: 2021-09-09
-updated: 2021-09-14
+released: '2021-09-09'
+updated: '2021-09-14'
 version: '1.0.1'
 stars: 4.7
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,7 +7,7 @@ users: 10
 appId: com.bluepipscapital.webviewapp
 appCountry: 
 released: 
-updated: 2020-11-12
+updated: '2020-11-12'
 version: '2.6.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

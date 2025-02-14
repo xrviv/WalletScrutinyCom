@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.vspark.vhwallet
 appCountry: 
-released: 2018-06-07
-updated: 2019-10-04
+released: '2018-06-07'
+updated: '2019-10-04'
 version: '6.4.13'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-03
+date: '2023-05-03'
 signer: 
 reviewArchive: 
 twitter: 

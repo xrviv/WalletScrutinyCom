@@ -7,8 +7,8 @@ authors:
 appId: com.bitcoin.cuzdan
 appCountry: 
 idd: 1317167602
-released: 2017-11-28
-updated: 2019-01-21
+released: '2017-11-28'
+updated: '2019-01-21'
 version: '1.1'
 stars: 5
 reviews: 1
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-07-15
+date: '2021-07-15'
 signer: 
 reviewArchive: 
 twitter: 

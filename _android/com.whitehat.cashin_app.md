@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.whitehat.cashin_app
 appCountry: 
-released: 2022-07-16
-updated: 2024-09-23
+released: '2022-07-16'
+updated: '2024-09-23'
 version: '1.0.0'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2023-07-19
+date: '2023-07-19'
 signer: 
 reviewArchive: 
 twitter: cashin_app

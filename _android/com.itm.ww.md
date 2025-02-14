@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.itm.ww
 appCountry: 
-released: 2018-10-14
-updated: 2019-03-22
+released: '2018-10-14'
+updated: '2019-03-22'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-10-31
+date: '2024-10-31'
 signer: 
 reviewArchive: 
 twitter: 

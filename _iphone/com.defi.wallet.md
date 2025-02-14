@@ -7,8 +7,8 @@ authors:
 appId: com.defi.wallet
 appCountry: 
 idd: 1512048310
-released: 2020-05-20
-updated: 2025-02-12
+released: '2020-05-20'
+updated: '2025-02-12'
 version: '2.06.1'
 stars: 4.7
 reviews: 11907
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2021-10-24
+date: '2021-10-24'
 signer: 
 reviewArchive: 
 twitter: cryptocom

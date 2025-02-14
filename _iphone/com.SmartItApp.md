@@ -7,8 +7,8 @@ authors:
 appId: com.SmartItApp
 appCountry: us
 idd: 1526092476
-released: 2020-10-28
-updated: 2024-06-19
+released: '2020-10-28'
+updated: '2024-06-19'
 version: '1.0.9'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-03-12
+date: '2024-03-12'
 signer: 
 reviewArchive: 
 twitter: 

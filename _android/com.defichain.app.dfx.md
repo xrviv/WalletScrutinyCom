@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.defichain.app.dfx
 appCountry: 
-released: 2021-08-24
-updated: 2023-03-22
+released: '2021-08-24'
+updated: '2023-03-22'
 version: '1.20.1'
 stars: 3.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nobtc
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: DFX_Swiss

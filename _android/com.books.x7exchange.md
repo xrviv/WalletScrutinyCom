@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.books.x7exchange
 appCountry: 
-released: 2022-01-02
-updated: 2023-01-12
+released: '2022-01-02'
+updated: '2023-01-12'
 version: '2.3'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: x7exchange

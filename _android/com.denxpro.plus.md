@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.denxpro.plus
 appCountry: 
-released: 2022-02-10
-updated: 2023-03-10
+released: '2022-02-10'
+updated: '2023-03-10'
 version: '1.6.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-25
+date: '2024-07-25'
 signer: 
 reviewArchive: 
 twitter: 

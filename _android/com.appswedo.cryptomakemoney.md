@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.appswedo.cryptomakemoney
 appCountry: 
-released: 2021-05-19
-updated: 2021-05-19
+released: '2021-05-19'
+updated: '2021-05-19'
 version: '1.11'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: 

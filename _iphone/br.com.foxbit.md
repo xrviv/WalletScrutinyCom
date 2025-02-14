@@ -7,8 +7,8 @@ authors:
 appId: br.com.foxbit
 appCountry: br
 idd: 1435319194
-released: 2019-03-24
-updated: 2025-01-31
+released: '2019-03-24'
+updated: '2025-01-31'
 version: '3.15.5'
 stars: 4.4
 reviews: 5440
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-16
+date: '2023-04-16'
 signer: 
 reviewArchive: 
 twitter: foxbit

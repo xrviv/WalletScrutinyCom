@@ -7,8 +7,8 @@ authors:
 appId: com.papaya.blackcatcard
 appCountry: lv
 idd: 1449352913
-released: 2019-03-07
-updated: 2024-08-26
+released: '2019-03-07'
+updated: '2024-08-26'
 version: '1.2.65'
 stars: 3.6
 reviews: 74
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-03
+date: '2021-09-03'
 signer: 
 reviewArchive: 
 twitter: 

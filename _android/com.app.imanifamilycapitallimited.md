@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.app.imanifamilycapitallimited
 appCountry: 
-released: 2021-06-04
-updated: 2021-11-19
+released: '2021-06-04'
+updated: '2021-11-19'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-08-13
+date: '2024-08-13'
 signer: 
 reviewArchive: 
 twitter: 

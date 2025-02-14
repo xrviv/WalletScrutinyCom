@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.bestwallet.mobile
 appCountry: 
-released: 2023-07-24
-updated: 2025-02-03
+released: '2023-07-24'
+updated: '2025-02-03'
 version: '2.4.5'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2024-08-30
+date: '2024-08-30'
 signer: 
 reviewArchive: 
 twitter: bestwallethq

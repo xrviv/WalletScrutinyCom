@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.ewebmeta.ewebmeta
 appCountry: 
-released: 2022-03-13
-updated: 2023-07-06
+released: '2022-03-13'
+updated: '2023-07-06'
 version: '2.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: 

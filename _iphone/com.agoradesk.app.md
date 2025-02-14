@@ -7,8 +7,8 @@ authors:
 appId: com.agoradesk.app
 appCountry: us
 idd: '1617601678'
-released: 2022-08-19
-updated: 2024-05-30
+released: '2022-08-19'
+updated: '2024-05-30'
 version: '1.1.39'
 stars: 4.6
 reviews: 20
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-08-17
+date: '2023-08-17'
 signer: 
 reviewArchive: 
 twitter: AgoraDesk

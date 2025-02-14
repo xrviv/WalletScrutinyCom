@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.prodoge.prodoge
 appCountry: 
-released: 2019-09-17
-updated: 2024-07-19
+released: '2019-09-17'
+updated: '2024-07-19'
 version: '3.35'
 stars: 5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-25
+date: '2024-07-25'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.deribit
 appCountry: 
-released: 2018-01-10
-updated: 2025-01-31
+released: '2018-01-10'
+updated: '2025-01-31'
 version: '3.13.0'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-03-31
+date: '2023-03-31'
 signer: 
 reviewArchive: 
 twitter: deribitexchange

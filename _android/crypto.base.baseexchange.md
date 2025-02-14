@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: crypto.base.baseexchange
 appCountry: 
-released: 2019-06-05
-updated: 2022-03-29
+released: '2019-06-05'
+updated: '2022-03-29'
 version: '5.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: techpay_io

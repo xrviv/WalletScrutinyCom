@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.aievemobile
 appCountry: 
-released: 2018-11-13
-updated: 2019-05-25
+released: '2018-11-13'
+updated: '2019-05-25'
 version: '1.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

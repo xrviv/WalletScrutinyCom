@@ -7,8 +7,8 @@ authors:
 users: 100
 appId: net.cryptofreeapp.crypto.com.buy.bitcoin.now
 appCountry: 
-released: 2021-07-28
-updated: 2021-07-28
+released: '2021-07-28'
+updated: '2021-07-28'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-08-26
+date: '2021-08-26'
 signer: 
 reviewArchive: 
 twitter: 

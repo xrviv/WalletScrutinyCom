@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.app.upbots
 appCountry: 
-released: 2021-12-14
-updated: 2022-02-25
+released: '2021-12-14'
+updated: '2022-02-25'
 version: '1.9.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: upbots

@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: xyz.mara.wallet
 appCountry: 
-released: 2022-05-24
-updated: 2023-10-19
+released: '2022-05-24'
+updated: '2023-10-19'
 version: '2.0.1'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: TheMARAverse

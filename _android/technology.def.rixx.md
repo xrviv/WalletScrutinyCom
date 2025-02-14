@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: technology.def.rixx
 appCountry: 
-released: 2021-04-27
-updated: 2021-06-21
+released: '2021-04-27'
+updated: '2021-06-21'
 version: '1.0.42'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

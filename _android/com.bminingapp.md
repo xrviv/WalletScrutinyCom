@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.bminingapp
 appCountry: 
-released: 2020-08-20
-updated: 2020-09-18
+released: '2020-08-20'
+updated: '2020-09-18'
 version: '1.4.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-13
+date: '2023-05-13'
 signer: 
 reviewArchive: 
 twitter: 

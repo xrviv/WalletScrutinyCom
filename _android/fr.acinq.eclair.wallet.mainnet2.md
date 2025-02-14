@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: fr.acinq.eclair.wallet.mainnet2
 appCountry: 
-released: 2018-04-12
-updated: 2022-03-01
+released: '2018-04-12'
+updated: '2022-03-01'
 version: '0.4.18'
 stars: 4.1
 ratings: 377
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: ftbfs
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: acinq_co

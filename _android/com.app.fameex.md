@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.app.fameex
 appCountry: us
-released: 2020-08-10
-updated: 2024-10-21
+released: '2020-08-10'
+updated: '2024-10-21'
 version: '3.5.9'
 stars: 3.6
 ratings: 1588
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-04
+date: '2024-12-04'
 signer: 
 reviewArchive: 
 twitter: FameexGlobal

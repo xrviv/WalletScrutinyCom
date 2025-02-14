@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.BlockchainExplorer.DormantBitcoinSeeker
 appCountry: 
-released: 2022-06-04
-updated: 2023-01-15
+released: '2022-06-04'
+updated: '2023-01-15'
 version: '1.0.9'
 stars: 3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-09
+date: '2023-05-09'
 signer: 
 reviewArchive: 
 twitter: 

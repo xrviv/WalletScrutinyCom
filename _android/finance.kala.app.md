@@ -7,7 +7,7 @@ users: 1000
 appId: finance.kala.app
 appCountry: 
 released: 
-updated: 2021-10-05
+updated: '2021-10-05'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: 

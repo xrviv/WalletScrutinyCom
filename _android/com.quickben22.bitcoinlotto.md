@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.quickben22.bitcoinlotto
 appCountry: 
-released: 2018-03-29
-updated: 2018-04-24
+released: '2018-03-29'
+updated: '2018-04-24'
 version: 'version 0.92'
 stars: 3.8
 ratings: 53
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

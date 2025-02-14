@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.nebeus.android
 appCountry: gt
-released: 2021-05-24
-updated: 2024-11-07
+released: '2021-05-24'
+updated: '2024-11-07'
 version: '2.1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-02-25
+date: '2023-02-25'
 signer: 
 reviewArchive: 
 twitter: NebeusWorld

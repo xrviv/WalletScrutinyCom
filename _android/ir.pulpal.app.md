@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: ir.pulpal.app
 appCountry: 
-released: 2022-01-06
-updated: 2022-09-06
+released: '2022-01-06'
+updated: '2022-09-06'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: 

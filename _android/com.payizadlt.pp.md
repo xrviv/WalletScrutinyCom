@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.payizadlt.pp
 appCountry: us
-released: 2021-03-02
-updated: 2021-04-17
+released: '2021-03-02'
+updated: '2021-04-17'
 version: '8.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: payizamoney

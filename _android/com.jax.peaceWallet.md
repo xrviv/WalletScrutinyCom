@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.jax.peaceWallet
 appCountry: 
-released: 2022-03-14
-updated: 2023-10-05
+released: '2022-03-14'
+updated: '2023-10-05'
 version: '2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-08-07
+date: '2024-08-07'
 signer: 
 reviewArchive: 
 twitter: 

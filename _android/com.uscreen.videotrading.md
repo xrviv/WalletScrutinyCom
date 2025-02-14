@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.uscreen.videotrading
 appCountry: 
-released: 2021-12-07
-updated: 2024-11-12
+released: '2021-12-07'
+updated: '2024-11-12'
 version: '2.6.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-12-15
+date: '2024-12-15'
 signer: 
 reviewArchive: 
 twitter: 

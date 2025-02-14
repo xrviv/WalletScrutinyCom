@@ -7,8 +7,8 @@ authors:
 users: 500
 appId: com.ddcday.wallex
 appCountry: 
-released: 2021-09-09
-updated: 2021-09-09
+released: '2021-09-09'
+updated: '2021-09-09'
 version: '1'
 stars: 2.1
 ratings: 8
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-11-26
+date: '2021-11-26'
 signer: 
 reviewArchive: 
 twitter: 

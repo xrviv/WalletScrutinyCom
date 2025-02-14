@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.citify.crypto.exchange
 appCountry: 
-released: 2019-09-18
-updated: 2019-09-18
+released: '2019-09-18'
+updated: '2019-09-18'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: 

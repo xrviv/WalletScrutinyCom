@@ -7,8 +7,8 @@ authors:
 appId: com.maicoin.maicoin
 appCountry: us
 idd: 1439583926
-released: 2018-12-20
-updated: 2022-04-12
+released: '2018-12-20'
+updated: '2022-04-12'
 version: '4.0.0'
 stars: 4.8
 reviews: 10
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: Max_exch

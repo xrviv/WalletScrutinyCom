@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.ocw.onlinecoldwallet
 appCountry: 
-released: 2021-10-01
-updated: 2022-05-27
+released: '2021-10-01'
+updated: '2022-05-27'
 version: '2.2.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: ocwallet

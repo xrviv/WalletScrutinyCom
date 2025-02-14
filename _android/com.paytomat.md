@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.paytomat
 appCountry: 
-released: 2018-06-20
-updated: 2021-02-01
+released: '2018-06-20'
+updated: '2021-02-01'
 version: '1.37.2'
 stars: 4.1
 ratings: 798
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: paytomat

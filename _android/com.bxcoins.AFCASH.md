@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.bxcoins.AFCASH
 appCountry: 
-released: 2021-02-19
-updated: 2021-02-20
+released: '2021-02-19'
+updated: '2021-02-20'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-01-31
+date: '2022-01-31'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.foruspf.com
 appCountry: 
-released: 2022-06-02
-updated: 2022-07-19
+released: '2022-06-02'
+updated: '2022-07-19'
 version: '2.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

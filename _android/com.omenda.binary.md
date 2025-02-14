@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.omenda.binary
 appCountry: 
-released: 2017-05-28
-updated: 2017-05-28
+released: '2017-05-28'
+updated: '2017-05-28'
 version: '3.0.0.2'
 stars: 3.9
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

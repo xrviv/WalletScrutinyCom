@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.trusteeplus
 appCountry: 
-released: 2022-07-01
-updated: 2025-01-28
+released: '2022-07-01'
+updated: '2025-01-28'
 version: '1.32.3'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-08-23
+date: '2023-08-23'
 signer: 
 reviewArchive: 
 twitter: TrusteeGlobal

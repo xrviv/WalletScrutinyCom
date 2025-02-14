@@ -7,7 +7,7 @@ users: 500
 appId: net.elquirex.elquirexapplication
 appCountry: 
 released: 
-updated: 2020-11-15
+updated: '2020-11-15'
 version: '1.1'
 stars: 2.5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

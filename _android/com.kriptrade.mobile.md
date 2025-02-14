@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.kriptrade.mobile
 appCountry: 
-released: 2021-10-20
-updated: 2025-01-21
+released: '2021-10-20'
+updated: '2025-01-21'
 version: '3.0.7'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-09-06
+date: '2023-09-06'
 signer: 
 reviewArchive: 
 twitter: kriptradetr

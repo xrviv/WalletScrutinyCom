@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: team.noones.mobilemessenger
 appCountry: 
-released: 2023-05-04
-updated: 2025-01-24
+released: '2023-05-04'
+updated: '2025-01-24'
 version: '1.9.0'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-30
+date: '2023-07-30'
 signer: 
 reviewArchive: 
 twitter: noonesapp

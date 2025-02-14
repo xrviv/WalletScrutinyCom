@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: neo.org.freewallet.app
 appCountry: 
-released: 2017-11-29
-updated: 2021-09-20
+released: '2017-11-29'
+updated: '2021-09-20'
 version: '2.6.8'
 stars: 3.1
 ratings: 281
@@ -23,10 +23,10 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: []
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive:
-- date: 2021-05-02
+- date: '2021-05-02'
   version: '2.5.2'
   appHashes: []
   gitRevision: d7cf0c0967057bb9f06fb8ec6cbf1097fe1da885

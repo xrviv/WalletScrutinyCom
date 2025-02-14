@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.oduwamultiwallet
 appCountry: 
-released: 2021-07-24
-updated: 2022-10-07
+released: '2021-07-24'
+updated: '2022-10-07'
 version: '1.1.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-11-04
+date: '2024-11-04'
 signer: 
 reviewArchive: 
 twitter: Oduwacoin

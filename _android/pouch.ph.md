@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: pouch.ph
 appCountry: 
-released: 2021-09-08
-updated: 2025-02-06
+released: '2021-09-08'
+updated: '2025-02-06'
 version: '1.2.16'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-06-22
+date: '2022-06-22'
 signer: 
 reviewArchive: 
 twitter: 

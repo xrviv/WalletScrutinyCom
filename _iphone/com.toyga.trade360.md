@@ -7,8 +7,8 @@ authors:
 appId: com.toyga.trade360
 appCountry: jo
 idd: 979206998
-released: 2015-09-16
-updated: 2022-10-14
+released: '2015-09-16'
+updated: '2022-10-14'
 version: '7.4.0'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: Trade360_LTD

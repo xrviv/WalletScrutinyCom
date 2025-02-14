@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.lykkex.LykkeWallet
 appCountry: de
-released: 2016-08-25
-updated: 2024-04-21
+released: '2016-08-25'
+updated: '2024-04-21'
 version: '13.1.1'
 stars: 3.9
 ratings: 581
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-03-09
+date: '2021-03-09'
 signer: 
 reviewArchive: 
 twitter: Lykke

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.cbasefintechlab.exchange
 appCountry: 
-released: 2018-11-23
-updated: 2020-02-25
+released: '2018-11-23'
+updated: '2020-02-25'
 version: '1.2.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-21
+date: '2023-04-21'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.npbfx.app
 appCountry: 
-released: 2022-05-04
-updated: 2025-02-05
+released: '2022-05-04'
+updated: '2025-02-05'
 version: '1.14.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2025-02-05
+date: '2025-02-05'
 signer: 
 reviewArchive: 
 twitter: 

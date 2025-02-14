@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.blockchainacuity.wallet
 appCountry: 
-released: 2018-08-01
-updated: 2018-08-01
+released: '2018-08-01'
+updated: '2018-08-01'
 version: '5.37'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-12-05
+date: '2021-12-05'
 signer: 
 reviewArchive: 
 twitter: 

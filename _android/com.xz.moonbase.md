@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.xz.moonbase
 appCountry: 
-released: 2021-07-07
-updated: 2021-12-26
+released: '2021-07-07'
+updated: '2021-12-26'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

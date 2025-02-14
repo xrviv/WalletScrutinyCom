@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.arzypto.my
 appCountry: 
-released: 2020-08-15
-updated: 2025-01-11
+released: '2020-08-15'
+updated: '2025-01-11'
 version: '2.4.8'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-06-30
+date: '2023-06-30'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.kucoin.wallet
 appCountry: 
-released: 2022-05-31
-updated: 2025-02-07
+released: '2022-05-31'
+updated: '2025-02-07'
 version: '5.3.7'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-02-10
+date: '2023-02-10'
 signer: 
 reviewArchive: 
 twitter: KuWallet

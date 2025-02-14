@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.app.bitayindia
 appCountry: 
-released: 2022-05-25
-updated: 2022-05-25
+released: '2022-05-25'
+updated: '2022-05-25'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

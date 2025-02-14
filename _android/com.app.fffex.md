@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.app.fffex
 appCountry: 
-released: 2019-06-16
-updated: 2019-11-24
+released: '2019-06-16'
+updated: '2019-11-24'
 version: '2.0.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-11
+date: '2023-05-11'
 signer: 
 reviewArchive: 
 twitter: 

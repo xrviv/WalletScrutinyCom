@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.crypto2cash.exchange
 appCountry: 
-released: 2018-12-06
-updated: 2024-08-22
+released: '2018-12-06'
+updated: '2024-08-22'
 version: '2.0.6'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2023-06-13
+date: '2023-06-13'
 signer: 
 reviewArchive: 
 twitter: Crypto2CashHQ

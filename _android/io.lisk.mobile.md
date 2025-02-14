@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: io.lisk.mobile
 appCountry: 
-released: 2018-10-02
-updated: 2025-01-27
+released: '2018-10-02'
+updated: '2025-01-27'
 version: '3.0.2'
 stars: 4.1
 ratings: 189
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2025-01-29
+date: '2025-01-29'
 signer: 
 reviewArchive: 
 twitter: LiskHQ

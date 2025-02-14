@@ -7,8 +7,8 @@ authors:
 appId: com.nicehash.NiceX
 appCountry: ph
 idd: '1619979069'
-released: 2022-07-11
-updated: 2024-04-25
+released: '2022-07-11'
+updated: '2024-04-25'
 version: '1.5.2'
 stars: 5
 reviews: 1
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: NiceXExchange

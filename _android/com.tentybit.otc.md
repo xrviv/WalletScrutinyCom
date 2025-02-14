@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.tentybit.otc
 appCountry: 
-released: 2019-06-12
-updated: 2019-06-21
+released: '2019-06-12'
+updated: '2019-06-21'
 version: '1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

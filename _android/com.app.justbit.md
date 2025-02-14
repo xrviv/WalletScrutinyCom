@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.app.justbit
 appCountry: 
-released: 2022-06-24
-updated: 2022-10-20
+released: '2022-06-24'
+updated: '2022-10-20'
 version: '1.1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-09-06
+date: '2023-09-06'
 signer: 
 reviewArchive: 
 twitter: 

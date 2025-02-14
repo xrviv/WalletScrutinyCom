@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.excdev.kyros
 appCountry: 
-released: 2020-09-02
-updated: 2022-02-07
+released: '2020-09-02'
+updated: '2022-02-07'
 version: '3.2.0'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

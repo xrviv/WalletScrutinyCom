@@ -7,8 +7,8 @@ authors:
 users: 5000000
 appId: com.mexcpro.client
 appCountry: 
-released: 2020-07-23
-updated: 2025-02-08
+released: '2020-07-23'
+updated: '2025-02-08'
 version: 'VARY'
 stars: 4.4
 ratings: 12371
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-08-21
+date: '2021-08-21'
 signer: 
 reviewArchive: 
 twitter: MEXC_Global

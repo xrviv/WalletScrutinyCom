@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.mobilink.token
 appCountry: 
-released: 2019-06-26
-updated: 2019-08-17
+released: '2019-06-26'
+updated: '2019-08-17'
 version: '1.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-30
+date: '2023-05-30'
 signer: 
 reviewArchive: 
 twitter: mobilinkcoin

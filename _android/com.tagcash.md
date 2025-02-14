@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.tagcash
 appCountry: 
-released: 2016-10-19
-updated: 2022-10-30
+released: '2016-10-19'
+updated: '2022-10-30'
 version: '8.0.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-05-10
+date: '2023-05-10'
 signer: 
 reviewArchive: 
 twitter: 

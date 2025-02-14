@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.ssok
 appCountry: 
-released: 2021-08-02
-updated: 2021-08-23
+released: '2021-08-02'
+updated: '2021-08-23'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

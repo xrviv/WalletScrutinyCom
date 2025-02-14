@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: br.com.cdb
 appCountry: 
-released: 2020-08-07
-updated: 2020-11-01
+released: '2020-08-07'
+updated: '2020-11-01'
 version: '1.0.13'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

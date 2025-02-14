@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.qm.bitdata.bitexotc
 appCountry: 
-released: 2021-08-18
-updated: 2024-08-22
+released: '2021-08-18'
+updated: '2024-08-22'
 version: '1.8.6'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-09-08
+date: '2023-09-08'
 signer: 
 reviewArchive: 
 twitter: BitDATAExchange

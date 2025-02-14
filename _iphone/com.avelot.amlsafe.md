@@ -7,8 +7,8 @@ authors:
 appId: com.avelot.amlsafe
 appCountry: 
 idd: 1519145333
-released: 2020-07-28
-updated: 2025-02-09
+released: '2020-07-28'
+updated: '2025-02-09'
 version: '2.25.755'
 stars: 4.8
 reviews: 57
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-04-12
+date: '2021-04-12'
 signer: 
 reviewArchive: 
 twitter: 

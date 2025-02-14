@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.mfcoin.wallet.dev
 appCountry: 
-released: 2018-03-22
-updated: 2020-10-04
+released: '2018-03-22'
+updated: '2020-10-04'
 version: 'v4.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: obfuscated
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: MFC_tech

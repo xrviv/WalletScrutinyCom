@@ -7,8 +7,8 @@ authors:
 appId: coinflex.com.appc
 appCountry: us
 idd: 1499932851
-released: 2020-04-30
-updated: 2021-11-12
+released: '2020-04-30'
+updated: '2021-11-12'
 version: '2.7.0'
 stars: 4
 reviews: 8
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-22
+date: '2021-11-22'
 signer: 
 reviewArchive: 
 twitter: coinflexdotcom

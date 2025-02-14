@@ -6,8 +6,8 @@ authors:
 users: 5000
 appId: com.payfrequent
 appCountry: 
-released: 2020-08-06
-updated: 2020-08-15
+released: '2020-08-06'
+updated: '2020-08-15'
 version: '1.1'
 stars: 4.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

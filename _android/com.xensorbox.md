@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.xensorbox
 appCountry: 
-released: 2019-09-27
-updated: 2019-12-02
+released: '2019-09-27'
+updated: '2019-12-02'
 version: '1.3.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-06-10
+date: '2023-06-10'
 signer: 
 reviewArchive: 
 twitter: xensor_iot

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.bitcoinsuisse.online
 appCountry: pl
-released: 2021-09-21
-updated: 2025-01-28
+released: '2021-09-21'
+updated: '2025-01-28'
 version: '2.15.0'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-11-22
+date: '2021-11-22'
 signer: 
 reviewArchive: 
 twitter: BitcoinSuisseAG

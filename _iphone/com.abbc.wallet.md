@@ -7,8 +7,8 @@ authors:
 appId: com.abbc.wallet
 appCountry: us
 idd: 1475883958
-released: 2019-08-16
-updated: 2020-02-12
+released: '2019-08-16'
+updated: '2020-02-12'
 version: '1.3.3'
 stars: 5
 reviews: 1
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-09-10
+date: '2024-09-10'
 signer: 
 reviewArchive: 
 twitter: abbcfoundation

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.libertypool.lpx
 appCountry: 
-released: 2020-01-01
-updated: 2020-01-01
+released: '2020-01-01'
+updated: '2020-01-01'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

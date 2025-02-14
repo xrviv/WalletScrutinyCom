@@ -7,7 +7,7 @@ users: 10
 appId: com.qlexchange
 appCountry: 
 released: 
-updated: 2022-05-03
+updated: '2022-05-03'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

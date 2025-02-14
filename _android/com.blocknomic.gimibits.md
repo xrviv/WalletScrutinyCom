@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.blocknomic.gimibits
 appCountry: 
-released: 2019-10-30
-updated: 2020-06-11
+released: '2019-10-30'
+updated: '2020-06-11'
 version: '0.1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

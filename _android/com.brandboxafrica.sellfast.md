@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.brandboxafrica.sellfast
 appCountry: 
-released: 2020-09-22
-updated: 2021-03-15
+released: '2020-09-22'
+updated: '2021-03-15'
 version: '1.0.0'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

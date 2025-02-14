@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.bittide
 appCountry: 
-released: 2020-02-08
-updated: 2020-05-07
+released: '2020-02-08'
+updated: '2020-05-07'
 version: '1.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

@@ -9,7 +9,7 @@ users: 500
 appId: finance.get10101.app
 appCountry: 
 released: 
-updated: 2024-11-13
+updated: '2024-11-13'
 version: 'VARY'
 stars: 
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2024-08-07
+date: '2024-08-07'
 signer: 
 reviewArchive: 
 twitter: get10101

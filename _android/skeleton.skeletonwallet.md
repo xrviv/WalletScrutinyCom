@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: skeleton.skeletonwallet
 appCountry: 
-released: 2022-06-05
-updated: 2022-06-16
+released: '2022-06-05'
+updated: '2022-06-16'
 version: '1.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -8,8 +8,8 @@ authors:
 users: 1000
 appId: it.inbitcoin.altana
 appCountry: 
-released: 2017-04-18
-updated: 2024-09-15
+released: '2017-04-18'
+updated: '2024-09-15'
 version: 'VARY'
 stars: 
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-11-04
+date: '2024-11-04'
 signer: 
 reviewArchive: 
 twitter: 

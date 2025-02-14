@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.vida.live.android
 appCountry: 
-released: 2022-03-09
-updated: 2023-12-07
+released: '2022-03-09'
+updated: '2023-12-07'
 version: '1.0.2'
 stars: 2.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

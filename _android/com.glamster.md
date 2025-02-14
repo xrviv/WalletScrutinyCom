@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.glamster
 appCountry: 
-released: 2020-08-19
-updated: 2023-06-28
+released: '2020-08-19'
+updated: '2023-06-28'
 version: '4.1.1'
 stars: 2.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nosource
 appHashes: 
-date: 2024-06-23
+date: '2024-06-23'
 signer: 
 reviewArchive: 
 twitter: 

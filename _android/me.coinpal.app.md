@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: me.coinpal.app
 appCountry: 
-released: 2017-12-22
-updated: 2018-06-27
+released: '2017-12-22'
+updated: '2018-06-27'
 version: '4.1.4'
 stars: 4.3
 ratings: 116
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2022-02-10
+date: '2022-02-10'
 signer: 
 reviewArchive: 
 twitter: coinpalapp

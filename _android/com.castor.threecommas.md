@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.castor.threecommas
 appCountry: 
-released: 2018-03-02
-updated: 2023-12-07
+released: '2018-03-02'
+updated: '2023-12-07'
 version: '2.7.3'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 3commas_io

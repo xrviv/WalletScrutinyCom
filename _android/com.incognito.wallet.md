@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.incognito.wallet
 appCountry: 
-released: 2019-08-12
-updated: 2023-09-07
+released: '2019-08-12'
+updated: '2023-09-07'
 version: '5.14.0'
 stars: 3.9
 ratings: 344
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nonverifiable
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: incognitochain

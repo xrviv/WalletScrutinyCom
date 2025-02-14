@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.reyesfields.wgxqwnizbv
 appCountry: 
-released: 2021-11-30
-updated: 2021-12-01
+released: '2021-11-30'
+updated: '2021-12-01'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: 

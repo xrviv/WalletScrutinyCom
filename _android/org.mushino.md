@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: org.mushino
 appCountry: 
-released: 2020-07-01
-updated: 2021-07-05
+released: '2020-07-01'
+updated: '2021-07-05'
 version: '1.0.83'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

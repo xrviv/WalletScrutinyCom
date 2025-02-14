@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.xbts.app
 appCountry: 
-released: 2021-04-26
-updated: 2022-08-17
+released: '2021-04-26'
+updated: '2022-08-17'
 version: '0.1.29'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: wip
 appHashes: 
-date: 2024-08-07
+date: '2024-08-07'
 signer: 
 reviewArchive: 
 twitter: 

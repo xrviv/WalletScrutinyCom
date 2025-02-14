@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.berrywallet.wallet
 appCountry: 
-released: 2022-11-10
-updated: 2022-12-12
+released: '2022-11-10'
+updated: '2022-12-12'
 version: '1.8'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: BerryChain

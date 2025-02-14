@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: net.bitstamp.appgo
 appCountry: 
-released: 2023-07-20
-updated: 2024-05-22
+released: '2023-07-20'
+updated: '2024-05-22'
 version: '1.10'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-08-31
+date: '2024-08-31'
 signer: 
 reviewArchive: 
 twitter: Bitstamp

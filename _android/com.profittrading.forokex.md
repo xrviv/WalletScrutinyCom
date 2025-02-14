@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.profittrading.forokex
 appCountry: 
-released: 2020-06-11
-updated: 2020-07-23
+released: '2020-06-11'
+updated: '2020-07-23'
 version: '1.2.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-16
+date: '2023-04-16'
 signer: 
 reviewArchive: 
 twitter: ProfitTrading_

@@ -7,8 +7,8 @@ authors:
 appId: com.biboxpro.release
 appCountry: us
 idd: 1505962519
-released: 2020-04-08
-updated: 2023-11-02
+released: '2020-04-08'
+updated: '2023-11-02'
 version: '5.3.0'
 stars: 2
 reviews: 49
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-10-28
+date: '2024-10-28'
 signer: 
 reviewArchive: 
 twitter: Bibox365

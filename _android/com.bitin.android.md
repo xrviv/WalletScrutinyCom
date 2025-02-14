@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.bitin.android
 appCountry: 
-released: 2018-03-11
-updated: 2022-02-11
+released: '2018-03-11'
+updated: '2022-02-11'
 version: '2.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: global.bithumb.android
 appCountry: us
-released: 2019-07-05
-updated: 2022-09-13
+released: '2019-07-05'
+updated: '2022-09-13'
 version: '2.6.25'
 stars: 3.3
 ratings: 3090
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-04-16
+date: '2023-04-16'
 signer: 
 reviewArchive: 
 twitter: BithumbGlobal

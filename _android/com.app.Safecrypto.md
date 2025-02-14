@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.app.Safecrypto
 appCountry: 
-released: 2022-09-02
-updated: 2022-09-02
+released: '2022-09-02'
+updated: '2022-09-02'
 version: '1.1.1'
 stars: 1.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-18
+date: '2023-08-18'
 signer: 
 reviewArchive: 
 twitter: 

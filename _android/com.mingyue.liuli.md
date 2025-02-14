@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.mingyue.liuli
 appCountry: 
-released: 2021-06-04
-updated: 2021-08-20
+released: '2021-06-04'
+updated: '2021-08-20'
 version: '4.2.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

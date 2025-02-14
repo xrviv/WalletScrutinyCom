@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.coinstorey
 appCountry: 
-released: 2021-11-30
-updated: 2021-12-01
+released: '2021-11-30'
+updated: '2021-12-01'
 version: '9.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.trustdx.cryptogt
 appCountry: 
-released: 2021-07-02
-updated: 2021-08-13
+released: '2021-07-02'
+updated: '2021-08-13'
 version: '3.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-09-02
+date: '2021-09-02'
 signer: 
 reviewArchive: 
 twitter: 

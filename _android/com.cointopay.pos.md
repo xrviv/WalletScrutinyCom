@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.cointopay.pos
 appCountry: 
-released: 2018-10-10
-updated: 2023-03-09
+released: '2018-10-10'
+updated: '2023-03-09'
 version: '1.3.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: fewusers
 appHashes: 
-date: 2024-03-07
+date: '2024-03-07'
 signer: 
 reviewArchive: 
 twitter: 

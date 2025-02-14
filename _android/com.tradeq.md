@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.tradeq
 appCountry: 
-released: 2021-08-18
-updated: 2022-07-08
+released: '2021-08-18'
+updated: '2022-07-08'
 version: '6.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nowallet
 appHashes: 
-date: 2023-07-02
+date: '2023-07-02'
 signer: 
 reviewArchive: 
 twitter: 

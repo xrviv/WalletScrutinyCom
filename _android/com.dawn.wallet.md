@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.dawn.wallet
 appCountry: 
-released: 2021-01-13
-updated: 2021-04-24
+released: '2021-01-13'
+updated: '2021-04-24'
 version: '3.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

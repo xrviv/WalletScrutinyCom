@@ -7,8 +7,8 @@ authors:
 appId: com.sf.monarch
 appCountry: 
 idd: 1386397997
-released: 2018-06-12
-updated: 2024-05-22
+released: '2018-06-12'
+updated: '2024-05-22'
 version: '2.0.6'
 stars: 4.7
 reviews: 394
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2025-01-15
+date: '2025-01-15'
 signer: 
 reviewArchive: 
 twitter: Monarchtoken

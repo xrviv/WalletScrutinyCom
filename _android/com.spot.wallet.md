@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.spot.wallet
 appCountry: 
-released: 2021-12-13
-updated: 2022-01-16
+released: '2021-12-13'
+updated: '2022-01-16'
 version: '0.21.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

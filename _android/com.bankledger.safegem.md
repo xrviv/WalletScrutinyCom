@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.bankledger.safegem
 appCountry: 
-released: 2019-08-15
-updated: 2019-08-20
+released: '2019-08-15'
+updated: '2019-08-20'
 version: '1.2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

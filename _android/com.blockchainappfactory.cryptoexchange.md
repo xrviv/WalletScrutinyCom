@@ -7,7 +7,7 @@ users: 100
 appId: com.blockchainappfactory.cryptoexchange
 appCountry: 
 released: 
-updated: 2021-04-13
+updated: '2021-04-13'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

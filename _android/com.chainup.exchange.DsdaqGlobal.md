@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.chainup.exchange.DsdaqGlobal
 appCountry: 
-released: 2021-10-26
-updated: 2022-07-18
+released: '2021-10-26'
+updated: '2022-07-18'
 version: '5.4.1_push_v2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: DsdaqCom

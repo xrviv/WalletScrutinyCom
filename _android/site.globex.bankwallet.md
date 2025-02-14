@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: site.globex.bankwallet
 appCountry: 
-released: 2019-06-28
-updated: 2019-06-28
+released: '2019-06-28'
+updated: '2019-06-28'
 version: '0.1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

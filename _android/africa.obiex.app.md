@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: africa.obiex.app
 appCountry: 
-released: 2021-06-09
-updated: 2024-12-08
+released: '2021-06-09'
+updated: '2024-12-08'
 version: '3.7.7'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-12-09
+date: '2022-12-09'
 signer: 
 reviewArchive: 
 twitter: obiexfinance

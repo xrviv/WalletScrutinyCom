@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.algovision.volex
 appCountry: 
-released: 2021-10-04
-updated: 2022-02-02
+released: '2021-10-04'
+updated: '2022-02-02'
 version: '1.2.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

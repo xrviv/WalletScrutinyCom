@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.inanomo.market
 appCountry: 
-released: 2021-04-06
-updated: 2022-08-23
+released: '2021-04-06'
+updated: '2022-08-23'
 version: '1.1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-05-26
+date: '2023-05-26'
 signer: 
 reviewArchive: 
 twitter: 

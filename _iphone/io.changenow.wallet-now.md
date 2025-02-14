@@ -7,8 +7,8 @@ authors:
 appId: io.changenow.wallet-now
 appCountry: us
 idd: '1591216386'
-released: 2021-10-23
-updated: 2025-02-12
+released: '2021-10-23'
+updated: '2025-02-12'
 version: '3.14.9'
 stars: 4.5
 reviews: 656
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2023-04-08
+date: '2023-04-08'
 signer: 
 reviewArchive: 
 twitter: NOW_Wallet

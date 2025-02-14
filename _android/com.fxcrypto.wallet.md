@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.fxcrypto.wallet
 appCountry: 
-released: 2019-08-11
-updated: 2019-11-04
+released: '2019-08-11'
+updated: '2019-11-04'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-25
+date: '2023-05-25'
 signer: 
 reviewArchive: 
 twitter: 

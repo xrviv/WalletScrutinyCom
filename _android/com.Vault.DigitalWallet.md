@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.Vault.DigitalWallet
 appCountry: 
-released: 2022-12-13
-updated: 2023-04-28
+released: '2022-12-13'
+updated: '2023-04-28'
 version: '1.3.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: com.iqpandroidinterface
 appCountry: ru
-released: 2021-10-01
-updated: 2021-10-13
+released: '2021-10-01'
+updated: '2021-10-13'
 version: '1.2'
 stars: 4.3
 ratings: 613
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: obfuscated
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

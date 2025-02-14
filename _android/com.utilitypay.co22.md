@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.utilitypay.co22
 appCountry: 
-released: 2021-06-18
-updated: 2021-09-14
+released: '2021-06-18'
+updated: '2021-09-14'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.truthx.truthx
 appCountry: 
-released: 2020-07-04
-updated: 2022-01-22
+released: '2020-07-04'
+updated: '2022-01-22'
 version: '1.0.4'
 stars: 3.4
 ratings: 346
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

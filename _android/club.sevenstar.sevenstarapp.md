@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: club.sevenstar.sevenstarapp
 appCountry: 
-released: 2021-08-31
-updated: 2022-05-31
+released: '2021-08-31'
+updated: '2022-05-31'
 version: '2.1.48'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

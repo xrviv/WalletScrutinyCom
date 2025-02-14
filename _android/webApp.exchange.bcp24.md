@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: webApp.exchange.bcp24
 appCountry: 
-released: 2021-05-28
-updated: 2021-05-28
+released: '2021-05-28'
+updated: '2021-05-28'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

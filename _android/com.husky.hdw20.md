@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.husky.hdw20
 appCountry: 
-released: 2021-04-06
-updated: 2021-04-06
+released: '2021-04-06'
+updated: '2021-04-06'
 version: '1.0.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

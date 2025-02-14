@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.ctrade.mobile
 appCountry: us
-released: 2020-12-19
-updated: 2022-08-02
+released: '2020-12-19'
+updated: '2022-08-02'
 version: '1.2.2'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: CTrade_official

@@ -7,7 +7,7 @@ users: 1000
 appId: com.rsk.rwallet.reactnative
 appCountry: 
 released: 
-updated: 2020-10-29
+updated: '2020-10-29'
 version: '1.3.3'
 stars: 3.8
 ratings: 20
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-04-13
+date: '2021-04-13'
 signer: 
 reviewArchive: 
 twitter: 

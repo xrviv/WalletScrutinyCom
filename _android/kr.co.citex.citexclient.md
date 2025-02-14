@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: kr.co.citex.citexclient
 appCountry: 
-released: 2019-12-25
-updated: 2022-02-18
+released: '2019-12-25'
+updated: '2022-02-18'
 version: '2.1.0'
 stars: 1
 ratings: 81
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-05-31
+date: '2022-05-31'
 signer: 
 reviewArchive: 
 twitter: Citexofficial

@@ -7,8 +7,8 @@ authors:
 users: 10000000
 appId: com.money91
 appCountry: 
-released: 2018-10-12
-updated: 2024-08-26
+released: '2018-10-12'
+updated: '2024-08-26'
 version: '3.2.20-Rovi Trading-rovi-genesis-month-'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2024-09-05
+date: '2024-09-05'
 signer: 
 reviewArchive: 
 twitter: rovi_protocol

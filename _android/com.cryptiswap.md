@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.cryptiswap
 appCountry: 
-released: 2021-03-16
-updated: 2023-03-10
+released: '2021-03-16'
+updated: '2023-03-10'
 version: '1.0.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: 

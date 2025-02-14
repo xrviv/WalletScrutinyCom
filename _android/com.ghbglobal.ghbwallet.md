@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.ghbglobal.ghbwallet
 appCountry: 
-released: 2019-12-06
-updated: 2023-01-15
+released: '2019-12-06'
+updated: '2023-01-15'
 version: '1.7.7'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nobtc
 appHashes: 
-date: 2025-01-06
+date: '2025-01-06'
 signer: 
 reviewArchive: 
 twitter: CorporationGhb

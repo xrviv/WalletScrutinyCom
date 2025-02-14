@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.niuupeak.app
 appCountry: 
-released: 2020-07-02
-updated: 2020-07-02
+released: '2020-07-02'
+updated: '2020-07-02'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-31
+date: '2023-05-31'
 signer: 
 reviewArchive: 
 twitter: niuupeak

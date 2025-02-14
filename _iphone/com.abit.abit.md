@@ -7,8 +7,8 @@ authors:
 appId: com.abit.abit
 appCountry: ae
 idd: 1523980355
-released: 2020-07-28
-updated: 2021-06-29
+released: '2020-07-28'
+updated: '2021-06-29'
 version: '2.3.2'
 stars: 
 reviews: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-04
+date: '2021-11-04'
 signer: 
 reviewArchive: 
 twitter: abitofficial

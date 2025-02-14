@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.bitcimobile
 appCountry: 
-released: 2020-03-30
-updated: 2024-07-18
+released: '2020-03-30'
+updated: '2024-07-18'
 version: '7.2.6'
 stars: 2.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-06-28
+date: '2022-06-28'
 signer: 
 reviewArchive: 
 twitter: bitcicom

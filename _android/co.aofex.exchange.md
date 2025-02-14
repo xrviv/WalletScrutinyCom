@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: co.aofex.exchange
 appCountry: us
-released: 2021-09-01
-updated: 2021-12-03
+released: '2021-09-01'
+updated: '2021-12-03'
 version: '3.0.3'
 stars: 4.8
 ratings: 5947
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-03-24
+date: '2022-03-24'
 signer: 
 reviewArchive: 
 twitter: Aofex2

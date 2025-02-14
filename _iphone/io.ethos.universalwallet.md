@@ -6,8 +6,8 @@ authors:
 appId: io.ethos.universalwallet
 appCountry: 
 idd: 1376959464
-released: 2018-08-06
-updated: 2019-11-22
+released: '2018-08-06'
+updated: '2019-11-22'
 version: '2.0.5'
 stars: 4.3
 reviews: 302
@@ -20,7 +20,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2022-10-21
+date: '2022-10-21'
 signer: 
 reviewArchive: 
 twitter: ethos_io

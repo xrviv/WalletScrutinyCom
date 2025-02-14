@@ -7,8 +7,8 @@ authors:
 appId: com.coinmena.coinmenaapp
 appCountry: us
 idd: 1573112964
-released: 2021-09-26
-updated: 2025-02-09
+released: '2021-09-26'
+updated: '2025-02-09'
 version: '2.14.6'
 stars: 3.8
 reviews: 85
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-11-10
+date: '2021-11-10'
 signer: 
 reviewArchive: 
 twitter: Coinmena

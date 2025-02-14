@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: finance.a4.mobile
 appCountry: 
-released: 2022-05-09
-updated: 2023-10-30
+released: '2022-05-09'
+updated: '2023-10-30'
 version: '2.1.6'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-08-04
+date: '2024-08-04'
 signer: 
 reviewArchive: 
 twitter: A4Finance

@@ -7,8 +7,8 @@ authors:
 appId: com.TapGlobal.tap
 appCountry: gb
 idd: 1492263993
-released: 2019-12-20
-updated: 2025-02-04
+released: '2019-12-20'
+updated: '2025-02-04'
 version: '3.4.2'
 stars: 4.6
 reviews: 1786
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-15
+date: '2021-09-15'
 signer: 
 reviewArchive: 
 twitter: 

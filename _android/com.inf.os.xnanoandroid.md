@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.inf.os.xnanoandroid
 appCountry: 
-released: 2020-12-04
-updated: 2020-10-08
+released: '2020-12-04'
+updated: '2020-10-08'
 version: '4.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-30
+date: '2023-05-30'
 signer: 
 reviewArchive: 
 twitter: 

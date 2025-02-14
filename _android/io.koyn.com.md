@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.koyn.com
 appCountry: 
-released: 2021-01-16
-updated: 2021-01-16
+released: '2021-01-16'
+updated: '2021-01-16'
 version: '0.18.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

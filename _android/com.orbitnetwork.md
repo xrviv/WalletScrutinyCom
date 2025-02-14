@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.orbitnetwork
 appCountry: 
-released: 2019-12-20
-updated: 2021-08-20
+released: '2019-12-20'
+updated: '2021-08-20'
 version: '2.2'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nosendreceive
 appHashes: 
-date: 2023-08-15
+date: '2023-08-15'
 signer: 
 reviewArchive: 
 twitter: 

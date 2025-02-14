@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.exchange.coinbims
 appCountry: 
-released: 2019-08-20
-updated: 2019-09-09
+released: '2019-08-20'
+updated: '2019-09-09'
 version: '1.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

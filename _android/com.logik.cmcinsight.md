@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.logik.cmcinsight
 appCountry: 
-released: 2020-11-02
-updated: 2020-11-02
+released: '2020-11-02'
+updated: '2020-11-02'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

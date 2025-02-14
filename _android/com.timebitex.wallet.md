@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.timebitex.wallet
 appCountry: 
-released: 2021-02-25
-updated: 2023-02-08
+released: '2021-02-25'
+updated: '2023-02-08'
 version: '3.2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

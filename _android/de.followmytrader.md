@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: de.followmytrader
 appCountry: 
-released: 2020-03-09
-updated: 2024-12-18
+released: '2020-03-09'
+updated: '2024-12-18'
 version: '3.1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-13
+date: '2023-04-13'
 signer: 
 reviewArchive: 
 twitter: 

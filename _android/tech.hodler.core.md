@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: tech.hodler.core
 appCountry: 
-released: 2018-09-02
-updated: 2019-10-29
+released: '2018-09-02'
+updated: '2019-10-29'
 version: '0.4.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: ftbfs
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: HODLER_TECH

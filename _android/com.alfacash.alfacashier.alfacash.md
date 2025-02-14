@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.alfacash.alfacashier.alfacash
 appCountry: 
-released: 2022-12-23
-updated: 2023-11-22
+released: '2022-12-23'
+updated: '2023-11-22'
 version: '1.11.8'
 stars: 4.4
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-08-07
+date: '2024-08-07'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: kifpool.me
 appCountry: 
-released: 2022-09-13
-updated: 2022-12-11
+released: '2022-09-13'
+updated: '2022-12-11'
 version: '1.7'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: Kifpoolme

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: eu.cryptomerchant.pos
 appCountry: 
-released: 2019-03-04
-updated: 2023-10-19
+released: '2019-03-04'
+updated: '2023-10-19'
 version: '1.6'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: 

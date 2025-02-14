@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.bitro2
 appCountry: 
-released: 2020-12-09
-updated: 2021-12-30
+released: '2020-12-09'
+updated: '2021-12-30'
 version: '1.0.80'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

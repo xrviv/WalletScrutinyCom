@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bitocto
 appCountry: 
-released: 2019-07-18
-updated: 2023-05-29
+released: '2019-07-18'
+updated: '2023-05-29'
 version: '3.23'
 stars: 5
 ratings: 1532
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-05-24
+date: '2024-05-24'
 signer: 
 reviewArchive: 
 twitter: bitoctoexchange

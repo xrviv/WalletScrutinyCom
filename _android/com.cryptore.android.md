@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.cryptore.android
 appCountry: 
-released: 2021-12-16
-updated: 2024-11-05
+released: '2021-12-16'
+updated: '2024-11-05'
 version: '1.2.2'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-10-16
+date: '2024-10-16'
 signer: 
 reviewArchive: 
 twitter: coinlord_trade

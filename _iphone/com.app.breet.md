@@ -7,8 +7,8 @@ authors:
 appId: com.app.breet
 appCountry: us
 idd: '1609711640'
-released: 2022-03-04
-updated: 2024-06-20
+released: '2022-03-04'
+updated: '2024-06-20'
 version: '6.2.5'
 stars: 4.4
 reviews: 909
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2023-07-19
+date: '2023-07-19'
 signer: 
 reviewArchive: 
 twitter: breetapp

@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.piccoexchange.app
 appCountry: 
-released: 2019-12-25
-updated: 2019-12-25
+released: '2019-12-25'
+updated: '2019-12-25'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

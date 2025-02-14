@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.kochure.kochureApp
 appCountry: 
-released: 2021-11-13
-updated: 2024-07-25
+released: '2021-11-13'
+updated: '2024-07-25'
 version: '1.2.0'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: kochureglobal

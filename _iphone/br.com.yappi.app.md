@@ -7,8 +7,8 @@ authors:
 appId: br.com.yappi.app
 appCountry: br
 idd: '1543965460'
-released: 2021-02-05
-updated: 2022-11-12
+released: '2021-02-05'
+updated: '2022-11-12'
 version: '1.2.1'
 stars: 3.6
 reviews: 46
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: yappi_br

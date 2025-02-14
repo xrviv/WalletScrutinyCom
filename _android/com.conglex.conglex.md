@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.conglex.conglex
 appCountry: 
-released: 2022-05-12
-updated: 2023-03-16
+released: '2022-05-12'
+updated: '2023-03-16'
 version: '1.4.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-03-12
+date: '2024-03-12'
 signer: 
 reviewArchive: 
 twitter: conglexglobal

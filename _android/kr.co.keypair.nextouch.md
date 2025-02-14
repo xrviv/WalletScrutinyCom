@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: kr.co.keypair.nextouch
 appCountry: 
-released: 2018-10-01
-updated: 2019-07-22
+released: '2018-10-01'
+updated: '2019-07-22'
 version: '1.0.0.57'
 stars: 3.4
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-10-19
+date: '2024-10-19'
 signer: 
 reviewArchive: 
 twitter: 

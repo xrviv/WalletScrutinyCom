@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.cyclebas
 appCountry: 
-released: 2021-08-30
-updated: 2022-10-06
+released: '2021-08-30'
+updated: '2022-10-06'
 version: '3.0.16'
 stars: 4.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-30
+date: '2023-01-30'
 signer: 
 reviewArchive: 
 twitter: 

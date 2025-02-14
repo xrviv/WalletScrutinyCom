@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: cash.bit24
 appCountry: 
-released: 2021-05-30
-updated: 2025-02-09
+released: '2021-05-30'
+updated: '2025-02-09'
 version: '8.9.14'
 stars: 4.3
 ratings: 2325
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-10-16
+date: '2021-10-16'
 signer: 
 reviewArchive: 
 twitter: 

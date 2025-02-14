@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.iqfinex
 appCountry: 
-released: 2018-09-10
-updated: 2019-01-24
+released: '2018-09-10'
+updated: '2019-01-24'
 version: '1.0.4'
 stars: 4.8
 ratings: 270
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-22
+date: '2021-10-22'
 signer: 
 reviewArchive: 
 twitter: 

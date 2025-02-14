@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.futurance.futurex
 appCountry: 
-released: 2022-07-07
-updated: 2024-12-27
+released: '2022-07-07'
+updated: '2024-12-27'
 version: '2.3.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-01
+date: '2023-07-01'
 signer: 
 reviewArchive: 
 twitter: Fexobit

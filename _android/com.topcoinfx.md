@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.topcoinfx
 appCountry: 
-released: 2019-08-12
-updated: 2020-02-11
+released: '2019-08-12'
+updated: '2020-02-11'
 version: '2.5'
 stars: 4.2
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

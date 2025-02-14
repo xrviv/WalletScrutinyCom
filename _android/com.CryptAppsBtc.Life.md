@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.CryptAppsBtc.Life
 appCountry: 
-released: 2022-03-28
-updated: 2022-03-28
+released: '2022-03-28'
+updated: '2022-03-28'
 version: '0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-08-07
+date: '2023-08-07'
 signer: 
 reviewArchive: 
 twitter: 

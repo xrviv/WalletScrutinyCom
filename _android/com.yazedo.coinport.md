@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.yazedo.coinport
 appCountry: 
-released: 2018-03-04
-updated: 2021-03-12
+released: '2018-03-04'
+updated: '2021-03-12'
 version: '2.2.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nowallet
 appHashes: 
-date: 2023-06-11
+date: '2023-06-11'
 signer: 
 reviewArchive: 
 twitter: 

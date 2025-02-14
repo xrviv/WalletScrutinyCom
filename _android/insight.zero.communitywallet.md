@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: insight.zero.communitywallet
 appCountry: 
-released: 2018-07-09
-updated: 2019-01-01
+released: '2018-07-09'
+updated: '2019-01-01'
 version: '1.0.1'
 stars: 4.6
 ratings: 67
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

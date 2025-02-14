@@ -7,8 +7,8 @@ authors:
 appId: com.zeusln.zeus
 appCountry: 
 idd: 1456038895
-released: 2021-04-22
-updated: 2025-02-08
+released: '2021-04-22'
+updated: '2025-02-08'
 version: 'v0.9.6'
 stars: 4.6
 reviews: 62
@@ -21,10 +21,10 @@ bugbounty:
 meta: ok
 verdict: nonverifiable
 appHashes: []
-date: 2023-12-30
+date: '2023-12-30'
 signer: 
 reviewArchive:
-- date: 2023-12-30
+- date: '2023-12-30'
   version: '0.9.3'
   appHashes: []
   gitRevision: 6c17feb4d414efa40ea736b9d2e8d44216776893

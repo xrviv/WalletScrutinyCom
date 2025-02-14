@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: mn.telexa
 appCountry: 
-released: 2021-12-08
-updated: 2023-09-07
+released: '2021-12-08'
+updated: '2023-09-07'
 version: '6.5'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nowallet
 appHashes: 
-date: 2024-09-02
+date: '2024-09-02'
 signer: 
 reviewArchive: 
 twitter: 

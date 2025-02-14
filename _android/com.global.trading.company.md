@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.global.trading.company
 appCountry: 
-released: 2020-11-11
-updated: 2021-03-26
+released: '2020-11-11'
+updated: '2021-03-26'
 version: '1.12'
 stars: 
 ratings: 74
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2021-11-04
+date: '2021-11-04'
 signer: 
 reviewArchive: 
 twitter: 

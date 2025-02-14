@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.bitmex_trading
 appCountry: 
-released: 2019-11-18
-updated: 2020-05-19
+released: '2019-11-18'
+updated: '2020-05-19'
 version: '1.0'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

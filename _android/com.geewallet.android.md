@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.geewallet.android
 appCountry: 
-released: 2019-09-23
-updated: 2024-03-20
+released: '2019-09-23'
+updated: '2024-03-20'
 version: '0.7.444.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2021-08-02
+date: '2021-08-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 appId: com.polispay.polispay
 appCountry: 
 idd: 1351572060
-released: 2019-02-20
-updated: 2021-10-22
+released: '2019-02-20'
+updated: '2021-10-22'
 version: '8.9.3'
 stars: 4
 reviews: 7
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2022-05-31
+date: '2022-05-31'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,7 +7,7 @@ users: 10
 appId: com.bitmelech.wallet
 appCountry: 
 released: 
-updated: 2022-08-05
+updated: '2022-08-05'
 version: '1.2.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

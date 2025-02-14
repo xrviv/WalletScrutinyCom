@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: rmt.mobile
 appCountry: 
-released: 2020-05-19
-updated: 2020-05-19
+released: '2020-05-19'
+updated: '2020-05-19'
 version: '1.0.3'
 stars: 4.1
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-11-07
+date: '2024-11-07'
 signer: 
 reviewArchive: 
 twitter: 

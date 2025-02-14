@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.blocknance.wallet
 appCountry: 
-released: 2022-09-11
-updated: 2023-03-14
+released: '2022-09-11'
+updated: '2023-03-14'
 version: '1.1'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-07-25
+date: '2024-07-25'
 signer: 
 reviewArchive: 
 twitter: blocknanceATM

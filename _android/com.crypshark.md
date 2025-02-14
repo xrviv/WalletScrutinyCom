@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.crypshark
 appCountry: 
-released: 2021-05-20
-updated: 2022-07-19
+released: '2021-05-20'
+updated: '2022-07-19'
 version: '1.0.0.39-cryptoshark'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

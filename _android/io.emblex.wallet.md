@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.emblex.wallet
 appCountry: 
-released: 2021-08-18
-updated: 2021-11-30
+released: '2021-08-18'
+updated: '2021-11-30'
 version: '0.21.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 500
 appId: com.paymintlabs.paymint
 appCountry: 
-released: 2020-06-29
-updated: 2020-10-05
+released: '2020-06-29'
+updated: '2020-10-05'
 version: '1.2.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: paymint_wallet

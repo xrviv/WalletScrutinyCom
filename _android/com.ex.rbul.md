@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.ex.rbul
 appCountry: 
-released: 2022-01-11
-updated: 2022-02-15
+released: '2022-01-11'
+updated: '2022-02-15'
 version: '1.6'
 stars: 4.7
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-12-08
+date: '2024-12-08'
 signer: 
 reviewArchive: 
 twitter: 

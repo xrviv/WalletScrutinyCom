@@ -7,7 +7,7 @@ users: 100
 appId: com.nakhlex.exchange
 appCountry: 
 released: 
-updated: 2022-12-08
+updated: '2022-12-08'
 version: '1.1.0'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

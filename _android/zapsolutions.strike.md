@@ -6,8 +6,8 @@ authors:
 users: 1000000
 appId: zapsolutions.strike
 appCountry: 
-released: 2020-08-06
-updated: 2025-02-11
+released: '2020-08-06'
+updated: '2025-02-11'
 version: 'v2.99'
 stars: 4.6
 ratings: 6726
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2021-01-18
+date: '2021-01-18'
 signer: 
 reviewArchive: 
 twitter: ln_strike

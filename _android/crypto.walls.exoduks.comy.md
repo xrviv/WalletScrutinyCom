@@ -7,8 +7,8 @@ authors:
 users: 10
 appId: crypto.walls.exoduks.comy
 appCountry: 
-released: 2021-10-03
-updated: 2021-10-04
+released: '2021-10-03'
+updated: '2021-10-04'
 version: '19.28'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-10-30
+date: '2021-10-30'
 signer: 
 reviewArchive: 
 twitter: 

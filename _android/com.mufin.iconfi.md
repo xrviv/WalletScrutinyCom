@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.mufin.iconfi
 appCountry: 
-released: 2021-01-27
-updated: 2023-01-09
+released: '2021-01-27'
+updated: '2023-01-09'
 version: '1.2.2'
 stars: 4.4
 ratings: 220
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: ICONFiWorld

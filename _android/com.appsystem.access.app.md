@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.appsystem.access.app
 appCountry: 
-released: 2021-04-05
-updated: 2021-06-08
+released: '2021-04-05'
+updated: '2021-06-08'
 version: '1.1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.crypto.ab.wallet.app
 appCountry: 
-released: 2023-09-27
-updated: 2024-07-25
+released: '2023-09-27'
+updated: '2024-07-25'
 version: '1.7.2'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-09-08
+date: '2024-09-08'
 signer: 
 reviewArchive: 
 twitter: alicebob_wallet

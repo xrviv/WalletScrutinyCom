@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.a1in1.crypto_coin
 appCountry: 
-released: 2021-06-14
-updated: 2021-06-19
+released: '2021-06-14'
+updated: '2021-06-19'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.app.Chainblock
 appCountry: 
-released: 2021-03-22
-updated: 2023-12-04
+released: '2021-03-22'
+updated: '2023-12-04'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-08-31
+date: '2024-08-31'
 signer: 
 reviewArchive: 
 twitter: 

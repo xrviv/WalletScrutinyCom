@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: pro.cryptotab.android
 appCountry: us
-released: 2020-01-24
-updated: 2025-01-17
+released: '2020-01-24'
+updated: '2025-01-17'
 version: '4.4.25'
 stars: 4.1
 ratings: 63867
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-08-21
+date: '2021-08-21'
 signer: 
 reviewArchive: 
 twitter: 

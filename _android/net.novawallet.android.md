@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: net.novawallet.android
 appCountry: 
-released: 2021-10-25
-updated: 2022-07-26
+released: '2021-10-25'
+updated: '2022-07-26'
 version: '2.2.5'
 stars: 4.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nosource
 appHashes: 
-date: 2024-07-17
+date: '2024-07-17'
 signer: 
 reviewArchive: 
 twitter: solidus_v

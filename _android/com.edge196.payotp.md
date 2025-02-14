@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.edge196.payotp
 appCountry: 
-released: 2019-07-17
-updated: 2019-07-18
+released: '2019-07-17'
+updated: '2019-07-18'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

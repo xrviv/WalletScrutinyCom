@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.zinary.apps
 appCountry: 
-released: 2024-03-11
-updated: 2024-03-11
+released: '2024-03-11'
+updated: '2024-03-11'
 version: '0.28.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2022-06-22
+date: '2022-06-22'
 signer: 
 reviewArchive: 
 twitter: 

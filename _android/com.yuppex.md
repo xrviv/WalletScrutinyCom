@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.yuppex
 appCountry: 
-released: 2020-08-17
-updated: 2020-09-25
+released: '2020-08-17'
+updated: '2020-09-25'
 version: '1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -8,8 +8,8 @@ authors:
 users: 50000
 appId: com.paywaywallet
 appCountry: 
-released: 2019-02-13
-updated: 2025-02-06
+released: '2019-02-13'
+updated: '2025-02-06'
 version: '4.3.5.1678'
 stars: 3.8
 ratings: 254
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2022-05-21
+date: '2022-05-21'
 signer: 
 reviewArchive: 
 twitter: pay_way

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.spantom.jeroid
 appCountry: us
-released: 2020-07-05
-updated: 2025-02-11
+released: '2020-07-05'
+updated: '2025-02-11'
 version: '2.2.3'
 stars: 2.9
 ratings: 248
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: jeroidng

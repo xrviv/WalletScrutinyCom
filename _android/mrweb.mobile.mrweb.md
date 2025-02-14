@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: mrweb.mobile.mrweb
 appCountry: 
-released: 2022-02-14
-updated: 2023-04-29
+released: '2022-02-14'
+updated: '2023-04-29'
 version: '1.1.1'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nobtc
 appHashes: 
-date: 2024-04-24
+date: '2024-04-24'
 signer: 
 reviewArchive: 
 twitter: 

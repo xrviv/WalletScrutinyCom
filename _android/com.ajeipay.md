@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.ajeipay
 appCountry: 
-released: 2020-05-30
-updated: 2021-10-09
+released: '2020-05-30'
+updated: '2021-10-09'
 version: '2.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

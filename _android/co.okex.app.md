@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: co.okex.app
 appCountry: 
-released: 2019-09-11
-updated: 2025-01-12
+released: '2019-09-11'
+updated: '2025-01-12'
 version: '7.2.9'
 stars: 4.5
 ratings: 7353
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: []
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: 

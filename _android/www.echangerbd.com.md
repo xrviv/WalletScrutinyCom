@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: www.echangerbd.com
 appCountry: 
-released: 2020-03-21
-updated: 2020-04-23
+released: '2020-03-21'
+updated: '2020-04-23'
 version: '2.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-19
+date: '2023-04-19'
 signer: 
 reviewArchive: 
 twitter: 

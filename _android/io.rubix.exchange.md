@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: io.rubix.exchange
 appCountry: 
-released: 2021-12-22
-updated: 2023-10-10
+released: '2021-12-22'
+updated: '2023-10-10'
 version: '1.0.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-12-08
+date: '2024-12-08'
 signer: 
 reviewArchive: 
 twitter: 

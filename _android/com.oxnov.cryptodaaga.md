@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.oxnov.cryptodaaga
 appCountry: 
-released: 2022-04-29
-updated: 2025-01-27
+released: '2022-04-29'
+updated: '2025-01-27'
 version: '5.1.2'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-07-07
+date: '2023-07-07'
 signer: 
 reviewArchive: 
 twitter: 

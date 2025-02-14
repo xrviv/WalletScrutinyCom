@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: su.akoda.walletgun
 appCountry: 
-released: 2021-10-13
-updated: 2021-10-13
+released: '2021-10-13'
+updated: '2021-10-13'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

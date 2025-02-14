@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.gmail.planetabank1.myproject
 appCountry: 
-released: 2021-07-01
-updated: 2021-07-08
+released: '2021-07-01'
+updated: '2021-07-08'
 version: '4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

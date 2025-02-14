@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.wallet.cointrust
 appCountry: 
-released: 2022-12-13
-updated: 2022-12-14
+released: '2022-12-13'
+updated: '2022-12-14'
 version: '1.0'
 stars: 4.3
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

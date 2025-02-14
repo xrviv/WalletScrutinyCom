@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: www.coindhan.com
 appCountry: 
-released: 2021-09-05
-updated: 2024-04-07
+released: '2021-09-05'
+updated: '2024-04-07'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-03
+date: '2024-10-03'
 signer: 
 reviewArchive: 
 twitter: coin_dhan

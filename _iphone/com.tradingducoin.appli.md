@@ -7,8 +7,8 @@ authors:
 appId: com.tradingducoin.appli
 appCountry: ml
 idd: 1405655976
-released: 2019-08-12
-updated: 2021-09-02
+released: '2019-08-12'
+updated: '2021-09-02'
 version: '5.4.8'
 stars: 
 reviews: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2021-10-08
+date: '2021-10-08'
 signer: 
 reviewArchive: 
 twitter: TradingduCoin

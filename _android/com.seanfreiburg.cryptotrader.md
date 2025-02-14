@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.seanfreiburg.cryptotrader
 appCountry: 
-released: 2018-02-20
-updated: 2018-03-15
+released: '2018-02-20'
+updated: '2018-03-15'
 version: '1.5'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

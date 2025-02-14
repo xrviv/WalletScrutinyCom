@@ -8,8 +8,8 @@ authors:
 users: 500
 appId: com.atomicwallet.newapp.safe
 appCountry: 
-released: 2021-06-14
-updated: 2021-06-14
+released: '2021-06-14'
+updated: '2021-06-14'
 version: '1.5.2'
 stars: 2.4
 ratings: 7
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-07-30
+date: '2021-07-30'
 signer: 
 reviewArchive: 
 twitter: 

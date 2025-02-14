@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.hashvest.hash
 appCountry: 
-released: 2023-01-09
-updated: 2024-04-15
+released: '2023-01-09'
+updated: '2024-04-15'
 version: '1.0.7'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-01-09
+date: '2024-01-09'
 signer: 
 reviewArchive: 
 twitter: gethashapp

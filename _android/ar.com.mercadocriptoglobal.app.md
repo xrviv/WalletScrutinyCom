@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: ar.com.mercadocriptoglobal.app
 appCountry: 
-released: 2018-03-21
-updated: 2018-03-21
+released: '2018-03-21'
+updated: '2018-03-21'
 version: '2.4.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

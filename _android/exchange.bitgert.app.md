@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: exchange.bitgert.app
 appCountry: 
-released: 2023-01-13
-updated: 2025-02-06
+released: '2023-01-13'
+updated: '2025-02-06'
 version: '1.0'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-11
+date: '2023-07-11'
 signer: 
 reviewArchive: 
 twitter: exchangebitgert

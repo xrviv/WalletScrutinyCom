@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.iggroup.android.cfd
 appCountry: br
-released: 2015-05-11
-updated: 2025-02-07
+released: '2015-05-11'
+updated: '2025-02-07'
 version: '25.2.6'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2022-12-06
+date: '2022-12-06'
 signer: 
 reviewArchive: 
 twitter: IGInternationa1

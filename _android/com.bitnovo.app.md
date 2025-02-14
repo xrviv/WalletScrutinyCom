@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.bitnovo.app
 appCountry: 
-released: 2017-05-18
-updated: 2021-10-29
+released: '2017-05-18'
+updated: '2021-10-29'
 version: '2.8.7'
 stars: 3.1
 ratings: 369
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-02-10
+date: '2022-02-10'
 signer: 
 reviewArchive: 
 twitter: bitnovo

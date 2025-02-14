@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.xbank_rn
 appCountry: 
-released: 2022-11-04
-updated: 2023-08-01
+released: '2022-11-04'
+updated: '2023-08-01'
 version: '4.0.1'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-09-25
+date: '2024-09-25'
 signer: 
 reviewArchive: 
 twitter: xBank_Official

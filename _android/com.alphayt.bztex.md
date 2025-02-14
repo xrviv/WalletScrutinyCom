@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.alphayt.bztex
 appCountry: 
-released: 2022-02-18
-updated: 2022-04-28
+released: '2022-02-18'
+updated: '2022-04-28'
 version: '1.1.9'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.gateio.lite
 appCountry: 
-released: 2022-07-01
-updated: 2023-08-30
+released: '2022-07-01'
+updated: '2023-08-30'
 version: '2.0.1'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2025-01-27
+date: '2025-01-27'
 signer: 
 reviewArchive: 
 twitter: gate_io

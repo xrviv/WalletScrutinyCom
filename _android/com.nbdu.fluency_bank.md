@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.nbdu.fluency_bank
 appCountry: 
-released: 2020-02-27
-updated: 2020-04-29
+released: '2020-02-27'
+updated: '2020-04-29'
 version: '1.0.0'
 stars: 3.9
 ratings: 420
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2023-05-31
+date: '2023-05-31'
 signer: 
 reviewArchive: 
 twitter: 

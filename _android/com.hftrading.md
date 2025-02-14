@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.hftrading
 appCountry: 
-released: 2021-03-10
-updated: 2021-08-25
+released: '2021-03-10'
+updated: '2021-08-25'
 version: '1.5.69-hftrading'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: me.rentcoin.app
 appCountry: 
-released: 2020-06-29
-updated: 2021-10-26
+released: '2020-06-29'
+updated: '2021-10-26'
 version: '2.1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

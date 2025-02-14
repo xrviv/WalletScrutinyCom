@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.clovrlabs.wallet
 appCountry: 
-released: 2022-12-08
-updated: 2023-03-11
+released: '2022-12-08'
+updated: '2023-03-11'
 version: '1.0.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: 

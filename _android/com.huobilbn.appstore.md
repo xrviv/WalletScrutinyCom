@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.huobilbn.appstore
 appCountry: 
-released: 2020-11-05
-updated: 2020-11-17
+released: '2020-11-05'
+updated: '2020-11-17'
 version: '2.0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2022-12-17
+date: '2022-12-17'
 signer: 
 reviewArchive: 
 twitter: 

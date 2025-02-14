@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.tronlink.global
 appCountry: 
-released: 2022-11-09
-updated: 2024-10-14
+released: '2022-11-09'
+updated: '2024-10-14'
 version: '4.14.3'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-06-13
+date: '2023-06-13'
 signer: 
 reviewArchive: 
 twitter: 

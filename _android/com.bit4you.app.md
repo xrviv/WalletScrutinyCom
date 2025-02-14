@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bit4you.app
 appCountry: 
-released: 2018-01-18
-updated: 2022-11-10
+released: '2018-01-18'
+updated: '2022-11-10'
 version: '0.9.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: Bit4you1

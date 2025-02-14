@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.remitano.remitano
 appCountry: 
-released: 2016-07-24
-updated: 2025-02-12
+released: '2016-07-24'
+updated: '2025-02-12'
 version: '6.122.0'
 stars: 4.3
 ratings: 19172
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2020-05-29
+date: '2020-05-29'
 signer: 
 reviewArchive: 
 twitter: remitano

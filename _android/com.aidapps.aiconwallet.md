@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.aidapps.aiconwallet
 appCountry: 
-released: 2020-10-05
-updated: 2021-03-04
+released: '2020-10-05'
+updated: '2021-03-04'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: AiconOfficial

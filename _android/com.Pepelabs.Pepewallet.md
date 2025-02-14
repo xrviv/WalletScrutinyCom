@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.Pepelabs.Pepewallet
 appCountry: 
-released: 2023-05-17
-updated: 2023-12-29
+released: '2023-05-17'
+updated: '2023-12-29'
 version: '2.1.2'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2024-09-04
+date: '2024-09-04'
 signer: 
 reviewArchive: 
 twitter: 

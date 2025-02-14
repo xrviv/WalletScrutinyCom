@@ -6,8 +6,8 @@ authors:
 users: 100000
 appId: com.cmcm.blockchain.bitcoin.ethereum.safewallet
 appCountry: 
-released: 2018-01-31
-updated: 2019-05-30
+released: '2018-01-31'
+updated: '2019-05-30'
 version: '3.2.5'
 stars: 4.5
 ratings: 3131
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2020-03-20
+date: '2020-03-20'
 signer: 
 reviewArchive: 
 twitter: 

@@ -8,7 +8,7 @@ users: 5000
 appId: com.doubleace.wallet
 appCountry: 
 released: 
-updated: 2023-06-05
+updated: '2023-06-05'
 version: '1.3.12'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: DAAFinance

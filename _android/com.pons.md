@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.pons
 appCountry: 
-released: 2020-09-22
-updated: 2020-12-26
+released: '2020-09-22'
+updated: '2020-12-26'
 version: '1.0.0.11'
 stars: 4.2
 ratings: 20
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-22
+date: '2021-11-22'
 signer: 
 reviewArchive: 
 twitter: 

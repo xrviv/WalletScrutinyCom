@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.cexchangenex.cexchangenex
 appCountry: th
-released: 2020-10-02
-updated: 2021-06-29
+released: '2020-10-02'
+updated: '2021-06-29'
 version: '1.1.1075'
 stars: 3.8
 ratings: 73
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

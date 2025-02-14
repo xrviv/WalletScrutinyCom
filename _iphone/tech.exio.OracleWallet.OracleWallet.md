@@ -7,8 +7,8 @@ authors:
 appId: tech.exio.OracleWallet.OracleWallet
 appCountry: us
 idd: 1546609959
-released: 2021-03-24
-updated: 2022-04-17
+released: '2021-03-24'
+updated: '2022-04-17'
 version: '1.4.3'
 stars: 5
 reviews: 1
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-01-11
+date: '2023-01-11'
 signer: 
 reviewArchive: 
 twitter: Oracle_Wallet

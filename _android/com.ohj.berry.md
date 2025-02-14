@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.ohj.berry
 appCountry: 
-released: 2023-03-17
-updated: 2023-03-21
+released: '2023-03-17'
+updated: '2023-03-21'
 version: '1.0001'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-06-30
+date: '2023-06-30'
 signer: 
 reviewArchive: 
 twitter: 

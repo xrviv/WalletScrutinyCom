@@ -7,8 +7,8 @@ authors:
 appId: com.bottlepay
 appCountry: gb
 idd: '1510029326'
-released: 2021-02-10
-updated: 2023-06-08
+released: '2021-02-10'
+updated: '2023-06-08'
 version: '2.2.15'
 stars: 4.4
 reviews: 305
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: bottlepay

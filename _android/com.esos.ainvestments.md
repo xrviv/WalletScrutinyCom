@@ -7,7 +7,7 @@ users: 10000
 appId: com.esos.ainvestments
 appCountry: 
 released: 
-updated: 2020-05-22
+updated: '2020-05-22'
 version: '7.0.3(1)'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: 

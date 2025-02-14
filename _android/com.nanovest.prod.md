@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.nanovest.prod
 appCountry: 
-released: 2023-06-08
-updated: 2025-02-10
+released: '2023-06-08'
+updated: '2025-02-10'
 version: '4.2.0'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-09-03
+date: '2024-09-03'
 signer: 
 reviewArchive: 
 twitter: nanovest_io

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.upay
 appCountry: 
-released: 2020-07-13
-updated: 2021-01-07
+released: '2020-07-13'
+updated: '2021-01-07'
 version: '1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-03
+date: '2023-05-03'
 signer: 
 reviewArchive: 
 twitter: 

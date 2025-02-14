@@ -7,8 +7,8 @@ authors:
 appId: com.asiainnovations.ace
 appCountry: ng
 idd: 1446866556
-released: 2019-01-28
-updated: 2023-03-20
+released: '2019-01-28'
+updated: '2023-03-20'
 version: '51.0.0'
 stars: 5
 reviews: 2
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-05-10
+date: '2023-05-10'
 signer: 
 reviewArchive: 
 twitter: 

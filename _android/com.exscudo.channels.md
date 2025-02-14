@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.exscudo.channels
 appCountry: ru
-released: 2018-05-17
-updated: 2025-01-24
+released: '2018-05-17'
+updated: '2025-01-24'
 version: '3.24.2604'
 stars: 4.1
 ratings: 659
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-15
+date: '2024-07-15'
 signer: 
 reviewArchive: 
 twitter: ex_scudo

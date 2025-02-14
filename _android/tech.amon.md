@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: tech.amon
 appCountry: 
-released: 2019-05-20
-updated: 2023-07-04
+released: '2019-05-20'
+updated: '2023-07-04'
 version: '3.7.31'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-06-29
+date: '2024-06-29'
 signer: 
 reviewArchive: 
 twitter: amonwallet

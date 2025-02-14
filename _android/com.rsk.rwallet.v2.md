@@ -9,8 +9,8 @@ authors:
 users: 1000
 appId: com.rsk.rwallet.v2
 appCountry: us
-released: 2021-04-27
-updated: 2021-06-30
+released: '2021-04-27'
+updated: '2021-06-30'
 version: '2.0.1'
 stars: 3.4
 ratings: 
@@ -24,7 +24,7 @@ bugbounty:
 meta: removed
 verdict: ftbfs
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: rsksmart

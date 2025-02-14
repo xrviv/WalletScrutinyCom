@@ -7,8 +7,8 @@ authors:
 appId: by.erpbel.hermes
 appCountry: by
 idd: '1629900361'
-released: 2023-04-17
-updated: 2024-12-16
+released: '2023-04-17'
+updated: '2024-12-16'
 version: '2.6.0'
 stars: 1.9
 reviews: 57
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-08-09
+date: '2023-08-09'
 signer: 
 reviewArchive: 
 twitter: bynexio

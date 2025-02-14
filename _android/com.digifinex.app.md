@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.digifinex.app
 appCountry: 
-released: 2018-06-26
-updated: 2025-01-16
+released: '2018-06-26'
+updated: '2025-01-16'
 version: '2025.01.15'
 stars: 3.5
 ratings: 4414
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2020-11-28
+date: '2020-11-28'
 signer: 
 reviewArchive: 
 twitter: DigiFinex

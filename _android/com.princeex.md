@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.princeex
 appCountry: 
-released: 2022-03-15
-updated: 2023-02-13
+released: '2022-03-15'
+updated: '2023-02-13'
 version: '1.1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

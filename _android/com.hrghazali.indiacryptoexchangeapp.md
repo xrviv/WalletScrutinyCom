@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.hrghazali.indiacryptoexchangeapp
 appCountry: 
-released: 2021-09-12
-updated: 2023-02-26
+released: '2021-09-12'
+updated: '2023-02-26'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: fewusers
 appHashes: 
-date: 2024-02-24
+date: '2024-02-24'
 signer: 
 reviewArchive: 
 twitter: 

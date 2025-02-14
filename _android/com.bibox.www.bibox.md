@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.bibox.www.bibox
 appCountry: us
-released: 2019-03-24
-updated: 2021-11-04
+released: '2019-03-24'
+updated: '2021-11-04'
 version: '4.8.5'
 stars: 5
 ratings: 1559
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-02-10
+date: '2022-02-10'
 signer: 
 reviewArchive: 
 twitter: Bibox365

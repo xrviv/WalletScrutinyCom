@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.goldtradeuk.io
 appCountry: 
-released: 2022-05-24
-updated: 2022-05-29
+released: '2022-05-24'
+updated: '2022-05-29'
 version: '2.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-09-06
+date: '2024-09-06'
 signer: 
 reviewArchive: 
 twitter: 

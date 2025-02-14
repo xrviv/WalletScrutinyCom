@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.swappy.autocrypto
 appCountry: 
-released: 2022-05-20
-updated: 2022-06-02
+released: '2022-05-20'
+updated: '2022-06-02'
 version: '0.0.10'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-12-15
+date: '2024-12-15'
 signer: 
 reviewArchive: 
 twitter: 

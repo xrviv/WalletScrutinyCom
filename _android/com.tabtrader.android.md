@@ -9,8 +9,8 @@ authors:
 users: 1000000
 appId: com.tabtrader.android
 appCountry: 
-released: 2014-08-14
-updated: 2024-11-27
+released: '2014-08-14'
+updated: '2024-11-27'
 version: '7.3.0'
 stars: 4
 ratings: 57218
@@ -24,7 +24,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-08-10
+date: '2021-08-10'
 signer: 
 reviewArchive: 
 twitter: tabtraderpro

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.exchangecopter.Copter
 appCountry: 
-released: 2021-12-09
-updated: 2022-09-16
+released: '2021-12-09'
+updated: '2022-09-16'
 version: '1.5.7'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

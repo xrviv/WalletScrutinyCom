@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.holytransaction
 appCountry: 
-released: 2021-03-25
-updated: 2021-03-25
+released: '2021-03-25'
+updated: '2021-03-25'
 version: '1.0.0'
 stars: 4.3
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

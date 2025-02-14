@@ -7,7 +7,7 @@ users: 500
 appId: easyexchangepro.com.easy_pro
 appCountry: 
 released: 
-updated: 2023-04-11
+updated: '2023-04-11'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2025-01-09
+date: '2025-01-09'
 signer: 
 reviewArchive: 
 twitter: 

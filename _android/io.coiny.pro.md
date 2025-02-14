@@ -7,7 +7,7 @@ users: 1000
 appId: io.coiny.pro
 appCountry: 
 released: 
-updated: 2019-08-07
+updated: '2019-08-07'
 version: '1.0.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

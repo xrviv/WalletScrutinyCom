@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.bonuspay.crypto.finance
 appCountry: 
-released: 2023-01-29
-updated: 2023-02-02
+released: '2023-01-29'
+updated: '2023-02-02'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

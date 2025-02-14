@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.csesg.cs9
 appCountry: 
-released: 2020-09-28
-updated: 2021-07-28
+released: '2020-09-28'
+updated: '2021-07-28'
 version: '1.2.9'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

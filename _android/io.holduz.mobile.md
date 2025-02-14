@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.holduz.mobile
 appCountry: 
-released: 2022-10-31
-updated: 2024-07-05
+released: '2022-10-31'
+updated: '2024-07-05'
 version: '2024.07.01'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: holduz_io

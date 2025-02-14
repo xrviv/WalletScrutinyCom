@@ -7,8 +7,8 @@ authors:
 appId: org.coinid
 appCountry: 
 idd: 1362831898
-released: 2018-10-02
-updated: 2023-02-21
+released: '2018-10-02'
+updated: '2023-02-21'
 version: '1.5.6'
 stars: 4
 reviews: 21
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: ftbfs
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: COINiDGroup

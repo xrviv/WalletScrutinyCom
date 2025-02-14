@@ -6,8 +6,8 @@ authors:
 users: 5000
 appId: org.topnetwork.hiwallet
 appCountry: 
-released: 2020-04-08
-updated: 2021-08-13
+released: '2020-04-08'
+updated: '2021-08-13'
 version: 'V2.3.2'
 stars: 3.6
 ratings: 48
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-10
+date: '2021-11-10'
 signer: 
 reviewArchive: 
 twitter: 

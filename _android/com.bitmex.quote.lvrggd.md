@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bitmex.quote.lvrggd
 appCountry: 
-released: 2018-09-14
-updated: 2024-07-12
+released: '2018-09-14'
+updated: '2024-07-12'
 version: '1.8'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-09-04
+date: '2023-09-04'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 appId: africa.bitkoin.buycoins
 appCountry: 
 idd: 1389966202
-released: 2018-08-02
-updated: 2021-04-17
+released: '2018-08-02'
+updated: '2021-04-17'
 version: '5.6.0'
 stars: 3.7
 reviews: 46
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-04-22
+date: '2021-04-22'
 signer: 
 reviewArchive: 
 twitter: buycoins_africa

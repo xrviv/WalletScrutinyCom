@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: perfect.currency.exchange
 appCountry: 
-released: 2019-07-22
-updated: 2019-09-07
+released: '2019-07-22'
+updated: '2019-09-07'
 version: 'v8.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: 

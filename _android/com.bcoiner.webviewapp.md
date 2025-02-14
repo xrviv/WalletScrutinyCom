@@ -6,8 +6,8 @@ authors:
 users: 100000
 appId: com.bcoiner.webviewapp
 appCountry: 
-released: 2014-12-01
-updated: 2018-01-05
+released: '2014-12-01'
+updated: '2018-01-05'
 version: '1.3.2'
 stars: 4.3
 ratings: 2468
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2021-06-23
+date: '2021-06-23'
 signer: 
 reviewArchive: 
 twitter: 

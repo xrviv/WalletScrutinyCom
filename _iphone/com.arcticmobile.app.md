@@ -7,8 +7,8 @@ authors:
 appId: com.arcticmobile.app
 appCountry: us
 idd: '1658699963'
-released: 2023-02-08
-updated: 2024-07-17
+released: '2023-02-08'
+updated: '2024-07-17'
 version: '1.35'
 stars: 4
 reviews: 5
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2023-07-03
+date: '2023-07-03'
 signer: 
 reviewArchive: 
 twitter: 

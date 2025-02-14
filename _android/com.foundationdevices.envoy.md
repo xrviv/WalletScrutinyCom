@@ -8,8 +8,8 @@ authors:
 users: 1000
 appId: com.foundationdevices.envoy
 appCountry: US
-released: 2022-04-01
-updated: 2025-02-01
+released: '2022-04-01'
+updated: '2025-02-01'
 version: '1.8.6'
 stars: 4.2
 ratings: 
@@ -23,10 +23,10 @@ bugbounty:
 meta: ok
 verdict: wip
 appHashes: []
-date: 2024-11-22
+date: '2024-11-22'
 signer: 
 reviewArchive:
-- date: 2024-11-22
+- date: '2024-11-22'
   version: '1.8.4'
   appHashes:
   - 7d883cf4ac02b16238e2075a726db8dcefd7250f8461d06565e2daf9b520e2be

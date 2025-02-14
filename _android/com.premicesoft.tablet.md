@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.premicesoft.tablet
 appCountry: 
-released: 2022-06-16
-updated: 2023-01-04
+released: '2022-06-16'
+updated: '2023-01-04'
 version: '1.2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2024-12-27
+date: '2024-12-27'
 signer: 
 reviewArchive: 
 twitter: 

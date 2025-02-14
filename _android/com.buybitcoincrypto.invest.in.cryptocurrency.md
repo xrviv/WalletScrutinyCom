@@ -6,8 +6,8 @@ authors:
 users: 0
 appId: com.buybitcoincrypto.invest.in.cryptocurrency
 appCountry: 
-released: 2021-06-24
-updated: 2021-06-24
+released: '2021-06-24'
+updated: '2021-06-24'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-08-13
+date: '2021-08-13'
 signer: 
 reviewArchive: 
 twitter: 

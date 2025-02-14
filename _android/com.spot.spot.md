@@ -8,8 +8,8 @@ authors:
 users: 100000
 appId: com.spot.spot
 appCountry: 
-released: 2018-08-02
-updated: 2024-02-06
+released: '2018-08-02'
+updated: '2024-02-06'
 version: '4.88.4'
 stars: 4.2
 ratings: 4767
@@ -23,7 +23,7 @@ bugbounty:
 meta: defunct
 verdict: nosource
 appHashes: 
-date: 2024-07-13
+date: '2024-07-13'
 signer: 
 reviewArchive: 
 twitter: spot_bitcoin

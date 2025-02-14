@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.hamrasta.hwallet
 appCountry: 
-released: 2019-09-22
-updated: 2020-08-03
+released: '2019-09-22'
+updated: '2020-08-03'
 version: '2.7'
 stars: 4.1
 ratings: 135
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-08-07
+date: '2023-08-07'
 signer: 
 reviewArchive: 
 twitter: 

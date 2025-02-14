@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.profittrading.forhuobi
 appCountry: 
-released: 2018-11-21
-updated: 2021-12-03
+released: '2018-11-21'
+updated: '2021-12-03'
 version: '3.0.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: ProfitTrading_

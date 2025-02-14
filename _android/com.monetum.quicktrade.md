@@ -7,7 +7,7 @@ users: 50
 appId: com.monetum.quicktrade
 appCountry: 
 released: 
-updated: 2023-03-24
+updated: '2023-03-24'
 version: '1.7.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: fewusers
 appHashes: 
-date: 2024-03-19
+date: '2024-03-19'
 signer: 
 reviewArchive: 
 twitter: 

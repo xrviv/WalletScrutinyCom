@@ -7,8 +7,8 @@ authors:
 users: 500
 appId: com.chivowalletapp.co
 appCountry: 
-released: 2021-08-12
-updated: 2021-08-13
+released: '2021-08-12'
+updated: '2021-08-13'
 version: '1.0'
 stars: 1.6
 ratings: 64
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-08-21
+date: '2021-08-21'
 signer: 
 reviewArchive: 
 twitter: 

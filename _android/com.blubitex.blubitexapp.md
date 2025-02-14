@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.blubitex.blubitexapp
 appCountry: us
-released: 2020-10-03
-updated: 2022-04-14
+released: '2020-10-03'
+updated: '2022-04-14'
 version: '2.1.342'
 stars: 3.4
 ratings: 2703
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: blubitex

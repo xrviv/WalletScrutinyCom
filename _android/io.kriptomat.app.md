@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: io.kriptomat.app
 appCountry: us
-released: 2018-12-17
-updated: 2025-02-03
+released: '2018-12-17'
+updated: '2025-02-03'
 version: '5.5.14'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-23
+date: '2021-09-23'
 signer: 
 reviewArchive: 
 twitter: kriptomat

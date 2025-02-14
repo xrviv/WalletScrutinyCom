@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.ajaxcash.ajc
 appCountry: 
-released: 2022-02-19
-updated: 2022-03-29
+released: '2022-02-19'
+updated: '2022-03-29'
 version: '10.03'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

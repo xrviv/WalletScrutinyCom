@@ -7,8 +7,8 @@ authors:
 appId: com.rsk.rwallet.reactnative
 appCountry: us
 idd: 1489241342
-released: 2020-07-08
-updated: 2021-07-01
+released: '2020-07-08'
+updated: '2021-07-01'
 version: '2.0.1'
 stars: 5
 reviews: 5
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: ftbfs
 appHashes: 
-date: 2023-05-17
+date: '2023-05-17'
 signer: 
 reviewArchive: 
 twitter: rsksmart

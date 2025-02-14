@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.tedachain.app
 appCountry: 
-released: 2022-03-17
-updated: 2022-04-01
+released: '2022-03-17'
+updated: '2022-04-01'
 version: '2.6.7'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-16
+date: '2023-04-16'
 signer: 
 reviewArchive: 
 twitter: 

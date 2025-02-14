@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.codepoint.fastbit
 appCountry: 
-released: 2020-09-13
-updated: 2021-11-24
+released: '2020-09-13'
+updated: '2021-11-24'
 version: '2.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

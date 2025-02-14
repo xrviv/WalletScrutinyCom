@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: julfer.com.multitrader
 appCountry: 
-released: 2017-09-15
-updated: 2021-01-15
+released: '2017-09-15'
+updated: '2021-01-15'
 version: '1.10'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

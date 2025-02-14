@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: me.coinbag
 appCountry: 
-released: 2022-01-07
-updated: 2022-11-30
+released: '2022-01-07'
+updated: '2022-11-30'
 version: '1.8'
 stars: 4.5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.idax.exchange
 appCountry: 
-released: 2022-04-24
-updated: 2022-09-27
+released: '2022-04-24'
+updated: '2022-09-27'
 version: '5.5.0_push_v2'
 stars: 3.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-05-10
+date: '2023-05-10'
 signer: 
 reviewArchive: 
 twitter: 

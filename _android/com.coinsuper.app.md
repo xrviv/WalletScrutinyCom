@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.coinsuper.app
 appCountry: us
-released: 2018-04-24
-updated: 2021-11-04
+released: '2018-04-24'
+updated: '2021-11-04'
 version: '2.5.8'
 stars: 3.2
 ratings: 164
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-01-31
+date: '2022-01-31'
 signer: 
 reviewArchive: 
 twitter: Coinsuper_OFCL

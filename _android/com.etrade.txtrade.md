@@ -6,8 +6,8 @@ authors:
 users: 5000
 appId: com.etrade.txtrade
 appCountry: 
-released: 2022-10-23
-updated: 2022-10-24
+released: '2022-10-23'
+updated: '2022-10-24'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.ripio.android
 appCountry: 
-released: 2015-06-01
-updated: 2025-02-11
+released: '2015-06-01'
+updated: '2025-02-11'
 version: '6.1.21'
 stars: 3.7
 ratings: 34376
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2020-03-28
+date: '2020-03-28'
 signer: 
 reviewArchive: 
 twitter: ripioapp

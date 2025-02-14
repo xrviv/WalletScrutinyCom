@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.dcbits.android
 appCountry: 
-released: 2022-08-02
-updated: 2023-01-23
+released: '2022-08-02'
+updated: '2023-01-23'
 version: '1.5'
 stars: 4.6
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

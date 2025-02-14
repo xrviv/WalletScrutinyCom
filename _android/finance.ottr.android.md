@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: finance.ottr.android
 appCountry: 
-released: 2022-10-04
-updated: 2023-12-18
+released: '2022-10-04'
+updated: '2023-12-18'
 version: '1.58'
 stars: 3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nobtc
 appHashes: 
-date: 2024-12-15
+date: '2024-12-15'
 signer: 
 reviewArchive: 
 twitter: 

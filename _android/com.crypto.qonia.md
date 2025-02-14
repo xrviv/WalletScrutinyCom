@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.crypto.qonia
 appCountry: 
-released: 2021-05-21
-updated: 2021-05-26
+released: '2021-05-21'
+updated: '2021-05-26'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

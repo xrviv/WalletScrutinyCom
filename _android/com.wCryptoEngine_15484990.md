@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.wCryptoEngine_15484990
 appCountry: 
-released: 2022-05-05
-updated: 2022-05-05
+released: '2022-05-05'
+updated: '2022-05-05'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

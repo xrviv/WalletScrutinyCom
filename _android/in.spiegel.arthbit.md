@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: in.spiegel.arthbit
 appCountry: 
-released: 2021-11-19
-updated: 2021-11-23
+released: '2021-11-19'
+updated: '2021-11-23'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-09-04
+date: '2023-09-04'
 signer: 
 reviewArchive: 
 twitter: ArthBitExchange

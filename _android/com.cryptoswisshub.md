@@ -7,7 +7,7 @@ users: 500
 appId: com.cryptoswisshub
 appCountry: 
 released: 
-updated: 2022-11-07
+updated: '2022-11-07'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-08-07
+date: '2024-08-07'
 signer: 
 reviewArchive: 
 twitter: 

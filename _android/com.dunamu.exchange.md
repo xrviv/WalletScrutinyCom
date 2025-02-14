@@ -7,8 +7,8 @@ authors:
 users: 5000000
 appId: com.dunamu.exchange
 appCountry: 
-released: 2017-10-23
-updated: 2025-02-10
+released: '2017-10-23'
+updated: '2025-02-10'
 version: '1.31.0'
 stars: 3.4
 ratings: 29440
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-08-21
+date: '2021-08-21'
 signer: 
 reviewArchive: 
 twitter: upbitglobal

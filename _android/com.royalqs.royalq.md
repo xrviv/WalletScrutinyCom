@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.royalqs.royalq
 appCountry: 
-released: 2021-03-19
-updated: 2025-01-21
+released: '2021-03-19'
+updated: '2025-01-21'
 version: '5.8.6'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-01-31
+date: '2023-01-31'
 signer: 
 reviewArchive: 
 twitter: RoyalQuantify

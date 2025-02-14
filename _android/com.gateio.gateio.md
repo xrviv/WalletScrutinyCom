@@ -7,8 +7,8 @@ authors:
 users: 5000000
 appId: com.gateio.gateio
 appCountry: id
-released: 2017-11-03
-updated: 2025-01-31
+released: '2017-11-03'
+updated: '2025-01-31'
 version: '6.49.7'
 stars: 4.9
 ratings: 17546
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-08-21
+date: '2021-08-21'
 signer: 
 reviewArchive: 
 twitter: gate_io

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: cz.hundredspires.wexo
 appCountry: 
-released: 2021-11-29
-updated: 2025-01-16
+released: '2021-11-29'
+updated: '2025-01-16'
 version: '3.0.0.1'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-06-30
+date: '2023-06-30'
 signer: 
 reviewArchive: 
 twitter: WexoOfficial

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.monnos.android
 appCountry: br
-released: 2019-09-17
-updated: 2024-11-29
+released: '2019-09-17'
+updated: '2024-11-29'
 version: '6.3.14'
 stars: 3.7
 ratings: 931
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-23
+date: '2021-09-23'
 signer: 
 reviewArchive: 
 twitter: monnosGlobal

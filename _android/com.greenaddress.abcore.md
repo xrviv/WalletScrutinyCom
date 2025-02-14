@@ -9,7 +9,7 @@ users: 1000
 appId: com.greenaddress.abcore
 appCountry: 
 released: 
-updated: 2019-10-16
+updated: '2019-10-16'
 version: 'VARY'
 stars: 
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: reproducible
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.blockchain.bitcoin.wallet
 appCountry: 
-released: 2021-01-19
-updated: 2023-08-26
+released: '2021-01-19'
+updated: '2023-08-26'
 version: '2.0.2'
 stars: 4.5
 ratings: 729
@@ -22,10 +22,10 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive:
-- date: 2021-06-04
+- date: '2021-06-04'
   version: '1.0.3.7'
   appHashes: []
   gitRevision: b994137e4f91927a8680b389b81bb5945d1ddf71

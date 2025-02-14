@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.wLocalCrytoBTC_13166476
 appCountry: 
-released: 2021-02-05
-updated: 2021-08-05
+released: '2021-02-05'
+updated: '2021-08-05'
 version: '1.0.26'
 stars: 3
 ratings: 43
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-09-16
+date: '2021-09-16'
 signer: 
 reviewArchive: 
 twitter: 

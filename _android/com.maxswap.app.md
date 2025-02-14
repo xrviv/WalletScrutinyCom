@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.maxswap.app
 appCountry: 
-released: 2024-06-19
-updated: 2024-09-02
+released: '2024-06-19'
+updated: '2024-09-02'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2024-08-17
+date: '2024-08-17'
 signer: 
 reviewArchive: 
 twitter: 

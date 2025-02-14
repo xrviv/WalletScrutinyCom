@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.qqtrade.gugupay
 appCountry: cn
-released: 2017-05-25
-updated: 2025-02-11
+released: '2017-05-25'
+updated: '2025-02-11'
 version: '5.9.7'
 stars: 4.8
 ratings: 658
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-12-26
+date: '2021-12-26'
 signer: 
 reviewArchive: 
 twitter: 

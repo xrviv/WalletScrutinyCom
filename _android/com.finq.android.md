@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.finq.android
 appCountry: 
-released: 2017-10-02
-updated: 2024-09-05
+released: '2017-10-02'
+updated: '2024-09-05'
 version: '2.11.1'
 stars: 2.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2022-07-11
+date: '2022-07-11'
 signer: 
 reviewArchive: 
 twitter: finqcom

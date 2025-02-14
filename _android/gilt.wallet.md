@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: gilt.wallet
 appCountry: 
-released: 2020-10-12
-updated: 2020-10-12
+released: '2020-10-12'
+updated: '2020-10-12'
 version: '9.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-05-17
+date: '2023-05-17'
 signer: 
 reviewArchive: 
 twitter: 

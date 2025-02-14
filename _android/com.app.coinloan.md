@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.app.coinloan
 appCountry: us
-released: 2019-11-28
-updated: 2023-05-29
+released: '2019-11-28'
+updated: '2023-05-29'
 version: '1.7.7'
 stars: 3.6
 ratings: 309
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2025-01-15
+date: '2025-01-15'
 signer: 
 reviewArchive: 
 twitter: coin_loan

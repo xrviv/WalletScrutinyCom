@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.wbtcb.bitstock
 appCountry: 
-released: 2020-06-17
-updated: 2025-02-03
+released: '2020-06-17'
+updated: '2025-02-03'
 version: '2.6.8'
 stars: 2.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-11-17
+date: '2023-11-17'
 signer: 
 reviewArchive: 
 twitter: 

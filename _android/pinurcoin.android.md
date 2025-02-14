@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: pinurcoin.android
 appCountry: 
-released: 2018-03-08
-updated: 2018-03-09
+released: '2018-03-08'
+updated: '2018-03-09'
 version: '1.1'
 stars: 5
 ratings: 16
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-15
+date: '2021-10-15'
 signer: 
 reviewArchive: 
 twitter: 

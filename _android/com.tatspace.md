@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.tatspace
 appCountry: 
-released: 2022-02-13
-updated: 2024-09-09
+released: '2022-02-13'
+updated: '2024-09-09'
 version: '1.4.9'
 stars: 3.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-12
+date: '2023-04-12'
 signer: 
 reviewArchive: 
 twitter: tatspaceapp

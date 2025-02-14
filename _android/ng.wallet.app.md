@@ -8,8 +8,8 @@ authors:
 users: 100000
 appId: ng.wallet.app
 appCountry: 
-released: 2017-06-22
-updated: 2021-09-04
+released: '2017-06-22'
+updated: '2021-09-04'
 version: '2.480'
 stars: 2.5
 ratings: 2049
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: walletsafrica

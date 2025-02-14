@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.hconline.iso
 appCountry: us
-released: 2020-07-19
-updated: 2022-10-28
+released: '2020-07-19'
+updated: '2022-10-28'
 version: 'R02.03.06.478'
 stars: 4.1
 ratings: 19
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: Starteos

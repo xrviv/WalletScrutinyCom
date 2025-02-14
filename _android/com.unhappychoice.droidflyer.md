@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.unhappychoice.droidflyer
 appCountry: 
-released: 2017-11-12
-updated: 2022-01-23
+released: '2017-11-12'
+updated: '2022-01-23'
 version: '2.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

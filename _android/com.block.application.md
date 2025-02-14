@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.block.application
 appCountry: 
-released: 2022-02-07
-updated: 2023-01-13
+released: '2022-02-07'
+updated: '2023-01-13'
 version: '2.4.40'
 stars: 3.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2025-01-06
+date: '2025-01-06'
 signer: 
 reviewArchive: 
 twitter: uollar_io

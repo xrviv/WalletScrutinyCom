@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: co.tradersvillage
 appCountry: 
-released: 2020-06-08
-updated: 2020-06-08
+released: '2020-06-08'
+updated: '2020-06-08'
 version: '0.0.21'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

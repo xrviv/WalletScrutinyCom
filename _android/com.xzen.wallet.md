@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.xzen.wallet
 appCountry: 
-released: 2018-12-25
-updated: 2019-09-19
+released: '2018-12-25'
+updated: '2019-09-19'
 version: '1.2.6.0'
 stars: 3.7
 ratings: 42
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-05-15
+date: '2021-05-15'
 signer: 
 reviewArchive: 
 twitter: XZENwallet

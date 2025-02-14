@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.RoyalQ
 appCountry: 
-released: 2021-10-08
-updated: 2024-11-14
+released: '2021-10-08'
+updated: '2024-11-14'
 version: '5.1'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: 

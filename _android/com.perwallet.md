@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.perwallet
 appCountry: 
-released: 2020-11-10
-updated: 2021-06-14
+released: '2020-11-10'
+updated: '2021-06-14'
 version: '2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

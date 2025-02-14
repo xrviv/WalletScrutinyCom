@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.mobile.kyc
 appCountry: 
-released: 2022-01-21
-updated: 2022-10-28
+released: '2022-01-21'
+updated: '2022-10-28'
 version: '1.1.0'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nosource
 appHashes: 
-date: 2024-10-19
+date: '2024-10-19'
 signer: 
 reviewArchive: 
 twitter: kyc_coin

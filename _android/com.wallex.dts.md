@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.wallex.dts
 appCountry: 
-released: 2023-01-05
-updated: 2023-08-07
+released: '2023-01-05'
+updated: '2023-08-07'
 version: '1.3.34'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: 

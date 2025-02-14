@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.quoine.liquid
 appCountry: us
-released: 2019-01-10
-updated: 2022-10-24
+released: '2019-01-10'
+updated: '2022-10-24'
 version: '1.18.3.1'
 stars: 3.2
 ratings: 799
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: Liquid_Global

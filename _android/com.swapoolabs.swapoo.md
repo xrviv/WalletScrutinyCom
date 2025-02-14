@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.swapoolabs.swapoo
 appCountry: ph
-released: 2020-01-09
-updated: 2021-11-02
+released: '2020-01-09'
+updated: '2021-11-02'
 version: '1.28.125'
 stars: 4.6
 ratings: 56
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-15
+date: '2021-11-15'
 signer: 
 reviewArchive: 
 twitter: 

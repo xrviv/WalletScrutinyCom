@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.chameleon.wallet
 appCountry: 
-released: 2019-02-22
-updated: 2019-10-16
+released: '2019-02-22'
+updated: '2019-10-16'
 version: '4.0.3'
 stars: 4.5
 ratings: 75
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2020-12-08
+date: '2020-12-08'
 signer: 
 reviewArchive: 
 twitter: chainzillaio

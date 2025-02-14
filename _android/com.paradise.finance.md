@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.paradise.finance
 appCountry: 
-released: 2021-07-06
-updated: 2024-08-30
+released: '2021-07-06'
+updated: '2024-08-30'
 version: '1.5.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2023-03-03
+date: '2023-03-03'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.baz.code
 appCountry: 
-released: 2022-06-23
-updated: 2022-09-28
+released: '2022-06-23'
+updated: '2022-09-28'
 version: '3.1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

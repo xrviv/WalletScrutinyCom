@@ -8,7 +8,7 @@ users: 50
 appId: app.getvega
 appCountry: 
 released: 
-updated: 2019-05-22
+updated: '2019-05-22'
 version: 'Varies with device'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-08-09
+date: '2021-08-09'
 signer: 
 reviewArchive: 
 twitter: GetVegaApp

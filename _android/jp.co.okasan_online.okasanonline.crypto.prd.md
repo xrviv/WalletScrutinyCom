@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: jp.co.okasan_online.okasanonline.crypto.prd
 appCountry: 
-released: 2022-01-28
-updated: 2024-02-21
+released: '2022-01-28'
+updated: '2024-02-21'
 version: '1.15.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-10-06
+date: '2024-10-06'
 signer: 
 reviewArchive: 
 twitter: 

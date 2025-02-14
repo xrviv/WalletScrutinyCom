@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: qooorsou.lts.wallet
 appCountry: 
-released: 2019-09-06
-updated: 2019-09-06
+released: '2019-09-06'
+updated: '2019-09-06'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

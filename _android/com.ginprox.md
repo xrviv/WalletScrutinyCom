@@ -6,8 +6,8 @@ authors:
 users: 50000
 appId: com.ginprox
 appCountry: 
-released: 2021-04-16
-updated: 2021-07-14
+released: '2021-04-16'
+updated: '2021-07-14'
 version: '1.1.6'
 stars: 1.9
 ratings: 716
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-08-04
+date: '2021-08-04'
 signer: 
 reviewArchive: 
 twitter: GinBlockchain

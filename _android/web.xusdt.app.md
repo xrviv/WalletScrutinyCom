@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: web.xusdt.app
 appCountry: 
-released: 2022-03-15
-updated: 2022-05-14
+released: '2022-03-15'
+updated: '2022-05-14'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-08-05
+date: '2023-08-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.quidax.lite
 appCountry: 
-released: 2022-01-08
-updated: 2025-02-07
+released: '2022-01-08'
+updated: '2025-02-07'
 version: '1.22.0'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-21
+date: '2023-07-21'
 signer: 
 reviewArchive: 
 twitter: quidaxglobal

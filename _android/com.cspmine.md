@@ -6,8 +6,8 @@ authors:
 users: 50000
 appId: com.cspmine
 appCountry: 
-released: 2021-07-30
-updated: 2021-10-27
+released: '2021-07-30'
+updated: '2021-10-27'
 version: '3.0'
 stars: 2.7
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

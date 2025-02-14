@@ -6,8 +6,8 @@ authors:
 users: 5000
 appId: com.piece.father
 appCountry: 
-released: 2022-03-31
-updated: 2022-03-31
+released: '2022-03-31'
+updated: '2022-03-31'
 version: '1.11.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

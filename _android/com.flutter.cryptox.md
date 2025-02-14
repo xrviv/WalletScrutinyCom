@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.flutter.cryptox
 appCountry: 
-released: 2021-07-31
-updated: 2022-07-29
+released: '2021-07-31'
+updated: '2022-07-29'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

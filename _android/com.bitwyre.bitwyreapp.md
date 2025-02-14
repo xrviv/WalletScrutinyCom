@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.bitwyre.bitwyreapp
 appCountry: 
-released: 2022-02-21
-updated: 2022-04-02
+released: '2022-02-21'
+updated: '2022-04-02'
 version: '0.0.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-04
+date: '2023-09-04'
 signer: 
 reviewArchive: 
 twitter: 

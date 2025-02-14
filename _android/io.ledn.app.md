@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.ledn.app
 appCountry: us
-released: 2021-01-04
-updated: 2023-08-24
+released: '2021-01-04'
+updated: '2023-08-24'
 version: '0.8.6'
 stars: 2.3
 ratings: 71
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-08-19
+date: '2024-08-19'
 signer: 
 reviewArchive: 
 twitter: hodlwithLedn

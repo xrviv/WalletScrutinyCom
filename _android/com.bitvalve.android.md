@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.bitvalve.android
 appCountry: 
-released: 2019-10-29
-updated: 2025-01-31
+released: '2019-10-29'
+updated: '2025-01-31'
 version: '1.32.2'
 stars: 4.6
 ratings: 300
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-11-03
+date: '2021-11-03'
 signer: 
 reviewArchive: 
 twitter: bitvalve

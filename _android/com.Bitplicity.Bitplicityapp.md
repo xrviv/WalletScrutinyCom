@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.Bitplicity.Bitplicityapp
 appCountry: 
-released: 2020-06-06
-updated: 2020-06-19
+released: '2020-06-06'
+updated: '2020-06-19'
 version: '1.4'
 stars: 4.2
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

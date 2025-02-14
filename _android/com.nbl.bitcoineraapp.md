@@ -7,7 +7,7 @@ users: 5000
 appId: com.nbl.bitcoineraapp
 appCountry: 
 released: 
-updated: 2021-02-10
+updated: '2021-02-10'
 version: '1.0.1'
 stars: 3.2
 ratings: 43
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-08-20
+date: '2021-08-20'
 signer: 
 reviewArchive: 
 twitter: 

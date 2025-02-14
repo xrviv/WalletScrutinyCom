@@ -3,9 +3,9 @@ title: Bitfury Lightning Peach Wallet
 appId: lightningpeach
 authors:
 - danny
-released: 2018-10-12
+released: '2018-10-12'
 discontinued: 
-updated: 2019-04-02
+updated: '2019-04-02'
 version: '0.5.0-mainnet-beta'
 binaries: 
 provider: Bitfury Holding B.V.
@@ -17,7 +17,7 @@ icon: lightningpeach.png
 bugbounty: 
 meta: obsolete
 verdict: wip
-date: 2024-05-08
+date: '2024-05-08'
 reviewArchive: 
 twitter: lightningpeach
 social:

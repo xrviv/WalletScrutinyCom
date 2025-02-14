@@ -7,8 +7,8 @@ authors:
 users: 100
 appId: com.cryptooptions.crypto.com.buy.bitcoin.now
 appCountry: 
-released: 2021-07-24
-updated: 2021-07-24
+released: '2021-07-24'
+updated: '2021-07-24'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: rigel.finance.bankwallet
 appCountry: 
-released: 2020-12-03
-updated: 2020-12-23
+released: '2020-12-03'
+updated: '2020-12-23'
 version: '0.17.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

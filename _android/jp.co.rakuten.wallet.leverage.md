@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: jp.co.rakuten.wallet.leverage
 appCountry: 
-released: 2020-03-22
-updated: 2023-02-17
+released: '2020-03-22'
+updated: '2023-02-17'
 version: '1.2.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: Rakuten_Wallet

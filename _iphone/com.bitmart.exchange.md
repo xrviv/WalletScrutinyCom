@@ -7,8 +7,8 @@ authors:
 appId: com.bitmart.exchange
 appCountry: 
 idd: 1396382871
-released: 2018-08-02
-updated: 2025-02-11
+released: '2018-08-02'
+updated: '2025-02-11'
 version: '3.2.5'
 stars: 2.8
 reviews: 3143
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-05-20
+date: '2021-05-20'
 signer: 
 reviewArchive: 
 twitter: BitMartExchange

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.waspbit.witcashpdn
 appCountry: 
-released: 2018-12-10
-updated: 2021-07-14
+released: '2018-12-10'
+updated: '2021-07-14'
 version: '2.0.9'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-06-10
+date: '2023-06-10'
 signer: 
 reviewArchive: 
 twitter: 

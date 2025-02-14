@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.nakitcoins.wallet
 appCountry: us
-released: 2021-03-30
-updated: 2022-03-29
+released: '2021-03-30'
+updated: '2022-03-29'
 version: '2.2.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: nakitcoins

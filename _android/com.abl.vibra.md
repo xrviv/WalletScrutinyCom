@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.abl.vibra
 appCountry: 
-released: 2021-10-21
-updated: 2023-06-29
+released: '2021-10-21'
+updated: '2023-06-29'
 version: '1.6.90'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-06-23
+date: '2024-06-23'
 signer: 
 reviewArchive: 
 twitter: VibraAfrica

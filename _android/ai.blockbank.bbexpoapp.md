@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: ai.blockbank.bbexpoapp
 appCountry: 
-released: 2021-10-21
-updated: 2025-02-05
+released: '2021-10-21'
+updated: '2025-02-05'
 version: '4.4.0'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-20
+date: '2024-07-20'
 signer: 
 reviewArchive: 
 twitter: BLOCKBANKapp

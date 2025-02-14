@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.opi.optimizer
 appCountry: 
-released: 2022-02-24
-updated: 2023-08-28
+released: '2022-02-24'
+updated: '2023-08-28'
 version: '1.2.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: fewusers
 appHashes: 
-date: 2024-08-23
+date: '2024-08-23'
 signer: 
 reviewArchive: 
 twitter: 

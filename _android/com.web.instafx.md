@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.web.instafx
 appCountry: 
-released: 2021-10-29
-updated: 2021-12-30
+released: '2021-10-29'
+updated: '2021-12-30'
 version: '1.4'
 stars: 4.3
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-12-04
+date: '2024-12-04'
 signer: 
 reviewArchive: 
 twitter: 

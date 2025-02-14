@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.gluwa.android
 appCountry: 
-released: 2015-09-20
-updated: 2024-03-27
+released: '2015-09-20'
+updated: '2024-03-27'
 version: '8.7.0'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: gluwa

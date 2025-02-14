@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: io.kisco.app.android
 appCountry: 
-released: 2020-12-23
-updated: 2021-01-19
+released: '2020-12-23'
+updated: '2021-01-19'
 version: '1.0.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-11-04
+date: '2024-11-04'
 signer: 
 reviewArchive: 
 twitter: 

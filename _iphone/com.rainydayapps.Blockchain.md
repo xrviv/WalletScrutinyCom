@@ -7,8 +7,8 @@ authors:
 appId: com.rainydayapps.Blockchain
 appCountry: 
 idd: 493253309
-released: 2012-04-13
-updated: 2025-02-12
+released: '2012-04-13'
+updated: '2025-02-12'
 version: '202502.1.0'
 stars: 4.7
 reviews: 174612
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2021-07-15
+date: '2021-07-15'
 signer: 
 reviewArchive: 
 twitter: Blockchain

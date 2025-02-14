@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.yuse.wallet
 appCountry: 
-released: 2023-05-19
-updated: 2024-12-10
+released: '2023-05-19'
+updated: '2024-12-10'
 version: '79.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-09-04
+date: '2024-09-04'
 signer: 
 reviewArchive: 
 twitter: YuseToken

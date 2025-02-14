@@ -8,8 +8,8 @@ authors:
 users: 1000
 appId: com.bitorzo.wallet
 appCountry: 
-released: 2020-07-22
-updated: 2021-01-03
+released: '2020-07-22'
+updated: '2021-01-03'
 version: '3.1.3'
 stars: 
 ratings: 28
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: ftbfs
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.dovewallet.app
 appCountry: 
-released: 2020-09-09
-updated: 2020-12-23
+released: '2020-09-09'
+updated: '2020-12-23'
 version: '1.0.6'
 stars: 3.5
 ratings: 54
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-05-31
+date: '2022-05-31'
 signer: 
 reviewArchive: 
 twitter: dovewallet_en

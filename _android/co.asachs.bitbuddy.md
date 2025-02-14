@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: co.asachs.bitbuddy
 appCountry: 
-released: 2019-09-19
-updated: 2020-09-28
+released: '2019-09-19'
+updated: '2020-09-28'
 version: '2.0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-10
+date: '2023-05-10'
 signer: 
 reviewArchive: 
 twitter: 

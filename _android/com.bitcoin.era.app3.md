@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.bitcoin.era.app3
 appCountry: 
-released: 2021-07-15
-updated: 2021-07-15
+released: '2021-07-15'
+updated: '2021-07-15'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-08-26
+date: '2021-08-26'
 signer: 
 reviewArchive: 
 twitter: 

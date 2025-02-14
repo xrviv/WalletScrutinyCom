@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.kocomex.ecointrust
 appCountry: 
-released: 2019-06-10
-updated: 2020-06-19
+released: '2019-06-10'
+updated: '2020-06-19'
 version: '2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2022-06-23
+date: '2022-06-23'
 signer: 
 reviewArchive: 
 twitter: 

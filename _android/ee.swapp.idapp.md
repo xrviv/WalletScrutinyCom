@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: ee.swapp.idapp
 appCountry: 
-released: 2022-03-14
-updated: 2022-03-17
+released: '2022-03-14'
+updated: '2022-03-17'
 version: '1.0'
 stars: 3.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-07-31
+date: '2023-07-31'
 signer: 
 reviewArchive: 
 twitter: 

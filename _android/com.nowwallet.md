@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.nowwallet
 appCountry: 
-released: 2021-10-20
-updated: 2025-02-11
+released: '2021-10-20'
+updated: '2025-02-11'
 version: '3.14.9'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2023-07-20
+date: '2023-07-20'
 signer: 
 reviewArchive: 
 twitter: NOW_Wallet

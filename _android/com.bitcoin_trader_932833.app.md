@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.bitcoin_trader_932833.app
 appCountry: 
-released: 2022-07-21
-updated: 2022-07-21
+released: '2022-07-21'
+updated: '2022-07-21'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

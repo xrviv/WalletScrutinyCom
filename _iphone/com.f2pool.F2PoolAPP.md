@@ -7,8 +7,8 @@ authors:
 appId: com.f2pool.F2PoolAPP
 appCountry: us
 idd: '1403702113'
-released: 2018-09-06
-updated: 2025-02-11
+released: '2018-09-06'
+updated: '2025-02-11'
 version: '2.6.9'
 stars: 4
 reviews: 180
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-03-23
+date: '2023-03-23'
 signer: 
 reviewArchive: 
 twitter: F2Pool_Official

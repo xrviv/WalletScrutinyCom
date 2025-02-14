@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: appgiftertreeonepercentcommunitycom.wpapp
 appCountry: 
-released: 2019-12-04
-updated: 2019-12-05
+released: '2019-12-04'
+updated: '2019-12-05'
 version: '10.0'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

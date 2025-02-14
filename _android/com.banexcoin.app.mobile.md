@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.banexcoin.app.mobile
 appCountry: 
-released: 2022-02-02
-updated: 2024-09-26
+released: '2022-02-02'
+updated: '2024-09-26'
 version: '1.1.254'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-05-11
+date: '2023-05-11'
 signer: 
 reviewArchive: 
 twitter: banexcoin

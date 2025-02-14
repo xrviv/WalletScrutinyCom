@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.fhm.safcoin
 appCountry: 
-released: 2018-12-13
-updated: 2022-03-30
+released: '2018-12-13'
+updated: '2022-03-30'
 version: '2.0.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: SAFCOIN1

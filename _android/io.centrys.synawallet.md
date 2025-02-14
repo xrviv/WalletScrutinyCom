@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.centrys.synawallet
 appCountry: 
-released: 2018-12-13
-updated: 2019-05-15
+released: '2018-12-13'
+updated: '2019-05-15'
 version: '2.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.app.eizzybtc
 appCountry: 
-released: 2020-11-18
-updated: 2020-11-19
+released: '2020-11-18'
+updated: '2020-11-19'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-04-07
+date: '2022-04-07'
 signer: 
 reviewArchive: 
 twitter: 

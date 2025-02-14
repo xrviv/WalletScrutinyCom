@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: at.smartlab.tshop
 appCountry: 
-released: 2012-12-22
-updated: 2025-02-09
+released: '2012-12-22'
+updated: '2025-02-09'
 version: '228'
 stars: 4
 ratings: 3750
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-11-01
+date: '2021-11-01'
 signer: 
 reviewArchive: 
 twitter: 

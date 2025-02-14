@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.keystone.mobile
 appCountry: 
-released: 2021-06-01
-updated: 2024-07-19
+released: '2021-06-01'
+updated: '2024-07-19'
 version: '1.4.0'
 stars: 3.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-23
+date: '2024-07-23'
 signer: 
 reviewArchive: 
 twitter: KeystoneWallet

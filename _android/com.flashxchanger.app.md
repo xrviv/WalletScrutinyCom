@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.flashxchanger.app
 appCountry: 
-released: 2021-04-29
-updated: 2021-10-12
+released: '2021-04-29'
+updated: '2021-10-12'
 version: '1.1.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

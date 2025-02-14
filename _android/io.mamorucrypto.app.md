@@ -7,7 +7,7 @@ users: 100
 appId: io.mamorucrypto.app
 appCountry: 
 released: 
-updated: 2023-03-09
+updated: '2023-03-09'
 version: '1.1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-04-16
+date: '2023-04-16'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.sold.wallet
 appCountry: 
-released: 2021-07-24
-updated: 2021-11-18
+released: '2021-07-24'
+updated: '2021-11-18'
 version: '1.3.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

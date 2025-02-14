@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.naijacrypto.app
 appCountry: 
-released: 2019-08-05
-updated: 2022-10-22
+released: '2019-08-05'
+updated: '2022-10-22'
 version: '5.1.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-08-19
+date: '2023-08-19'
 signer: 
 reviewArchive: 
 twitter: 

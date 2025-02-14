@@ -7,7 +7,7 @@ users: 1000000
 appId: com.tronwallet2
 appCountry: 
 released: 
-updated: 2020-07-23
+updated: '2020-07-23'
 version: '3.4.5'
 stars: 3.9
 ratings: 8703
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2021-01-15
+date: '2021-01-15'
 signer: 
 reviewArchive: 
 twitter: 

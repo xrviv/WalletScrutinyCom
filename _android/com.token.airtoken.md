@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.token.airtoken
 appCountry: 
-released: 2019-06-18
-updated: 2019-07-11
+released: '2019-06-18'
+updated: '2019-07-11'
 version: '1.0.18'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-06-03
+date: '2023-06-03'
 signer: 
 reviewArchive: 
 twitter: 

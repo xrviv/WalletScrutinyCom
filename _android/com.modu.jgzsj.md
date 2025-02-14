@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.modu.jgzsj
 appCountry: 
-released: 2022-09-14
-updated: 2024-04-20
+released: '2022-09-14'
+updated: '2024-04-20'
 version: '4.9.2-RELEASE'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-11-30
+date: '2024-11-30'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.cloudmining.mineresp
 appCountry: 
-released: 2021-06-18
-updated: 2021-06-18
+released: '2021-06-18'
+updated: '2021-06-18'
 version: '1.0'
 stars: 2.5
 ratings: 19
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-08-13
+date: '2021-08-13'
 signer: 
 reviewArchive: 
 twitter: 

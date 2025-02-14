@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.plena
 appCountry: 
-released: 2022-07-06
-updated: 2025-02-01
+released: '2022-07-06'
+updated: '2025-02-01'
 version: '4.3.3'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-02-25
+date: '2023-02-25'
 signer: 
 reviewArchive: 
 twitter: PlenaFinance

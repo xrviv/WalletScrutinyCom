@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: earn.free.bitcoin
 appCountry: 
-released: 2020-08-25
-updated: 2024-02-26
+released: '2020-08-25'
+updated: '2024-02-26'
 version: '1.9'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-09-06
+date: '2024-09-06'
 signer: 
 reviewArchive: 
 twitter: 

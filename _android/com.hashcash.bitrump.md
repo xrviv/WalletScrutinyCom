@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.hashcash.bitrump
 appCountry: 
-released: 2020-02-18
-updated: 2021-03-05
+released: '2020-02-18'
+updated: '2021-03-05'
 version: '1.2.1'
 stars: 4.9
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

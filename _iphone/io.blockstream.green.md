@@ -7,8 +7,8 @@ authors:
 appId: io.blockstream.green
 appCountry: 
 idd: 1402243590
-released: 2019-03-22
-updated: 2025-02-12
+released: '2019-03-22'
+updated: '2025-02-12'
 version: '4.1.6'
 stars: 4.7
 reviews: 785
@@ -21,10 +21,10 @@ bugbounty:
 meta: ok
 verdict: nonverifiable
 appHashes: []
-date: 2020-12-19
+date: '2020-12-19'
 signer: 
 reviewArchive:
-- date: 2020-12-19
+- date: '2020-12-19'
   version: '4.1.0'
   appHashes: []
   gitRevision: 1d915d864d956ae13a1ea1939a7121444ceee3b2

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.mitin.app.sw
 appCountry: 
-released: 2021-04-14
-updated: 2021-05-13
+released: '2021-04-14'
+updated: '2021-05-13'
 version: '3.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-02-16
+date: '2022-02-16'
 signer: 
 reviewArchive: 
 twitter: 

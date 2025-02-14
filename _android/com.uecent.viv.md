@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.uecent.viv
 appCountry: 
-released: 2022-09-22
-updated: 2022-11-23
+released: '2022-09-22'
+updated: '2022-11-23'
 version: '1.2.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: org.lndroid.bitcoincore
 appCountry: 
-released: 2020-07-02
-updated: 2020-07-08
+released: '2020-07-02'
+updated: '2020-07-08'
 version: '0.6'
 stars: 3.4
 ratings: 17
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

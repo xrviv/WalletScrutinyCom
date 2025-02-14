@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.amarkets
 appCountry: us
-released: 2019-05-31
-updated: 2025-02-05
+released: '2019-05-31'
+updated: '2025-02-05'
 version: '2.1.73'
 stars: 4.4
 ratings: 2509
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2021-10-13
+date: '2021-10-13'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.wyre.trade
 appCountry: 
-released: 2021-04-30
-updated: 2021-07-19
+released: '2021-04-30'
+updated: '2021-07-19'
 version: '1.1.7'
 stars: 3.4
 ratings: 106
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: wyretrade

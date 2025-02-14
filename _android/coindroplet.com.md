@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: coindroplet.com
 appCountry: 
-released: 2022-09-29
-updated: 2022-12-05
+released: '2022-09-29'
+updated: '2022-12-05'
 version: '1.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: wip
 appHashes: 
-date: 2024-11-25
+date: '2024-11-25'
 signer: 
 reviewArchive: 
 twitter: 

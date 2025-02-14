@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.crypto.exchange.app.cryptocurency.exchange
 appCountry: 
-released: 2021-04-23
-updated: 2021-04-23
+released: '2021-04-23'
+updated: '2021-04-23'
 version: '1.0'
 stars: 3.7
 ratings: 220
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

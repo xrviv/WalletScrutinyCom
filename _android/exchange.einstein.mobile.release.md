@@ -6,8 +6,8 @@ authors:
 users: 50000
 appId: exchange.einstein.mobile.release
 appCountry: 
-released: 2019-02-01
-updated: 2019-10-17
+released: '2019-02-01'
+updated: '2019-10-17'
 version: '1.2.2'
 stars: 2
 ratings: 955
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2022-05-31
+date: '2022-05-31'
 signer: 
 reviewArchive: 
 twitter: 

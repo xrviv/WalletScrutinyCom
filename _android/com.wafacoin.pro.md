@@ -7,7 +7,7 @@ users: 100
 appId: com.wafacoin.pro
 appCountry: 
 released: 
-updated: 2021-09-10
+updated: '2021-09-10'
 version: '1.0.6.210910'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: 

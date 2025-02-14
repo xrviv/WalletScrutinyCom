@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.edc.crocobit.wallets
 appCountry: 
-released: 2020-06-18
-updated: 2021-07-15
+released: '2020-06-18'
+updated: '2021-07-15'
 version: '1.2.05'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: 

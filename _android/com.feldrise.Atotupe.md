@@ -7,7 +7,7 @@ users: 10
 appId: com.feldrise.Atotupe
 appCountry: 
 released: 
-updated: 2018-09-04
+updated: '2018-09-04'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

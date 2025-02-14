@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.jeangilles
 appCountry: 
-released: 2022-09-01
-updated: 2025-02-11
+released: '2022-09-01'
+updated: '2025-02-11'
 version: '1.4.6'
 stars: 5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-07-18
+date: '2023-07-18'
 signer: 
 reviewArchive: 
 twitter: 

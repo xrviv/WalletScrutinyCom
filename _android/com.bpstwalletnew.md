@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.bpstwalletnew
 appCountry: 
-released: 2019-10-16
-updated: 2021-07-09
+released: '2019-10-16'
+updated: '2021-07-09'
 version: '1.44.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

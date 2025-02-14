@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: fio.ecoin.wallet
 appCountry: us
-released: 2020-10-08
-updated: 2022-04-11
+released: '2020-10-08'
+updated: '2022-04-11'
 version: '6.3.8'
 stars: 4.1
 ratings: 3553
@@ -22,10 +22,10 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: []
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive:
-- date: 2021-09-03
+- date: '2021-09-03'
   version: '6.0.8'
   appHashes: []
   gitRevision: 46a69d1c5e10345207ffc36e81dfa9c0da3a04e3

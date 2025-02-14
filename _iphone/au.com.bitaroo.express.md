@@ -7,8 +7,8 @@ authors:
 appId: au.com.bitaroo.express
 appCountry: au
 idd: '6444825898'
-released: 2022-12-20
-updated: 2025-02-12
+released: '2022-12-20'
+updated: '2025-02-12'
 version: '2.1.5'
 stars: 4.8
 reviews: 9
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-09-05
+date: '2024-09-05'
 signer: 
 reviewArchive: 
 twitter: BitarooExchange

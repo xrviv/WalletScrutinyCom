@@ -8,8 +8,8 @@ authors:
 users: 50000
 appId: com.blockchain.explorer
 appCountry: 
-released: 2019-12-30
-updated: 2022-12-01
+released: '2019-12-30'
+updated: '2022-12-01'
 version: '1.2.0.7'
 stars: 4.4
 ratings: 409
@@ -23,7 +23,7 @@ bugbounty:
 meta: obsolete
 verdict: nowallet
 appHashes: 
-date: 2024-11-21
+date: '2024-11-21'
 signer: 
 reviewArchive: 
 twitter: 

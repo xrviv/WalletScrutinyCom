@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.riodefi.store
 appCountry: us
-released: 2021-04-29
-updated: 2022-08-11
+released: '2021-04-29'
+updated: '2022-08-11'
 version: '2.9.8'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: riodefiofficial

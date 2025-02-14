@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.beehive.beehivemulti_coinwallet
 appCountry: 
-released: 2021-09-13
-updated: 2021-12-01
+released: '2021-09-13'
+updated: '2021-12-01'
 version: '1.1'
 stars: 2.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nobtc
 appHashes: 
-date: 2023-11-25
+date: '2023-11-25'
 signer: 
 reviewArchive: 
 twitter: 

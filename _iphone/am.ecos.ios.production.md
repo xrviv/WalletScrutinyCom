@@ -7,8 +7,8 @@ authors:
 appId: am.ecos.ios.production
 appCountry: us
 idd: 1528964374
-released: 2020-11-25
-updated: 2025-01-30
+released: '2020-11-25'
+updated: '2025-01-30'
 version: '2.1.5'
 stars: 2.6
 reviews: 172
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-07
+date: '2021-10-07'
 signer: 
 reviewArchive: 
 twitter: ecosmining

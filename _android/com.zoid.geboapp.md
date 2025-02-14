@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.zoid.geboapp
 appCountry: 
-released: 2021-05-12
-updated: 2021-05-12
+released: '2021-05-12'
+updated: '2021-05-12'
 version: '2.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: 

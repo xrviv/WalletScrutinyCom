@@ -7,8 +7,8 @@ authors:
 appId: com.mxc.smartcity
 appCountry: us
 idd: 1509218470
-released: 2020-06-30
-updated: 2023-07-20
+released: '2020-06-30'
+updated: '2023-07-20'
 version: '6.5.0'
 stars: 3.6
 reviews: 121
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-10-16
+date: '2023-10-16'
 signer: 
 reviewArchive: 
 twitter: mxcfoundation

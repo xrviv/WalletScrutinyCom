@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.pea.wallet
 appCountry: 
-released: 2022-03-27
-updated: 2022-04-27
+released: '2022-03-27'
+updated: '2022-04-27'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

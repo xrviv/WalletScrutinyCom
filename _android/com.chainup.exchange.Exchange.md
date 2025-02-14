@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.chainup.exchange.Exchange
 appCountry: 
-released: 2022-06-21
-updated: 2022-09-30
+released: '2022-06-21'
+updated: '2022-09-30'
 version: '5.4.12'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-09-20
+date: '2024-09-20'
 signer: 
 reviewArchive: 
 twitter: ScallopOfficial

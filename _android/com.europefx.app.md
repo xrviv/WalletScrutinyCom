@@ -8,7 +8,7 @@ users: 5000
 appId: com.europefx.app
 appCountry: 
 released: 
-updated: 2021-09-14
+updated: '2021-09-14'
 version: '9.65'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nosendreceive
 appHashes: 
-date: 2023-08-02
+date: '2023-08-02'
 signer: 
 reviewArchive: 
 twitter: 

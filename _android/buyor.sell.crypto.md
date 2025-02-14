@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: buyor.sell.crypto
 appCountry: 
-released: 2021-06-16
-updated: 2021-06-17
+released: '2021-06-16'
+updated: '2021-06-17'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: 

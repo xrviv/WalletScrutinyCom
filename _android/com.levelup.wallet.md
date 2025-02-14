@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.levelup.wallet
 appCountry: 
-released: 2021-11-16
-updated: 2021-11-16
+released: '2021-11-16'
+updated: '2021-11-16'
 version: '0.20.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

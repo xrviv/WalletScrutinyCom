@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.rinnas.aj_global
 appCountry: us
-released: 2020-05-29
-updated: 2025-01-30
+released: '2020-05-29'
+updated: '2025-01-30'
 version: '2.2.0'
 stars: 2.8
 ratings: 146
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-19
+date: '2021-10-19'
 signer: 
 reviewArchive: 
 twitter: ajglobalv

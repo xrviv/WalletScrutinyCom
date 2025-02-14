@@ -3,9 +3,9 @@ title: Bitmarket
 appId: bitmarket
 authors:
 - danny
-released: 2020-12-19
+released: '2020-12-19'
 discontinued: 
-updated: 2022-06-20
+updated: '2022-06-20'
 version: '0.15.0'
 binaries: 
 provider: 
@@ -17,7 +17,7 @@ icon: bitmarket.png
 bugbounty: 
 meta: obsolete
 verdict: wip
-date: 2024-04-24
+date: '2024-04-24'
 reviewArchive: 
 twitter: 
 social: 

@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.bfast.bfree
 appCountry: 
-released: 2019-04-18
-updated: 2024-05-22
+released: '2019-04-18'
+updated: '2024-05-22'
 version: '2.7.6'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-09-06
+date: '2024-09-06'
 signer: 
 reviewArchive: 
 twitter: 

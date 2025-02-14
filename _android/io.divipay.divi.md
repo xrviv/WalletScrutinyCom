@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.divipay.divi
 appCountry: gb
-released: 2021-04-28
-updated: 2024-04-22
+released: '2021-04-28'
+updated: '2024-04-22'
 version: '2.2.01218'
 stars: 5
 ratings: 273
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-16
+date: '2024-07-16'
 signer: 
 reviewArchive: 
 twitter: diviproject

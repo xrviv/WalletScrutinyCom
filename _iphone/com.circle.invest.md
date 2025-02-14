@@ -7,8 +7,8 @@ authors:
 appId: com.circle.invest
 appCountry: us
 idd: '1334770744'
-released: 2018-03-13
-updated: 2022-04-28
+released: '2018-03-13'
+updated: '2022-04-28'
 version: '1.7.3'
 stars: 4.7
 reviews: 1875
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: nosendreceive
 appHashes: 
-date: 2024-04-17
+date: '2024-04-17'
 signer: 
 reviewArchive: 
 twitter: circle

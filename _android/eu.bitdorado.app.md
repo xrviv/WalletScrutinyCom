@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: eu.bitdorado.app
 appCountry: 
-released: 2021-05-01
-updated: 2022-05-02
+released: '2021-05-01'
+updated: '2022-05-02'
 version: '1.0.15'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

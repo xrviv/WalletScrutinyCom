@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.paperbgs.app
 appCountry: 
-released: 2021-02-04
-updated: 2021-02-04
+released: '2021-02-04'
+updated: '2021-02-04'
 version: '1.9'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: web2application.a651021638715596.com.myapplication
 appCountry: 
-released: 2021-12-07
-updated: 2021-12-07
+released: '2021-12-07'
+updated: '2021-12-07'
 version: '5.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

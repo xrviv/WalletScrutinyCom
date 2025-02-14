@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.floortracks.avacus
 appCountry: 
-released: 2018-09-13
-updated: 2023-08-28
+released: '2018-09-13'
+updated: '2023-08-28'
 version: '6.4.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nobtc
 appHashes: 
-date: 2024-08-23
+date: '2024-08-23'
 signer: 
 reviewArchive: 
 twitter: SystemAvacus

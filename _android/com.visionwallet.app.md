@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.visionwallet.app
 appCountry: 
-released: 2020-09-07
-updated: 2020-11-05
+released: '2020-09-07'
+updated: '2020-11-05'
 version: '1.3.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: 

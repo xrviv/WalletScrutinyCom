@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.dts.io
 appCountry: 
-released: 2021-11-05
-updated: 2021-11-05
+released: '2021-11-05'
+updated: '2021-11-05'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

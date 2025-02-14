@@ -6,8 +6,8 @@ authors:
 users: 100000
 appId: com.eofinance
 appCountry: 
-released: 2018-08-14
-updated: 2020-04-30
+released: '2018-08-14'
+updated: '2020-04-30'
 version: '2.0.1'
 stars: 4.2
 ratings: 1529
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

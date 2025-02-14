@@ -6,8 +6,8 @@ authors:
 users: 0
 appId: org.yancaitech.porter
 appCountry: 
-released: 2020-06-01
-updated: 2020-06-08
+released: '2020-06-01'
+updated: '2020-06-08'
 version: 'V0.2.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

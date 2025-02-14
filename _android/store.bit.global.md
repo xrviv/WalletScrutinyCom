@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: store.bit.global
 appCountry: 
-released: 2022-06-16
-updated: 2022-09-22
+released: '2022-06-16'
+updated: '2022-09-22'
 version: '2.2.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: www_bit_store

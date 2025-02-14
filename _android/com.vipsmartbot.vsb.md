@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.vipsmartbot.vsb
 appCountry: 
-released: 2020-11-17
-updated: 2020-11-18
+released: '2020-11-17'
+updated: '2020-11-18'
 version: '0.0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-06-10
+date: '2023-06-10'
 signer: 
 reviewArchive: 
 twitter: 

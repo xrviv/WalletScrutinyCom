@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.cybertronchain.coinibt
 appCountry: 
-released: 2020-12-02
-updated: 2021-07-27
+released: '2020-12-02'
+updated: '2021-07-27'
 version: '1.13'
 stars: 5
 ratings: 610
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2021-11-10
+date: '2021-11-10'
 signer: 
 reviewArchive: 
 twitter: 

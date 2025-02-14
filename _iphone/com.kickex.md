@@ -7,8 +7,8 @@ authors:
 appId: com.kickex
 appCountry: in
 idd: '1532751538'
-released: 2022-06-15
-updated: 2024-09-15
+released: '2022-06-15'
+updated: '2024-09-15'
 version: '1.9.7'
 stars: 5
 reviews: 5
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-29
+date: '2024-11-29'
 signer: 
 reviewArchive: 
 twitter: kickexcom

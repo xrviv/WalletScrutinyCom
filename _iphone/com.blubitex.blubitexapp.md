@@ -7,8 +7,8 @@ authors:
 appId: com.blubitex.blubitexapp
 appCountry: us
 idd: 1536104225
-released: 2020-11-09
-updated: 2022-04-15
+released: '2020-11-09'
+updated: '2022-04-15'
 version: '3.1.341'
 stars: 4.3
 reviews: 3
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: blubitex

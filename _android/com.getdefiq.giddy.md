@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.getdefiq.giddy
 appCountry: 
-released: 2022-02-25
-updated: 2025-02-12
+released: '2022-02-25'
+updated: '2025-02-12'
 version: '3.8.1'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-07-10
+date: '2023-07-10'
 signer: 
 reviewArchive: 
 twitter: giddydefi

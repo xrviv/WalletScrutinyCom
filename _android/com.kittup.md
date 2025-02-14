@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.kittup
 appCountry: 
-released: 2022-11-02
-updated: 2023-06-23
+released: '2022-11-02'
+updated: '2023-06-23'
 version: '1.0.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

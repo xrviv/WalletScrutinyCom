@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: org.gunthy.ex
 appCountry: 
-released: 2021-01-12
-updated: 2021-01-14
+released: '2021-01-12'
+updated: '2021-01-14'
 version: '1.26.0'
 stars: 4
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: co.realt.bridge
 appCountry: be
-released: 2021-03-18
-updated: 2023-07-13
+released: '2021-03-18'
+updated: '2023-07-13'
 version: '1.32'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nobtc
 appHashes: 
-date: 2024-07-10
+date: '2024-07-10'
 signer: 
 reviewArchive: 
 twitter: RealTPlatform

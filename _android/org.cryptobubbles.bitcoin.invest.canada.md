@@ -6,8 +6,8 @@ authors:
 users: 0
 appId: org.cryptobubbles.bitcoin.invest.canada
 appCountry: 
-released: 2021-07-17
-updated: 2021-07-18
+released: '2021-07-17'
+updated: '2021-07-18'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: 

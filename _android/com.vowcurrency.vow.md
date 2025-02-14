@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.vowcurrency.vow
 appCountry: 
-released: 2021-07-20
-updated: 2024-03-28
+released: '2021-07-20'
+updated: '2024-03-28'
 version: '10.3.7'
 stars: 2.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2023-07-24
+date: '2023-07-24'
 signer: 
 reviewArchive: 
 twitter: vowcurrency

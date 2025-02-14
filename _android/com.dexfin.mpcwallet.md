@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.dexfin.mpcwallet
 appCountry: 
-released: 2023-02-01
-updated: 2023-02-01
+released: '2023-02-01'
+updated: '2023-02-01'
 version: '0.2.7'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2025-01-09
+date: '2025-01-09'
 signer: 
 reviewArchive: 
 twitter: https://twitter.com/dexfinexchange

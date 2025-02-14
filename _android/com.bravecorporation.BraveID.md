@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.bravecorporation.BraveID
 appCountry: 
-released: 2022-05-11
-updated: 2023-11-28
+released: '2022-05-11'
+updated: '2023-11-28'
 version: '1.0.22'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-22
+date: '2024-11-22'
 signer: 
 reviewArchive: 
 twitter: BraveCorporati1

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.project.wmc
 appCountry: 
-released: 2019-09-30
-updated: 2020-03-25
+released: '2019-09-30'
+updated: '2020-03-25'
 version: '1.0.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-06-02
+date: '2023-06-02'
 signer: 
 reviewArchive: 
 twitter: 

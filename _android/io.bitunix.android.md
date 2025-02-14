@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: io.bitunix.android
 appCountry: 
-released: 2023-07-26
-updated: 2024-09-05
+released: '2023-07-26'
+updated: '2024-09-05'
 version: '2024.0905.9712 (d802d97a)'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-09-28
+date: '2024-09-28'
 signer: 
 reviewArchive: 
 twitter: BitunixOfficial

@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: co.hodlwallet
 appCountry: 
-released: 2018-09-24
-updated: 2020-05-18
+released: '2018-09-24'
+updated: '2020-05-18'
 version: '3.3.5'
 stars: 3.6
 ratings: 124
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nonverifiable
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: hodlwallet

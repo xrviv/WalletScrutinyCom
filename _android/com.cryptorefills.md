@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.cryptorefills
 appCountry: 
-released: 2019-04-22
-updated: 2024-09-06
+released: '2019-04-22'
+updated: '2024-09-06'
 version: '1.0.11'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-12-01
+date: '2023-12-01'
 signer: 
 reviewArchive: 
 twitter: cryptorefills

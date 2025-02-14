@@ -8,7 +8,7 @@ users: 5000
 appId: com.bybis.exchange
 appCountry: 
 released: 
-updated: 2023-07-12
+updated: '2023-07-12'
 version: '1.13'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: ByBIS_Official

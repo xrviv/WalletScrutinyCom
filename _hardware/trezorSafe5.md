@@ -4,9 +4,9 @@ appId: trezorSafe5
 authors:
 - danny
 - keraliss
-released: 2024-06-14
+released: '2024-06-14'
 discontinued: 
-updated: 2024-09-19
+updated: '2024-09-19'
 version: '2.8.7'
 binaries: https://data.trezor.io/firmware/t3t1/trezor-t3t1-2.8.3.bin
 dimensions:
@@ -32,10 +32,10 @@ appHashes:
 - 01fdef4c3cfbe78d203953c65604d8d406373a0d3b26bbb8f7d3cf2250397777
 - 6d932e5200927b6eeebc9b8700effde957a9880774944bcc028b0cbac85e7f6a
 - 9e1bc9773194df462a2350108da1cc4f5a70149b93affcb363c5b96c14b30a4d
-date: 2025-02-06
+date: '2025-02-06'
 signer: 
 reviewArchive:
-- date: 2024-12-13
+- date: '2024-12-13'
   version: '2.8.6'
   appHashes:
   - 197197aba0f412a74be96a2a6ad1537437cee67e517bd94d1cb776c263a37ffe
@@ -44,7 +44,7 @@ reviewArchive:
   - 538515eb83558832356340ef198559ca14fa5a70220b14e2fb06dc3c8fef5d03
   gitRevision: 4458285efc54bd9bc76d74f88e696201a4af4a93
   verdict: reproducible
-- date: 2024-10-14
+- date: '2024-10-14'
   version: '2.8.3'
   appHashes:
   - dfabe8b10368f268cedaa505e284192329f489519dd71feb5fba7d610ef748fc

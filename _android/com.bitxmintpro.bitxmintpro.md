@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.bitxmintpro.bitxmintpro
 appCountry: 
-released: 2021-10-01
-updated: 2021-10-01
+released: '2021-10-01'
+updated: '2021-10-01'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: 

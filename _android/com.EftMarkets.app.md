@@ -7,7 +7,7 @@ users: 10
 appId: com.EftMarkets.app
 appCountry: 
 released: 
-updated: 2021-02-15
+updated: '2021-02-15'
 version: '1.0.15'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: 

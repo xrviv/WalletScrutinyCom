@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: net.ayrem.ayrem_app
 appCountry: 
-released: 2021-10-02
-updated: 2024-01-13
+released: '2021-10-02'
+updated: '2024-01-13'
 version: '1.0.8'
 stars: 2.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nowallet
 appHashes: 
-date: 2025-01-09
+date: '2025-01-09'
 signer: 
 reviewArchive: 
 twitter: AYREM_INT

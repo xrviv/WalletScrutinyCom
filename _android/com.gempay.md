@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.gempay
 appCountry: 
-released: 2021-09-23
-updated: 2021-10-08
+released: '2021-09-23'
+updated: '2021-10-08'
 version: '1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

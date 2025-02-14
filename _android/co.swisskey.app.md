@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: co.swisskey.app
 appCountry: 
-released: 2020-02-04
-updated: 2020-02-04
+released: '2020-02-04'
+updated: '2020-02-04'
 version: '0.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

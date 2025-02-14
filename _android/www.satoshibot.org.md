@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: www.satoshibot.org
 appCountry: 
-released: 2022-05-20
-updated: 2022-05-20
+released: '2022-05-20'
+updated: '2022-05-20'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2025-02-04
+date: '2025-02-04'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.hoyabit.cex
 appCountry: 
-released: 2023-03-10
-updated: 2025-01-22
+released: '2023-03-10'
+updated: '2025-01-22'
 version: '1.30.1'
 stars: 4.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-12-02
+date: '2023-12-02'
 signer: 
 reviewArchive: 
 twitter: 

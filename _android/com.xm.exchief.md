@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.xm.exchief
 appCountry: 
-released: 2019-12-18
-updated: 2020-01-28
+released: '2019-12-18'
+updated: '2020-01-28'
 version: '4.1.1_exchief'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-30
+date: '2023-01-30'
 signer: 
 reviewArchive: 
 twitter: 

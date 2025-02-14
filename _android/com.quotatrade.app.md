@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.quotatrade.app
 appCountry: 
-released: 2020-01-13
-updated: 2020-12-23
+released: '2020-01-13'
+updated: '2020-12-23'
 version: '1.1.43'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-05-10
+date: '2023-05-10'
 signer: 
 reviewArchive: 
 twitter: 

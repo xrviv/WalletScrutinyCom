@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.cbytenetwork.endurancewallet
 appCountry: 
-released: 2023-02-27
-updated: 2023-02-27
+released: '2023-02-27'
+updated: '2023-02-27'
 version: '0.01.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

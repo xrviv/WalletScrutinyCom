@@ -7,8 +7,8 @@ authors:
 users: 100
 appId: ch.smd.icynote
 appCountry: 
-released: 2021-07-11
-updated: 2023-09-22
+released: '2021-07-11'
+updated: '2023-09-22'
 version: '1.0.2'
 stars: 3.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-14
+date: '2024-07-14'
 signer: 
 reviewArchive: 
 twitter: 

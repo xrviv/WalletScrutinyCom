@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.xerium.wallet
 appCountry: 
-released: 2021-03-04
-updated: 2021-03-04
+released: '2021-03-04'
+updated: '2021-03-04'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: Xerium3

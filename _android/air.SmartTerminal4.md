@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: air.SmartTerminal4
 appCountry: 
-released: 2019-07-28
-updated: 2019-09-08
+released: '2019-07-28'
+updated: '2019-09-08'
 version: '0_43'
 stars: 4.9
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

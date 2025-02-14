@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: io.ambergroup.amber
 appCountry: us
-released: 2020-09-21
-updated: 2024-12-31
+released: '2020-09-21'
+updated: '2024-12-31'
 version: '3.0.3'
 stars: 4.6
 ratings: 2656
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-11
+date: '2021-09-11'
 signer: 
 reviewArchive: 
 twitter: ambergroup_io

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.app.proflinsmartwallet
 appCountry: 
-released: 2022-07-08
-updated: 2022-07-08
+released: '2022-07-08'
+updated: '2022-07-08'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: 

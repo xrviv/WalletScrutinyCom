@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.bitfex.io
 appCountry: 
-released: 2023-02-12
-updated: 2023-08-04
+released: '2023-02-12'
+updated: '2023-08-04'
 version: '1.1.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-09-04
+date: '2023-09-04'
 signer: 
 reviewArchive: 
 twitter: 

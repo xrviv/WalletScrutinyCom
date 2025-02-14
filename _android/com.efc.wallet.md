@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.efc.wallet
 appCountry: 
-released: 2021-03-30
-updated: 2021-04-05
+released: '2021-03-30'
+updated: '2021-04-05'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

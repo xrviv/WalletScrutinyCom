@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: africa.bundle.mobile.app
 appCountry: 
-released: 2020-04-20
-updated: 2023-07-27
+released: '2020-04-20'
+updated: '2023-07-27'
 version: '4.6.9'
 stars: 3.9
 ratings: 13846
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: cash.futures.app
 appCountry: 
-released: 2021-09-03
-updated: 2024-06-17
+released: '2021-09-03'
+updated: '2024-06-17'
 version: '2.6.0'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2024-09-03
+date: '2024-09-03'
 signer: 
 reviewArchive: 
 twitter: FuturesCash

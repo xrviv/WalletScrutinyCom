@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: skywallet.net
 appCountry: 
-released: 2020-05-11
-updated: 2020-05-11
+released: '2020-05-11'
+updated: '2020-05-11'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2022-05-31
+date: '2022-05-31'
 signer: 
 reviewArchive: 
 twitter: 

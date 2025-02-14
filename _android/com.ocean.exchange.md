@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.ocean.exchange
 appCountry: us
-released: 2019-07-04
-updated: 2023-08-24
+released: '2019-07-04'
+updated: '2023-08-24'
 version: '2.0.4'
 stars: 4.1
 ratings: 159
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-08-19
+date: '2024-08-19'
 signer: 
 reviewArchive: 
 twitter: OceanexOfficial

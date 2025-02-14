@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.github.bitteryapp
 appCountry: 
-released: 2021-06-26
-updated: 2021-07-02
+released: '2021-06-26'
+updated: '2021-07-02'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

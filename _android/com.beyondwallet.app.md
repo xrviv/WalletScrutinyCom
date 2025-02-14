@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.beyondwallet.app
 appCountry: 
-released: 2021-01-11
-updated: 2023-10-19
+released: '2021-01-11'
+updated: '2023-10-19'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

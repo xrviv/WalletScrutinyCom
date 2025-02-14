@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.cointopay.app
 appCountry: us
-released: 2018-05-29
-updated: 2022-06-02
+released: '2018-05-29'
+updated: '2022-06-02'
 version: '2.1.7'
 stars: 2.3
 ratings: 20
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-05-24
+date: '2024-05-24'
 signer: 
 reviewArchive: 
 twitter: Cointopay

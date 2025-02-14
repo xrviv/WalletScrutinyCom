@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.bitcifr.us
 appCountry: 
-released: 2023-04-10
-updated: 2023-04-10
+released: '2023-04-10'
+updated: '2023-04-10'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

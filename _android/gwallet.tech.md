@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: gwallet.tech
 appCountry: be
-released: 2021-02-16
-updated: 2023-03-07
+released: '2021-02-16'
+updated: '2023-03-07'
 version: '1.2.6'
 stars: 4.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nosource
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

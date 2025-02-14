@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.abcc.exchange
 appCountry: us
-released: 2018-08-23
-updated: 2023-03-01
+released: '2018-08-23'
+updated: '2023-03-01'
 version: '1.9.30'
 stars: 4.8
 ratings: 1541
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-15
+date: '2024-12-15'
 signer: 
 reviewArchive: 
 twitter: ABCCExOfficial

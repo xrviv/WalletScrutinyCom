@@ -7,8 +7,8 @@ authors:
 appId: com.mutinywallet.mutiny
 appCountry: us
 idd: '6471030760'
-released: 2024-03-01
-updated: 2024-09-04
+released: '2024-03-01'
+updated: '2024-09-04'
 version: '1.8.0'
 stars: 4.8
 reviews: 18
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2025-01-27
+date: '2025-01-27'
 signer: 
 reviewArchive: 
 twitter: MutinyWallet

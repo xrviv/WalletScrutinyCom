@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.newbit.wallet
 appCountry: 
-released: 2022-05-23
-updated: 2022-05-27
+released: '2022-05-23'
+updated: '2022-05-27'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

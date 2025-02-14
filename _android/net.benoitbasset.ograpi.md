@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: net.benoitbasset.ograpi
 appCountry: 
-released: 2018-11-28
-updated: 2023-06-07
+released: '2018-11-28'
+updated: '2023-06-07'
 version: '1.4.6'
 stars: 3.7
 ratings: 225
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nowallet
 appHashes: 
-date: 2024-06-03
+date: '2024-06-03'
 signer: 
 reviewArchive: 
 twitter: 

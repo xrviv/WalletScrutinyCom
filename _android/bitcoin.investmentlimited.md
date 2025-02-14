@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: bitcoin.investmentlimited
 appCountry: 
-released: 2019-01-02
-updated: 2021-08-04
+released: '2019-01-02'
+updated: '2021-08-04'
 version: '9.0'
 stars: 4.1
 ratings: 75
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-30
+date: '2021-11-30'
 signer: 
 reviewArchive: 
 twitter: 

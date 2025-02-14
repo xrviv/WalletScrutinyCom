@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.plutopos
 appCountry: 
-released: 2022-04-28
-updated: 2022-06-08
+released: '2022-04-28'
+updated: '2022-06-08'
 version: '1.3.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

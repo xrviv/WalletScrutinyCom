@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.cbank2.android
 appCountry: 
-released: 2021-09-01
-updated: 2021-10-07
+released: '2021-09-01'
+updated: '2021-10-07'
 version: '2.9'
 stars: 2.6
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

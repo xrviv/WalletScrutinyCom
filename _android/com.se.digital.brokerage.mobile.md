@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.se.digital.brokerage.mobile
 appCountry: 
-released: 2021-12-08
-updated: 2025-01-27
+released: '2021-12-08'
+updated: '2025-01-27'
 version: '2.15.0'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-11
+date: '2023-04-11'
 signer: 
 reviewArchive: 
 twitter: 

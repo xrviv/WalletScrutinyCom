@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.mayex.trading
 appCountry: 
-released: 2022-03-07
-updated: 2023-03-29
+released: '2022-03-07'
+updated: '2023-03-29'
 version: '1.9.80'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-03-23
+date: '2024-03-23'
 signer: 
 reviewArchive: 
 twitter: Mayex_Global

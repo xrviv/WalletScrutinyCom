@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: id.sagara.javapool
 appCountry: 
-released: 2021-08-30
-updated: 2021-08-30
+released: '2021-08-30'
+updated: '2021-08-30'
 version: '0.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

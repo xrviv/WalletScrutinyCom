@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.walletamaze.nftwallet
 appCountry: 
-released: 2023-06-26
-updated: 2024-01-18
+released: '2023-06-26'
+updated: '2024-01-18'
 version: '1.1.8'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: amazewallet

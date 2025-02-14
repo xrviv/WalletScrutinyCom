@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.plue_wallet
 appCountry: 
-released: 2019-04-01
-updated: 2021-08-04
+released: '2019-04-01'
+updated: '2021-08-04'
 version: '2.4.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

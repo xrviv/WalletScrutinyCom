@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.pandats.investxe
 appCountry: 
-released: 2020-12-09
-updated: 2021-06-10
+released: '2020-12-09'
+updated: '2021-06-10'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

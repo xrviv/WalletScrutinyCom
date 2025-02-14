@@ -7,8 +7,8 @@ authors:
 appId: com.changelly.iosapp
 appCountry: us
 idd: '1435140380'
-released: 2019-10-04
-updated: 2025-02-04
+released: '2019-10-04'
+updated: '2025-02-04'
 version: '2.49.0'
 stars: 4.6
 reviews: 5068
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-09-19
+date: '2023-09-19'
 signer: 
 reviewArchive: 
 twitter: 

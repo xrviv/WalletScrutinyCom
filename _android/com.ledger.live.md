@@ -6,8 +6,8 @@ authors:
 users: 1000000
 appId: com.ledger.live
 appCountry: 
-released: 2019-01-27
-updated: 2025-02-10
+released: '2019-01-27'
+updated: '2025-02-10'
 version: '3.59.0'
 stars: 4.6
 ratings: 6090
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2020-11-17
+date: '2020-11-17'
 signer: 
 reviewArchive: 
 twitter: Ledger

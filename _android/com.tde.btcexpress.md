@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.tde.btcexpress
 appCountry: 
-released: 2020-06-10
-updated: 2020-06-17
+released: '2020-06-10'
+updated: '2020-06-17'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

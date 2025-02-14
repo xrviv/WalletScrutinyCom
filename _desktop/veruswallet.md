@@ -3,9 +3,9 @@ title: Verus Wallet
 appId: veruswallet
 authors:
 - danny
-released: 2019-12-16
+released: '2019-12-16'
 discontinued: 
-updated: 2024-04-21
+updated: '2024-04-21'
 version: '1.2.2-4'
 binaries: 
 provider: 
@@ -17,7 +17,7 @@ icon: veruswallet.png
 bugbounty: 
 meta: ok
 verdict: wip
-date: 2024-04-25
+date: '2024-04-25'
 reviewArchive: 
 twitter: veruscoin
 social: 

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.box.pro
 appCountry: 
-released: 2022-01-06
-updated: 2024-05-21
+released: '2022-01-06'
+updated: '2024-05-21'
 version: '5.3.2'
 stars: 2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-23
+date: '2024-10-23'
 signer: 
 reviewArchive: 
 twitter: Bibox365

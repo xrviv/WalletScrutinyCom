@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.tarmex.tarmex
 appCountry: 
-released: 2022-12-22
-updated: 2023-11-09
+released: '2022-12-22'
+updated: '2023-11-09'
 version: '1.1'
 stars: 3.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-11-04
+date: '2024-11-04'
 signer: 
 reviewArchive: 
 twitter: Tarmexio

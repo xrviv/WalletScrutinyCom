@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.krypto
 appCountry: 
-released: 2020-04-29
-updated: 2022-06-17
+released: '2020-04-29'
+updated: '2022-06-17'
 version: '8.5'
 stars: 4.1
 ratings: 5472
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-14
+date: '2024-07-14'
 signer: 
 reviewArchive: 
 twitter: letskrypto

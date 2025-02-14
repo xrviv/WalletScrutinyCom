@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.bitkub
 appCountry: 
-released: 2019-04-20
-updated: 2025-02-04
+released: '2019-04-20'
+updated: '2025-02-04'
 version: '3.49.0'
 stars: 4.1
 ratings: 18826
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-04
+date: '2023-04-04'
 signer: 
 reviewArchive: 
 twitter: bitkubofficial

@@ -7,7 +7,7 @@ users: 1000
 appId: com.nbl.bitcoinchampionapp
 appCountry: 
 released: 
-updated: 2021-02-23
+updated: '2021-02-23'
 version: '1.0.2'
 stars: 4.6
 ratings: 12
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-08-20
+date: '2021-08-20'
 signer: 
 reviewArchive: 
 twitter: 

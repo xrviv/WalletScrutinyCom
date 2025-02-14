@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.maocular.chascom
 appCountry: 
-released: 2022-05-05
-updated: 2022-05-05
+released: '2022-05-05'
+updated: '2022-05-05'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

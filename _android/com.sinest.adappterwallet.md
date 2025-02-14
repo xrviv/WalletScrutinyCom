@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.sinest.adappterwallet
 appCountry: 
-released: 2022-06-21
-updated: 2022-11-21
+released: '2022-06-21'
+updated: '2022-11-21'
 version: '1.0.4'
 stars: 4.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2024-11-12
+date: '2024-11-12'
 signer: 
 reviewArchive: 
 twitter: 

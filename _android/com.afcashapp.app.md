@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.afcashapp.app
 appCountry: 
-released: 2022-01-17
-updated: 2022-06-23
+released: '2022-01-17'
+updated: '2022-06-23'
 version: '3.57.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

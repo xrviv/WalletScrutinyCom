@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.hustay.swing.de4b01bae261c4aef85cae9bac9182d50
 appCountry: 
-released: 2021-06-28
-updated: 2021-06-28
+released: '2021-06-28'
+updated: '2021-06-28'
 version: '0.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

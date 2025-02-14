@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.eqifi.eqifi
 appCountry: 
-released: 2022-04-03
-updated: 2023-04-20
+released: '2022-04-03'
+updated: '2023-04-20'
 version: '1.7.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-04-17
+date: '2024-04-17'
 signer: 
 reviewArchive: 
 twitter: eqifi_finance

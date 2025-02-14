@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.ffk.paybank
 appCountry: 
-released: 2019-09-19
-updated: 2023-06-21
+released: '2019-09-19'
+updated: '2023-06-21'
 version: '2.6.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

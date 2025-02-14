@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: app.bitafrika.com
 appCountry: GH
-released: 2021-07-19
-updated: 2024-08-13
+released: '2021-07-19'
+updated: '2024-08-13'
 version: '4.8.8'
 stars: 3.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-03-06
+date: '2023-03-06'
 signer: 
 reviewArchive: 
 twitter: _bitafrika

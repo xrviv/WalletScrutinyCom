@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.polispay.copay
 appCountry: 
-released: 2018-02-21
-updated: 2021-10-22
+released: '2018-02-21'
+updated: '2021-10-22'
 version: '8.9.3'
 stars: 4.1
 ratings: 131
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2022-02-10
+date: '2022-02-10'
 signer: 
 reviewArchive: 
 twitter: 

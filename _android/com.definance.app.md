@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.definance.app
 appCountry: 
-released: 2021-10-20
-updated: 2021-10-25
+released: '2021-10-20'
+updated: '2021-10-25'
 version: '1.1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

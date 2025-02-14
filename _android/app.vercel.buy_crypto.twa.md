@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: app.vercel.buy_crypto.twa
 appCountry: 
-released: 2022-12-08
-updated: 2022-12-08
+released: '2022-12-08'
+updated: '2022-12-08'
 version: '1'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100000
 appId: huolongluo.byw
 appCountry: 
-released: 2021-10-24
-updated: 2022-10-14
+released: '2021-10-24'
+updated: '2022-10-14'
 version: '9.5.21'
 stars: 4.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

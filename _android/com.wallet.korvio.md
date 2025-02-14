@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.wallet.korvio
 appCountry: 
-released: 2019-06-21
-updated: 2021-03-18
+released: '2019-06-21'
+updated: '2021-03-18'
 version: '1.0.25'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.lingxi.bexplus
 appCountry: 
-released: 2018-10-29
-updated: 2022-06-17
+released: '2018-10-29'
+updated: '2022-06-17'
 version: '2.2.1'
 stars: 5
 ratings: 6810
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: BexplusExchange

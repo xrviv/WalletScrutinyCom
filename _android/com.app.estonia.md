@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.app.estonia
 appCountry: 
-released: 2022-11-18
-updated: 2022-12-04
+released: '2022-11-18'
+updated: '2022-12-04'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

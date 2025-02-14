@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.sanalira.app
 appCountry: 
-released: 2022-01-28
-updated: 2022-06-14
+released: '2022-01-28'
+updated: '2022-06-14'
 version: '1.0.32'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: sanaliracom

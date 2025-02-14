@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.revix.app
 appCountry: 
-released: 2022-08-08
-updated: 2025-02-07
+released: '2022-08-08'
+updated: '2025-02-07'
 version: '2.3.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-09
+date: '2023-07-09'
 signer: 
 reviewArchive: 
 twitter: RevixInvest

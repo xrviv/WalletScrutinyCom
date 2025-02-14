@@ -7,8 +7,8 @@ authors:
 appId: com.101investing
 appCountry: cy
 idd: 1533974302
-released: 2020-11-10
-updated: 2021-08-25
+released: '2020-11-10'
+updated: '2021-08-25'
 version: '1.68.10'
 stars: 
 reviews: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2022-04-07
+date: '2022-04-07'
 signer: 
 reviewArchive: 
 twitter: 101Investing_eu

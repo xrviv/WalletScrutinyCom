@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.brand101investing
 appCountry: cy
-released: 2020-08-18
-updated: 2021-12-01
+released: '2020-08-18'
+updated: '2021-12-01'
 version: '1.5.78-brand101investing'
 stars: 3.7
 ratings: 263
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2022-04-07
+date: '2022-04-07'
 signer: 
 reviewArchive: 
 twitter: 101Investing_eu

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: in.spiegeltechnologies.smdex
 appCountry: 
-released: 2022-03-07
-updated: 2022-04-01
+released: '2022-03-07'
+updated: '2022-04-01'
 version: '1.0.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-08-05
+date: '2023-08-05'
 signer: 
 reviewArchive: 
 twitter: SMDex_io

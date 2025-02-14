@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.tmc.wallet
 appCountry: 
-released: 2022-11-04
-updated: 2023-05-04
+released: '2022-11-04'
+updated: '2023-05-04'
 version: '1.2.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-08-02
+date: '2024-08-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -5,9 +5,9 @@ authors:
 - kiwilamb
 - danny
 - leo
-released: 2019-06-28
+released: '2019-06-28'
 discontinued: 
-updated: 2021-11-25
+updated: '2021-11-25'
 version: 'v2.16.7.bdd9'
 binaries: 
 dimensions:
@@ -28,7 +28,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2021-12-04
+date: '2021-12-04'
 signer: 
 reviewArchive: 
 twitter: DCENTwallets

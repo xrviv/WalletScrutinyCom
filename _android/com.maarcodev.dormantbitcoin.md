@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.maarcodev.dormantbitcoin
 appCountry: 
-released: 2021-01-01
-updated: 2023-01-06
+released: '2021-01-01'
+updated: '2023-01-06'
 version: '1.3'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-09
+date: '2023-05-09'
 signer: 
 reviewArchive: 
 twitter: 

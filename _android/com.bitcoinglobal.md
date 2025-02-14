@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bitcoinglobal
 appCountry: us
-released: 2020-09-25
-updated: 2023-04-18
+released: '2020-09-25'
+updated: '2023-04-18'
 version: '2.12.0'
 stars: 2.6
 ratings: 91
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-04-13
+date: '2024-04-13'
 signer: 
 reviewArchive: 
 twitter: BitcoinGlobalEx

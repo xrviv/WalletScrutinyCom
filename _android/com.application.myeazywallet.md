@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.application.myeazywallet
 appCountry: 
-released: 2021-04-01
-updated: 2022-10-10
+released: '2021-04-01'
+updated: '2022-10-10'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: xbo.mobile.app
 appCountry: 
-released: 2022-09-24
-updated: 2025-02-04
+released: '2022-09-24'
+updated: '2025-02-04'
 version: '2.0.41'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: XboOfficial

@@ -7,8 +7,8 @@ authors:
 appId: com.actoz.actpass
 appCountry: sg
 idd: '6444599693'
-released: 2022-12-10
-updated: 2023-10-20
+released: '2022-12-10'
+updated: '2023-10-20'
 version: '1.3.0'
 stars: 5
 reviews: 1
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

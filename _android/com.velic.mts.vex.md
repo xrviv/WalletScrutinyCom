@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.velic.mts.vex
 appCountry: 
-released: 2019-04-03
-updated: 2021-08-04
+released: '2019-04-03'
+updated: '2021-08-04'
 version: '2.2.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-03
+date: '2023-05-03'
 signer: 
 reviewArchive: 
 twitter: 

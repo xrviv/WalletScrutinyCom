@@ -7,8 +7,8 @@ authors:
 appId: bitturkmobile.ios
 appCountry: ru
 idd: '1455361684'
-released: 2019-03-12
-updated: 2022-02-01
+released: '2019-03-12'
+updated: '2022-02-01'
 version: '2.0'
 stars: 4.9
 reviews: 31
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-01-22
+date: '2024-01-22'
 signer: 
 reviewArchive: 
 twitter: 

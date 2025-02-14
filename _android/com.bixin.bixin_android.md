@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bixin.bixin_android
 appCountry: 
-released: 2017-03-22
-updated: 2023-12-04
+released: '2017-03-22'
+updated: '2023-12-04'
 version: '4.6.0'
 stars: 3.8
 ratings: 91
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2022-04-25
+date: '2022-04-25'
 signer: 
 reviewArchive: 
 twitter: BixinWallet

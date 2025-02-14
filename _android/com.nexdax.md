@@ -8,7 +8,7 @@ users: 5000
 appId: com.nexdax
 appCountry: 
 released: 
-updated: 2024-04-08
+updated: '2024-04-08'
 version: '8.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-08-19
+date: '2023-08-19'
 signer: 
 reviewArchive: 
 twitter: nexdax_exchange

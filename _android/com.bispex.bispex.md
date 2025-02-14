@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.bispex.bispex
 appCountry: 
-released: 2019-12-04
-updated: 2020-04-14
+released: '2019-12-04'
+updated: '2020-04-14'
 version: '1.1.1'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-09-25
+date: '2024-09-25'
 signer: 
 reviewArchive: 
 twitter: 

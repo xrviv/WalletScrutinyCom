@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.waletrust.wallet
 appCountry: 
-released: 2021-07-24
-updated: 2021-07-24
+released: '2021-07-24'
+updated: '2021-07-24'
 version: '0.21.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

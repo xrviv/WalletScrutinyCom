@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: io.rapidz.rapidzcheckout
 appCountry: 
-released: 2022-06-06
-updated: 2024-02-08
+released: '2022-06-06'
+updated: '2024-02-08'
 version: '1.3.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: fewusers
 appHashes: 
-date: 2025-02-04
+date: '2025-02-04'
 signer: 
 reviewArchive: 
 twitter: 

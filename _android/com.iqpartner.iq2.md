@@ -7,7 +7,7 @@ users: 100
 appId: com.iqpartner.iq2
 appCountry: 
 released: 
-updated: 2022-12-19
+updated: '2022-12-19'
 version: '5.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

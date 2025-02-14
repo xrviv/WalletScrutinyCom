@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.scdigital.nkabexchange
 appCountry: 
-released: 2022-10-09
-updated: 2022-10-10
+released: '2022-10-09'
+updated: '2022-10-10'
 version: '1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nowallet
 appHashes: 
-date: 2024-10-02
+date: '2024-10-02'
 signer: 
 reviewArchive: 
 twitter: 

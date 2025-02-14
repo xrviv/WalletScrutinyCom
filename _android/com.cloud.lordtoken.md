@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.cloud.lordtoken
 appCountry: 
-released: 2022-05-13
-updated: 2023-05-30
+released: '2022-05-13'
+updated: '2023-05-30'
 version: '1.7.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: lordtoken_off

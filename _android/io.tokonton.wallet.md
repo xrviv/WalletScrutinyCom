@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: io.tokonton.wallet
 appCountry: 
-released: 2021-02-20
-updated: 2021-02-20
+released: '2021-02-20'
+updated: '2021-02-20'
 version: '0.16.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

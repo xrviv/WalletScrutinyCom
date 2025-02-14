@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.wB4UGLOBAL_1
 appCountry: 
-released: 2020-08-17
-updated: 2021-04-16
+released: '2020-08-17'
+updated: '2021-04-16'
 version: '1.2.92'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

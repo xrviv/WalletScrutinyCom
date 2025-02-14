@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.bitinterpay
 appCountry: 
-released: 2020-08-26
-updated: 2020-09-17
+released: '2020-08-26'
+updated: '2020-09-17'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: 

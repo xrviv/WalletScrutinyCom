@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: loadng.com.loadng
 appCountry: ng
-released: 2020-05-02
-updated: 2024-08-27
+released: '2020-05-02'
+updated: '2024-08-27'
 version: '5.4.2'
 stars: 3.1
 ratings: 259
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-08-27
+date: '2023-08-27'
 signer: 
 reviewArchive: 
 twitter: loadngautomated

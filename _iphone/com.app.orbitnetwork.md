@@ -7,8 +7,8 @@ authors:
 appId: com.app.orbitnetwork
 appCountry: us
 idd: '1494093151'
-released: 2020-01-12
-updated: 2021-08-29
+released: '2020-01-12'
+updated: '2021-08-29'
 version: '2.0'
 stars: 4.7
 reviews: 110
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-12-15
+date: '2024-12-15'
 signer: 
 reviewArchive: 
 twitter: 

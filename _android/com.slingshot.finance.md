@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.slingshot.finance
 appCountry: us
-released: 2023-02-16
-updated: 2025-01-20
+released: '2023-02-16'
+updated: '2025-01-20'
 version: '2.2.3'
 stars: 2.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-06-28
+date: '2023-06-28'
 signer: 
 reviewArchive: 
 twitter: SlingshotCrypto

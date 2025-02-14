@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.zb.global
 appCountry: 
-released: 2021-07-17
-updated: 2022-06-24
+released: '2021-07-17'
+updated: '2022-06-24'
 version: '1.3.2.1478'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-13
+date: '2023-04-13'
 signer: 
 reviewArchive: 
 twitter: 

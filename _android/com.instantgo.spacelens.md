@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.instantgo.spacelens
 appCountry: 
-released: 2021-12-04
-updated: 2022-07-08
+released: '2021-12-04'
+updated: '2022-07-08'
 version: '1.2.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: thespacelens

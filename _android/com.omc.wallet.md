@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.omc.wallet
 appCountry: 
-released: 2020-03-15
-updated: 2022-02-15
+released: '2020-03-15'
+updated: '2022-02-15'
 version: '1.1.38'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

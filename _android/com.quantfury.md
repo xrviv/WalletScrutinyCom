@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.quantfury
 appCountry: gb
-released: 2018-11-26
-updated: 2025-02-06
+released: '2018-11-26'
+updated: '2025-02-06'
 version: 'v1.84.2.22907'
 stars: 4.2
 ratings: 11645
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-11-01
+date: '2021-11-01'
 signer: 
 reviewArchive: 
 twitter: quantfury

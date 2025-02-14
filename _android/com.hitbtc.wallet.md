@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.hitbtc.wallet
 appCountry: au
-released: 2021-08-31
-updated: 2024-12-06
+released: '2021-08-31'
+updated: '2024-12-06'
 version: '1.35.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-11-15
+date: '2021-11-15'
 signer: 
 reviewArchive: 
 twitter: hitbtc

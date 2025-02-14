@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.upreactiveboilerplate
 appCountry: 
-released: 2021-01-16
-updated: 2021-05-25
+released: '2021-01-16'
+updated: '2021-05-25'
 version: '1.5.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

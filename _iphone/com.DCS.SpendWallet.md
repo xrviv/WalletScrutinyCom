@@ -7,8 +7,8 @@ authors:
 appId: com.DCS.SpendWallet
 appCountry: 
 idd: 1357740381
-released: 2018-03-30
-updated: 2020-09-05
+released: '2018-03-30'
+updated: '2020-09-05'
 version: '3.2.6'
 stars: 4
 reviews: 326
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: Spendcom

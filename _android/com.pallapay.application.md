@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.pallapay.application
 appCountry: 
-released: 2022-05-06
-updated: 2022-05-07
+released: '2022-05-06'
+updated: '2022-05-07'
 version: '1.0.3'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: pallapay_com

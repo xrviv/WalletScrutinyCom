@@ -8,8 +8,8 @@ authors:
 appId: ccx.wallet
 appCountry: 
 idd: 1463774169
-released: 2019-06-21
-updated: 2020-07-30
+released: '2019-06-21'
+updated: '2020-07-30'
 version: '1.1'
 stars: 4.4
 reviews: 17
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: ftbfs
 appHashes: 
-date: 2021-09-19
+date: '2021-09-19'
 signer: 
 reviewArchive: 
 twitter: CoinCasso

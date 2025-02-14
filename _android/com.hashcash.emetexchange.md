@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.hashcash.emetexchange
 appCountry: 
-released: 2021-10-05
-updated: 2022-11-16
+released: '2021-10-05'
+updated: '2022-11-16'
 version: '1.0.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 appId: app.zupago.zp
 appCountry: us
 idd: 1565673730
-released: 2021-05-10
-updated: 2024-11-26
+released: '2021-05-10'
+updated: '2024-11-26'
 version: '1.0.70'
 stars: 4.5
 reviews: 51
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-12-19
+date: '2021-12-19'
 signer: 
 reviewArchive: 
 twitter: 

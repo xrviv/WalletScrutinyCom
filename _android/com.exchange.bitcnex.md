@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.exchange.bitcnex
 appCountry: 
-released: 2019-04-19
-updated: 2019-04-19
+released: '2019-04-19'
+updated: '2019-04-19'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

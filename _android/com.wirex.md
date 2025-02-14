@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.wirex
 appCountry: 
-released: 2016-03-31
-updated: 2025-01-29
+released: '2016-03-31'
+updated: '2025-01-29'
 version: '4.05.20'
 stars: 3.8
 ratings: 26258
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-08-21
+date: '2021-08-21'
 signer: 
 reviewArchive: 
 twitter: wirexapp

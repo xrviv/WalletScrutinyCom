@@ -6,8 +6,8 @@ authors:
 users: 100000
 appId: com.usdtoption.www
 appCountry: 
-released: 2020-05-10
-updated: 2020-05-10
+released: '2020-05-10'
+updated: '2020-05-10'
 version: '1.1.1'
 stars: 3.3
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: 

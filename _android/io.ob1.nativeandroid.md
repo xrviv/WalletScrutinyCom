@@ -7,7 +7,7 @@ users: 100000
 appId: io.ob1.nativeandroid
 appCountry: 
 released: 
-updated: 2020-09-27
+updated: '2020-09-27'
 version: '1.3.7'
 stars: 3.7
 ratings: 394
@@ -21,10 +21,10 @@ bugbounty:
 meta: removed
 verdict: nonverifiable
 appHashes: []
-date: 2021-01-23
+date: '2021-01-23'
 signer: 
 reviewArchive:
-- date: 2020-08-04
+- date: '2020-08-04'
   version: ''
   appHashes: 
   gitRevision: d35be5007a773253ccdf2e6c4234b33f12b25fec

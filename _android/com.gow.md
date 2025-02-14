@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.gow
 appCountry: 
-released: 2021-11-14
-updated: 2021-12-29
+released: '2021-11-14'
+updated: '2021-12-29'
 version: '1.12'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

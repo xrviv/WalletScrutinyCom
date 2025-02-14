@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.atomex.android
 appCountry: 
-released: 2020-12-06
-updated: 2023-02-24
+released: '2020-12-06'
+updated: '2023-02-24'
 version: '1.25.0'
 stars: 3.7
 ratings: 64
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nonverifiable
 appHashes: 
-date: 2022-02-25
+date: '2022-02-25'
 signer: 
 reviewArchive: 
 twitter: atomex_official

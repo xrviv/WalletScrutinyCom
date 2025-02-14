@@ -7,8 +7,8 @@ authors:
 appId: co.mona.Monaco
 appCountry: 
 idd: 1262148500
-released: 2017-08-31
-updated: 2025-02-12
+released: '2017-08-31'
+updated: '2025-02-12'
 version: '3.204.11'
 stars: 4.6
 reviews: 289924
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-24
+date: '2021-10-24'
 signer: 
 reviewArchive: 
 twitter: cryptocom

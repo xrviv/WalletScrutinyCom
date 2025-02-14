@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.coinhako
 appCountry: 
-released: 2018-05-06
-updated: 2025-02-11
+released: '2018-05-06'
+updated: '2025-02-11'
 version: '5.3.0'
 stars: 2.6
 ratings: 3064
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-04-23
+date: '2021-04-23'
 signer: 
 reviewArchive: 
 twitter: coinhako

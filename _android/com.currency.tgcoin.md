@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.currency.tgcoin
 appCountry: 
-released: 2022-05-21
-updated: 2022-05-22
+released: '2022-05-21'
+updated: '2022-05-22'
 version: '2.1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

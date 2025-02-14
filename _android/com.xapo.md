@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.xapo
 appCountry: 
-released: 2014-04-01
-updated: 2021-07-20
+released: '2014-04-01'
+updated: '2021-07-20'
 version: '5.34'
 stars: 3.4
 ratings: 45937
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-08-06
+date: '2021-08-06'
 signer: 
 reviewArchive: 
 twitter: xapo

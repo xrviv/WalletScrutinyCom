@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.asiainnovations.ace.taiwan
 appCountry: us
-released: 2019-01-28
-updated: 2024-12-04
+released: '2019-01-28'
+updated: '2024-12-04'
 version: '5.2.0_5210'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-16
+date: '2021-10-16'
 signer: 
 reviewArchive: 
 twitter: 

@@ -8,8 +8,8 @@ authors:
 users: 500000
 appId: com.shapeshift.droid_shapeshift
 appCountry: 
-released: 2015-10-26
-updated: 2024-06-20
+released: '2015-10-26'
+updated: '2024-06-20'
 version: '3.1.0'
 stars: 3.3
 ratings: 2913
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nonverifiable
 appHashes: []
-date: 2024-08-09
+date: '2024-08-09'
 signer: 
 reviewArchive: 
 twitter: ShapeShift_io

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: gfb.trading.group
 appCountry: 
-released: 2020-02-14
-updated: 2020-02-18
+released: '2020-02-14'
+updated: '2020-02-18'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

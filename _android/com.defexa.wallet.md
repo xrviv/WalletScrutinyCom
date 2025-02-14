@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.defexa.wallet
 appCountry: 
-released: 2023-04-28
-updated: 2024-10-16
+released: '2023-04-28'
+updated: '2024-10-16'
 version: '2.2.2'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: DefexaCrypto

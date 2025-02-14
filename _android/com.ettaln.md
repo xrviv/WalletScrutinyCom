@@ -8,7 +8,7 @@ users: 10
 appId: com.ettaln
 appCountry: 
 released: 
-updated: 2023-09-06
+updated: '2023-09-06'
 version: 'VARY'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-11-07
+date: '2024-11-07'
 signer: 
 reviewArchive: 
 twitter: ettawallet

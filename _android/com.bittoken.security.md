@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.bittoken.security
 appCountry: 
-released: 2022-05-23
-updated: 2023-06-05
+released: '2022-05-23'
+updated: '2023-06-05'
 version: '1.5.26'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

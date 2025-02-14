@@ -7,8 +7,8 @@ authors:
 appId: app.bitfy
 appCountry: br
 idd: 1483269793
-released: 2019-11-26
-updated: 2024-02-27
+released: '2019-11-26'
+updated: '2024-02-27'
 version: '3.12.45'
 stars: 3.9
 reviews: 117
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-10-07
+date: '2024-10-07'
 signer: 
 reviewArchive: 
 twitter: bitfyapp

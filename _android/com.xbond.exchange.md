@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.xbond.exchange
 appCountry: 
-released: 2019-11-01
-updated: 2021-03-02
+released: '2019-11-01'
+updated: '2021-03-02'
 version: '2.4'
 stars: 4.4
 ratings: 7
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-08-26
+date: '2021-08-26'
 signer: 
 reviewArchive: 
 twitter: 

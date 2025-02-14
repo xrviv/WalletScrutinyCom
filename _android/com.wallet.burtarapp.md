@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.wallet.burtarapp
 appCountry: 
-released: 2022-09-01
-updated: 2022-09-01
+released: '2022-09-01'
+updated: '2022-09-01'
 version: '2.0'
 stars: 4.1
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: 

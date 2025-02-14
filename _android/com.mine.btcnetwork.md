@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.mine.btcnetwork
 appCountry: 
-released: 2022-04-29
-updated: 2022-08-05
+released: '2022-04-29'
+updated: '2022-08-05'
 version: '1.2'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.wadz.wadzapp
 appCountry: 
-released: 2020-12-29
-updated: 2022-06-26
+released: '2020-12-29'
+updated: '2022-06-26'
 version: '2.1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: wadzpay

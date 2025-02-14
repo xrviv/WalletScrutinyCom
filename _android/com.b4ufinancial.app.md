@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.b4ufinancial.app
 appCountry: 
-released: 2020-04-12
-updated: 2020-05-12
+released: '2020-04-12'
+updated: '2020-05-12'
 version: '1.0.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: wallet.snowgem.bitfrost
 appCountry: 
-released: 2020-05-26
-updated: 2021-07-30
+released: '2020-05-26'
+updated: '2021-07-30'
 version: '0.1.9-3'
 stars: 3.3
 ratings: 73
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-01
+date: '2021-11-01'
 signer: 
 reviewArchive: 
 twitter: 

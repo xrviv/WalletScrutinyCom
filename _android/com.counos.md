@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.counos
 appCountry: 
-released: 2018-07-03
-updated: 2022-04-20
+released: '2018-07-03'
+updated: '2022-04-20'
 version: '1.9.94'
 stars: 4.2
 ratings: 513
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: counoscoin

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.hashcash.billbitcoins
 appCountry: 
-released: 2021-03-17
-updated: 2024-10-08
+released: '2021-03-17'
+updated: '2024-10-08'
 version: '2.0.12'
 stars: 4.8
 ratings: 98
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-11-28
+date: '2024-11-28'
 signer: 
 reviewArchive: 
 twitter: 

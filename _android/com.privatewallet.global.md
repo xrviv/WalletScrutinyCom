@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.privatewallet.global
 appCountry: 
-released: 2023-07-13
-updated: 2023-07-13
+released: '2023-07-13'
+updated: '2023-07-13'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: com.coinsvalue
 appCountry: 
-released: 2021-09-10
-updated: 2021-11-07
+released: '2021-09-10'
+updated: '2021-11-07'
 version: '1.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: 

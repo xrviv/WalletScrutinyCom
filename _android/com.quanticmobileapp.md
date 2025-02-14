@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.quanticmobileapp
 appCountry: 
-released: 2021-02-16
-updated: 2022-09-08
+released: '2021-02-16'
+updated: '2022-09-08'
 version: '2.0.37'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

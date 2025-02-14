@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: io.blns
 appCountry: 
-released: 2021-05-29
-updated: 2025-01-31
+released: '2021-05-29'
+updated: '2025-01-31'
 version: '2.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2024-08-31
+date: '2024-08-31'
 signer: 
 reviewArchive: 
 twitter: 

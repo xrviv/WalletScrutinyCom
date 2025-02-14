@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.servicoin.wallet
 appCountry: 
-released: 2021-07-31
-updated: 2021-07-31
+released: '2021-07-31'
+updated: '2021-07-31'
 version: '0.21.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

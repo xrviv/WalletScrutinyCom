@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.xchange.ychanger
 appCountry: 
-released: 2021-06-08
-updated: 2024-07-31
+released: '2021-06-08'
+updated: '2024-07-31'
 version: '4.2.1'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

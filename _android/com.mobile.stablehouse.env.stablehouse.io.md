@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.mobile.stablehouse.env.stablehouse.io
 appCountry: 
-released: 2022-10-24
-updated: 2023-10-06
+released: '2022-10-24'
+updated: '2023-10-06'
 version: '1.1.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: fewusers
 appHashes: 
-date: 2024-09-21
+date: '2024-09-21'
 signer: 
 reviewArchive: 
 twitter: 

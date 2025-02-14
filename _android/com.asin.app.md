@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.asin.app
 appCountry: 
-released: 2021-11-05
-updated: 2021-12-31
+released: '2021-11-05'
+updated: '2021-12-31'
 version: '1.3.0'
 stars: 1.9
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

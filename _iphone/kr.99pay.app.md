@@ -7,8 +7,8 @@ authors:
 appId: kr.99pay.app
 appCountry: kr
 idd: 1229582503
-released: 2017-05-05
-updated: 2025-02-12
+released: '2017-05-05'
+updated: '2025-02-12'
 version: '6.0.0(601)'
 stars: 4.7
 reviews: 1496
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-12-26
+date: '2021-12-26'
 signer: 
 reviewArchive: 
 twitter: 

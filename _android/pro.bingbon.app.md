@@ -7,8 +7,8 @@ authors:
 users: 5000000
 appId: pro.bingbon.app
 appCountry: us
-released: 2019-05-18
-updated: 2025-02-07
+released: '2019-05-18'
+updated: '2025-02-07'
 version: '4.52.5'
 stars: 4.3
 ratings: 2828
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-04-21
+date: '2021-04-21'
 signer: 
 reviewArchive: 
 twitter: BingbonOfficial

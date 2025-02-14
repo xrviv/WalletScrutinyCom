@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.daeapp
 appCountry: 
-released: 2021-01-02
-updated: 2021-09-12
+released: '2021-01-02'
+updated: '2021-09-12'
 version: '12.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

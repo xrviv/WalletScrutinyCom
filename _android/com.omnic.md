@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.omnic
 appCountry: 
-released: 2019-09-03
-updated: 2021-05-04
+released: '2019-09-03'
+updated: '2021-05-04'
 version: '1.0.81'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-17
+date: '2023-05-17'
 signer: 
 reviewArchive: 
 twitter: 

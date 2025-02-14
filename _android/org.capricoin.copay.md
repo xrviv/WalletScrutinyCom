@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: org.capricoin.copay
 appCountry: 
-released: 2020-05-14
-updated: 2020-07-06
+released: '2020-05-14'
+updated: '2020-07-06'
 version: '5.5.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

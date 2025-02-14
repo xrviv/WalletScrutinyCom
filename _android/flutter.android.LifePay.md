@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: flutter.android.LifePay
 appCountry: 
-released: 2022-09-21
-updated: 2025-02-10
+released: '2022-09-21'
+updated: '2025-02-10'
 version: '2.4.1'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-09-07
+date: '2024-09-07'
 signer: 
 reviewArchive: 
 twitter: lifpay

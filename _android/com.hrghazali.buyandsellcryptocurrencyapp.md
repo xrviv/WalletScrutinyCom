@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.hrghazali.buyandsellcryptocurrencyapp
 appCountry: 
-released: 2021-07-24
-updated: 2023-02-27
+released: '2021-07-24'
+updated: '2023-02-27'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: fewusers
 appHashes: 
-date: 2024-02-24
+date: '2024-02-24'
 signer: 
 reviewArchive: 
 twitter: 

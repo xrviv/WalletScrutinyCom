@@ -7,8 +7,8 @@ authors:
 appId: com.newapp.vuollet
 appCountry: us
 idd: '1591427763'
-released: 2021-11-04
-updated: 2022-04-28
+released: '2021-11-04'
+updated: '2022-04-28'
 version: '2.0.5'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: Vuollet_io

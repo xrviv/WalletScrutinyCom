@@ -7,8 +7,8 @@ authors:
 appId: com.apollox.app.ios
 appCountry: us
 idd: '1589405398'
-released: 2022-01-21
-updated: 2023-07-11
+released: '2022-01-21'
+updated: '2023-07-11'
 version: '2.60.3'
 stars: 4.9
 reviews: 7
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: ApolloX_Finance

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.keyex.io.crypto
 appCountry: 
-released: 2023-02-15
-updated: 2024-11-12
+released: '2023-02-15'
+updated: '2024-11-12'
 version: '1.1.31'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2023-06-03
+date: '2023-06-03'
 signer: 
 reviewArchive: 
 twitter: 

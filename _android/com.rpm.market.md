@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.rpm.market
 appCountry: 
-released: 2021-04-20
-updated: 2021-06-15
+released: '2021-04-20'
+updated: '2021-06-15'
 version: '0.0.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.konai.cryptokona
 appCountry: 
-released: 2019-10-25
-updated: 2019-10-25
+released: '2019-10-25'
+updated: '2019-10-25'
 version: '0.2.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-11-12
+date: '2024-11-12'
 signer: 
 reviewArchive: 
 twitter: 

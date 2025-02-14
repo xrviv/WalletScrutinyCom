@@ -8,8 +8,8 @@ authors:
 users: 10000000
 appId: co.mona.android
 appCountry: 
-released: 2017-08-30
-updated: 2025-02-10
+released: '2017-08-30'
+updated: '2025-02-10'
 version: '3.204.10'
 stars: 4.5
 ratings: 281384
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-24
+date: '2021-10-24'
 signer: 
 reviewArchive: 
 twitter: cryptocom

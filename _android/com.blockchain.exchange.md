@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.blockchain.exchange
 appCountry: 
-released: 2021-10-27
-updated: 2023-10-08
+released: '2021-10-27'
+updated: '2023-10-08'
 version: '202310.1.1'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: blockchain

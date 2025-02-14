@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: xtrading.eybinary.co
 appCountry: 
-released: 2022-09-13
-updated: 2022-09-26
+released: '2022-09-13'
+updated: '2022-09-26'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

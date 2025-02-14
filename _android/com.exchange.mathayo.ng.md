@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.exchange.mathayo.ng
 appCountry: 
-released: 2021-12-17
-updated: 2021-12-18
+released: '2021-12-17'
+updated: '2021-12-18'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

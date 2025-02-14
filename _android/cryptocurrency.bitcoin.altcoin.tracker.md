@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: cryptocurrency.bitcoin.altcoin.tracker
 appCountry: 
-released: 2018-10-30
-updated: 2019-10-20
+released: '2018-10-30'
+updated: '2019-10-20'
 version: '1.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

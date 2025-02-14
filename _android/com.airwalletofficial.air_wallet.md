@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.airwalletofficial.air_wallet
 appCountry: 
-released: 2019-10-19
-updated: 2019-10-29
+released: '2019-10-19'
+updated: '2019-10-29'
 version: '1.9.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-10
+date: '2023-05-10'
 signer: 
 reviewArchive: 
 twitter: 

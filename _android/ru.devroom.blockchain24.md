@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: ru.devroom.blockchain24
 appCountry: 
-released: 2021-03-16
-updated: 2023-06-29
+released: '2021-03-16'
+updated: '2023-06-29'
 version: '1.1.2'
 stars: 3.6
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: fewusers
 appHashes: 
-date: 2024-06-23
+date: '2024-06-23'
 signer: 
 reviewArchive: 
 twitter: 

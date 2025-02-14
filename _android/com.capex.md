@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.capex
 appCountry: 
-released: 2022-02-15
-updated: 2023-09-21
+released: '2022-02-15'
+updated: '2023-09-21'
 version: '2.0.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-15
+date: '2024-11-15'
 signer: 
 reviewArchive: 
 twitter: 

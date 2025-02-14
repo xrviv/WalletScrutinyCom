@@ -7,7 +7,7 @@ users: 100
 appId: com.btuprotocol.btu_exchange
 appCountry: 
 released: 
-updated: 2021-05-06
+updated: '2021-05-06'
 version: '1.8.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

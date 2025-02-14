@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.inf.os.xbitcoinandroid
 appCountry: 
-released: 2020-12-04
-updated: 2020-10-11
+released: '2020-12-04'
+updated: '2020-10-11'
 version: '2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-05-30
+date: '2023-05-30'
 signer: 
 reviewArchive: 
 twitter: 

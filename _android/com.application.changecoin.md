@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.application.changecoin
 appCountry: us
-released: 2020-05-12
-updated: 2022-02-10
+released: '2020-05-12'
+updated: '2022-02-10'
 version: '1.2.6'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-07
+date: '2024-11-07'
 signer: 
 reviewArchive: 
 twitter: 

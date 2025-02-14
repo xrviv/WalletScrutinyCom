@@ -7,8 +7,8 @@ authors:
 appId: com.hashwalletmanager
 appCountry: es
 idd: '6443484063'
-released: 2022-10-06
-updated: 2024-12-04
+released: '2022-10-06'
+updated: '2024-12-04'
 version: '2.0.23'
 stars: 5
 reviews: 8
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-01-09
+date: '2024-01-09'
 signer: 
 reviewArchive: 
 twitter: 

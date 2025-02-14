@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.coincircle
 appCountry: us
-released: 2021-04-26
-updated: 2024-02-29
+released: '2021-04-26'
+updated: '2024-02-29'
 version: '1.3.3.10300'
 stars: 4.3
 ratings: 438
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: coincircle

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.evercoin
 appCountry: 
-released: 2017-11-20
-updated: 2020-11-22
+released: '2017-11-20'
+updated: '2020-11-22'
 version: '2.8.8'
 stars: 3.7
 ratings: 203
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: everc0in

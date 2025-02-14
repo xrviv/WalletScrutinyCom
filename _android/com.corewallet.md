@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.corewallet
 appCountry: 
-released: 2023-02-01
-updated: 2023-02-01
+released: '2023-02-01'
+updated: '2023-02-01'
 version: '1.0.0'
 stars: 4.6
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

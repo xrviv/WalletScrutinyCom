@@ -8,7 +8,7 @@ users: 1000
 appId: jb.tech.bitpiewallet
 appCountry: 
 released: 
-updated: 2021-02-01
+updated: '2021-02-01'
 version: '1.3'
 stars: 4
 ratings: 71
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-04-30
+date: '2021-04-30'
 signer: 
 reviewArchive: 
 twitter: 

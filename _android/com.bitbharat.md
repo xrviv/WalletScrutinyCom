@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.bitbharat
 appCountry: 
-released: 2023-01-04
-updated: 2023-01-18
+released: '2023-01-04'
+updated: '2023-01-18'
 version: '1.1.2'
 stars: 3.9
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

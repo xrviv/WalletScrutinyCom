@@ -9,8 +9,8 @@ authors:
 appId: com.bitcoinblack.wallet
 appCountry: 
 idd: 1523044877
-released: 2020-07-20
-updated: 2020-09-08
+released: '2020-07-20'
+updated: '2020-09-08'
 version: '1.0.5'
 stars: 4.2
 reviews: 34
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2021-08-08
+date: '2021-08-08'
 signer: 
 reviewArchive: 
 twitter: BCB_Official1

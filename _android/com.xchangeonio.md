@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.xchangeonio
 appCountry: 
-released: 2022-11-15
-updated: 2023-03-16
+released: '2022-11-15'
+updated: '2023-03-16'
 version: '1.1.2'
 stars: 2.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-07-29
+date: '2023-07-29'
 signer: 
 reviewArchive: 
 twitter: XChangeon

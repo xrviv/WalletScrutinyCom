@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: eu.crystalwallet.app
 appCountry: us
-released: 2020-03-15
-updated: 2021-10-21
+released: '2020-03-15'
+updated: '2021-10-21'
 version: '1.77'
 stars: 4.4
 ratings: 629
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2022-03-09
+date: '2022-03-09'
 signer: 
 reviewArchive: 
 twitter: CrystalWalletEU

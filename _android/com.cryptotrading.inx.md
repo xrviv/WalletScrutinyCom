@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.cryptotrading.inx
 appCountry: 
-released: 2022-06-11
-updated: 2024-10-06
+released: '2022-06-11'
+updated: '2024-10-06'
 version: '2.0.10'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-06-30
+date: '2023-06-30'
 signer: 
 reviewArchive: 
 twitter: INX_Group

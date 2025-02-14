@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.evraon.trading
 appCountry: 
-released: 2019-06-14
-updated: 2022-12-07
+released: '2019-06-14'
+updated: '2022-12-07'
 version: '1.8.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nowallet
 appHashes: 
-date: 2024-11-29
+date: '2024-11-29'
 signer: 
 reviewArchive: 
 twitter: 

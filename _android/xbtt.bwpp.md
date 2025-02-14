@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: xbtt.bwpp
 appCountry: 
-released: 2022-04-27
-updated: 2022-04-27
+released: '2022-04-27'
+updated: '2022-04-27'
 version: '3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

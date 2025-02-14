@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.excoino.excoino
 appCountry: 
-released: 2018-09-27
-updated: 2025-02-09
+released: '2018-09-27'
+updated: '2025-02-09'
 version: '9.41.0'
 stars: 4
 ratings: 8653
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-08-21
+date: '2021-08-21'
 signer: 
 reviewArchive: 
 twitter: excoino

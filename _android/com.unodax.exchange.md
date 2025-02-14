@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.unodax.exchange
 appCountry: us
-released: 2018-04-04
-updated: 2022-03-10
+released: '2018-04-04'
+updated: '2022-03-10'
 version: '2.5.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-04-07
+date: '2022-04-07'
 signer: 
 reviewArchive: 
 twitter: Unocoin

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: paydeepp.elegro.io
 appCountry: 
-released: 2018-11-09
-updated: 2024-09-16
+released: '2018-11-09'
+updated: '2024-09-16'
 version: '5.4.2'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2020-12-14
+date: '2020-12-14'
 signer: 
 reviewArchive: 
 twitter: NikoTech

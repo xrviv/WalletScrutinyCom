@@ -7,7 +7,7 @@ users: 1000
 appId: trade.tiger.copytrading
 appCountry: 
 released: 
-updated: 2022-08-09
+updated: '2022-08-09'
 version: '1.5.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

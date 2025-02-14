@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.nova.dax
 appCountry: 
-released: 2019-09-20
-updated: 2024-12-12
+released: '2019-09-20'
+updated: '2024-12-12'
 version: '3.5.0'
 stars: 4.2
 ratings: 15890
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-08-21
+date: '2021-08-21'
 signer: 
 reviewArchive: 
 twitter: Nova_DAXglobal

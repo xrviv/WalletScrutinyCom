@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.frontierwallet
 appCountry: in
-released: 2019-10-30
-updated: 2024-06-07
+released: '2019-10-30'
+updated: '2024-06-07'
 version: '6.22.0'
 stars: 4.6
 ratings: 1003
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2022-01-12
+date: '2022-01-12'
 signer: 
 reviewArchive: 
 twitter: FrontierDotXYZ

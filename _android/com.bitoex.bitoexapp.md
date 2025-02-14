@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bitoex.bitoexapp
 appCountry: 
-released: 2019-11-18
-updated: 2019-11-19
+released: '2019-11-18'
+updated: '2019-11-19'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: BitoEX_Official

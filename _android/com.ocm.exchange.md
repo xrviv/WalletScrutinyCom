@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.ocm.exchange
 appCountry: 
-released: 2022-02-22
-updated: 2022-03-22
+released: '2022-02-22'
+updated: '2022-03-22'
 version: '1.01'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: 

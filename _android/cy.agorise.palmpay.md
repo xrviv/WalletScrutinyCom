@@ -8,7 +8,7 @@ users: 10000
 appId: cy.agorise.palmpay
 appCountry: 
 released: 
-updated: 2022-01-20
+updated: '2022-01-20'
 version: 'VARY'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-11-30
+date: '2024-11-30'
 signer: 
 reviewArchive: 
 twitter: Agorise_world

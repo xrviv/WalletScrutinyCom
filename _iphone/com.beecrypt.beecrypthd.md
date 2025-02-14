@@ -7,8 +7,8 @@ authors:
 appId: com.beecrypt.beecrypthd
 appCountry: us
 idd: 1487413008
-released: 2020-06-15
-updated: 2022-02-12
+released: '2020-06-15'
+updated: '2022-02-12'
 version: '3.9.1'
 stars: 5
 reviews: 1
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2022-05-31
+date: '2022-05-31'
 signer: 
 reviewArchive: 
 twitter: money_pipe

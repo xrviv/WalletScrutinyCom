@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.naijapay.app
 appCountry: 
-released: 2021-01-21
-updated: 2021-08-10
+released: '2021-01-21'
+updated: '2021-08-10'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

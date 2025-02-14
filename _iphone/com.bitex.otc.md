@@ -7,8 +7,8 @@ authors:
 appId: com.bitex.otc
 appCountry: sg
 idd: '1574033398'
-released: 2021-09-02
-updated: 2024-10-17
+released: '2021-09-02'
+updated: '2024-10-17'
 version: '1.8.8'
 stars: 5
 reviews: 8
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-09-08
+date: '2023-09-08'
 signer: 
 reviewArchive: 
 twitter: BitDATAExchange

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.deswallet
 appCountry: 
-released: 2020-03-04
-updated: 2020-03-12
+released: '2020-03-04'
+updated: '2020-03-12'
 version: '1.1'
 stars: 4.3
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: 

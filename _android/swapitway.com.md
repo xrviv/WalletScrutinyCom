@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: swapitway.com
 appCountry: 
-released: 2021-08-28
-updated: 2021-08-28
+released: '2021-08-28'
+updated: '2021-08-28'
 version: '4.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-15
+date: '2021-10-15'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.lnorb.orb
 appCountry: 
-released: 2022-07-14
-updated: 2022-09-26
+released: '2022-07-14'
+updated: '2022-09-26'
 version: '0.21.11.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

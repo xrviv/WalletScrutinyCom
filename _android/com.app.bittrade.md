@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.app.bittrade
 appCountry: 
-released: 2022-02-28
-updated: 2022-03-01
+released: '2022-02-28'
+updated: '2022-03-01'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-09-18
+date: '2024-09-18'
 signer: 
 reviewArchive: 
 twitter: 

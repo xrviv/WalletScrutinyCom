@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: bit7pay.com.bit7pay
 appCountry: 
-released: 2019-05-18
-updated: 2020-04-08
+released: '2019-05-18'
+updated: '2020-04-08'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-04
+date: '2023-05-04'
 signer: 
 reviewArchive: 
 twitter: bit7pay

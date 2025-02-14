@@ -8,7 +8,7 @@ users: 10000
 appId: com.bottlepay
 appCountry: 
 released: 
-updated: 2023-07-24
+updated: '2023-07-24'
 version: '2.2.16'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: bottlepay

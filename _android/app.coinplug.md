@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: app.coinplug
 appCountry: 
-released: 2021-10-19
-updated: 2024-07-18
+released: '2021-10-19'
+updated: '2024-07-18'
 version: '2.0.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

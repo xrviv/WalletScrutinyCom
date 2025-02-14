@@ -7,8 +7,8 @@ authors:
 appId: com.LYOPAY.LYOPAY
 appCountry: eg
 idd: 1537945402
-released: 2020-11-06
-updated: 2023-05-23
+released: '2020-11-06'
+updated: '2023-05-23'
 version: '8.17'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: lyopayofficial

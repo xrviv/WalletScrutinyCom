@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.pilab.biport
 appCountry: 
-released: 2023-02-09
-updated: 2024-10-08
+released: '2023-02-09'
+updated: '2024-10-08'
 version: '0.44'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: 

@@ -3,9 +3,9 @@ title: Dinosaur HipHop Zero DIY Hardware Wallet
 appId: dinosaur.hiphopzero
 authors:
 - danny
-released: 2016-03-05
+released: '2016-03-05'
 discontinued: 
-updated: 2019-02-25
+updated: '2019-02-25'
 version: '1.8.0'
 binaries: 
 dimensions: 
@@ -24,7 +24,7 @@ bugbounty:
 meta: obsolete
 verdict: diy
 appHashes: 
-date: 2022-04-29
+date: '2022-04-29'
 signer: 
 reviewArchive: 
 twitter: __gbg__

@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.coin.base
 appCountry: 
-released: 2022-05-01
-updated: 2022-05-29
+released: '2022-05-01'
+updated: '2022-05-29'
 version: '1.1'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

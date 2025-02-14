@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.cicbanking
 appCountry: 
-released: 2019-10-22
-updated: 2019-11-21
+released: '2019-10-22'
+updated: '2019-11-21'
 version: '1.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: 

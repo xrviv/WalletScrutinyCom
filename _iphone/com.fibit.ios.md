@@ -7,8 +7,8 @@ authors:
 appId: com.fibit.ios
 appCountry: in
 idd: '1603620552'
-released: 2022-03-28
-updated: 2023-09-08
+released: '2022-03-28'
+updated: '2023-09-08'
 version: '1.1.3'
 stars: 4.9
 reviews: 10
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: fibitpro

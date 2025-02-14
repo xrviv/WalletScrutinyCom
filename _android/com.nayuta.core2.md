@@ -8,7 +8,7 @@ users: 1000
 appId: com.nayuta.core2
 appCountry: 
 released: 
-updated: 2023-11-24
+updated: '2023-11-24'
 version: 'VARY'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

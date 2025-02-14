@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.ncwallet
 appCountry: 
-released: 2022-10-18
-updated: 2025-01-09
+released: '2022-10-18'
+updated: '2025-01-09'
 version: '1.0.707'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-06-14
+date: '2023-06-14'
 signer: 
 reviewArchive: 
 twitter: 

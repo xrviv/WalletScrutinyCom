@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.nitroex.nitroexvipapp
 appCountry: us
-released: 2020-11-17
-updated: 2022-07-08
+released: '2020-11-17'
+updated: '2022-07-08'
 version: '8.0.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: NitroExOfficial

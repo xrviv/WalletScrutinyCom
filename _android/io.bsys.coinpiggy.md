@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.bsys.coinpiggy
 appCountry: 
-released: 2018-11-05
-updated: 2020-09-10
+released: '2018-11-05'
+updated: '2020-09-10'
 version: '1.106'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-06-01
+date: '2023-06-01'
 signer: 
 reviewArchive: 
 twitter: 

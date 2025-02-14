@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.omptradingcapital.app
 appCountry: 
-released: 2020-12-12
-updated: 2020-12-12
+released: '2020-12-12'
+updated: '2020-12-12'
 version: '1.0'
 stars: 3
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

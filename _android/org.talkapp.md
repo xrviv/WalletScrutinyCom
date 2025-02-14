@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: org.talkapp
 appCountry: 
-released: 2021-01-05
-updated: 2025-01-29
+released: '2021-01-05'
+updated: '2025-01-29'
 version: '2.29.2'
 stars: 3.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-22
+date: '2024-07-22'
 signer: 
 reviewArchive: 
 twitter: 

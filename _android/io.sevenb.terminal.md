@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: io.sevenb.terminal
 appCountry: 
-released: 2021-05-04
-updated: 2022-12-15
+released: '2021-05-04'
+updated: '2022-12-15'
 version: '0.3.2'
 stars: 3.6
 ratings: 56
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-30
+date: '2024-07-30'
 signer: 
 reviewArchive: 
 twitter: sevenb_roker

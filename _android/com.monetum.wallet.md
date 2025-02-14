@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.monetum.wallet
 appCountry: 
-released: 2022-08-05
-updated: 2022-09-07
+released: '2022-08-05'
+updated: '2022-09-07'
 version: '7.1.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2024-08-31
+date: '2024-08-31'
 signer: 
 reviewArchive: 
 twitter: 

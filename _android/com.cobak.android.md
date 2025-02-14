@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.cobak.android
 appCountry: us
-released: 2018-03-08
-updated: 2024-08-28
+released: '2018-03-08'
+updated: '2024-08-28'
 version: '1.43.48'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-03
+date: '2021-09-03'
 signer: 
 reviewArchive: 
 twitter: CobakOfficial

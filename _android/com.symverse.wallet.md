@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.symverse.wallet
 appCountry: 
-released: 2019-10-29
-updated: 2021-04-20
+released: '2019-10-29'
+updated: '2021-04-20'
 version: '1.2.1'
 stars: 4.5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-11-12
+date: '2024-11-12'
 signer: 
 reviewArchive: 
 twitter: 

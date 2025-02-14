@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.ibizsoftware.berith
 appCountry: 
-released: 2018-03-07
-updated: 2019-05-10
+released: '2018-03-07'
+updated: '2019-05-10'
 version: '1.1.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nobtc
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: Berith_co

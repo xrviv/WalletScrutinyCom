@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: net.iconomi.android
 appCountry: si
-released: 2017-10-17
-updated: 2025-01-25
+released: '2017-10-17'
+updated: '2025-01-25'
 version: '3.8.10'
 stars: 3.8
 ratings: 291
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-04
+date: '2021-10-04'
 signer: 
 reviewArchive: 
 twitter: iconomicom

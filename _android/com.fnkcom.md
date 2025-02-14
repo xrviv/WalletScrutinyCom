@@ -8,7 +8,7 @@ users: 50000
 appId: com.fnkcom
 appCountry: 
 released: 
-updated: 2021-07-07
+updated: '2021-07-07'
 version: '1.1.2'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-07-04
+date: '2023-07-04'
 signer: 
 reviewArchive: 
 twitter: 

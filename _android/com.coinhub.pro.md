@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.coinhub.pro
 appCountry: 
-released: 2021-08-20
-updated: 2025-02-06
+released: '2021-08-20'
+updated: '2025-02-06'
 version: '2.2.5'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-02-21
+date: '2022-02-21'
 signer: 
 reviewArchive: 
 twitter: CoinhubMongolia

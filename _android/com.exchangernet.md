@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.exchangernet
 appCountry: 
-released: 2021-02-21
-updated: 2021-02-22
+released: '2021-02-21'
+updated: '2021-02-22'
 version: '1.0'
 stars: 4.3
 ratings: 70
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nowallet
 appHashes: 
-date: 2023-02-20
+date: '2023-02-20'
 signer: 
 reviewArchive: 
 twitter: echangerbd

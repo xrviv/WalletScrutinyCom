@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.getzion.zion
 appCountry: 
-released: 2021-12-21
-updated: 2023-05-12
+released: '2021-12-21'
+updated: '2023-05-12'
 version: '2.0.5'
 stars: 2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: get_zion

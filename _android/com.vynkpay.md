@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.vynkpay
 appCountry: 
-released: 2020-06-30
-updated: 2024-02-08
+released: '2020-06-30'
+updated: '2024-02-08'
 version: '4.4'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: vynkgroup

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.vistabitz.app
 appCountry: 
-released: 2021-11-03
-updated: 2022-02-02
+released: '2021-11-03'
+updated: '2022-02-02'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

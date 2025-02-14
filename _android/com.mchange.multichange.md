@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.mchange.multichange
 appCountry: 
-released: 2020-08-10
-updated: 2020-08-10
+released: '2020-08-10'
+updated: '2020-08-10'
 version: '1.0'
 stars: 3.9
 ratings: 10
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-01-15
+date: '2022-01-15'
 signer: 
 reviewArchive: 
 twitter: 

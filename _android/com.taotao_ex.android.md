@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.taotao_ex.android
 appCountry: 
-released: 2019-05-29
-updated: 2025-01-16
+released: '2019-05-29'
+updated: '2025-01-16'
 version: '3.25.2'
 stars: 2.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-02-26
+date: '2023-02-26'
 signer: 
 reviewArchive: 
 twitter: sbivc_official

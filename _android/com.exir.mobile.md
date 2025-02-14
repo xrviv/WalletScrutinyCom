@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.exir.mobile
 appCountry: 
-released: 2020-11-12
-updated: 2023-02-23
+released: '2020-11-12'
+updated: '2023-02-23'
 version: '1.2.4'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-05-10
+date: '2023-05-10'
 signer: 
 reviewArchive: 
 twitter: EXIR_Official

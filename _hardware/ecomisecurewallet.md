@@ -3,9 +3,9 @@ title: ECOMI Secure Wallet
 appId: ecomisecurewallet
 authors:
 - danny
-released: 2018-05-07
+released: '2018-05-07'
 discontinued: 
-updated: 2024-06-20
+updated: '2024-06-20'
 version: '3.0.9'
 binaries: 
 dimensions: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: obsolete
 verdict: plainkey
 appHashes: 
-date: 2025-02-06
+date: '2025-02-06'
 signer: 
 reviewArchive: 
 twitter: ecomi_

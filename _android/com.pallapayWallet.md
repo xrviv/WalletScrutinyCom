@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.pallapayWallet
 appCountry: 
-released: 2021-10-06
-updated: 2022-03-02
+released: '2021-10-06'
+updated: '2022-03-02'
 version: '1.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2022-05-31
+date: '2022-05-31'
 signer: 
 reviewArchive: 
 twitter: pallapay_com

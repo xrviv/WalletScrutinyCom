@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.ronbd.mGlobal
 appCountry: 
-released: 2020-09-02
-updated: 2020-09-26
+released: '2020-09-02'
+updated: '2020-09-26'
 version: '2.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.ahd985.wedge
 appCountry: 
-released: 2021-09-29
-updated: 2023-04-04
+released: '2021-09-29'
+updated: '2023-04-04'
 version: '1.4.3'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: wedgefinancial

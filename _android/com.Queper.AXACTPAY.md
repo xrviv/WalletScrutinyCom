@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.Queper.AXACTPAY
 appCountry: 
-released: 2020-07-08
-updated: 2023-01-10
+released: '2020-07-08'
+updated: '2023-01-10'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.maxonrow.wallet
 appCountry: 
-released: 2019-08-31
-updated: 2023-05-08
+released: '2019-08-31'
+updated: '2023-05-08'
 version: '2.1.31'
 stars: 
 ratings: 73
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nobtc
 appHashes: 
-date: 2021-03-17
+date: '2021-03-17'
 signer: 
 reviewArchive: 
 twitter: maxonrow

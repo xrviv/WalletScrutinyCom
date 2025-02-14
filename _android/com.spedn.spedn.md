@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.spedn.spedn
 appCountry: 
-released: 2021-05-26
-updated: 2023-11-22
+released: '2021-05-26'
+updated: '2023-11-22'
 version: '23.11.1'
 stars: 3.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nosendreceive
 appHashes: 
-date: 2024-11-19
+date: '2024-11-19'
 signer: 
 reviewArchive: 
 twitter: FlexaHQ

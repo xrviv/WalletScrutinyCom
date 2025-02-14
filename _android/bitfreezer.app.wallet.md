@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: bitfreezer.app.wallet
 appCountry: 
-released: 2019-09-18
-updated: 2021-02-18
+released: '2019-09-18'
+updated: '2021-02-18'
 version: '1.0.16'
 stars: 4.1
 ratings: 61
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2021-08-11
+date: '2021-08-11'
 signer: 
 reviewArchive: 
 twitter: 

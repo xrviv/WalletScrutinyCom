@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.joydc.app
 appCountry: 
-released: 2020-01-24
-updated: 2020-02-02
+released: '2020-01-24'
+updated: '2020-02-02'
 version: '1.0.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

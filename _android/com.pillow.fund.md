@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.pillow.fund
 appCountry: 
-released: 2022-02-03
-updated: 2023-07-31
+released: '2022-02-03'
+updated: '2023-07-31'
 version: '4.0'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: PillowFund

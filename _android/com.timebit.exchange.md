@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.timebit.exchange
 appCountry: 
-released: 2021-02-18
-updated: 2022-01-07
+released: '2021-02-18'
+updated: '2022-01-07'
 version: '1.0.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

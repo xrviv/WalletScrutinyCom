@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.cilia.wallet
 appCountry: 
-released: 2021-05-18
-updated: 2021-05-18
+released: '2021-05-18'
+updated: '2021-05-18'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

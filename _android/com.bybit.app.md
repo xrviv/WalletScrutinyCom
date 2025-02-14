@@ -7,8 +7,8 @@ authors:
 users: 10000000
 appId: com.bybit.app
 appCountry: 
-released: 2019-10-31
-updated: 2025-01-24
+released: '2019-10-31'
+updated: '2025-01-24'
 version: '4.58.0'
 stars: 4.5
 ratings: 107859
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-02-09
+date: '2021-02-09'
 signer: 
 reviewArchive: 
 twitter: Bybit_Official

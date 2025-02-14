@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: tech.pertiller.cryptocoincheck
 appCountry: 
-released: 2018-04-05
-updated: 2022-10-24
+released: '2018-04-05'
+updated: '2022-10-24'
 version: '1.7.0'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nowallet
 appHashes: 
-date: 2024-10-16
+date: '2024-10-16'
 signer: 
 reviewArchive: 
 twitter: BitcoinMonitor1

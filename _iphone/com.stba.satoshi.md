@@ -6,8 +6,8 @@ authors:
 appId: com.stba.satoshi
 appCountry: us
 idd: '6463799763'
-released: 2024-11-19
-updated: 2025-02-02
+released: '2024-11-19'
+updated: '2025-02-02'
 version: '1.0.9'
 stars: 4.5
 reviews: 21
@@ -20,7 +20,7 @@ bugbounty:
 meta: ok
 verdict: wip
 appHashes: 
-date: 2024-12-17
+date: '2024-12-17'
 signer: 
 reviewArchive: 
 twitter: 

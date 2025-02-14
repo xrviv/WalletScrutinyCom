@@ -6,8 +6,8 @@ authors:
 users: 100000
 appId: com.bitcoin.merchant.app
 appCountry: 
-released: 2019-04-13
-updated: 2024-12-28
+released: '2019-04-13'
+updated: '2024-12-28'
 version: '5.4.2'
 stars: 4.2
 ratings: 504
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-05-24
+date: '2024-05-24'
 signer: 
 reviewArchive: 
 twitter: bitcoincom

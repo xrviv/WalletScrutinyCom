@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.koinfox.android.wallet
 appCountry: 
-released: 2019-01-25
-updated: 2020-07-21
+released: '2019-01-25'
+updated: '2020-07-21'
 version: '2.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: koinfox

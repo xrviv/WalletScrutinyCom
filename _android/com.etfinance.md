@@ -7,7 +7,7 @@ users: 1000
 appId: com.etfinance
 appCountry: 
 released: 
-updated: 2021-11-29
+updated: '2021-11-29'
 version: '1.5.78-etfinance'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

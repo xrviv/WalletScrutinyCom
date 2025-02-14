@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.parabolus.kryptokafe
 appCountry: 
-released: 2021-02-19
-updated: 2022-05-18
+released: '2021-02-19'
+updated: '2022-05-18'
 version: '1.0.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

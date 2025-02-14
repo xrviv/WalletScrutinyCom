@@ -6,8 +6,8 @@ authors:
 users: 50000
 appId: com.cryptomkt.app
 appCountry: 
-released: 2017-08-03
-updated: 2020-07-20
+released: '2017-08-03'
+updated: '2020-07-20'
 version: '3.2.1'
 stars: 2.9
 ratings: 460
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-09-19
+date: '2021-09-19'
 signer: 
 reviewArchive: 
 twitter: 

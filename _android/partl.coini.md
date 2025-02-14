@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: partl.coini
 appCountry: 
-released: 2018-02-04
-updated: 2023-03-26
+released: '2018-02-04'
+updated: '2023-03-26'
 version: '2.5.2'
 stars: 4.5
 ratings: 291
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-05-10
+date: '2023-05-10'
 signer: 
 reviewArchive: 
 twitter: 

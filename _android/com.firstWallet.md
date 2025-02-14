@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.firstWallet
 appCountry: 
-released: 2022-04-12
-updated: 2022-07-30
+released: '2022-04-12'
+updated: '2022-07-30'
 version: '1.1.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

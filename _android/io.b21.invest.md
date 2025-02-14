@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: io.b21.invest
 appCountry: in
-released: 2020-02-24
-updated: 2022-01-30
+released: '2020-02-24'
+updated: '2022-01-30'
 version: '0.8.0'
 stars: 2.8
 ratings: 592
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-30
+date: '2023-01-30'
 signer: 
 reviewArchive: 
 twitter: B21Official

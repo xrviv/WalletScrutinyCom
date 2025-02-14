@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.arcblock.wallet.app.product
 appCountry: 
-released: 2020-01-07
-updated: 2025-01-24
+released: '2020-01-07'
+updated: '2025-01-24'
 version: '5.8.0'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-07-06
+date: '2023-07-06'
 signer: 
 reviewArchive: 
 twitter: ArcBlock_io

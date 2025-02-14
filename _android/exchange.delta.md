@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: exchange.delta
 appCountry: nz
-released: 2021-05-07
-updated: 2024-11-13
+released: '2021-05-07'
+updated: '2024-11-13'
 version: '1.12.2'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-08
+date: '2021-10-08'
 signer: 
 reviewArchive: 
 twitter: Delta_Exchange

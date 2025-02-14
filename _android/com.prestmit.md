@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.prestmit
 appCountry: us
-released: 2021-04-13
-updated: 2025-01-16
+released: '2021-04-13'
+updated: '2025-01-16'
 version: '7.2.326'
 stars: 4.2
 ratings: 1291
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2021-11-02
+date: '2021-11-02'
 signer: 
 reviewArchive: 
 twitter: prestmit

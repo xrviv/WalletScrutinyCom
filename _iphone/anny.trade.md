@@ -7,8 +7,8 @@ authors:
 appId: anny.trade
 appCountry: gb
 idd: '1642936782'
-released: 2023-02-28
-updated: 2024-10-23
+released: '2023-02-28'
+updated: '2024-10-23'
 version: '1.4.6'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-12-02
+date: '2023-12-02'
 signer: 
 reviewArchive: 
 twitter: AnnyCrypto

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.bitkingdomex.app.android
 appCountry: 
-released: 2020-12-23
-updated: 2021-01-19
+released: '2020-12-23'
+updated: '2021-01-19'
 version: '1.0.7'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-12
+date: '2023-05-12'
 signer: 
 reviewArchive: 
 twitter: 

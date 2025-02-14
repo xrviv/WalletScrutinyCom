@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.fchain.firefly
 appCountry: 
-released: 2019-05-08
-updated: 2022-02-10
+released: '2019-05-08'
+updated: '2022-02-10'
 version: '3.4.2'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-11-04
+date: '2024-11-04'
 signer: 
 reviewArchive: 
 twitter: 

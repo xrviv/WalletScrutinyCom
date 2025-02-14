@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.wundertrading.android
 appCountry: 
-released: 2022-11-20
-updated: 2024-11-21
+released: '2022-11-20'
+updated: '2024-11-21'
 version: '1.1.6'
 stars: 3.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-08-08
+date: '2023-08-08'
 signer: 
 reviewArchive: 
 twitter: 

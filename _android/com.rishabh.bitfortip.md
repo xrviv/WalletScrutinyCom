@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.rishabh.bitfortip
 appCountry: us
-released: 2016-12-21
-updated: 2021-06-20
+released: '2016-12-21'
+updated: '2021-06-20'
 version: '2.6'
 stars: 4.5
 ratings: 77
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: bitfortip

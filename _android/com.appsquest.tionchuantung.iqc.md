@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.appsquest.tionchuantung.iqc
 appCountry: 
-released: 2018-06-01
-updated: 2019-01-04
+released: '2018-06-01'
+updated: '2019-01-04'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

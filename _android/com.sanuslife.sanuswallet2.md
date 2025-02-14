@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.sanuslife.sanuswallet2
 appCountry: 
-released: 2020-09-04
-updated: 2023-11-07
+released: '2020-09-04'
+updated: '2023-11-07'
 version: '2.1.17'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nosource
 appHashes: 
-date: 2024-11-04
+date: '2024-11-04'
 signer: 
 reviewArchive: 
 twitter: 

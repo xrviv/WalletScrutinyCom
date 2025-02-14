@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.investlite
 appCountry: 
-released: 2020-12-18
-updated: 2021-11-29
+released: '2020-12-18'
+updated: '2021-11-29'
 version: '1.5.78-investlite'
 stars: 3.1
 ratings: 182
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2022-01-31
+date: '2022-01-31'
 signer: 
 reviewArchive: 
 twitter: invest_lite

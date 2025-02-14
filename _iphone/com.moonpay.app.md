@@ -7,8 +7,8 @@ authors:
 appId: com.moonpay.app
 appCountry: us
 idd: '1635031432'
-released: 2023-04-17
-updated: 2025-02-12
+released: '2023-04-17'
+updated: '2025-02-12'
 version: '1.14.90'
 stars: 4.4
 reviews: 2821
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-07-18
+date: '2023-07-18'
 signer: 
 reviewArchive: 
 twitter: moonpay

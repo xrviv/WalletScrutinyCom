@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.wetoken2.app
 appCountry: 
-released: 2021-11-15
-updated: 2023-02-21
+released: '2021-11-15'
+updated: '2023-02-21'
 version: '1.8.4'
 stars: 3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: wetokenpro

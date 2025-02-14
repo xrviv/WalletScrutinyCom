@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: changella.changella
 appCountry: 
-released: 2022-06-08
-updated: 2023-08-20
+released: '2022-06-08'
+updated: '2023-08-20'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-11-29
+date: '2024-11-29'
 signer: 
 reviewArchive: 
 twitter: 

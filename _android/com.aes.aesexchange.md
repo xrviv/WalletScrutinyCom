@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.aes.aesexchange
 appCountry: 
-released: 2019-11-26
-updated: 2019-11-27
+released: '2019-11-26'
+updated: '2019-11-27'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

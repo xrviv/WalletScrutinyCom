@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: ivendpay.com
 appCountry: 
-released: 2023-01-26
-updated: 2023-11-10
+released: '2023-01-26'
+updated: '2023-11-10'
 version: '2.0.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-08-31
+date: '2024-08-31'
 signer: 
 reviewArchive: 
 twitter: ivendpay

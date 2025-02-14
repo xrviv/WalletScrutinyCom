@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.app.bitneuro
 appCountry: 
-released: 2021-07-01
-updated: 2021-09-11
+released: '2021-07-01'
+updated: '2021-09-11'
 version: '1.3.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

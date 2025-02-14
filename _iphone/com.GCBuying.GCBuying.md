@@ -7,8 +7,8 @@ authors:
 appId: com.GCBuying.GCBuying
 appCountry: ng
 idd: 1574175142
-released: 2021-06-30
-updated: 2024-09-22
+released: '2021-06-30'
+updated: '2024-09-22'
 version: '1.1.0'
 stars: 4
 reviews: 107
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-06-10
+date: '2023-06-10'
 signer: 
 reviewArchive: 
 twitter: gcbuying

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.aem.aemplus
 appCountry: 
-released: 2022-02-27
-updated: 2024-03-08
+released: '2022-02-27'
+updated: '2024-03-08'
 version: '1.0.14'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-12-04
+date: '2024-12-04'
 signer: 
 reviewArchive: 
 twitter: 

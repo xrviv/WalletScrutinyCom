@@ -7,7 +7,7 @@ users: 1
 appId: com.cryptoplatz.app
 appCountry: 
 released: 
-updated: 2022-10-05
+updated: '2022-10-05'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

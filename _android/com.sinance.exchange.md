@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.sinance.exchange
 appCountry: 
-released: 2021-01-07
-updated: 2022-07-06
+released: '2021-01-07'
+updated: '2022-07-06'
 version: '1.2.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: 

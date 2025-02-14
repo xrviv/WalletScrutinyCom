@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.yieldapp_mobile
 appCountry: 
-released: 2022-06-10
-updated: 2024-05-31
+released: '2022-06-10'
+updated: '2024-05-31'
 version: '24.0527'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-22
+date: '2024-07-22'
 signer: 
 reviewArchive: 
 twitter: yieldapp

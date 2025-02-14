@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.swipe.wallet
 appCountry: 
-released: 2019-09-13
-updated: 2021-05-13
+released: '2019-09-13'
+updated: '2021-05-13'
 version: '1.901'
 stars: 2.6
 ratings: 1599
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-07-06
+date: '2021-07-06'
 signer: 
 reviewArchive: 
 twitter: SwipeWallet

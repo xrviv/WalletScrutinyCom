@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.xpesa.trade
 appCountry: 
-released: 2018-08-31
-updated: 2020-09-04
+released: '2018-08-31'
+updated: '2020-09-04'
 version: '2.1.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-06-11
+date: '2023-06-11'
 signer: 
 reviewArchive: 
 twitter: 

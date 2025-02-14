@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.cryptosigma.finance
 appCountry: 
-released: 2021-07-26
-updated: 2022-06-30
+released: '2021-07-26'
+updated: '2022-06-30'
 version: '1.0.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

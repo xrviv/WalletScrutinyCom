@@ -7,8 +7,8 @@ authors:
 users: 50
 appId: com.jaxx.crypto.wallet
 appCountry: 
-released: 2021-10-11
-updated: 2021-10-12
+released: '2021-10-11'
+updated: '2021-10-12'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-10-30
+date: '2021-10-30'
 signer: 
 reviewArchive: 
 twitter: 

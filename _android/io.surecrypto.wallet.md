@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: io.surecrypto.wallet
 appCountry: 
-released: 2021-10-20
-updated: 2021-11-12
+released: '2021-10-20'
+updated: '2021-11-12'
 version: '2.2.0'
 stars: 4.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

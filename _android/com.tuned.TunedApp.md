@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.tuned.TunedApp
 appCountry: 
-released: 2021-09-02
-updated: 2022-08-08
+released: '2021-09-02'
+updated: '2022-08-08'
 version: '5.2.0'
 stars: 3.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: tuned_com

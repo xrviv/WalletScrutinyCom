@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.swissborg.android.community
 appCountry: ch
-released: 2019-03-27
-updated: 2022-01-10
+released: '2019-03-27'
+updated: '2022-01-10'
 version: '2.3.0'
 stars: 4.4
 ratings: 7001
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: cchallengesborg

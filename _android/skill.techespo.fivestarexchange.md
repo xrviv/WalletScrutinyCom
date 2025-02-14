@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: skill.techespo.fivestarexchange
 appCountry: 
-released: 2020-08-26
-updated: 2020-08-27
+released: '2020-08-26'
+updated: '2020-08-27'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: 

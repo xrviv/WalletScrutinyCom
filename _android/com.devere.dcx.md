@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.devere.dcx
 appCountry: 
-released: 2018-01-29
-updated: 2023-04-20
+released: '2018-01-29'
+updated: '2023-04-20'
 version: '4.4.0'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2025-01-15
+date: '2025-01-15'
 signer: 
 reviewArchive: 
 twitter: deveregroup

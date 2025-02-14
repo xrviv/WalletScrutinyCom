@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.bitcointest.h5
 appCountry: 
-released: 2021-09-03
-updated: 2021-09-03
+released: '2021-09-03'
+updated: '2021-09-03'
 version: '5.5'
 stars: 5
 ratings: 1009
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2022-04-25
+date: '2022-04-25'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: app.exchange.savita
 appCountry: 
-released: 2023-01-05
-updated: 2024-06-21
+released: '2023-01-05'
+updated: '2024-06-21'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-08-15
+date: '2023-08-15'
 signer: 
 reviewArchive: 
 twitter: 

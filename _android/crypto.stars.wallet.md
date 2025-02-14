@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: crypto.stars.wallet
 appCountry: 
-released: 2018-10-11
-updated: 2018-10-11
+released: '2018-10-11'
+updated: '2018-10-11'
 version: '0.42.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-06-12
+date: '2023-06-12'
 signer: 
 reviewArchive: 
 twitter: 

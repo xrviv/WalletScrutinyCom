@@ -7,8 +7,8 @@ authors:
 users: 100
 appId: com.newapp.mycoinpaga
 appCountry: 
-released: 2020-11-29
-updated: 2020-12-07
+released: '2020-11-29'
+updated: '2020-12-07'
 version: '1.11'
 stars: 4
 ratings: 8
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-08-13
+date: '2021-08-13'
 signer: 
 reviewArchive: 
 twitter: 

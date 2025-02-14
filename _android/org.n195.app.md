@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: org.n195.app
 appCountry: 
-released: 2019-07-01
-updated: 2019-07-01
+released: '2019-07-01'
+updated: '2019-07-01'
 version: '1.0.1'
 stars: 4.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: 

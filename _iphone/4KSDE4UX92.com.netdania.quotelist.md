@@ -7,8 +7,8 @@ authors:
 appId: 4KSDE4UX92.com.netdania.quotelist
 appCountry: us
 idd: 446371774
-released: 2011-07-01
-updated: 2024-12-13
+released: '2011-07-01'
+updated: '2024-12-13'
 version: '4.10.10'
 stars: 4.7
 reviews: 13431
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-10-10
+date: '2021-10-10'
 signer: 
 reviewArchive: 
 twitter: 

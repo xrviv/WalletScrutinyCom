@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.allcoinwallet.allcoinwallet
 appCountry: 
-released: 2019-01-28
-updated: 2019-11-22
+released: '2019-01-28'
+updated: '2019-11-22'
 version: '1.2.22'
 stars: 4.3
 ratings: 105
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2021-08-09
+date: '2021-08-09'
 signer: 
 reviewArchive: 
 twitter: 

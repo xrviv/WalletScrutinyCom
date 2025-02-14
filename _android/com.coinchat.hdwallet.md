@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.coinchat.hdwallet
 appCountry: 
-released: 2018-10-14
-updated: 2018-10-15
+released: '2018-10-14'
+updated: '2018-10-15'
 version: '0.9'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

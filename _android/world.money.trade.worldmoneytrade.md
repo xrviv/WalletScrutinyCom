@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: world.money.trade.worldmoneytrade
 appCountry: 
-released: 2020-07-24
-updated: 2020-08-04
+released: '2020-07-24'
+updated: '2020-08-04'
 version: '2.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-18
+date: '2023-04-18'
 signer: 
 reviewArchive: 
 twitter: 

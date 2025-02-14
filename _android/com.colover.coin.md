@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.colover.coin
 appCountry: 
-released: 2018-09-18
-updated: 2019-03-11
+released: '2018-09-18'
+updated: '2019-03-11'
 version: '1.13.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-04-21
+date: '2023-04-21'
 signer: 
 reviewArchive: 
 twitter: 

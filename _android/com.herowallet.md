@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.herowallet
 appCountry: 
-released: 2022-11-23
-updated: 2023-02-24
+released: '2022-11-23'
+updated: '2023-02-24'
 version: '1.1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-11-29
+date: '2024-11-29'
 signer: 
 reviewArchive: 
 twitter: 

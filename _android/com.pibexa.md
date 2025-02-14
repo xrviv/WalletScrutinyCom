@@ -7,7 +7,7 @@ users: 100
 appId: com.pibexa
 appCountry: 
 released: 
-updated: 2020-08-26
+updated: '2020-08-26'
 version: '0.6.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

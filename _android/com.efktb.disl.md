@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.efktb.disl
 appCountry: 
-released: 2022-04-28
-updated: 2022-04-28
+released: '2022-04-28'
+updated: '2022-04-28'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

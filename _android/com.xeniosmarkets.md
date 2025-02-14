@@ -7,7 +7,7 @@ users: 50
 appId: com.xeniosmarkets
 appCountry: 
 released: 
-updated: 2022-01-24
+updated: '2022-01-24'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

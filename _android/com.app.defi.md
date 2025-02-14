@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.app.defi
 appCountry: 
-released: 2022-01-23
-updated: 2022-11-25
+released: '2022-01-23'
+updated: '2022-11-25'
 version: '1.11.25'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-09-16
+date: '2024-09-16'
 signer: 
 reviewArchive: 
 twitter: 

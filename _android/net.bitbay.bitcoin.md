@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: net.bitbay.bitcoin
 appCountry: 
-released: 2018-11-19
-updated: 2025-01-31
+released: '2018-11-19'
+updated: '2025-01-31'
 version: '1.1.46'
 stars: 3
 ratings: 1131
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-05-25
+date: '2021-05-25'
 signer: 
 reviewArchive: 
 twitter: BitBay

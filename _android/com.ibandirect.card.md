@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.ibandirect.card
 appCountry: sg
-released: 2020-11-08
-updated: 2024-10-06
+released: '2020-11-08'
+updated: '2024-10-06'
 version: '1.9.2'
 stars: 3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-08-31
+date: '2024-08-31'
 signer: 
 reviewArchive: 
 twitter: 

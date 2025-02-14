@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.hots.quantity
 appCountry: 
-released: 2022-06-15
-updated: 2024-04-02
+released: '2022-06-15'
+updated: '2024-04-02'
 version: '3.20.1'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: hotscoin

@@ -7,8 +7,8 @@ authors:
 appId: com.bisonapp.bison
 appCountry: lv
 idd: '1362518159'
-released: 2020-01-09
-updated: 2025-02-11
+released: '2020-01-09'
+updated: '2025-02-11'
 version: '4.6.0'
 stars: 5
 reviews: 2
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-09-05
+date: '2024-09-05'
 signer: 
 reviewArchive: 
 twitter: bisonapp

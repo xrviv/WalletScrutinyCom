@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: co.tradehall.app.tradehall
 appCountry: 
-released: 2022-08-02
-updated: 2023-03-02
+released: '2022-08-02'
+updated: '2023-03-02'
 version: '1.0.14'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-11-12
+date: '2024-11-12'
 signer: 
 reviewArchive: 
 twitter: 

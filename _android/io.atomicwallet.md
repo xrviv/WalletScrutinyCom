@@ -8,8 +8,8 @@ authors:
 users: 1000000
 appId: io.atomicwallet
 appCountry: 
-released: 2019-01-30
-updated: 2024-12-11
+released: '2019-01-30'
+updated: '2024-12-11'
 version: '1.34.4'
 stars: 4.4
 ratings: 62655
@@ -23,10 +23,10 @@ bugbounty:
 meta: ok
 verdict: obfuscated
 appHashes: []
-date: 2024-07-13
+date: '2024-07-13'
 signer: 
 reviewArchive:
-- date: 2020-10-12
+- date: '2020-10-12'
   version: '0.72.1'
   appHashes: []
   gitRevision: d83253e829502835962be71b96dd37287dc87f5c

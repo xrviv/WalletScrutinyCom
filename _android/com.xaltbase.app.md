@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.xaltbase.app
 appCountry: us
-released: 2021-05-31
-updated: 2021-11-18
+released: '2021-05-31'
+updated: '2021-11-18'
 version: '3.0.5'
 stars: 3
 ratings: 3579
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2022-01-31
+date: '2022-01-31'
 signer: 
 reviewArchive: 
 twitter: 100XCoin_

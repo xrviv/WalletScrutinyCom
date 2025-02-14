@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.sagiam.dynewallet
 appCountry: 
-released: 2021-01-12
-updated: 2021-01-12
+released: '2021-01-12'
+updated: '2021-01-12'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: 

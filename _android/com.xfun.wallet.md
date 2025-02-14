@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.xfun.wallet
 appCountry: 
-released: 2022-02-08
-updated: 2024-04-24
+released: '2022-02-08'
+updated: '2024-04-24'
 version: '2.0.4'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-22
+date: '2024-07-22'
 signer: 
 reviewArchive: 
 twitter: FUNtoken_io

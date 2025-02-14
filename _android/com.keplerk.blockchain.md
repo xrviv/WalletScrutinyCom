@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.keplerk.blockchain
 appCountry: 
-released: 2020-02-14
-updated: 2022-06-21
+released: '2020-02-14'
+updated: '2022-06-21'
 version: '3.5.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-04-16
+date: '2023-04-16'
 signer: 
 reviewArchive: 
 twitter: BykepFR

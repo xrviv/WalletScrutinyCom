@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.creativeoffice.ripcoin
 appCountry: 
-released: 2021-02-25
-updated: 2025-02-05
+released: '2021-02-25'
+updated: '2025-02-05'
 version: '33200'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-02-08
+date: '2023-02-08'
 signer: 
 reviewArchive: 
 twitter: 

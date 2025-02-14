@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.ufund.app
 appCountry: 
-released: 2021-10-21
-updated: 2024-04-22
+released: '2021-10-21'
+updated: '2024-04-22'
 version: '1.1.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-12-15
+date: '2024-12-15'
 signer: 
 reviewArchive: 
 twitter: UFUND1

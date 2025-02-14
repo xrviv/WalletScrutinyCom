@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.app.alcoin4naira
 appCountry: 
-released: 2022-04-04
-updated: 2022-04-04
+released: '2022-04-04'
+updated: '2022-04-04'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-05-30
+date: '2023-05-30'
 signer: 
 reviewArchive: 
 twitter: 

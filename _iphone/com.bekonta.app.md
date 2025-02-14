@@ -7,8 +7,8 @@ authors:
 appId: com.bekonta.app
 appCountry: us
 idd: 1479400295
-released: 2021-09-15
-updated: 2021-09-16
+released: '2021-09-15'
+updated: '2021-09-16'
 version: '1.0.0'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.brick.wallet
 appCountry: 
-released: 2019-11-26
-updated: 2020-08-19
+released: '2019-11-26'
+updated: '2020-08-19'
 version: '2.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

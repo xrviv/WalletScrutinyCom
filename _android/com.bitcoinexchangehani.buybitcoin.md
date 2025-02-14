@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.bitcoinexchangehani.buybitcoin
 appCountry: 
-released: 2018-01-25
-updated: 2018-01-26
+released: '2018-01-25'
+updated: '2018-01-26'
 version: '2.2.2'
 stars: 4.3
 ratings: 6
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2021-11-10
+date: '2021-11-10'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.atari
 appCountry: 
-released: 2021-07-11
-updated: 2021-11-13
+released: '2021-07-11'
+updated: '2021-11-13'
 version: '2.08.01'
 stars: 2.2
 ratings: 183
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2022-03-24
+date: '2022-03-24'
 signer: 
 reviewArchive: 
 twitter: 

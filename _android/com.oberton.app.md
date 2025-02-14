@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.oberton.app
 appCountry: 
-released: 2021-09-15
-updated: 2024-07-19
+released: '2021-09-15'
+updated: '2024-07-19'
 version: '2.15.9'
 stars: 4.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-09-06
+date: '2024-09-06'
 signer: 
 reviewArchive: 
 twitter: EverspaceWallet

@@ -7,7 +7,7 @@ users: 1000
 appId: quantit.saiv.rabit
 appCountry: 
 released: 
-updated: 2023-02-13
+updated: '2023-02-13'
 version: '1.2.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

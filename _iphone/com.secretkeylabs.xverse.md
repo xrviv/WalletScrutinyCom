@@ -7,8 +7,8 @@ authors:
 appId: com.secretkeylabs.xverse
 appCountry: gt
 idd: 1552272513
-released: 2021-10-15
-updated: 2025-02-03
+released: '2021-10-15'
+updated: '2025-02-03'
 version: 'v1.43.0'
 stars: 5
 reviews: 1
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2022-01-13
+date: '2022-01-13'
 signer: 
 reviewArchive: 
 twitter: secretkeylabs

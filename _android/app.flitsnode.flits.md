@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: app.flitsnode.flits
 appCountry: 
-released: 2019-04-05
-updated: 2021-02-09
+released: '2019-04-05'
+updated: '2021-02-09'
 version: '4.4'
 stars: 4.4
 ratings: 2089
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: FlitsNode

@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: org.bixter.twa
 appCountry: 
-released: 2020-12-19
-updated: 2020-12-07
+released: '2020-12-19'
+updated: '2020-12-07'
 version: '1'
 stars: 4.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2025-01-09
+date: '2025-01-09'
 signer: 
 reviewArchive: 
 twitter: 

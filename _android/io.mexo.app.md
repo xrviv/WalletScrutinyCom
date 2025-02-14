@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: io.mexo.app
 appCountry: us
-released: 2020-08-30
-updated: 2025-01-27
+released: '2020-08-30'
+updated: '2025-01-27'
 version: '3.6.11'
 stars: 3.2
 ratings: 401
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-04
+date: '2021-10-04'
 signer: 
 reviewArchive: 
 twitter: mexo_io

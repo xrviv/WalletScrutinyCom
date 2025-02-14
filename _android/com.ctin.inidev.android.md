@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.ctin.inidev.android
 appCountry: 
-released: 2021-05-22
-updated: 2021-06-04
+released: '2021-05-22'
+updated: '2021-06-04'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-11-12
+date: '2024-11-12'
 signer: 
 reviewArchive: 
 twitter: 

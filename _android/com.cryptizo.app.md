@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.cryptizo.app
 appCountry: 
-released: 2022-02-20
-updated: 2022-06-07
+released: '2022-02-20'
+updated: '2022-06-07'
 version: '1.0.3'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

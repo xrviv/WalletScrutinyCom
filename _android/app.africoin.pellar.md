@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: app.africoin.pellar
 appCountry: 
-released: 2020-09-30
-updated: 2020-12-16
+released: '2020-09-30'
+updated: '2020-12-16'
 version: '1.8.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

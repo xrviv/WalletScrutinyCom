@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: net.chiliz.broker.android
 appCountry: 
-released: 2020-01-22
-updated: 2023-12-14
+released: '2020-01-22'
+updated: '2023-12-14'
 version: '5.12.1'
 stars: 3.6
 ratings: 771
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2022-04-25
+date: '2022-04-25'
 signer: 
 reviewArchive: 
 twitter: chiliz

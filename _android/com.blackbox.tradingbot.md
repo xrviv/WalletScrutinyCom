@@ -7,7 +7,7 @@ users: 1000
 appId: com.blackbox.tradingbot
 appCountry: 
 released: 
-updated: 2019-09-11
+updated: '2019-09-11'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

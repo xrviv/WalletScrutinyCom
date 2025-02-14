@@ -8,8 +8,8 @@ authors:
 users: 5000
 appId: com.bixin.wallet.mainnet
 appCountry: us
-released: 2020-09-16
-updated: 2022-02-15
+released: '2020-09-16'
+updated: '2022-02-15'
 version: '2.12.3'
 stars: 4.7
 ratings: 315
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: OneKeyHQ

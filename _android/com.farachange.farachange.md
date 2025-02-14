@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.farachange.farachange
 appCountry: 
-released: 2021-12-24
-updated: 2022-11-23
+released: '2021-12-24'
+updated: '2022-11-23'
 version: '1.1.20'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-11-13
+date: '2024-11-13'
 signer: 
 reviewArchive: 
 twitter: 

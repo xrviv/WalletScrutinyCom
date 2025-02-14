@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.cryptouniverse.app
 appCountry: 
-released: 2020-07-03
-updated: 2020-07-03
+released: '2020-07-03'
+updated: '2020-07-03'
 version: '1.0.0'
 stars: 2
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

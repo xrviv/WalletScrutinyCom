@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.p2exchange.ph
 appCountry: 
-released: 2022-05-16
-updated: 2022-05-30
+released: '2022-05-16'
+updated: '2022-05-30'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-09-21
+date: '2024-09-21'
 signer: 
 reviewArchive: 
 twitter: 

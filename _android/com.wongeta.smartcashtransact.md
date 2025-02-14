@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.wongeta.smartcashtransact
 appCountry: 
-released: 2018-12-31
-updated: 2025-01-26
+released: '2018-12-31'
+updated: '2025-01-26'
 version: '194'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-06-10
+date: '2023-06-10'
 signer: 
 reviewArchive: 
 twitter: mysmartcasht

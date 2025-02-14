@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: io.vesto.app
 appCountry: 
-released: 2022-06-01
-updated: 2022-06-01
+released: '2022-06-01'
+updated: '2022-06-01'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-09-26
+date: '2024-09-26'
 signer: 
 reviewArchive: 
 twitter: vestoprotocol

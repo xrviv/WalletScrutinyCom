@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.ixwallet.app
 appCountry: 
-released: 2021-01-15
-updated: 2024-03-15
+released: '2021-01-15'
+updated: '2024-03-15'
 version: '0.0.108 (5683)'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-12-08
+date: '2024-12-08'
 signer: 
 reviewArchive: 
 twitter: 

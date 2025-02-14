@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.biswap.mobile
 appCountry: 
-released: 2022-07-22
-updated: 2023-07-18
+released: '2022-07-22'
+updated: '2023-07-18'
 version: '1.0.13'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nosource
 appHashes: 
-date: 2024-07-14
+date: '2024-07-14'
 signer: 
 reviewArchive: 
 twitter: exchangilydex

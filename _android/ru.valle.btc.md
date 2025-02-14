@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: ru.valle.btc
 appCountry: 
-released: 2013-04-19
-updated: 2023-12-01
+released: '2013-04-19'
+updated: '2023-12-01'
 version: 'VARY'
 stars: 4.4
 ratings: 163
@@ -22,10 +22,10 @@ bugbounty:
 meta: removed
 verdict: ftbfs
 appHashes: []
-date: 2024-02-05
+date: '2024-02-05'
 signer: ee22ff921a6fbff122b609d21f56061c2e8b5c4fcaaf388be2549c0c1083c00f
 reviewArchive:
-- date: 2020-08-04
+- date: '2020-08-04'
   version: 'Varies with device'
   appHashes: []
   gitRevision: d7cf0c0967057bb9f06fb8ec6cbf1097fe1da885

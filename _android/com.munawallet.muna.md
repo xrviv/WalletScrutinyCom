@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.munawallet.muna
 appCountry: 
-released: 2021-03-28
-updated: 2023-11-03
+released: '2021-03-28'
+updated: '2023-11-03'
 version: '3.0.0'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: munawallet

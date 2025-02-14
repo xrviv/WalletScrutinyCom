@@ -7,8 +7,8 @@ authors:
 appId: com.bitpay.coincloud
 appCountry: 
 idd: 1421460676
-released: 2018-09-09
-updated: 2022-02-16
+released: '2018-09-09'
+updated: '2022-02-16'
 version: '1.9.6'
 stars: 4
 reviews: 162
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-08-29
+date: '2023-08-29'
 signer: 
 reviewArchive: 
 twitter: CoinCloudATM

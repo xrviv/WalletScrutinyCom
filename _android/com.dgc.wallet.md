@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.dgc.wallet
 appCountry: 
-released: 2021-07-25
-updated: 2021-07-25
+released: '2021-07-25'
+updated: '2021-07-25'
 version: '0.21.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

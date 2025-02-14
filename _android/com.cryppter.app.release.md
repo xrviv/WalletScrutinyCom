@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.cryppter.app.release
 appCountry: 
-released: 2020-05-21
-updated: 2023-02-06
+released: '2020-05-21'
+updated: '2023-02-06'
 version: '0.0.145 (7755)'
 stars: 5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nosource
 appHashes: 
-date: 2025-01-27
+date: '2025-01-27'
 signer: 
 reviewArchive: 
 twitter: 

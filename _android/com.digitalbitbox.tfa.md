@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.digitalbitbox.tfa
 appCountry: 
-released: 2016-01-24
-updated: 2019-10-17
+released: '2016-01-24'
+updated: '2019-10-17'
 version: '3.0.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nowallet
 appHashes: 
-date: 2023-05-23
+date: '2023-05-23'
 signer: 
 reviewArchive: 
 twitter: 

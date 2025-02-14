@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.exchange.digicoins.cc
 appCountry: 
-released: 2021-12-06
-updated: 2023-03-27
+released: '2021-12-06'
+updated: '2023-03-27'
 version: '3.5.43'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-10-16
+date: '2023-10-16'
 signer: 
 reviewArchive: 
 twitter: 

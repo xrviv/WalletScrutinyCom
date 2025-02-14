@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.gene.wallet
 appCountry: 
-released: 2018-03-06
-updated: 2019-02-08
+released: '2018-03-06'
+updated: '2019-02-08'
 version: '1.4.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: PARKGENE1

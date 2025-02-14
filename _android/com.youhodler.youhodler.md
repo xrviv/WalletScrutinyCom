@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.youhodler.youhodler
 appCountry: 
-released: 2019-07-11
-updated: 2025-02-10
+released: '2019-07-11'
+updated: '2025-02-10'
 version: '7.7.0'
 stars: 3.5
 ratings: 5083
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2020-06-20
+date: '2020-06-20'
 signer: 
 reviewArchive: 
 twitter: youhodler

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.mypaytrilversion2.mypaytrilversion2
 appCountry: 
-released: 2021-10-25
-updated: 2021-10-25
+released: '2021-10-25'
+updated: '2021-10-25'
 version: '2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

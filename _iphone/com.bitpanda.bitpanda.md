@@ -7,8 +7,8 @@ authors:
 appId: com.bitpanda.bitpanda
 appCountry: at
 idd: '1449018960'
-released: 2019-11-29
-updated: 2025-02-12
+released: '2019-11-29'
+updated: '2025-02-12'
 version: '2.93.0'
 stars: 4.7
 reviews: 21073
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-29
+date: '2023-07-29'
 signer: 
 reviewArchive: 
 twitter: Bitpanda_global

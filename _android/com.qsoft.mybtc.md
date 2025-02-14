@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.qsoft.mybtc
 appCountry: 
-released: 2021-06-05
-updated: 2021-06-05
+released: '2021-06-05'
+updated: '2021-06-05'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: btc_nigeria

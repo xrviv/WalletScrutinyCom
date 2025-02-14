@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: app.bitcoininvestmenthub.com
 appCountry: 
-released: 2020-05-04
-updated: 2020-05-04
+released: '2020-05-04'
+updated: '2020-05-04'
 version: '1.0.0'
 stars: 3.3
 ratings: 70
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-04-19
+date: '2023-04-19'
 signer: 
 reviewArchive: 
 twitter: 

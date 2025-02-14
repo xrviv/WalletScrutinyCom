@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.flare
 appCountry: 
-released: 2020-02-22
-updated: 2021-03-13
+released: '2020-02-22'
+updated: '2021-03-13'
 version: '1.4.0'
 stars: 3.7
 ratings: 233
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: flarewallet

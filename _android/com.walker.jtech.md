@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.walker.jtech
 appCountry: 
-released: 2021-09-26
-updated: 2024-11-19
+released: '2021-09-26'
+updated: '2024-11-19'
 version: '2.2.6'
 stars: 3.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-04-19
+date: '2023-04-19'
 signer: 
 reviewArchive: 
 twitter: 

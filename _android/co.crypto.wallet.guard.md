@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: co.crypto.wallet.guard
 appCountry: 
-released: 2021-05-07
-updated: 2021-05-07
+released: '2021-05-07'
+updated: '2021-05-07'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

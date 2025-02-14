@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.copytrade.com
 appCountry: 
-released: 2021-09-14
-updated: 2021-08-24
+released: '2021-09-14'
+updated: '2021-08-24'
 version: '1.5.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.huione.crypto
 appCountry: 
-released: 2022-05-30
-updated: 2024-05-16
+released: '2022-05-30'
+updated: '2024-05-16'
 version: '2.3.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-08-13
+date: '2024-08-13'
 signer: 
 reviewArchive: 
 twitter: 

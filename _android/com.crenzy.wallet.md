@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.crenzy.wallet
 appCountry: 
-released: 2020-04-25
-updated: 2020-05-14
+released: '2020-04-25'
+updated: '2020-05-14'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

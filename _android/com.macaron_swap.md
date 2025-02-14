@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.macaron_swap
 appCountry: 
-released: 2022-04-14
-updated: 2023-05-03
+released: '2022-04-14'
+updated: '2023-05-03'
 version: '1.6.8'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: 

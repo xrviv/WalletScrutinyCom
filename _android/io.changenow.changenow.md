@@ -8,8 +8,8 @@ authors:
 users: 100000
 appId: io.changenow.changenow
 appCountry: 
-released: 2018-09-07
-updated: 2025-02-07
+released: '2018-09-07'
+updated: '2025-02-07'
 version: '1.155.28'
 stars: 4.8
 ratings: 2199
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-13
+date: '2024-07-13'
 signer: 
 reviewArchive: 
 twitter: ChangeNOW_io

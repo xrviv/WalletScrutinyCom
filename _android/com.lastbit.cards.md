@@ -7,7 +7,7 @@ users: 500
 appId: com.lastbit.cards
 appCountry: 
 released: 
-updated: 2021-08-28
+updated: '2021-08-28'
 version: 'Varies with device'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-09-18
+date: '2021-09-18'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 appId: com.hashkey.me
 appCountry: us
 idd: '1547228803'
-released: 2021-02-04
-updated: 2023-07-11
+released: '2021-02-04'
+updated: '2023-07-11'
 version: '4.1.0'
 stars: 4.6
 reviews: 9
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: hashkey_me

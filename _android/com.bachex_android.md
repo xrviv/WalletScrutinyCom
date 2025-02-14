@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.bachex_android
 appCountry: 
-released: 2021-03-28
-updated: 2021-06-25
+released: '2021-03-28'
+updated: '2021-06-25'
 version: '1.2.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

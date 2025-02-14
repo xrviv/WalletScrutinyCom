@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.mykobo
 appCountry: 
-released: 2020-10-29
-updated: 2023-07-04
+released: '2020-10-29'
+updated: '2023-07-04'
 version: '2.0.15'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-11-07
+date: '2024-11-07'
 signer: 
 reviewArchive: 
 twitter: 

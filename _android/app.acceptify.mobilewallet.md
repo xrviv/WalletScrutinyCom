@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: app.acceptify.mobilewallet
 appCountry: 
-released: 2021-02-17
-updated: 2021-03-11
+released: '2021-02-17'
+updated: '2021-03-11'
 version: '0.0.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

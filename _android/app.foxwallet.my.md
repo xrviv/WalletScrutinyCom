@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: app.foxwallet.my
 appCountry: 
-released: 2022-04-10
-updated: 2022-09-05
+released: '2022-04-10'
+updated: '2022-09-05'
 version: '1.29'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

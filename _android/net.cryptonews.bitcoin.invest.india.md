@@ -6,8 +6,8 @@ authors:
 users: 0
 appId: net.cryptonews.bitcoin.invest.india
 appCountry: 
-released: 2021-06-23
-updated: 2021-06-23
+released: '2021-06-23'
+updated: '2021-06-23'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: 

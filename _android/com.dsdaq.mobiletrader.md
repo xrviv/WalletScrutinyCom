@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.dsdaq.mobiletrader
 appCountry: us
-released: 2019-12-24
-updated: 2022-01-20
+released: '2019-12-24'
+updated: '2022-01-20'
 version: '3.0.4'
 stars: 4.8
 ratings: 510
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: dsdaqcom

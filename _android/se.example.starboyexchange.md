@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: se.example.starboyexchange
 appCountry: 
-released: 2022-01-10
-updated: 2022-01-31
+released: '2022-01-10'
+updated: '2022-01-31'
 version: '7.0.0'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

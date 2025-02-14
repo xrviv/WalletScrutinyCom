@@ -7,8 +7,8 @@ authors:
 appId: com.bybit.app
 appCountry: 
 idd: 1488296980
-released: 2020-01-06
-updated: 2025-01-26
+released: '2020-01-06'
+updated: '2025-01-26'
 version: '4.58.0'
 stars: 4.7
 reviews: 37296
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-02-09
+date: '2021-02-09'
 signer: 
 reviewArchive: 
 twitter: Bybit_Official

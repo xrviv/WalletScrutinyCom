@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.btcboxpro.exchange
 appCountry: 
-released: 2020-05-06
-updated: 2020-07-21
+released: '2020-05-06'
+updated: '2020-07-21'
 version: '1.0.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bitexuae
 appCountry: ae
-released: 2020-02-23
-updated: 2022-02-12
+released: '2020-02-23'
+updated: '2022-02-12'
 version: '3.1'
 stars: 1.7
 ratings: 128
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-04-25
+date: '2022-04-25'
 signer: 
 reviewArchive: 
 twitter: bitexexch

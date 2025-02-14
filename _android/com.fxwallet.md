@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.fxwallet
 appCountry: 
-released: 2021-03-26
-updated: 2021-09-30
+released: '2021-03-26'
+updated: '2021-09-30'
 version: '5.0'
 stars: 2.6
 ratings: 523
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-02-16
+date: '2022-02-16'
 signer: 
 reviewArchive: 
 twitter: fxwallet

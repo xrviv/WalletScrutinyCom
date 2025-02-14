@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.arhamtechnolabs.shreelox
 appCountry: 
-released: 2022-05-19
-updated: 2022-05-19
+released: '2022-05-19'
+updated: '2022-05-19'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-11-29
+date: '2024-11-29'
 signer: 
 reviewArchive: 
 twitter: 

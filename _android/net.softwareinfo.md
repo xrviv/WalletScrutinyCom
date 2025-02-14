@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: net.softwareinfo
 appCountry: 
-released: 2020-11-09
-updated: 2023-08-27
+released: '2020-11-09'
+updated: '2023-08-27'
 version: '1.3'
 stars: 2.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-11-07
+date: '2024-11-07'
 signer: 
 reviewArchive: 
 twitter: 

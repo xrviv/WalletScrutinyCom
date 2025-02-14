@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.trycircleapp.wallets
 appCountry: us
-released: 2020-12-29
-updated: 2021-12-10
+released: '2020-12-29'
+updated: '2021-12-10'
 version: '7.0'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

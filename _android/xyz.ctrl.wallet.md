@@ -6,8 +6,8 @@ authors:
 users: 5000
 appId: xyz.ctrl.wallet
 appCountry: 
-released: 2024-11-29
-updated: 2024-12-17
+released: '2024-11-29'
+updated: '2024-12-17'
 version: '1.0.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: wip
 appHashes: 
-date: 2024-09-24
+date: '2024-09-24'
 signer: 
 reviewArchive: 
 twitter: 

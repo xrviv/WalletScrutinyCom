@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: infii.app.ionewallet
 appCountry: 
-released: 2020-03-12
-updated: 2020-05-12
+released: '2020-03-12'
+updated: '2020-05-12'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-10-08
+date: '2024-10-08'
 signer: 
 reviewArchive: 
 twitter: 

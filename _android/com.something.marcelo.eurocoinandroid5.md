@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.something.marcelo.eurocoinandroid5
 appCountry: 
-released: 2018-11-17
-updated: 2025-02-01
+released: '2018-11-17'
+updated: '2025-02-01'
 version: '39.7'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-06-29
+date: '2023-06-29'
 signer: 
 reviewArchive: 
 twitter: eurocoinpay

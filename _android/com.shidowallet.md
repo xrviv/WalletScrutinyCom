@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.shidowallet
 appCountry: 
-released: 2022-09-30
-updated: 2023-07-28
+released: '2022-09-30'
+updated: '2023-07-28'
 version: '1.8'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: ShidoGlobal

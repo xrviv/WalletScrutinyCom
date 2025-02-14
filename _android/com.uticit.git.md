@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.uticit.git
 appCountry: 
-released: 2021-10-22
-updated: 2021-12-01
+released: '2021-10-22'
+updated: '2021-12-01'
 version: '1.0.9'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

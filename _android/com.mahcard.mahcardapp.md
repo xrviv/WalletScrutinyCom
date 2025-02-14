@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.mahcard.mahcardapp
 appCountry: 
-released: 2019-10-05
-updated: 2019-10-06
+released: '2019-10-05'
+updated: '2019-10-06'
 version: '2.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

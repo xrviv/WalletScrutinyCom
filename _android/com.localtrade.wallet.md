@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.localtrade.wallet
 appCountry: 
-released: 2022-05-18
-updated: 2022-06-29
+released: '2022-05-18'
+updated: '2022-06-29'
 version: '1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

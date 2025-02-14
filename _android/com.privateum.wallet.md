@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.privateum.wallet
 appCountry: 
-released: 2021-12-14
-updated: 2023-02-28
+released: '2021-12-14'
+updated: '2023-02-28'
 version: '2.0.22'
 stars: 5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: privateumglobal

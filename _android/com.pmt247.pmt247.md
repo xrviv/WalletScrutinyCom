@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.pmt247.pmt247
 appCountry: 
-released: 2019-10-02
-updated: 2019-10-02
+released: '2019-10-02'
+updated: '2019-10-02'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

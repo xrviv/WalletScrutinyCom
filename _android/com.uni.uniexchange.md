@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.uni.uniexchange
 appCountry: 
-released: 2018-06-06
-updated: 2019-02-14
+released: '2018-06-06'
+updated: '2019-02-14'
 version: '5.3.5'
 stars: 3.9
 ratings: 11
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-10-30
+date: '2021-10-30'
 signer: 
 reviewArchive: 
 twitter: 

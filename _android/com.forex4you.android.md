@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.forex4you.android
 appCountry: th
-released: 2015-10-06
-updated: 2025-02-11
+released: '2015-10-06'
+updated: '2025-02-11'
 version: '6.7.0'
 stars: 4.6
 ratings: 2457
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2021-11-01
+date: '2021-11-01'
 signer: 
 reviewArchive: 
 twitter: 

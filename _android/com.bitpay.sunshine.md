@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.bitpay.sunshine
 appCountry: 
-released: 2017-08-12
-updated: 2017-08-18
+released: '2017-08-12'
+updated: '2017-08-18'
 version: '3.7.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

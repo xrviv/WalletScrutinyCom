@@ -8,7 +8,7 @@ users: 10000
 appId: com.tocce.vst
 appCountry: 
 released: 
-updated: 2023-01-04
+updated: '2023-01-04'
 version: '1.3.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-04-12
+date: '2023-04-12'
 signer: 
 reviewArchive: 
 twitter: VSTMEX

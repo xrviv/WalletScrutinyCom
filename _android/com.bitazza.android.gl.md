@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.bitazza.android.gl
 appCountry: 
-released: 2022-03-01
-updated: 2025-02-06
+released: '2022-03-01'
+updated: '2025-02-06'
 version: '4.2.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-03-09
+date: '2023-03-09'
 signer: 
 reviewArchive: 
 twitter: BitazzaGlobal

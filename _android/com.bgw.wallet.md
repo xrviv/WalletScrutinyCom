@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.bgw.wallet
 appCountry: 
-released: 2022-07-14
-updated: 2024-06-07
+released: '2022-07-14'
+updated: '2024-06-07'
 version: '0.3.7'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-09-16
+date: '2024-09-16'
 signer: 
 reviewArchive: 
 twitter: BG_Wallet

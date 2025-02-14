@@ -7,8 +7,8 @@ authors:
 appId: com.remitano.remitano
 appCountry: za
 idd: 1116327021
-released: 2016-05-28
-updated: 2025-02-12
+released: '2016-05-28'
+updated: '2025-02-12'
 version: '6.122.0'
 stars: 4.8
 reviews: 374
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-10-07
+date: '2024-10-07'
 signer: 
 reviewArchive: 
 twitter: remitano

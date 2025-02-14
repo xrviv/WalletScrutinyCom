@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.gcox.wallet
 appCountry: 
-released: 2018-11-05
-updated: 2020-10-29
+released: '2018-11-05'
+updated: '2020-10-29'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-25
+date: '2023-05-25'
 signer: 
 reviewArchive: 
 twitter: 

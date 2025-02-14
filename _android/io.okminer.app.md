@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.okminer.app
 appCountry: 
-released: 2021-06-27
-updated: 2021-10-13
+released: '2021-06-27'
+updated: '2021-10-13'
 version: '1.2.8'
 stars: 4.5
 ratings: 534
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-02
+date: '2021-11-02'
 signer: 
 reviewArchive: 
 twitter: 

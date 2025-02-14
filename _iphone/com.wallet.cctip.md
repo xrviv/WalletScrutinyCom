@@ -7,8 +7,8 @@ authors:
 appId: com.wallet.cctip
 appCountry: ca
 idd: '1576466746'
-released: 2021-09-22
-updated: 2022-12-24
+released: '2021-09-22'
+updated: '2022-12-24'
 version: '2.3.3'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-30
+date: '2023-01-30'
 signer: 
 reviewArchive: 
 twitter: cctip_com

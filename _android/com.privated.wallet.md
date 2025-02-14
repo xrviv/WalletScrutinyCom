@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.privated.wallet
 appCountry: 
-released: 2023-01-27
-updated: 2023-04-15
+released: '2023-01-27'
+updated: '2023-04-15'
 version: '1.1'
 stars: 4.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.neurogine.taurus
 appCountry: 
-released: 2021-09-27
-updated: 2022-04-27
+released: '2021-09-27'
+updated: '2022-04-27'
 version: '1.0.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

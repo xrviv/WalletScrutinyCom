@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.stasis.stasiswallet
 appCountry: 
-released: 2018-06-13
-updated: 2024-01-19
+released: '2018-06-13'
+updated: '2024-01-19'
 version: '1.15.0'
 stars: 3.3
 ratings: 169
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2025-01-15
+date: '2025-01-15'
 signer: 
 reviewArchive: 
 twitter: stasisnet

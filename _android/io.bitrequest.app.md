@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: io.bitrequest.app
 appCountry: 
-released: 2019-11-01
-updated: 2024-06-18
+released: '2019-11-01'
+updated: '2024-06-18'
 version: '1.5.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2023-12-01
+date: '2023-12-01'
 signer: 
 reviewArchive: 
 twitter: 

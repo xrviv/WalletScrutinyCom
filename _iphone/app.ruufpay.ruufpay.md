@@ -7,8 +7,8 @@ authors:
 appId: app.ruufpay.ruufpay
 appCountry: us
 idd: '1557726087'
-released: 2022-06-07
-updated: 2023-07-01
+released: '2022-06-07'
+updated: '2023-07-01'
 version: '2.1.0'
 stars: 4.8
 reviews: 21
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: nosource
 appHashes: 
-date: 2024-06-29
+date: '2024-06-29'
 signer: 
 reviewArchive: 
 twitter: ruufpay

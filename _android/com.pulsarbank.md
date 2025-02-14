@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.pulsarbank
 appCountry: 
-released: 2021-04-28
-updated: 2021-04-28
+released: '2021-04-28'
+updated: '2021-04-28'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-06-02
+date: '2023-06-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: uk.co.blockfort.wallet
 appCountry: 
-released: 2021-05-24
-updated: 2023-05-05
+released: '2021-05-24'
+updated: '2023-05-05'
 version: '1.1.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

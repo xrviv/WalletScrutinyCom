@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.xchangemonster
 appCountry: 
-released: 2022-05-04
-updated: 2022-08-24
+released: '2022-05-04'
+updated: '2022-08-24'
 version: '1.7'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-19
+date: '2023-08-19'
 signer: 
 reviewArchive: 
 twitter: 

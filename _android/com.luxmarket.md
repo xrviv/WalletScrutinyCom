@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.luxmarket
 appCountry: 
-released: 2021-01-11
-updated: 2021-11-07
+released: '2021-01-11'
+updated: '2021-11-07'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.xchaino
 appCountry: 
-released: 2021-09-22
-updated: 2022-06-14
+released: '2021-09-22'
+updated: '2022-06-14'
 version: '2.1.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: exchaino

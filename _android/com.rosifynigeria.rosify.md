@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.rosifynigeria.rosify
 appCountry: 
-released: 2020-07-25
-updated: 2020-07-25
+released: '2020-07-25'
+updated: '2020-07-25'
 version: '2.3.9'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 appId: com.blockfi.mobile
 appCountry: 
 idd: 1506274532
-released: 2020-05-05
-updated: 2023-10-10
+released: '2020-05-05'
+updated: '2023-10-10'
 version: '5.12.15'
 stars: 2.6
 reviews: 1295
@@ -20,7 +20,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

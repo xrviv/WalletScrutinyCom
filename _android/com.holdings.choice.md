@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.holdings.choice
 appCountry: 
-released: 2022-04-04
-updated: 2025-01-02
+released: '2022-04-04'
+updated: '2025-01-02'
 version: '2.24.0'
 stars: 3.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-12-15
+date: '2023-12-15'
 signer: 
 reviewArchive: 
 twitter: choicebyKT

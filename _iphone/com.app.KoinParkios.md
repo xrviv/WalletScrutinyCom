@@ -7,8 +7,8 @@ authors:
 appId: com.app.KoinParkios
 appCountry: in
 idd: '6448510693'
-released: 2023-05-10
-updated: 2025-02-07
+released: '2023-05-10'
+updated: '2025-02-07'
 version: '4.3'
 stars: 4
 reviews: 69
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-29
+date: '2023-07-29'
 signer: 
 reviewArchive: 
 twitter: KoinparkInfo

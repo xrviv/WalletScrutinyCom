@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.investpal_social_trading
 appCountry: 
-released: 2021-04-06
-updated: 2021-04-14
+released: '2021-04-06'
+updated: '2021-04-14'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

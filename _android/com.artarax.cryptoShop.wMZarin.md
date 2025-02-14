@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.artarax.cryptoShop.wMZarin
 appCountry: 
-released: 2020-09-02
-updated: 2022-06-27
+released: '2020-09-02'
+updated: '2022-06-27'
 version: '2.026.148-GooglePlay'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

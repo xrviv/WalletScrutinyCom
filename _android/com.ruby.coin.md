@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.ruby.coin
 appCountry: 
-released: 2022-09-21
-updated: 2022-11-09
+released: '2022-09-21'
+updated: '2022-11-09'
 version: '1.0.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: RubyCoinDAO

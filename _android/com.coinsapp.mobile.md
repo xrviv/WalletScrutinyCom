@@ -6,8 +6,8 @@ authors:
 users: 5000
 appId: com.coinsapp.mobile
 appCountry: 
-released: 2020-07-21
-updated: 2020-12-24
+released: '2020-07-21'
+updated: '2020-12-24'
 version: '2.1.4'
 stars: 4.4
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

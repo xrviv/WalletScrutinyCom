@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.pro.changelly
 appCountry: 
-released: 2020-07-03
-updated: 2025-01-15
+released: '2020-07-03'
+updated: '2025-01-15'
 version: '3.3.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2025-01-27
+date: '2025-01-27'
 signer: 
 reviewArchive: 
 twitter: changelly_team

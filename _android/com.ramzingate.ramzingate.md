@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.ramzingate.ramzingate
 appCountry: 
-released: 2021-08-29
-updated: 2022-03-03
+released: '2021-08-29'
+updated: '2022-03-03'
 version: '1.2.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-10-03
+date: '2024-10-03'
 signer: 
 reviewArchive: 
 twitter: 

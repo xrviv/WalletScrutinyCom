@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.haladinarwallet
 appCountry: 
-released: 2018-11-04
-updated: 2019-09-23
+released: '2018-11-04'
+updated: '2019-09-23'
 version: '1.0.13'
 stars: 5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: haladinar

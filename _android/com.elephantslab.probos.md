@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.elephantslab.probos
 appCountry: 
-released: 2022-09-20
-updated: 2022-09-30
+released: '2022-09-20'
+updated: '2022-09-30'
 version: '1.1.1'
 stars: 3.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nosource
 appHashes: 
-date: 2024-09-20
+date: '2024-09-20'
 signer: 
 reviewArchive: 
 twitter: probos_wallet

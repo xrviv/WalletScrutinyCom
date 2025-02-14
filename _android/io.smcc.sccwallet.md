@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.smcc.sccwallet
 appCountry: 
-released: 2018-08-12
-updated: 2018-10-02
+released: '2018-08-12'
+updated: '2018-10-02'
 version: '1.29'
 stars: 4.4
 ratings: 20
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2021-10-30
+date: '2021-10-30'
 signer: 
 reviewArchive: 
 twitter: 

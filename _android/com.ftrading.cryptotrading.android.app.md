@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.ftrading.cryptotrading.android.app
 appCountry: 
-released: 2022-09-19
-updated: 2022-09-19
+released: '2022-09-19'
+updated: '2022-09-19'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nowallet
 appHashes: 
-date: 2024-09-10
+date: '2024-09-10'
 signer: 
 reviewArchive: 
 twitter: 

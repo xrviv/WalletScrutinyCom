@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.ompfinex.app
 appCountry: 
-released: 2021-07-20
-updated: 2024-04-21
+released: '2021-07-20'
+updated: '2024-04-21'
 version: '3.7.0'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-03
+date: '2024-10-03'
 signer: 
 reviewArchive: 
 twitter: ompfinex

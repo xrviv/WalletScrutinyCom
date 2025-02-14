@@ -8,8 +8,8 @@ authors:
 users: 1000000
 appId: com.roqqu.app
 appCountry: 
-released: 2019-09-30
-updated: 2025-01-31
+released: '2019-09-30'
+updated: '2025-01-31'
 version: '2.5.46'
 stars: 4.2
 ratings: 24688
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-04-16
+date: '2021-04-16'
 signer: 
 reviewArchive: 
 twitter: roqqupay

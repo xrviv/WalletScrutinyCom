@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.cmbcwallet.uk
 appCountry: 
-released: 2019-06-10
-updated: 2019-07-02
+released: '2019-06-10'
+updated: '2019-07-02'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-17
+date: '2023-05-17'
 signer: 
 reviewArchive: 
 twitter: 

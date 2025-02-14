@@ -7,8 +7,8 @@ authors:
 appId: com.Crypterium.Crypterium
 appCountry: 
 idd: 1360632912
-released: 2018-03-26
-updated: 2025-01-31
+released: '2018-03-26'
+updated: '2025-01-31'
 version: '13.0'
 stars: 4.2
 reviews: 932
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-05-20
+date: '2021-05-20'
 signer: 
 reviewArchive: 
 twitter: crypterium

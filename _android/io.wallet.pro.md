@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.wallet.pro
 appCountry: nz
-released: 2019-07-14
-updated: 2021-08-04
+released: '2019-07-14'
+updated: '2021-08-04'
 version: '1.2.9'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2022-02-16
+date: '2022-02-16'
 signer: 
 reviewArchive: 
 twitter: io_wallet

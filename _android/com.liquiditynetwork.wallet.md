@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.liquiditynetwork.wallet
 appCountry: 
-released: 2018-06-07
-updated: 2020-07-16
+released: '2018-06-07'
+updated: '2020-07-16'
 version: '1.27.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2022-03-09
+date: '2022-03-09'
 signer: 
 reviewArchive: 
 twitter: 

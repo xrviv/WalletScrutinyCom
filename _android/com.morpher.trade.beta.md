@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.morpher.trade.beta
 appCountry: 
-released: 2023-02-02
-updated: 2024-12-17
+released: '2023-02-02'
+updated: '2024-12-17'
 version: '0.1.39'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-07-10
+date: '2023-07-10'
 signer: 
 reviewArchive: 
 twitter: morpher_io

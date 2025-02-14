@@ -8,7 +8,7 @@ users: 10000
 appId: com.simplehold.app
 appCountry: 
 released: 
-updated: 2023-07-24
+updated: '2023-07-24'
 version: '1.23'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: SimpleHold

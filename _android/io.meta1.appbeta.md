@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.meta1.appbeta
 appCountry: 
-released: 2022-03-31
-updated: 2024-05-20
+released: '2022-03-31'
+updated: '2024-05-20'
 version: '2.0.3'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2025-01-09
+date: '2025-01-09'
 signer: 
 reviewArchive: 
 twitter: META1Coin

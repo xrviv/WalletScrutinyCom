@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.obolon9_mobile
 appCountry: 
-released: 2018-04-18
-updated: 2021-10-09
+released: '2018-04-18'
+updated: '2021-10-09'
 version: '2.1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

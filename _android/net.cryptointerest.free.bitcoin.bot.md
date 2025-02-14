@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: net.cryptointerest.free.bitcoin.bot
 appCountry: 
-released: 2021-07-06
-updated: 2021-07-06
+released: '2021-07-06'
+updated: '2021-07-06'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: 

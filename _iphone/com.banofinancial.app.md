@@ -7,8 +7,8 @@ authors:
 appId: com.banofinancial.app
 appCountry: au
 idd: '1562849570'
-released: 2021-05-13
-updated: 2024-10-17
+released: '2021-05-13'
+updated: '2024-10-17'
 version: '1.5.22'
 stars: 3.8
 reviews: 72
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-03-09
+date: '2023-03-09'
 signer: 
 reviewArchive: 
 twitter: banosuperapp

@@ -8,8 +8,8 @@ authors:
 appId: com.binanceCloudtoko.binance
 appCountry: ph
 idd: 1538556690
-released: 2020-12-01
-updated: 2022-10-15
+released: '2020-12-01'
+updated: '2022-10-15'
 version: '1.10.0'
 stars: 5
 reviews: 1
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2023-01-30
+date: '2023-01-30'
 signer: 
 reviewArchive: 
 twitter: tokocrypto

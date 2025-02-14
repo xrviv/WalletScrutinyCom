@@ -7,8 +7,8 @@ authors:
 users: 5000000
 appId: com.blockfolio.blockfolio
 appCountry: us
-released: 2015-10-01
-updated: 2022-11-01
+released: '2015-10-01'
+updated: '2022-11-01'
 version: '4.12.5'
 stars: 4
 ratings: 164833
@@ -22,10 +22,10 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive:
-- date: 2019-11-10
+- date: '2019-11-10'
   version: '4.0.1'
   appHashes: []
   gitRevision: a7a616c5d7474cbbd0fdaa0387b8ce4cc578e960

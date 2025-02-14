@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.iqtrade.ex.app
 appCountry: 
-released: 2022-10-18
-updated: 2025-01-24
+released: '2022-10-18'
+updated: '2025-01-24'
 version: '3.2.1'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-09-04
+date: '2024-09-04'
 signer: 
 reviewArchive: 
 twitter: iqtradegroup

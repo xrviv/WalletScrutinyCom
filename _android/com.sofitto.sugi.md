@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.sofitto.sugi
 appCountry: 
-released: 2019-03-20
-updated: 2020-10-12
+released: '2019-03-20'
+updated: '2020-10-12'
 version: '1.8.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: 

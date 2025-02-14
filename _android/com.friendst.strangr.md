@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.friendst.strangr
 appCountry: 
-released: 2020-05-02
-updated: 2021-05-26
+released: '2020-05-02'
+updated: '2021-05-26'
 version: '1.1'
 stars: 2.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

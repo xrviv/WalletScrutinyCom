@@ -7,8 +7,8 @@ authors:
 appId: com.coinspot.app
 appCountry: au
 idd: 1541949985
-released: 2020-12-13
-updated: 2024-12-16
+released: '2020-12-13'
+updated: '2024-12-16'
 version: '3.4.4'
 stars: 4.8
 reviews: 37970
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-03
+date: '2021-09-03'
 signer: 
 reviewArchive: 
 twitter: coinspotau

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.trustverse.masterkey
 appCountry: 
-released: 2021-02-03
-updated: 2022-11-23
+released: '2021-02-03'
+updated: '2022-11-23'
 version: '0.2.0G'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: SafestMasterKey

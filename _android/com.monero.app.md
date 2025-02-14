@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.monero.app
 appCountry: 
-released: 2022-01-07
-updated: 2025-02-01
+released: '2022-01-07'
+updated: '2025-02-01'
 version: '1.20.0'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-04-28
+date: '2023-04-28'
 signer: 
 reviewArchive: 
 twitter: 

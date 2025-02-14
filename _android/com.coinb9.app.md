@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.coinb9.app
 appCountry: 
-released: 2022-03-07
-updated: 2024-11-15
+released: '2022-03-07'
+updated: '2024-11-15'
 version: '4.1.9'
 stars: 2.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2025-02-04
+date: '2025-02-04'
 signer: 
 reviewArchive: 
 twitter: 

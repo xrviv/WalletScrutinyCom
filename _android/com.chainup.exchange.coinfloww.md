@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: com.chainup.exchange.coinfloww
 appCountry: 
-released: 2022-08-18
-updated: 2022-09-18
+released: '2022-08-18'
+updated: '2022-09-18'
 version: '5.2.5_coinfloww'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-10-16
+date: '2023-10-16'
 signer: 
 reviewArchive: 
 twitter: 

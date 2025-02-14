@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.xgt
 appCountry: 
-released: 2020-01-16
-updated: 2020-01-17
+released: '2020-01-16'
+updated: '2020-01-17'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

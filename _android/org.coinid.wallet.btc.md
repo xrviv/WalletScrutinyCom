@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: org.coinid.wallet.btc
 appCountry: 
-released: 2018-10-14
-updated: 2021-02-20
+released: '2018-10-14'
+updated: '2021-02-20'
 version: '1.8.0'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: ftbfs
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: COINiDGroup

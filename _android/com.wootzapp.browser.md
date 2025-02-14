@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.wootzapp.browser
 appCountry: 
-released: 2022-10-30
-updated: 2024-03-09
+released: '2022-10-30'
+updated: '2024-03-09'
 version: '1.7.1'
 stars: 4.3
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-25
+date: '2024-07-25'
 signer: 
 reviewArchive: 
 twitter: 

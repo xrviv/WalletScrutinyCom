@@ -6,8 +6,8 @@ authors:
 users: 5000
 appId: sg.bcoin.app
 appCountry: 
-released: 2018-08-02
-updated: 2018-11-22
+released: '2018-08-02'
+updated: '2018-11-22'
 version: '1.2.1'
 stars: 3.8
 ratings: 66
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-16
+date: '2021-11-16'
 signer: 
 reviewArchive: 
 twitter: 

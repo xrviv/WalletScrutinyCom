@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.forumpay
 appCountry: 
-released: 2020-11-27
-updated: 2020-11-27
+released: '2020-11-27'
+updated: '2020-11-27'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

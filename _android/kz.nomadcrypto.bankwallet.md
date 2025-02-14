@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: kz.nomadcrypto.bankwallet
 appCountry: 
-released: 2021-07-23
-updated: 2021-09-26
+released: '2021-07-23'
+updated: '2021-09-26'
 version: '0.2.1'
 stars: 4.3
 ratings: 6
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-01-31
+date: '2022-01-31'
 signer: 
 reviewArchive: 
 twitter: 

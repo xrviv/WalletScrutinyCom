@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.debayarab.platform
 appCountry: 
-released: 2019-12-16
-updated: 2020-02-28
+released: '2019-12-16'
+updated: '2020-02-28'
 version: '1.2.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

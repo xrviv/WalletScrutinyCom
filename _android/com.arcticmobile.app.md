@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.arcticmobile.app
 appCountry: 
-released: 2022-12-15
-updated: 2024-07-17
+released: '2022-12-15'
+updated: '2024-07-17'
 version: '1.35'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: arctic_wallet

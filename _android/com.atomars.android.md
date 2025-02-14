@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.atomars.android
 appCountry: 
-released: 2019-07-01
-updated: 2019-07-01
+released: '2019-07-01'
+updated: '2019-07-01'
 version: '1.1.1'
 stars: 2.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-09-08
+date: '2024-09-08'
 signer: 
 reviewArchive: 
 twitter: AtomarsExchange

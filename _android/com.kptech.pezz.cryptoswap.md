@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.kptech.pezz.cryptoswap
 appCountry: 
-released: 2019-03-25
-updated: 2019-05-31
+released: '2019-03-25'
+updated: '2019-05-31'
 version: '1.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-11-16
+date: '2021-11-16'
 signer: 
 reviewArchive: 
 twitter: 

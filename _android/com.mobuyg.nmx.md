@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.mobuyg.nmx
 appCountry: 
-released: 2021-08-16
-updated: 2022-05-19
+released: '2021-08-16'
+updated: '2022-05-19'
 version: '1.0.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

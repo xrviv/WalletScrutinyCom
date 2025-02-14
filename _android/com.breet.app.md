@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.breet.app
 appCountry: 
-released: 2021-05-26
-updated: 2021-05-26
+released: '2021-05-26'
+updated: '2021-05-26'
 version: '1.0'
 stars: 4.5
 ratings: 86
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-09-23
+date: '2021-09-23'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: org.narkasa
 appCountry: 
-released: 2020-10-30
-updated: 2021-04-11
+released: '2020-10-30'
+updated: '2021-04-11'
 version: '1.27'
 stars: 3.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: narkasacom

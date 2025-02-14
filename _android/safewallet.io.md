@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: safewallet.io
 appCountry: 
-released: 2022-03-29
-updated: 2023-10-19
+released: '2022-03-29'
+updated: '2023-10-19'
 version: '1.0.15'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: theamgen

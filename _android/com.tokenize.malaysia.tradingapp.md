@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: com.tokenize.malaysia.tradingapp
 appCountry: 
-released: 2020-11-26
-updated: 2021-06-23
+released: '2020-11-26'
+updated: '2021-06-23'
 version: '1.15.2'
 stars: 2.6
 ratings: 137
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-10-30
+date: '2021-10-30'
 signer: 
 reviewArchive: 
 twitter: TokenizeM

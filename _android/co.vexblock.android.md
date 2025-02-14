@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: co.vexblock.android
 appCountry: 
-released: 2019-09-17
-updated: 2019-10-15
+released: '2019-09-17'
+updated: '2019-10-15'
 version: '1.0.3'
 stars: 4.8
 ratings: 192
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-20
+date: '2023-04-20'
 signer: 
 reviewArchive: 
 twitter: 

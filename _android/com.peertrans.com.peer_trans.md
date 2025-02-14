@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.peertrans.com.peer_trans
 appCountry: 
-released: 2023-02-10
-updated: 2023-02-11
+released: '2023-02-10'
+updated: '2023-02-11'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

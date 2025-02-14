@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: exchange.blackfort.wallet
 appCountry: ee
-released: 2020-08-31
-updated: 2021-10-27
+released: '2020-08-31'
+updated: '2021-10-27'
 version: '1.3.18'
 stars: 4.2
 ratings: 64
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nosource
 appHashes: 
-date: 2023-10-22
+date: '2023-10-22'
 signer: 
 reviewArchive: 
 twitter: BlackFort_Tech

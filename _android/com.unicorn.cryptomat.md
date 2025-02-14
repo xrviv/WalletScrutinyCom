@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.unicorn.cryptomat
 appCountry: 
-released: 2020-01-28
-updated: 2020-04-24
+released: '2020-01-28'
+updated: '2020-04-24'
 version: '0.11'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nowallet
 appHashes: 
-date: 2023-06-07
+date: '2023-06-07'
 signer: 
 reviewArchive: 
 twitter: 

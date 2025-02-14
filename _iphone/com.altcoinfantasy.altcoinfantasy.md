@@ -7,8 +7,8 @@ authors:
 appId: com.altcoinfantasy.altcoinfantasy
 appCountry: es
 idd: 1356209063
-released: 2018-03-14
-updated: 2020-02-06
+released: '2018-03-14'
+updated: '2020-02-06'
 version: '2.1.3'
 stars: 3.3
 reviews: 3
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-05-30
+date: '2023-05-30'
 signer: 
 reviewArchive: 
 twitter: 

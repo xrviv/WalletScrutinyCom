@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: network.privapp.wallet
 appCountry: 
-released: 2022-03-14
-updated: 2022-10-30
+released: '2022-03-14'
+updated: '2022-10-30'
 version: '1.0.7'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-12-15
+date: '2024-12-15'
 signer: 
 reviewArchive: 
 twitter: PrivappNetwork

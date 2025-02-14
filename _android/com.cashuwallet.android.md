@@ -7,7 +7,7 @@ users: 100
 appId: com.cashuwallet.android
 appCountry: 
 released: 
-updated: 2024-09-27
+updated: '2024-09-27'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2024-09-28
+date: '2024-09-28'
 signer: 
 reviewArchive: 
 twitter: 

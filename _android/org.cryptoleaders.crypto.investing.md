@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: org.cryptoleaders.crypto.investing
 appCountry: 
-released: 2021-06-15
-updated: 2021-06-15
+released: '2021-06-15'
+updated: '2021-06-15'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.finovation.fxvc
 appCountry: 
-released: 2021-04-23
-updated: 2021-11-12
+released: '2021-04-23'
+updated: '2021-11-12'
 version: '2.0.3'
 stars: 
 ratings: 14
@@ -21,7 +21,7 @@ bugbounty:
 meta: defunct
 verdict: fewusers
 appHashes: 
-date: 2021-11-01
+date: '2021-11-01'
 signer: 
 reviewArchive: 
 twitter: 

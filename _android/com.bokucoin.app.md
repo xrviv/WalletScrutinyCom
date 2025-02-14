@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.bokucoin.app
 appCountry: 
-released: 2020-10-09
-updated: 2020-10-10
+released: '2020-10-09'
+updated: '2020-10-10'
 version: '1.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-13
+date: '2023-05-13'
 signer: 
 reviewArchive: 
 twitter: 

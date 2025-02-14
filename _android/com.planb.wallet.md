@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.planb.wallet
 appCountry: 
-released: 2021-07-08
-updated: 2021-09-14
+released: '2021-07-08'
+updated: '2021-09-14'
 version: '1.1.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

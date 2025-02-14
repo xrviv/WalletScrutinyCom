@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.copayers.multi.wallet
 appCountry: 
-released: 2021-12-16
-updated: 2021-12-16
+released: '2021-12-16'
+updated: '2021-12-16'
 version: '0.21838'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2022-01-31
+date: '2022-01-31'
 signer: 
 reviewArchive: 
 twitter: 

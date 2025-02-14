@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.btcwallet
 appCountry: 
-released: 2019-08-29
-updated: 2019-10-23
+released: '2019-08-29'
+updated: '2019-10-23'
 version: '8.0.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-21
+date: '2023-04-21'
 signer: 
 reviewArchive: 
 twitter: 

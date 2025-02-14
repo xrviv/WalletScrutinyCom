@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.bydfi.app
 appCountry: 
-released: 2023-01-20
-updated: 2025-01-24
+released: '2023-01-20'
+updated: '2025-01-24'
 version: '3.6.3'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-21
+date: '2023-07-21'
 signer: 
 reviewArchive: 
 twitter: BYDFi

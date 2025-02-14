@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.christonet.leobitcoin
 appCountry: 
-released: 2023-03-21
-updated: 2023-07-17
+released: '2023-03-21'
+updated: '2023-07-17'
 version: '1.0'
 stars: 4.4
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2025-01-09
+date: '2025-01-09'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.beyondcc.co.uk
 appCountry: 
-released: 2019-10-21
-updated: 2019-10-21
+released: '2019-10-21'
+updated: '2019-10-21'
 version: '0.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

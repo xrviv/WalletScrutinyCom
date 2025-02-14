@@ -7,8 +7,8 @@ authors:
 appId: io.sylo.dapp
 appCountry: 
 idd: 1452964749
-released: 2019-09-10
-updated: 2022-11-10
+released: '2019-09-10'
+updated: '2022-11-10'
 version: '4.0.14'
 stars: 4.7
 reviews: 82
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2025-02-04
+date: '2025-02-04'
 signer: 
 reviewArchive: 
 twitter: sylo

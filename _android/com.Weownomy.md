@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.Weownomy
 appCountry: 
-released: 2021-11-08
-updated: 2022-08-01
+released: '2021-11-08'
+updated: '2022-08-01'
 version: '1.0.4'
 stars: 4.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-07-28
+date: '2023-07-28'
 signer: 
 reviewArchive: 
 twitter: 

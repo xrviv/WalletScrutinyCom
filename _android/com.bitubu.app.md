@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.bitubu.app
 appCountry: 
-released: 2020-04-19
-updated: 2023-01-19
+released: '2020-04-19'
+updated: '2023-01-19'
 version: '1.1.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

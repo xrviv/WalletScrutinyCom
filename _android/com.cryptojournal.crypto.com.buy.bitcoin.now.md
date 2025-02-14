@@ -7,8 +7,8 @@ authors:
 users: 500
 appId: com.cryptojournal.crypto.com.buy.bitcoin.now
 appCountry: 
-released: 2021-07-07
-updated: 2021-07-07
+released: '2021-07-07'
+updated: '2021-07-07'
 version: '1.0'
 stars: 2.6
 ratings: 5
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-09-24
+date: '2021-09-24'
 signer: 
 reviewArchive: 
 twitter: 

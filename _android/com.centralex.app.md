@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.centralex.app
 appCountry: 
-released: 2022-03-16
-updated: 2022-04-07
+released: '2022-03-16'
+updated: '2022-04-07'
 version: '1.02'
 stars: 4.6
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

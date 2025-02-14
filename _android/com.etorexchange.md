@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.etorexchange
 appCountry: 
-released: 2022-04-26
-updated: 2022-06-06
+released: '2022-04-26'
+updated: '2022-06-06'
 version: '1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-30
+date: '2023-01-30'
 signer: 
 reviewArchive: 
 twitter: 

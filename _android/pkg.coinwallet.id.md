@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: pkg.coinwallet.id
 appCountry: 
-released: 2021-04-13
-updated: 2021-04-23
+released: '2021-04-13'
+updated: '2021-04-23'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-03-09
+date: '2022-03-09'
 signer: 
 reviewArchive: 
 twitter: 

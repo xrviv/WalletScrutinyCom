@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.zb.zhongbi
 appCountry: 
-released: 2020-08-24
-updated: 2021-03-05
+released: '2020-08-24'
+updated: '2021-03-05'
 version: '1.1.4'
 stars: 4.7
 ratings: 104
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-11
+date: '2021-11-11'
 signer: 
 reviewArchive: 
 twitter: 

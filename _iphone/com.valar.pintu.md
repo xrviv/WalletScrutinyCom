@@ -7,8 +7,8 @@ authors:
 appId: com.valar.pintu
 appCountry: us
 idd: 1494119678
-released: 2020-01-27
-updated: 2022-10-31
+released: '2020-01-27'
+updated: '2022-10-31'
 version: '3.22.0'
 stars: 4.7
 reviews: 58
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-30
+date: '2023-01-30'
 signer: 
 reviewArchive: 
 twitter: pintuid

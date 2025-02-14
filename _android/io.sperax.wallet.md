@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: io.sperax.wallet
 appCountry: 
-released: 2021-02-11
-updated: 2022-03-30
+released: '2021-02-11'
+updated: '2022-03-30'
 version: '1.6.1'
 stars: 3.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: SperaxUSD

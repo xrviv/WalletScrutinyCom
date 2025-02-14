@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.hypertherm.app
 appCountry: 
-released: 2018-08-23
-updated: 2021-03-22
+released: '2018-08-23'
+updated: '2021-03-22'
 version: '3.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-26
+date: '2023-05-26'
 signer: 
 reviewArchive: 
 twitter: C2CXExchange

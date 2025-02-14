@@ -7,8 +7,8 @@ authors:
 appId: com.exchangily.app
 appCountry: 
 idd: 1503068552
-released: 2020-03-23
-updated: 2023-03-20
+released: '2020-03-23'
+updated: '2023-03-20'
 version: '2.1.88'
 stars: 4.3
 reviews: 12
@@ -21,7 +21,7 @@ bugbounty:
 meta: defunct
 verdict: ftbfs
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: ExchangilyC

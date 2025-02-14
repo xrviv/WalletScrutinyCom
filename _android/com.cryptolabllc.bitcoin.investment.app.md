@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.cryptolabllc.bitcoin.investment.app
 appCountry: 
-released: 2021-06-18
-updated: 2021-06-18
+released: '2021-06-18'
+updated: '2021-06-18'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: 

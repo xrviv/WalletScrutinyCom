@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: ph.pdax.mobile
 appCountry: ph
-released: 2021-01-18
-updated: 2025-02-07
+released: '2021-01-18'
+updated: '2025-02-07'
 version: '12.3.0'
 stars: 4.9
 ratings: 3291
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-03
+date: '2021-09-03'
 signer: 
 reviewArchive: 
 twitter: pdaxph

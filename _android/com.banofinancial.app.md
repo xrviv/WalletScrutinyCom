@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.banofinancial.app
 appCountry: 
-released: 2021-05-13
-updated: 2024-08-26
+released: '2021-05-13'
+updated: '2024-08-26'
 version: '1.5.22'
 stars: 2.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-03-09
+date: '2023-03-09'
 signer: 
 reviewArchive: 
 twitter: banosuperapp

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: in.cryptoforce.cfx
 appCountry: 
-released: 2022-09-27
-updated: 2024-04-18
+released: '2022-09-27'
+updated: '2024-04-18'
 version: '1.1.2.5'
 stars: 3.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-08-18
+date: '2023-08-18'
 signer: 
 reviewArchive: 
 twitter: cryptoforce_in

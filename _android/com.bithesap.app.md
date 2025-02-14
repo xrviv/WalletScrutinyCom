@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.bithesap.app
 appCountry: 
-released: 2018-08-03
-updated: 2019-05-08
+released: '2018-08-03'
+updated: '2019-05-08'
 version: '1.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-20
+date: '2023-04-20'
 signer: 
 reviewArchive: 
 twitter: 

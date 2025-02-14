@@ -7,8 +7,8 @@ authors:
 appId: cobo.wallet
 appCountry: 
 idd: 1406282615
-released: 2018-08-05
-updated: 2025-01-07
+released: '2018-08-05'
+updated: '2025-01-07'
 version: '5.19.15'
 stars: 2.8
 reviews: 6
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: Cobo_Wallet

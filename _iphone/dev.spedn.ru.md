@@ -7,8 +7,8 @@ authors:
 appId: dev.spedn.ru
 appCountry: ru
 idd: 1524167720
-released: 2020-08-05
-updated: 2024-04-18
+released: '2020-08-05'
+updated: '2024-04-18'
 version: '1.15.8'
 stars: 4.1
 reviews: 103
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-01-01
+date: '2024-01-01'
 signer: 
 reviewArchive: 
 twitter: koshelek_ru

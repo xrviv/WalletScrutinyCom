@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.viabtc.pool
 appCountry: 
-released: 2017-12-16
-updated: 2025-01-24
+released: '2017-12-16'
+updated: '2025-01-24'
 version: '3.9.0'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-06-24
+date: '2022-06-24'
 signer: 
 reviewArchive: 
 twitter: ViaBTC

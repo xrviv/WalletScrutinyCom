@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.rabin.rabex
 appCountry: 
-released: 2023-02-19
-updated: 2025-02-01
+released: '2023-02-19'
+updated: '2025-02-01'
 version: '2.2.2-Rabex'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-08-08
+date: '2023-08-08'
 signer: 
 reviewArchive: 
 twitter: rabexir

@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: co.satoshiwallet.app
 appCountry: 
-released: 2019-08-16
-updated: 2020-01-17
+released: '2019-08-16'
+updated: '2020-01-17'
 version: '2.1.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2022-03-07
+date: '2022-03-07'
 signer: 
 reviewArchive: 
 twitter: 

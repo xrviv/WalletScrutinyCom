@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.sdjaxx.wallet2sx
 appCountry: 
-released: 2021-09-10
-updated: 2021-09-11
+released: '2021-09-10'
+updated: '2021-09-11'
 version: '1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-12-05
+date: '2021-12-05'
 signer: 
 reviewArchive: 
 twitter: 

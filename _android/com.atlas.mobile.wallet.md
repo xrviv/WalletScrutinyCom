@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.atlas.mobile.wallet
 appCountry: us
-released: 2020-08-07
-updated: 2022-02-09
+released: '2020-08-07'
+updated: '2022-02-09'
 version: '1.0.45'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: Cent_Finance

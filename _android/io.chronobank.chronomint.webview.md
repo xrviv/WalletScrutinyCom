@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: io.chronobank.chronomint.webview
 appCountry: 
-released: 2017-08-09
-updated: 2017-10-11
+released: '2017-08-09'
+updated: '2017-10-11'
 version: '0.2.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

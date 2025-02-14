@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.bitfxservice.bitfxservice
 appCountry: 
-released: 2019-10-08
-updated: 2019-10-08
+released: '2019-10-08'
+updated: '2019-10-08'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

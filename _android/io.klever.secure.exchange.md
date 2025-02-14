@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: io.klever.secure.exchange
 appCountry: us
-released: 2021-06-30
-updated: 2023-08-07
+released: '2021-06-30'
+updated: '2023-08-07'
 version: '1.5.3'
 stars: 4
 ratings: 500
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: klever_io

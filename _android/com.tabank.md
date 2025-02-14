@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.tabank
 appCountry: 
-released: 2021-08-20
-updated: 2022-02-14
+released: '2021-08-20'
+updated: '2022-02-14'
 version: '1.3.7'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: OrgTabank

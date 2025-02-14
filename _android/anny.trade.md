@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: anny.trade
 appCountry: 
-released: 2022-11-01
-updated: 2024-10-21
+released: '2022-11-01'
+updated: '2024-10-21'
 version: '1.4.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-12-02
+date: '2023-12-02'
 signer: 
 reviewArchive: 
 twitter: AnnyCrypto

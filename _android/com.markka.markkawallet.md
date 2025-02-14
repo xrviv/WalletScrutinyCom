@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.markka.markkawallet
 appCountry: 
-released: 2022-02-06
-updated: 2025-02-07
+released: '2022-02-06'
+updated: '2025-02-07'
 version: '2.5.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2024-10-16
+date: '2024-10-16'
 signer: 
 reviewArchive: 
 twitter: 

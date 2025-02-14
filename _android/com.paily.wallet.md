@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.paily.wallet
 appCountry: 
-released: 2022-10-20
-updated: 2022-11-28
+released: '2022-10-20'
+updated: '2022-11-28'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

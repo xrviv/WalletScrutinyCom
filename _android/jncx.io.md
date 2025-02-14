@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: jncx.io
 appCountry: 
-released: 2022-05-24
-updated: 2022-09-01
+released: '2022-05-24'
+updated: '2022-09-01'
 version: '1.0.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-07-28
+date: '2023-07-28'
 signer: 
 reviewArchive: 
 twitter: 

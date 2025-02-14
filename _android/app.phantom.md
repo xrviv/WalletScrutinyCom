@@ -7,8 +7,8 @@ authors:
 users: 10000000
 appId: app.phantom
 appCountry: 
-released: 2022-04-12
-updated: 2025-02-05
+released: '2022-04-12'
+updated: '2025-02-05'
 version: '25.4.0'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-15
+date: '2024-07-15'
 signer: 
 reviewArchive: 
 twitter: phantom

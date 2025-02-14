@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: ch.shiftcrypto.bitboxapp
 appCountry: 
-released: 2020-07-13
-updated: 2024-11-21
+released: '2020-07-13'
+updated: '2024-11-21'
 version: 'android-4.46.1'
 stars: 4.6
 ratings: 83
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-01-23
+date: '2021-01-23'
 signer: 
 reviewArchive: 
 twitter: ShiftCryptoHQ

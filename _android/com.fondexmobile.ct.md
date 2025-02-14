@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.fondexmobile.ct
 appCountry: au
-released: 2017-11-02
-updated: 2023-09-15
+released: '2017-11-02'
+updated: '2023-09-15'
 version: '4.8.54452'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

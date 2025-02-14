@@ -7,7 +7,7 @@ users: 500
 appId: com.openwallet.wallet.dev
 appCountry: 
 released: 
-updated: 2017-09-18
+updated: '2017-09-18'
 version: 'v1.0.1'
 stars: 4.5
 ratings: 13
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-11-10
+date: '2021-11-10'
 signer: 
 reviewArchive: 
 twitter: 

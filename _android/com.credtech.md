@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.credtech
 appCountry: 
-released: 2021-02-07
-updated: 2021-02-11
+released: '2021-02-07'
+updated: '2021-02-11'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-04-16
+date: '2023-04-16'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.aspanta.emcsec
 appCountry: 
-released: 2017-11-28
-updated: 2018-12-25
+released: '2017-11-28'
+updated: '2018-12-25'
 version: '1.2.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: emercoin_press

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.bitkipi
 appCountry: 
-released: 2021-12-23
-updated: 2022-09-30
+released: '2021-12-23'
+updated: '2022-09-30'
 version: '1.5.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

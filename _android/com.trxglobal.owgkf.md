@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.trxglobal.owgkf
 appCountry: 
-released: 2022-03-27
-updated: 2022-09-05
+released: '2022-03-27'
+updated: '2022-09-05'
 version: '1.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-12
+date: '2023-04-12'
 signer: 
 reviewArchive: 
 twitter: 

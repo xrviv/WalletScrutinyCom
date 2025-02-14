@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: co.lvl.firstapp
 appCountry: us
-released: 2020-06-30
-updated: 2021-09-09
+released: '2020-06-30'
+updated: '2021-09-09'
 version: '1.0.5'
 stars: 3.7
 ratings: 159
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: BankWithLVL

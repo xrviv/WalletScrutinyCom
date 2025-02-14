@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.mify.trading
 appCountry: 
-released: 2020-11-18
-updated: 2020-11-19
+released: '2020-11-18'
+updated: '2020-11-19'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-30
+date: '2023-05-30'
 signer: 
 reviewArchive: 
 twitter: 

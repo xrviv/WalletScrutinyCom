@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.mixcoins.app
 appCountry: 
-released: 2019-07-03
-updated: 2019-07-03
+released: '2019-07-03'
+updated: '2019-07-03'
 version: '1.1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

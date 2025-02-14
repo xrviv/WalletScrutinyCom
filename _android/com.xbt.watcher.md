@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.xbt.watcher
 appCountry: 
-released: 2020-10-08
-updated: 2021-06-25
+released: '2020-10-08'
+updated: '2021-06-25'
 version: '1.1'
 stars: 3.1
 ratings: 48
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

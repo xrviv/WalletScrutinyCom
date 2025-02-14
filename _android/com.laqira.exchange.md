@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.laqira.exchange
 appCountry: 
-released: 2023-02-09
-updated: 2023-03-03
+released: '2023-02-09'
+updated: '2023-03-03'
 version: '3.2.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: wip
 appHashes: 
-date: 2024-03-01
+date: '2024-03-01'
 signer: 
 reviewArchive: 
 twitter: LaqiraProtocol

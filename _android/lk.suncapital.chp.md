@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: lk.suncapital.chp
 appCountry: 
-released: 2020-11-02
-updated: 2021-09-22
+released: '2020-11-02'
+updated: '2021-09-22'
 version: '1.0.10'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: defunct
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

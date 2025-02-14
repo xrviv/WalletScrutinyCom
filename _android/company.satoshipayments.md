@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: company.satoshipayments
 appCountry: 
-released: 2023-01-23
-updated: 2024-04-06
+released: '2023-01-23'
+updated: '2024-04-06'
 version: '0.1.7'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-09-16
+date: '2024-09-16'
 signer: 
 reviewArchive: 
 twitter: satoshipayments

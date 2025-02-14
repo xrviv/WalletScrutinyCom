@@ -8,7 +8,7 @@ users: 1000
 appId: com.aximetria.prod
 appCountry: 
 released: 
-updated: 2023-07-27
+updated: '2023-07-27'
 version: '2.30.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-09-08
+date: '2023-09-08'
 signer: 
 reviewArchive: 
 twitter: aximetriagmbh

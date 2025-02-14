@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.velesapp
 appCountry: 
-released: 2022-05-30
-updated: 2022-05-30
+released: '2022-05-30'
+updated: '2022-05-30'
 version: '1.0'
 stars: 4.2
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-10-28
+date: '2024-10-28'
 signer: 
 reviewArchive: 
 twitter: 

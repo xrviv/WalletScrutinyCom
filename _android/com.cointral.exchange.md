@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.cointral.exchange
 appCountry: tt
-released: 2020-10-29
-updated: 2021-08-18
+released: '2020-10-29'
+updated: '2021-08-18'
 version: '1.3.6'
 stars: 3.8
 ratings: 118
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: Cointral

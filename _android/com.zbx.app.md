@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.zbx.app
 appCountry: us
-released: 2019-10-18
-updated: 2024-12-30
+released: '2019-10-18'
+updated: '2024-12-30'
 version: '2.5.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-11-15
+date: '2021-11-15'
 signer: 
 reviewArchive: 
 twitter: zbx_com

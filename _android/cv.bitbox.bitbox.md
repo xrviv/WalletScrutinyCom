@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: cv.bitbox.bitbox
 appCountry: 
-released: 2021-12-18
-updated: 2022-03-10
+released: '2021-12-18'
+updated: '2022-03-10'
 version: '1.3.9'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.overline
 appCountry: 
-released: 2021-09-09
-updated: 2021-09-16
+released: '2021-09-09'
+updated: '2021-09-16'
 version: '1.1'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: overlinenetwork

@@ -7,8 +7,8 @@ authors:
 appId: com.ari10.bitcan
 appCountry: pl
 idd: '1623342435'
-released: 2022-07-19
-updated: 2025-01-27
+released: '2022-07-19'
+updated: '2025-01-27'
 version: '1.13.0'
 stars: 4.5
 reviews: 123
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-09-07
+date: '2023-09-07'
 signer: 
 reviewArchive: 
 twitter: ari10com

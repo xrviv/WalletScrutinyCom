@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: io.antwallet
 appCountry: 
-released: 2021-11-15
-updated: 2021-11-23
+released: '2021-11-15'
+updated: '2021-11-23'
 version: '1.0.2'
 stars: 4.2
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-09-03
+date: '2024-09-03'
 signer: 
 reviewArchive: 
 twitter: 

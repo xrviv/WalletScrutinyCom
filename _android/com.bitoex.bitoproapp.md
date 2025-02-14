@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.bitoex.bitoproapp
 appCountry: us
-released: 2018-07-30
-updated: 2023-08-08
+released: '2018-07-30'
+updated: '2023-08-08'
 version: '4.4.7'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: BitoEX_Official

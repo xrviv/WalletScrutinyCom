@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: pro.cointr
 appCountry: 
-released: 2022-10-30
-updated: 2024-07-27
+released: '2022-10-30'
+updated: '2024-07-27'
 version: '2.4.13'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-23
+date: '2024-10-23'
 signer: 
 reviewArchive: 
 twitter: CoinTRpro

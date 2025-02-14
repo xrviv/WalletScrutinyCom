@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.sirinlabs.os.wallet
 appCountry: 
-released: 2019-01-13
-updated: 2020-09-15
+released: '2019-01-13'
+updated: '2020-09-15'
 version: '1.0.9.5489'
 stars: 3.6
 ratings: 24
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: 

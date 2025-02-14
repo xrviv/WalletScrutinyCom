@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.spowide.www
 appCountry: 
-released: 2019-10-17
-updated: 2020-01-30
+released: '2019-10-17'
+updated: '2020-01-30'
 version: '1.0.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-03
+date: '2023-05-03'
 signer: 
 reviewArchive: 
 twitter: 

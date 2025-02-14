@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.xcoex.mobile
 appCountry: 
-released: 2019-01-17
-updated: 2024-08-07
+released: '2019-01-17'
+updated: '2024-08-07'
 version: '1.44.0'
 stars: 3.5
 ratings: 159
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-05-04
+date: '2021-05-04'
 signer: 
 reviewArchive: 
 twitter: OfficialXcoex

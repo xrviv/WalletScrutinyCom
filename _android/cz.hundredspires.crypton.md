@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: cz.hundredspires.crypton
 appCountry: 
-released: 2021-09-02
-updated: 2022-05-11
+released: '2021-09-02'
+updated: '2022-05-11'
 version: '1.1.18'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

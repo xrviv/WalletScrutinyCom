@@ -9,7 +9,7 @@ users: 10000000
 appId: org.dayup.stocks
 appCountry: 
 released: 
-updated: 2025-01-18
+updated: '2025-01-18'
 version: '10.6.6.11'
 stars: 4.5
 ratings: 165702
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2021-08-10
+date: '2021-08-10'
 signer: 
 reviewArchive: 
 twitter: WebullGlobal

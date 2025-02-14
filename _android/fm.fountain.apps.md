@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: fm.fountain.apps
 appCountry: 
-released: 2021-08-02
-updated: 2025-02-07
+released: '2021-08-02'
+updated: '2025-02-07'
 version: '1.1.16'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-06-23
+date: '2023-06-23'
 signer: 
 reviewArchive: 
 twitter: fountain_app

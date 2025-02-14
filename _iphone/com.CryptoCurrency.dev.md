@@ -7,8 +7,8 @@ authors:
 appId: com.CryptoCurrency.dev
 appCountry: us
 idd: 1339112917
-released: 2018-02-21
-updated: 2025-02-04
+released: '2018-02-21'
+updated: '2025-02-04'
 version: '3.4.5'
 stars: 4.7
 reviews: 2436
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-11-01
+date: '2021-11-01'
 signer: 
 reviewArchive: 
 twitter: TrustSwap

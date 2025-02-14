@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.app.speedpos
 appCountry: 
-released: 2023-03-14
-updated: 2023-04-13
+released: '2023-03-14'
+updated: '2023-04-13'
 version: '1.2.0.0.0.1.fp.gps'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: coinvest.investment
 appCountry: 
-released: 2020-12-12
-updated: 2020-12-18
+released: '2020-12-12'
+updated: '2020-12-18'
 version: '9.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-09
+date: '2023-05-09'
 signer: 
 reviewArchive: 
 twitter: 

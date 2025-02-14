@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.maxcryptotraders.maxcryptotradingapp
 appCountry: 
-released: 2022-06-06
-updated: 2022-06-06
+released: '2022-06-06'
+updated: '2022-06-06'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-08-05
+date: '2023-08-05'
 signer: 
 reviewArchive: 
 twitter: 

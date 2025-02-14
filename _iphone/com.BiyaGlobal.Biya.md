@@ -7,8 +7,8 @@ authors:
 appId: com.BiyaGlobal.Biya
 appCountry: sn
 idd: '1546702297'
-released: 2021-02-09
-updated: 2024-04-24
+released: '2021-02-09'
+updated: '2024-04-24'
 version: '1.0.0'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-01
+date: '2023-07-01'
 signer: 
 reviewArchive: 
 twitter: 

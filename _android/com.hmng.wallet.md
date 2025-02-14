@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.hmng.wallet
 appCountry: 
-released: 2021-08-09
-updated: 2022-08-31
+released: '2021-08-09'
+updated: '2022-08-31'
 version: '1.0.8'
 stars: 4.6
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-10-06
+date: '2024-10-06'
 signer: 
 reviewArchive: 
 twitter: 

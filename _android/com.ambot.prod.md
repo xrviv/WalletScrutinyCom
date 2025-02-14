@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.ambot.prod
 appCountry: 
-released: 2021-10-29
-updated: 2022-01-17
+released: '2021-10-29'
+updated: '2022-01-17'
 version: '1.0.7.prod'
 stars: 3.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nobtc
 appHashes: 
-date: 2024-01-16
+date: '2024-01-16'
 signer: 
 reviewArchive: 
 twitter: 

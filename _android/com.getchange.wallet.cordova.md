@@ -8,8 +8,8 @@ authors:
 users: 100000
 appId: com.getchange.wallet.cordova
 appCountry: nl
-released: 2018-06-07
-updated: 2025-02-07
+released: '2018-06-07'
+updated: '2025-02-07'
 version: '30.58.2'
 stars: 4
 ratings: 2833
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2020-05-29
+date: '2020-05-29'
 signer: 
 reviewArchive: 
 twitter: changefinance

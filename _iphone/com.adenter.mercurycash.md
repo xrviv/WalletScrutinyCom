@@ -7,8 +7,8 @@ authors:
 appId: com.adenter.mercurycash
 appCountry: 
 idd: 1291394963
-released: 2017-10-07
-updated: 2022-04-19
+released: '2017-10-07'
+updated: '2022-04-19'
 version: '4.5.0'
 stars: 4.5
 reviews: 68
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: mercurycash

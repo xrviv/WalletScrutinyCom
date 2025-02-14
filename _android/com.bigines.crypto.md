@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.bigines.crypto
 appCountry: 
-released: 2022-02-14
-updated: 2023-01-12
+released: '2022-02-14'
+updated: '2023-01-12'
 version: '2.1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-09-01
+date: '2024-09-01'
 signer: 
 reviewArchive: 
 twitter: 

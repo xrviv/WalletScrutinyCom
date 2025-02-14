@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.exchangeworld.app
 appCountry: 
-released: 2022-08-02
-updated: 2022-12-01
+released: '2022-08-02'
+updated: '2022-12-01'
 version: '1.1.24'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2023-08-30
+date: '2023-08-30'
 signer: 
 reviewArchive: 
 twitter: 

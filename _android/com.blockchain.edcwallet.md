@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.blockchain.edcwallet
 appCountry: ua
-released: 2020-03-13
-updated: 2021-02-10
+released: '2020-03-13'
+updated: '2021-02-10'
 version: '0.82'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: EDCBlockchain

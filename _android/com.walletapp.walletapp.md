@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.walletapp.walletapp
 appCountry: 
-released: 2020-08-04
-updated: 2021-01-28
+released: '2020-08-04'
+updated: '2021-01-28'
 version: '1.0.14'
 stars: 4.2
 ratings: 54
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-06-18
+date: '2021-06-18'
 signer: 
 reviewArchive: 
 twitter: 

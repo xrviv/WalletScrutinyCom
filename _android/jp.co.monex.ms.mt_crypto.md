@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: jp.co.monex.ms.mt_crypto
 appCountry: 
-released: 2020-07-07
-updated: 2024-09-13
+released: '2020-07-07'
+updated: '2024-09-13'
 version: '1.0.10'
 stars: 2.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2023-05-05
+date: '2023-05-05'
 signer: 
 reviewArchive: 
 twitter: 

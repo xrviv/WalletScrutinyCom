@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: me.minichange.app
 appCountry: 
-released: 2021-12-26
-updated: 2022-01-13
+released: '2021-12-26'
+updated: '2022-01-13'
 version: '2.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.mirlimited.muchbetter
 appCountry: gb
-released: 2017-05-30
-updated: 2025-01-20
+released: '2017-05-30'
+updated: '2025-01-20'
 version: '4.23.0'
 stars: 3.1
 ratings: 10117
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-08-27
+date: '2021-08-27'
 signer: 
 reviewArchive: 
 twitter: paymuchbetter

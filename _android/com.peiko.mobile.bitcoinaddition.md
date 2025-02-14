@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.peiko.mobile.bitcoinaddition
 appCountry: 
-released: 2021-05-21
-updated: 2021-11-16
+released: '2021-05-21'
+updated: '2021-11-16'
 version: '1.2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

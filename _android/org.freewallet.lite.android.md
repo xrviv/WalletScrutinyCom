@@ -8,7 +8,7 @@ users: 500
 appId: org.freewallet.lite.android
 appCountry: 
 released: 
-updated: 2019-03-01
+updated: '2019-03-01'
 version: 'Varies with device'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-05-25
+date: '2021-05-25'
 signer: 
 reviewArchive: 
 twitter: 

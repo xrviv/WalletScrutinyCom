@@ -7,8 +7,8 @@ authors:
 users: 5000000
 appId: com.iMe.android
 appCountry: 
-released: 2019-07-22
-updated: 2025-02-04
+released: '2019-07-22'
+updated: '2025-02-04'
 version: '11.7.3'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-09-07
+date: '2024-09-07'
 signer: 
 reviewArchive: 
 twitter: ImePlatform

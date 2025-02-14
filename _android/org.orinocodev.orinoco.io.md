@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: org.orinocodev.orinoco.io
 appCountry: 
-released: 2020-04-26
-updated: 2024-06-18
+released: '2020-04-26'
+updated: '2024-06-18'
 version: '1.0.0'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-04-15
+date: '2023-04-15'
 signer: 
 reviewArchive: 
 twitter: 

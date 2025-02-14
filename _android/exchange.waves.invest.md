@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: exchange.waves.invest
 appCountry: 
-released: 2021-09-11
-updated: 2022-12-19
+released: '2021-09-11'
+updated: '2022-12-19'
 version: '1.10.10'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: WXNetwork

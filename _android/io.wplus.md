@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: io.wplus
 appCountry: 
-released: 2018-11-27
-updated: 2019-05-24
+released: '2018-11-27'
+updated: '2019-05-24'
 version: '0.1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.SatoshiTango.SatoshiTango
 appCountry: 
-released: 2015-06-24
-updated: 2025-01-24
+released: '2015-06-24'
+updated: '2025-01-24'
 version: '5.3.0'
 stars: 3.8
 ratings: 5466
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-03
+date: '2021-09-03'
 signer: 
 reviewArchive: 
 twitter: satoshitango

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.wallet.line
 appCountry: 
-released: 2022-03-31
-updated: 2023-01-12
+released: '2022-03-31'
+updated: '2023-01-12'
 version: '12.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: 

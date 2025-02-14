@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.kaiser.kaiserwallet2
 appCountry: 
-released: 2018-10-03
-updated: 2022-11-12
+released: '2018-10-03'
+updated: '2022-11-12'
 version: '2.9.11'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-08-08
+date: '2023-08-08'
 signer: 
 reviewArchive: 
 twitter: 

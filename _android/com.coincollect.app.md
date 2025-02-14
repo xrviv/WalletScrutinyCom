@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.coincollect.app
 appCountry: us
-released: 2019-09-08
-updated: 2021-04-21
+released: '2019-09-08'
+updated: '2021-04-21'
 version: '1.11.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: coincollectHQ

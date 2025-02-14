@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.xchange.nicechange
 appCountry: 
-released: 2021-05-25
-updated: 2024-08-01
+released: '2021-05-25'
+updated: '2024-08-01'
 version: '4.1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: org.doichain.doiwallet
 appCountry: 
-released: 2022-05-01
-updated: 2024-12-03
+released: '2022-05-01'
+updated: '2024-12-03'
 version: '7.0.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2024-07-10
+date: '2024-07-10'
 signer: 
 reviewArchive: 
 twitter: 

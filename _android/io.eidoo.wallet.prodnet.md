@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: io.eidoo.wallet.prodnet
 appCountry: 
-released: 2017-09-25
-updated: 2021-11-08
+released: '2017-09-25'
+updated: '2021-11-08'
 version: '3.6.3'
 stars: 3.9
 ratings: 1649
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: eidoo_io

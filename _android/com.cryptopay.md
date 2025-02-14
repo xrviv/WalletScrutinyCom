@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.cryptopay
 appCountry: 
-released: 2018-12-17
-updated: 2019-02-14
+released: '2018-12-17'
+updated: '2019-02-14'
 version: '1.5'
 stars: 4.3
 ratings: 6
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2022-01-15
+date: '2022-01-15'
 signer: 
 reviewArchive: 
 twitter: shamlatech

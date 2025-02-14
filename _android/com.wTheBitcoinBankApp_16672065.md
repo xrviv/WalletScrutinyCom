@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.wTheBitcoinBankApp_16672065
 appCountry: 
-released: 2023-02-24
-updated: 2023-02-24
+released: '2023-02-24'
+updated: '2023-02-24'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

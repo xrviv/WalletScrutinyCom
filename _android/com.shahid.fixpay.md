@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.shahid.fixpay
 appCountry: 
-released: 2021-10-05
-updated: 2021-10-05
+released: '2021-10-05'
+updated: '2021-10-05'
 version: '3.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: 

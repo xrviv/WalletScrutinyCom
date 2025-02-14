@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.trustadx.bybit
 appCountry: 
-released: 2021-09-03
-updated: 2022-01-18
+released: '2021-09-03'
+updated: '2022-01-18'
 version: '5.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

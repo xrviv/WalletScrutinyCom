@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.hopex.global
 appCountry: 
-released: 2022-08-01
-updated: 2023-01-19
+released: '2022-08-01'
+updated: '2023-01-19'
 version: '4.2.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

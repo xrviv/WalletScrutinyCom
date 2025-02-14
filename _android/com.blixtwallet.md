@@ -9,7 +9,7 @@ users: 5000
 appId: com.blixtwallet
 appCountry: 
 released: 
-updated: 2025-01-23
+updated: '2025-01-23'
 version: 'VARY'
 stars: 
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nonverifiable
 appHashes: 
-date: 2022-02-07
+date: '2022-02-07'
 signer: 
 reviewArchive: 
 twitter: BlixtWallet

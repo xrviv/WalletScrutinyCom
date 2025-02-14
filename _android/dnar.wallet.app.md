@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: dnar.wallet.app
 appCountry: 
-released: 2019-11-24
-updated: 2022-06-23
+released: '2019-11-24'
+updated: '2022-06-23'
 version: '4.0'
 stars: 2.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-07-02
+date: '2023-07-02'
 signer: 
 reviewArchive: 
 twitter: dnarhq

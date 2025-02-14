@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.shen.aci2
 appCountry: 
-released: 2022-06-07
-updated: 2022-06-08
+released: '2022-06-07'
+updated: '2022-06-08'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

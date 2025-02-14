@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.molnike.crypto.simplesign
 appCountry: 
-released: 2023-01-11
-updated: 2023-03-09
+released: '2023-01-11'
+updated: '2023-03-09'
 version: '0.6'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: fewusers
 appHashes: 
-date: 2024-03-07
+date: '2024-03-07'
 signer: 
 reviewArchive: 
 twitter: 

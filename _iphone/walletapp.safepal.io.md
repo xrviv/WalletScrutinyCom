@@ -7,8 +7,8 @@ authors:
 appId: walletapp.safepal.io
 appCountry: 
 idd: 1548297139
-released: 2021-01-11
-updated: 2025-01-23
+released: '2021-01-11'
+updated: '2025-01-23'
 version: '4.8.6'
 stars: 4.8
 reviews: 10880
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2021-04-26
+date: '2021-04-26'
 signer: 
 reviewArchive: 
 twitter: iSafePal

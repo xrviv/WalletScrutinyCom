@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.fcoin.exchange
 appCountry: 
-released: 2018-07-13
-updated: 2020-01-19
+released: '2018-07-13'
+updated: '2020-01-19'
 version: '1.14.1'
 stars: 4.3
 ratings: 91
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2022-03-24
+date: '2022-03-24'
 signer: 
 reviewArchive: 
 twitter: 

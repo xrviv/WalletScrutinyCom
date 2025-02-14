@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: finance.trustpocket.trustpocket
 appCountry: 
-released: 2021-08-06
-updated: 2021-10-04
+released: '2021-08-06'
+updated: '2021-10-04'
 version: '1.0.3'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

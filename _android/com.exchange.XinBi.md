@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.exchange.XinBi
 appCountry: 
-released: 2019-09-23
-updated: 2020-01-14
+released: '2019-09-23'
+updated: '2020-01-14'
 version: '4.0.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.web.unitedexchange
 appCountry: 
-released: 2021-06-16
-updated: 2023-05-04
+released: '2021-06-16'
+updated: '2023-05-04'
 version: '3.7'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: exchange_united

@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: me.flyp.mobile
 appCountry: 
-released: 2020-03-13
-updated: 2020-10-09
+released: '2020-03-13'
+updated: '2020-10-09'
 version: '1.0.4'
 stars: 4.1
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-09-08
+date: '2024-09-08'
 signer: 
 reviewArchive: 
 twitter: 

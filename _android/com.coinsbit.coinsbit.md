@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.coinsbit.coinsbit
 appCountry: 
-released: 2019-10-28
-updated: 2024-06-04
+released: '2019-10-28'
+updated: '2024-06-04'
 version: '1.0.2'
 stars: 2.6
 ratings: 1855
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-04-17
+date: '2024-04-17'
 signer: 
 reviewArchive: 
 twitter: c0insbit

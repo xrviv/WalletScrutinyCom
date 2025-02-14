@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.e.bitmoondotnet
 appCountry: 
-released: 2020-02-03
-updated: 2020-02-03
+released: '2020-02-03'
+updated: '2020-02-03'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-04-22
+date: '2023-04-22'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.studentcoin
 appCountry: pl
-released: 2021-04-01
-updated: 2023-05-12
+released: '2021-04-01'
+updated: '2023-05-12'
 version: '1.15.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-10-23
+date: '2024-10-23'
 signer: 
 reviewArchive: 
 twitter: studentcoinorg

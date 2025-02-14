@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.wavesplatform.wallet
 appCountry: 
-released: 2017-03-09
-updated: 2022-12-15
+released: '2017-03-09'
+updated: '2022-12-15'
 version: '2.28.3'
 stars: 4
 ratings: 6992
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: waves_exchange

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.bimofan.quantification
 appCountry: 
-released: 2021-11-09
-updated: 2023-12-01
+released: '2021-11-09'
+updated: '2023-12-01'
 version: '3.2.3'
 stars: 3.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nowallet
 appHashes: 
-date: 2024-11-29
+date: '2024-11-29'
 signer: 
 reviewArchive: 
 twitter: 

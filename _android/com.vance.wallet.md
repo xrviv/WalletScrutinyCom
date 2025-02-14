@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.vance.wallet
 appCountry: 
-released: 2022-02-25
-updated: 2022-02-25
+released: '2022-02-25'
+updated: '2022-02-25'
 version: '0.21.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

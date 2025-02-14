@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: io.zla.app
 appCountry: 
-released: 2018-04-19
-updated: 2019-12-12
+released: '2018-04-19'
+updated: '2019-12-12'
 version: '2.6.3'
 stars: 4.5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

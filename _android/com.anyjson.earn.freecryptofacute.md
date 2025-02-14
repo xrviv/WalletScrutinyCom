@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.anyjson.earn.freecryptofacute
 appCountry: 
-released: 2021-05-16
-updated: 2022-09-28
+released: '2021-05-16'
+updated: '2022-09-28'
 version: '1.5 '
 stars: 3.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

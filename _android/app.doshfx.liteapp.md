@@ -7,7 +7,7 @@ users: 500
 appId: app.doshfx.liteapp
 appCountry: 
 released: 
-updated: 2024-03-29
+updated: '2024-03-29'
 version: '4.5'
 stars: 4.4
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-10-31
+date: '2024-10-31'
 signer: 
 reviewArchive: 
 twitter: 

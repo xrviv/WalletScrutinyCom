@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.aibb.wallet
 appCountry: us
-released: 2019-04-04
-updated: 2021-10-04
+released: '2019-04-04'
+updated: '2021-10-04'
 version: '2.3.15'
 stars: 4.2
 ratings: 319
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-04-05
+date: '2023-04-05'
 signer: 
 reviewArchive: 
 twitter: BLOCKBANKapp

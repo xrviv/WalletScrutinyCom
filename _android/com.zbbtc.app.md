@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.zbbtc.app
 appCountry: 
-released: 2022-04-09
-updated: 2022-04-09
+released: '2022-04-09'
+updated: '2022-04-09'
 version: '1.0'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

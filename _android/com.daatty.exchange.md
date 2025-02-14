@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.daatty.exchange
 appCountry: 
-released: 2020-10-25
-updated: 2020-10-25
+released: '2020-10-25'
+updated: '2020-10-25'
 version: '1.0'
 stars: 4.3
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

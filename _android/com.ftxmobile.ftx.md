@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.ftxmobile.ftx
 appCountry: 
-released: 2020-05-08
-updated: 2022-10-14
+released: '2020-05-08'
+updated: '2022-10-14'
 version: '2.0.8'
 stars: 4.4
 ratings: 9850
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: FTX_Official

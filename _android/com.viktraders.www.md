@@ -6,8 +6,8 @@ authors:
 users: 5000
 appId: com.viktraders.www
 appCountry: 
-released: 2019-06-24
-updated: 2019-06-25
+released: '2019-06-24'
+updated: '2019-06-25'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-03
+date: '2023-05-03'
 signer: 
 reviewArchive: 
 twitter: 

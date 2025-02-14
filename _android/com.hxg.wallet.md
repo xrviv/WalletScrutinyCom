@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.hxg.wallet
 appCountry: 
-released: 2022-09-30
-updated: 2025-01-24
+released: '2022-09-30'
+updated: '2025-01-24'
 version: '3.4.9'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: WOWEARNENG

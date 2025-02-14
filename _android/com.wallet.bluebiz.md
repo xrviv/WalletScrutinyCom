@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.wallet.bluebiz
 appCountry: 
-released: 2019-10-30
-updated: 2020-04-05
+released: '2019-10-30'
+updated: '2020-04-05'
 version: '6.3.12'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

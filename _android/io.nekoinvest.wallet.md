@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.nekoinvest.wallet
 appCountry: 
-released: 2021-09-23
-updated: 2023-01-13
+released: '2021-09-23'
+updated: '2023-01-13'
 version: '2.1.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.coinizie.com.co
 appCountry: 
-released: 2020-09-11
-updated: 2020-09-11
+released: '2020-09-11'
+updated: '2020-09-11'
 version: '9.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: 

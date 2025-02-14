@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.dex.appwallet
 appCountry: 
-released: 2022-08-15
-updated: 2022-08-15
+released: '2022-08-15'
+updated: '2022-08-15'
 version: '1.0.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

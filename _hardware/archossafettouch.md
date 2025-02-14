@@ -4,9 +4,9 @@ appId: archossafettouch
 authors:
 - kiwilamb
 - leo
-released: 2019-03-31
+released: '2019-03-31'
 discontinued: 
-updated: 2019-12-18
+updated: '2019-12-18'
 version: '1.2.5'
 binaries: 
 dimensions: 
@@ -25,7 +25,7 @@ bugbounty:
 meta: obsolete
 verdict: nosource
 appHashes: 
-date: 2024-12-08
+date: '2024-12-08'
 signer: 
 reviewArchive: 
 twitter: ARCHOS

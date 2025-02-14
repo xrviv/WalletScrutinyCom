@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: co.hold.mobile
 appCountry: de
-released: 2018-09-27
-updated: 2022-07-26
+released: '2018-09-27'
+updated: '2022-07-26'
 version: '3.15.1'
 stars: 4.1
 ratings: 202
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: HoldHQ

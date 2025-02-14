@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: starlab.studios.cryptowallet
 appCountry: 
-released: 2021-06-01
-updated: 2024-01-30
+released: '2021-06-01'
+updated: '2024-01-30'
 version: '10.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: 

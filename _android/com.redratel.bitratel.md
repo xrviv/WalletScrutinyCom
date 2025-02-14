@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.redratel.bitratel
 appCountry: 
-released: 2019-09-10
-updated: 2021-05-14
+released: '2019-09-10'
+updated: '2021-05-14'
 version: '1.4.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

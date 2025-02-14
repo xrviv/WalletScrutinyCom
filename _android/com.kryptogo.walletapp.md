@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.kryptogo.walletapp
 appCountry: 
-released: 2021-12-28
-updated: 2025-02-04
+released: '2021-12-28'
+updated: '2025-02-04'
 version: '3.53.3'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-20
+date: '2024-07-20'
 signer: 
 reviewArchive: 
 twitter: kryptogo_

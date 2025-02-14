@@ -7,7 +7,7 @@ users: 10
 appId: com.tudirich
 appCountry: 
 released: 
-updated: 2022-09-25
+updated: '2022-09-25'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

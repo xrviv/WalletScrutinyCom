@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.georgegarside.freebitcoin
 appCountry: 
-released: 2020-10-30
-updated: 2021-05-25
+released: '2020-10-30'
+updated: '2021-05-25'
 version: '3.1.1'
 stars: 3.2
 ratings: 129
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: grgarside

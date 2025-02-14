@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.elbitcoin.trader
 appCountry: 
-released: 2021-09-17
-updated: 2021-09-20
+released: '2021-09-17'
+updated: '2021-09-20'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

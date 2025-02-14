@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.alterdice.android
 appCountry: 
-released: 2018-09-24
-updated: 2018-11-22
+released: '2018-09-24'
+updated: '2018-11-22'
 version: '1.3.7'
 stars: 2.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-09-10
+date: '2024-09-10'
 signer: 
 reviewArchive: 
 twitter: alterdicecom

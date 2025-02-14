@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.gobaba.cryptopos
 appCountry: 
-released: 2018-11-05
-updated: 2018-11-05
+released: '2018-11-05'
+updated: '2018-11-05'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-12-05
+date: '2021-12-05'
 signer: 
 reviewArchive: 
 twitter: 

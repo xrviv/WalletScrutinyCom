@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.coinshut.coinshut
 appCountry: 
-released: 2021-07-17
-updated: 2021-10-29
+released: '2021-07-17'
+updated: '2021-10-29'
 version: '0.1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

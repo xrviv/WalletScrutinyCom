@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.trading.aries
 appCountry: ng
-released: 2021-06-23
-updated: 2024-08-13
+released: '2021-06-23'
+updated: '2024-08-13'
 version: '3.7.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-11-22
+date: '2024-11-22'
 signer: 
 reviewArchive: 
 twitter: TradeAries

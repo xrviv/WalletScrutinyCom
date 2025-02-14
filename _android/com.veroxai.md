@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.veroxai
 appCountry: 
-released: 2021-12-19
-updated: 2022-04-12
+released: '2021-12-19'
+updated: '2022-04-12'
 version: '2.3'
 stars: 3.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

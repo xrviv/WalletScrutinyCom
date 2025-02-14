@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.xchange.baksman
 appCountry: ru
-released: 2020-02-03
-updated: 2024-07-31
+released: '2020-02-03'
+updated: '2024-07-31'
 version: '4..1'
 stars: 4.2
 ratings: 60
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.vnc.trex.bit
 appCountry: 
-released: 2023-03-05
-updated: 2024-07-12
+released: '2023-03-05'
+updated: '2024-07-12'
 version: '1.1.0'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2023-09-07
+date: '2023-09-07'
 signer: 
 reviewArchive: 
 twitter: 

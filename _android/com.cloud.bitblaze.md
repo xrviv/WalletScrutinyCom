@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.cloud.bitblaze
 appCountry: 
-released: 2022-10-28
-updated: 2023-02-23
+released: '2022-10-28'
+updated: '2023-02-23'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: 

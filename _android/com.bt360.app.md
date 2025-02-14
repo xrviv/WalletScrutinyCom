@@ -7,7 +7,7 @@ users: 50
 appId: com.bt360.app
 appCountry: 
 released: 
-updated: 2019-10-02
+updated: '2019-10-02'
 version: '1.1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 appId: com.uxuy
 appCountry: us
 idd: '6457257372'
-released: 2023-08-23
-updated: 2025-02-08
+released: '2023-08-23'
+updated: '2025-02-08'
 version: '1.3.13'
 stars: 3.8
 reviews: 17
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-09-05
+date: '2024-09-05'
 signer: 
 reviewArchive: 
 twitter: uxuycom

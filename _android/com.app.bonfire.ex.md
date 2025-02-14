@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.app.bonfire.ex
 appCountry: 
-released: 2022-04-28
-updated: 2022-05-06
+released: '2022-04-28'
+updated: '2022-05-06'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

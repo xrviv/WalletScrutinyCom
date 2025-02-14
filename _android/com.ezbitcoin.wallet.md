@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.ezbitcoin.wallet
 appCountry: 
-released: 2019-10-09
-updated: 2020-11-18
+released: '2019-10-09'
+updated: '2020-11-18'
 version: '1.2.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

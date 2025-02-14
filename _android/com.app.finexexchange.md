@@ -6,8 +6,8 @@ authors:
 users: 5000
 appId: com.app.finexexchange
 appCountry: 
-released: 2022-07-18
-updated: 2022-11-30
+released: '2022-07-18'
+updated: '2022-11-30'
 version: '11.5.0'
 stars: 4
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: 

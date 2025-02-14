@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.ljkj.blockpay
 appCountry: 
-released: 2022-04-08
-updated: 2023-02-08
+released: '2022-04-08'
+updated: '2023-02-08'
 version: '1.2.7'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-10
+date: '2024-10-10'
 signer: 
 reviewArchive: 
 twitter: 

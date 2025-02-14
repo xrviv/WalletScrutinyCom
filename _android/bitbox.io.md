@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: bitbox.io
 appCountry: 
-released: 2019-05-16
-updated: 2019-07-30
+released: '2019-05-16'
+updated: '2019-07-30'
 version: '1.0.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-09
+date: '2023-05-09'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.lovewallet.bfic
 appCountry: 
-released: 2022-04-12
-updated: 2022-04-13
+released: '2022-04-12'
+updated: '2022-04-13'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-30
+date: '2023-01-30'
 signer: 
 reviewArchive: 
 twitter: 

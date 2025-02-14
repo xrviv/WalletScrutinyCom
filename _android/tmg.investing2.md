@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: tmg.investing2
 appCountry: 
-released: 2021-01-22
-updated: 2023-02-20
+released: '2021-01-22'
+updated: '2023-02-20'
 version: '9.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

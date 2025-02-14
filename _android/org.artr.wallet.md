@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: org.artr.wallet
 appCountry: ru
-released: 2020-10-01
-updated: 2022-09-27
+released: '2020-10-01'
+updated: '2022-09-27'
 version: '1.8'
 stars: 3.6
 ratings: 2174
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.anfeli.bewallet
 appCountry: 
-released: 2018-11-05
-updated: 2019-05-28
+released: '2018-11-05'
+updated: '2019-05-28'
 version: '1.2.24'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

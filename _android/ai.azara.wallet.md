@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: ai.azara.wallet
 appCountry: de
-released: 2020-11-10
-updated: 2021-04-14
+released: '2020-11-10'
+updated: '2021-04-14'
 version: '0.01.18'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

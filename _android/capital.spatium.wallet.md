@@ -8,8 +8,8 @@ authors:
 users: 1000
 appId: capital.spatium.wallet
 appCountry: us
-released: 2018-08-31
-updated: 2024-02-22
+released: '2018-08-31'
+updated: '2024-02-22'
 version: '3.2.5'
 stars: 
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2025-01-27
+date: '2025-01-27'
 signer: 
 reviewArchive: 
 twitter: spatium_news

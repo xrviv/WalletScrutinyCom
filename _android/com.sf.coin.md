@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.sf.coin
 appCountry: 
-released: 2018-11-23
-updated: 2019-09-09
+released: '2018-11-23'
+updated: '2019-09-09'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

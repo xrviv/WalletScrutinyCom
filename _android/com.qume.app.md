@@ -7,7 +7,7 @@ users: 50
 appId: com.qume.app
 appCountry: 
 released: 
-updated: 2020-10-07
+updated: '2020-10-07'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

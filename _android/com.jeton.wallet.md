@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.jeton.wallet
 appCountry: us
-released: 2018-12-27
-updated: 2024-09-04
+released: '2018-12-27'
+updated: '2024-09-04'
 version: '3.7.3'
 stars: 3.1
 ratings: 3260
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-03
+date: '2021-09-03'
 signer: 
 reviewArchive: 
 twitter: jetonwallet

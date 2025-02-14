@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.suprafin.app.usa
 appCountry: 
-released: 2021-11-29
-updated: 2022-05-27
+released: '2021-11-29'
+updated: '2022-05-27'
 version: '1.2.35'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-30
+date: '2024-11-30'
 signer: 
 reviewArchive: 
 twitter: lreasor

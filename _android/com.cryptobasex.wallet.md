@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.cryptobasex.wallet
 appCountry: 
-released: 2020-01-31
-updated: 2020-04-23
+released: '2020-01-31'
+updated: '2020-04-23'
 version: '0.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-05-17
+date: '2023-05-17'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.brise.wallet
 appCountry: 
-released: 2021-12-08
-updated: 2021-12-08
+released: '2021-12-08'
+updated: '2021-12-08'
 version: '1.0.0'
 stars: 2.5
 ratings: 536
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

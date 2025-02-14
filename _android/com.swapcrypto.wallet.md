@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.swapcrypto.wallet
 appCountry: 
-released: 2021-12-06
-updated: 2021-12-06
+released: '2021-12-06'
+updated: '2021-12-06'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

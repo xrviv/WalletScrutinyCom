@@ -8,8 +8,8 @@ authors:
 appId: co.hodlwallet
 appCountry: 
 idd: 1382342568
-released: 2018-08-01
-updated: 2023-07-13
+released: '2018-08-01'
+updated: '2023-07-13'
 version: '1.13'
 stars: 3.8
 reviews: 137
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nonverifiable
 appHashes: 
-date: 2024-07-10
+date: '2024-07-10'
 signer: 
 reviewArchive: 
 twitter: hodlwallet

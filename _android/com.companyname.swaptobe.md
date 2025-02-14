@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.companyname.swaptobe
 appCountry: 
-released: 2021-10-14
-updated: 2024-09-14
+released: '2021-10-14'
+updated: '2024-09-14'
 version: '5.8'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-29
+date: '2024-11-29'
 signer: 
 reviewArchive: 
 twitter: swap_tobe

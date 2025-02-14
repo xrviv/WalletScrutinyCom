@@ -7,8 +7,8 @@ authors:
 appId: app.coinhubatm.wallet
 appCountry: us
 idd: '6444903066'
-released: 2023-03-14
-updated: 2025-02-06
+released: '2023-03-14'
+updated: '2025-02-06'
 version: '4.16.0'
 stars: 4.6
 reviews: 9
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-10-07
+date: '2024-10-07'
 signer: 
 reviewArchive: 
 twitter: Coinhubusa

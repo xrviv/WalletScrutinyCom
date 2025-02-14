@@ -7,8 +7,8 @@ authors:
 users: 500
 appId: com.kisswallet
 appCountry: 
-released: 2020-02-16
-updated: 2020-05-30
+released: '2020-02-16'
+updated: '2020-05-30'
 version: '0.3.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: coreylphillips

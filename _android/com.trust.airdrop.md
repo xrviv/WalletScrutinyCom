@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.trust.airdrop
 appCountry: 
-released: 2021-07-09
-updated: 2021-07-22
+released: '2021-07-09'
+updated: '2021-07-22'
 version: '2.0'
 stars: 4
 ratings: 5
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-09-16
+date: '2021-09-16'
 signer: 
 reviewArchive: 
 twitter: 

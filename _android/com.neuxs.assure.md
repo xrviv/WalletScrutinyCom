@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.neuxs.assure
 appCountry: 
-released: 2022-01-27
-updated: 2023-02-06
+released: '2022-01-27'
+updated: '2023-02-06'
 version: '1.0.96'
 stars: 3.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: 

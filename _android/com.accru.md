@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.accru
 appCountry: 
-released: 2021-11-01
-updated: 2023-01-10
+released: '2021-11-01'
+updated: '2023-01-10'
 version: '1.0.201'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-07
+date: '2024-11-07'
 signer: 
 reviewArchive: 
 twitter: AQRU_Official

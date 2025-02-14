@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: co.ocdigital.flashtrade
 appCountry: 
-released: 2018-01-02
-updated: 2018-01-21
+released: '2018-01-02'
+updated: '2018-01-21'
 version: '1.2.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-11-26
+date: '2021-11-26'
 signer: 
 reviewArchive: 
 twitter: 

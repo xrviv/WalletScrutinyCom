@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.refyzsfiefa.zsfiefaad
 appCountry: 
-released: 2021-12-09
-updated: 2021-12-09
+released: '2021-12-09'
+updated: '2021-12-09'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: network.woo.tr.mobile
 appCountry: 
-released: 2022-10-20
-updated: 2023-05-04
+released: '2022-10-20'
+updated: '2023-05-04'
 version: '3.4.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

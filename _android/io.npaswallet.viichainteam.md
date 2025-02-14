@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.npaswallet.viichainteam
 appCountry: 
-released: 2022-02-25
-updated: 2022-07-07
+released: '2022-02-25'
+updated: '2022-07-07'
 version: '3.0.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-08-24
+date: '2023-08-24'
 signer: 
 reviewArchive: 
 twitter: OCL890

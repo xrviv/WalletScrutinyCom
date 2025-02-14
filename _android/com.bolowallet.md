@@ -7,7 +7,7 @@ users: 100
 appId: com.bolowallet
 appCountry: 
 released: 
-updated: 2019-12-12
+updated: '2019-12-12'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

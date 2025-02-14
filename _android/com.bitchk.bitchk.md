@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.bitchk.bitchk
 appCountry: 
-released: 2017-11-17
-updated: 2017-11-29
+released: '2017-11-17'
+updated: '2017-11-29'
 version: '3.8.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

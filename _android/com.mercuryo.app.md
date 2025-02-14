@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.mercuryo.app
 appCountry: 
-released: 2019-09-03
-updated: 2025-01-15
+released: '2019-09-03'
+updated: '2025-01-15'
 version: '2.8.7'
 stars: 4.2
 ratings: 2732
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2020-11-17
+date: '2020-11-17'
 signer: 
 reviewArchive: 
 twitter: Mercuryo_io

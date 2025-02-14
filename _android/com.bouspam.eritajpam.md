@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bouspam.eritajpam
 appCountry: 
-released: 2022-03-28
-updated: 2024-11-28
+released: '2022-03-28'
+updated: '2024-11-28'
 version: '2.4.3'
 stars: 2.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-20
+date: '2023-04-20'
 signer: 
 reviewArchive: 
 twitter: eritajpam

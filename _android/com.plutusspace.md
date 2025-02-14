@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.plutusspace
 appCountry: 
-released: 2022-01-22
-updated: 2022-01-22
+released: '2022-01-22'
+updated: '2022-01-22'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

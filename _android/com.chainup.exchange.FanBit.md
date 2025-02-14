@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.chainup.exchange.FanBit
 appCountry: 
-released: 2021-12-13
-updated: 2022-06-24
+released: '2021-12-13'
+updated: '2022-06-24'
 version: '5.4.0_push_v2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

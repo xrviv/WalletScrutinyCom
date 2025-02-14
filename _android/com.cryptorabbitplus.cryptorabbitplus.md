@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.cryptorabbitplus.cryptorabbitplus
 appCountry: 
-released: 2019-06-09
-updated: 2020-06-26
+released: '2019-06-09'
+updated: '2020-06-26'
 version: '1.0.9'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

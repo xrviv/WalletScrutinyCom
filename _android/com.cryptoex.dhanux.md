@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.cryptoex.dhanux
 appCountry: 
-released: 2022-03-02
-updated: 2023-01-12
+released: '2022-03-02'
+updated: '2023-01-12'
 version: '4.2'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 appId: btctrade.btcbox
 appCountry: jp
 idd: '1076075645'
-released: 2016-01-22
-updated: 2024-12-18
+released: '2016-01-22'
+updated: '2024-12-18'
 version: '1.238'
 stars: 2.8
 reviews: 15
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-05-04
+date: '2023-05-04'
 signer: 
 reviewArchive: 
 twitter: BtcboxE

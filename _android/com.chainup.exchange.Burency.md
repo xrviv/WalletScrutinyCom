@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.chainup.exchange.Burency
 appCountry: 
-released: 2021-11-20
-updated: 2023-12-15
+released: '2021-11-20'
+updated: '2023-12-15'
 version: '5.9.1_push_v2'
 stars: 3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2023-06-29
+date: '2023-06-29'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bitpezapro.app
 appCountry: us
-released: 2020-02-09
-updated: 2022-09-26
+released: '2020-02-09'
+updated: '2022-09-26'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-09-16
+date: '2024-09-16'
 signer: 
 reviewArchive: 
 twitter: 

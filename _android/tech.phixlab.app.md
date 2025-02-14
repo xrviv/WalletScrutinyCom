@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: tech.phixlab.app
 appCountry: 
-released: 2019-06-12
-updated: 2019-06-12
+released: '2019-06-12'
+updated: '2019-06-12'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

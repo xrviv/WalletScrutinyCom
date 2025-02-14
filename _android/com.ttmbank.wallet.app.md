@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.ttmbank.wallet.app
 appCountry: 
-released: 2021-08-05
-updated: 2024-04-25
+released: '2021-08-05'
+updated: '2024-04-25'
 version: '2.3.10'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-15
+date: '2024-07-15'
 signer: 
 reviewArchive: 
 twitter: 0xMarsDAO

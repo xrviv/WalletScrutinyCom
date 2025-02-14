@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.kevinpetters.bitcointrading
 appCountry: 
-released: 2019-06-30
-updated: 2019-06-30
+released: '2019-06-30'
+updated: '2019-06-30'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-03-24
+date: '2022-03-24'
 signer: 
 reviewArchive: 
 twitter: 

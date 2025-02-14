@@ -7,7 +7,7 @@ users: 500
 appId: nagax.mobile
 appCountry: 
 released: 
-updated: 2023-04-07
+updated: '2023-04-07'
 version: '1.0.18'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

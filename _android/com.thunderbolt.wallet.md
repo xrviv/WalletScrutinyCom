@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.thunderbolt.wallet
 appCountry: 
-released: 2021-08-29
-updated: 2021-08-29
+released: '2021-08-29'
+updated: '2021-08-29'
 version: '1.0.3'
 stars: 4.1
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

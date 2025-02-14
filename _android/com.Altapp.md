@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.Altapp
 appCountry: 
-released: 2019-06-27
-updated: 2019-08-02
+released: '2019-06-27'
+updated: '2019-08-02'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

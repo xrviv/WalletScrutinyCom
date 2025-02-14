@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: co.bitcoindepot.app
 appCountry: us
-released: 2020-11-04
-updated: 2024-08-14
+released: '2020-11-04'
+updated: '2024-08-14'
 version: '3.1.3'
 stars: 4.3
 ratings: 105
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-11-08
+date: '2021-11-08'
 signer: 
 reviewArchive: 
 twitter: bitcoin_depot

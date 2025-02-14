@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: io.hexn.mobile
 appCountry: 
-released: 2022-12-12
-updated: 2025-01-12
+released: '2022-12-12'
+updated: '2025-01-12'
 version: '1.2.2'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-17
+date: '2023-07-17'
 signer: 
 reviewArchive: 
 twitter: hexn_io

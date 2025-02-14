@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.bitfyapp
 appCountry: us
-released: 2019-10-14
-updated: 2024-03-05
+released: '2019-10-14'
+updated: '2024-03-05'
 version: '3.12.48'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2025-02-04
+date: '2025-02-04'
 signer: 
 reviewArchive: 
 twitter: bitfyapp

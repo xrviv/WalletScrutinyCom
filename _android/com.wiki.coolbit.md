@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.wiki.coolbit
 appCountry: 
-released: 2021-03-09
-updated: 2021-05-10
+released: '2021-03-09'
+updated: '2021-05-10'
 version: '1.2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

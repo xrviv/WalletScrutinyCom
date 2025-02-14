@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.kingcrypto.android
 appCountry: 
-released: 2021-10-17
-updated: 2021-11-17
+released: '2021-10-17'
+updated: '2021-11-17'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.instaforex.bitcoin
 appCountry: 
-released: 2016-12-15
-updated: 2020-08-26
+released: '2016-12-15'
+updated: '2020-08-26'
 version: '0.12.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-10
+date: '2023-05-10'
 signer: 
 reviewArchive: 
 twitter: 

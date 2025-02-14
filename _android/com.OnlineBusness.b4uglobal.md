@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.OnlineBusness.b4uglobal
 appCountry: 
-released: 2021-01-04
-updated: 2021-01-22
+released: '2021-01-04'
+updated: '2021-01-22'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-03
+date: '2023-05-03'
 signer: 
 reviewArchive: 
 twitter: 

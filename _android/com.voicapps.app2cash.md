@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.voicapps.app2cash
 appCountry: us
-released: 2019-09-17
-updated: 2024-04-28
+released: '2019-09-17'
+updated: '2024-04-28'
 version: '2.1.00'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-04
+date: '2024-11-04'
 signer: 
 reviewArchive: 
 twitter: 2cashnetwork

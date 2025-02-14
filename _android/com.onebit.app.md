@@ -8,8 +8,8 @@ authors:
 users: 100000
 appId: com.onebit.app
 appCountry: 
-released: 2017-11-23
-updated: 2020-11-11
+released: '2017-11-23'
+updated: '2020-11-11'
 version: '3.25.1'
 stars: 3.1
 ratings: 1076
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-09-03
+date: '2021-09-03'
 signer: 
 reviewArchive: 
 twitter: 

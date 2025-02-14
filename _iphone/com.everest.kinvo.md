@@ -7,8 +7,8 @@ authors:
 appId: com.everest.kinvo
 appCountry: BR
 idd: '1327335329'
-released: 2018-01-03
-updated: 2025-02-05
+released: '2018-01-03'
+updated: '2025-02-05'
 version: '3.50.1'
 stars: 4.6
 reviews: 18326
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2022-06-23
+date: '2022-06-23'
 signer: 
 reviewArchive: 
 twitter: kinvoapp

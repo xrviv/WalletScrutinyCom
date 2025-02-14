@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.savox.app
 appCountry: 
-released: 2022-07-26
-updated: 2022-10-17
+released: '2022-07-26'
+updated: '2022-10-17'
 version: '1.0.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.libertyx.libertyx
 appCountry: us
-released: 2015-06-05
-updated: 2024-12-04
+released: '2015-06-05'
+updated: '2024-12-04'
 version: '4.2.1'
 stars: 3
 ratings: 427
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-07-04
+date: '2023-07-04'
 signer: 
 reviewArchive: 
 twitter: libertyx

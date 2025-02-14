@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.kraken.superwallet
 appCountry: 
-released: 2024-04-11
-updated: 2025-02-06
+released: '2024-04-11'
+updated: '2025-02-06'
 version: '1.17.0 (30)'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: wip
 appHashes: 
-date: 2025-02-04
+date: '2025-02-04'
 signer: 
 reviewArchive: 
 twitter: krakenfx

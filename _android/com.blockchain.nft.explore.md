@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.blockchain.nft.explore
 appCountry: 
-released: 2022-12-17
-updated: 2022-12-18
+released: '2022-12-17'
+updated: '2022-12-18'
 version: '1.0.7'
 stars: 4.9
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: 

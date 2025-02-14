@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.vaulthotpro
 appCountry: us
-released: 2020-03-30
-updated: 2021-03-22
+released: '2020-03-30'
+updated: '2021-03-22'
 version: '2.2.6'
 stars: 3.2
 ratings: 29
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-26
+date: '2021-11-26'
 signer: 
 reviewArchive: 
 twitter: Cobo_Wallet

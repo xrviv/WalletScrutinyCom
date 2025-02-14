@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.ueasy8.app
 appCountry: 
-released: 2021-12-28
-updated: 2024-10-03
+released: '2021-12-28'
+updated: '2024-10-03'
 version: '4.1.8'
 stars: 2.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-08-17
+date: '2023-08-17'
 signer: 
 reviewArchive: 
 twitter: 

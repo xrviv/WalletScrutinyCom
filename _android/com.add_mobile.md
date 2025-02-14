@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.add_mobile
 appCountry: 
-released: 2021-12-10
-updated: 2022-04-28
+released: '2021-12-10'
+updated: '2022-04-28'
 version: '1.4'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2025-02-04
+date: '2025-02-04'
 signer: 
 reviewArchive: 
 twitter: 

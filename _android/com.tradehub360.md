@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.tradehub360
 appCountry: 
-released: 2022-10-10
-updated: 2023-06-13
+released: '2022-10-10'
+updated: '2023-06-13'
 version: '2.0.70'
 stars: 4.3
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

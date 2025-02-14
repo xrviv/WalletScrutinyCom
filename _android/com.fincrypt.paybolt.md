@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.fincrypt.paybolt
 appCountry: 
-released: 2022-04-03
-updated: 2022-11-17
+released: '2022-04-03'
+updated: '2022-11-17'
 version: '3.4.0'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-12-15
+date: '2024-12-15'
 signer: 
 reviewArchive: 
 twitter: PayBoltOfficial

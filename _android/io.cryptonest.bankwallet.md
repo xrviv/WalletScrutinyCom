@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: io.cryptonest.bankwallet
 appCountry: 
-released: 2021-11-10
-updated: 2021-11-10
+released: '2021-11-10'
+updated: '2021-11-10'
 version: '0.22.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-11-22
+date: '2024-11-22'
 signer: 
 reviewArchive: 
 twitter: 

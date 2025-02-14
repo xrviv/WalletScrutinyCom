@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.selendra.secure_wallet
 appCountry: 
-released: 2021-02-22
-updated: 2023-12-13
+released: '2021-02-22'
+updated: '2023-12-13'
 version: '9.0.3'
 stars: 4.2
 ratings: 96
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nonverifiable
 appHashes: 
-date: 2022-03-07
+date: '2022-03-07'
 signer: 
 reviewArchive: 
 twitter: SelendraChain

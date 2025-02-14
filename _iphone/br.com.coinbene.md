@@ -7,8 +7,8 @@ authors:
 appId: br.com.coinbene
 appCountry: us
 idd: 1439224379
-released: 2018-11-12
-updated: 2021-09-13
+released: '2018-11-12'
+updated: '2021-09-13'
 version: '4.8.6'
 stars: 3.3
 reviews: 46
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: coinbene

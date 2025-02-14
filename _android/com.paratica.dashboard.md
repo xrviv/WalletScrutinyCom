@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.paratica.dashboard
 appCountry: 
-released: 2019-04-05
-updated: 2019-04-05
+released: '2019-04-05'
+updated: '2019-04-05'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: paraticacom

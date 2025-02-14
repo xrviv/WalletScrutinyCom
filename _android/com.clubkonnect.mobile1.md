@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.clubkonnect.mobile1
 appCountry: 
-released: 2017-10-31
-updated: 2024-08-16
+released: '2017-10-31'
+updated: '2024-08-16'
 version: '2.0.36'
 stars: 2.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-02-08
+date: '2023-02-08'
 signer: 
 reviewArchive: 
 twitter: clubkonnect247

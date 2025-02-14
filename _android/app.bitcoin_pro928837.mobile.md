@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: app.bitcoin_pro928837.mobile
 appCountry: 
-released: 2022-11-10
-updated: 2022-11-11
+released: '2022-11-10'
+updated: '2022-11-11'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

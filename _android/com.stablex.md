@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.stablex
 appCountry: 
-released: 2021-10-27
-updated: 2025-01-28
+released: '2021-10-27'
+updated: '2025-01-28'
 version: '2.7.2'
 stars: 3.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-06-03
+date: '2023-06-03'
 signer: 
 reviewArchive: 
 twitter: Stablex_Turkey

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.sencoinex.android
 appCountry: 
-released: 2019-07-05
-updated: 2019-12-03
+released: '2019-07-05'
+updated: '2019-12-03'
 version: '1.0.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

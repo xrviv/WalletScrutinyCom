@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.mobox.wallet
 appCountry: us
-released: 2021-02-02
-updated: 2023-12-11
+released: '2021-02-02'
+updated: '2023-12-11'
 version: '1.6.0'
 stars: 4.6
 ratings: 2457
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nobtc
 appHashes: 
-date: 2023-05-10
+date: '2023-05-10'
 signer: 
 reviewArchive: 
 twitter: MOBOX_Official

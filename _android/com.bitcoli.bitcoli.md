@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bitcoli.bitcoli
 appCountry: 
-released: 2023-01-13
-updated: 2024-10-09
+released: '2023-01-13'
+updated: '2024-10-09'
 version: '1.2.1'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-02-28
+date: '2024-02-28'
 signer: 
 reviewArchive: 
 twitter: 

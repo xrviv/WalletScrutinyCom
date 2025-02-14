@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.yyborsa
 appCountry: 
-released: 2021-08-20
-updated: 2021-08-20
+released: '2021-08-20'
+updated: '2021-08-20'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

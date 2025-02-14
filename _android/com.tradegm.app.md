@@ -7,7 +7,7 @@ users: 100
 appId: com.tradegm.app
 appCountry: 
 released: 
-updated: 2020-12-18
+updated: '2020-12-18'
 version: '1.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

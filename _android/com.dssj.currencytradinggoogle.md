@@ -6,8 +6,8 @@ authors:
 users: 5000
 appId: com.dssj.currencytradinggoogle
 appCountry: 
-released: 2020-02-12
-updated: 2021-03-11
+released: '2020-02-12'
+updated: '2021-03-11'
 version: '1.4.1'
 stars: 2.3
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

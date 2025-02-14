@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.abbc.abbcmobile
 appCountry: 
-released: 2019-08-08
-updated: 2023-07-02
+released: '2019-08-08'
+updated: '2023-07-02'
 version: '1.3.4'
 stars: 4.2
 ratings: 629
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-10-05
+date: '2024-10-05'
 signer: 
 reviewArchive: 
 twitter: abbcfoundation

@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.badgermobile
 appCountry: 
-released: 2019-06-10
-updated: 2022-04-15
+released: '2019-06-10'
+updated: '2022-04-15'
 version: '1.13.18'
 stars: 3.6
 ratings: 168
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: badgerwallet

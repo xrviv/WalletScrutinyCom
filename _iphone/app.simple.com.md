@@ -7,8 +7,8 @@ authors:
 appId: app.simple.com
 appCountry: gb
 idd: '1603406843'
-released: 2022-05-06
-updated: 2025-02-11
+released: '2022-05-06'
+updated: '2025-02-11'
 version: '3.7.1'
 stars: 4.8
 reviews: 207
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-10-07
+date: '2024-10-07'
 signer: 
 reviewArchive: 
 twitter: smpl_app

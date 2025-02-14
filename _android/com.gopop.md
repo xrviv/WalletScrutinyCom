@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.gopop
 appCountry: 
-released: 2022-08-01
-updated: 2023-10-05
+released: '2022-08-01'
+updated: '2023-10-05'
 version: '3.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: fewusers
 appHashes: 
-date: 2024-10-02
+date: '2024-10-02'
 signer: 
 reviewArchive: 
 twitter: 

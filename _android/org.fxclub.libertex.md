@@ -7,8 +7,8 @@ authors:
 users: 10000000
 appId: org.fxclub.libertex
 appCountry: cl
-released: 2015-05-22
-updated: 2025-02-04
+released: '2015-05-22'
+updated: '2025-02-04'
 version: '2.42.0'
 stars: 4
 ratings: 77624
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2021-08-09
+date: '2021-08-09'
 signer: 
 reviewArchive: 
 twitter: libertex_latam

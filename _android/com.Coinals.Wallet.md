@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.Coinals.Wallet
 appCountry: 
-released: 2021-04-23
-updated: 2021-04-23
+released: '2021-04-23'
+updated: '2021-04-23'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2021-11-22
+date: '2021-11-22'
 signer: 
 reviewArchive: 
 twitter: 

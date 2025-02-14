@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.coincloud.walletpreview
 appCountry: 
-released: 2022-02-02
-updated: 2023-03-09
+released: '2022-02-02'
+updated: '2023-03-09'
 version: '12.9.24'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: bitstopofficial

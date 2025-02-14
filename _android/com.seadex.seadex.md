@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.seadex.seadex
 appCountry: 
-released: 2018-08-11
-updated: 2018-09-05
+released: '2018-08-11'
+updated: '2018-09-05'
 version: '1.2.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2026-06-02
+date: '2026-06-02'
 signer: 
 reviewArchive: 
 twitter: 

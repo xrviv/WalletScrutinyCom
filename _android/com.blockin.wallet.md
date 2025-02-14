@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.blockin.wallet
 appCountry: us
-released: 2020-03-23
-updated: 2024-08-21
+released: '2020-03-23'
+updated: '2024-08-21'
 version: '2.5.13'
 stars: 3.3
 ratings: 225
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-19
+date: '2024-10-19'
 signer: 
 reviewArchive: 
 twitter: PoolinWallet

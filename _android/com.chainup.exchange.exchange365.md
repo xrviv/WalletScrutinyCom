@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.chainup.exchange.exchange365
 appCountry: 
-released: 2022-09-09
-updated: 2022-09-27
+released: '2022-09-09'
+updated: '2022-09-27'
 version: '5.5.0_push_v2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

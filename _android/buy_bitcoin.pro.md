@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: buy_bitcoin.pro
 appCountry: 
-released: 2018-12-09
-updated: 2020-05-19
+released: '2018-12-09'
+updated: '2020-05-19'
 version: '1.0.9'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-09
+date: '2023-05-09'
 signer: 
 reviewArchive: 
 twitter: 

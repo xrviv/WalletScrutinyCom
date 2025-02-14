@@ -7,8 +7,8 @@ authors:
 appId: com.airtimedatahub.ios
 appCountry: us
 idd: '1549591166'
-released: 2021-02-09
-updated: 2024-01-31
+released: '2021-02-09'
+updated: '2024-01-31'
 version: '1.0.15'
 stars: 3.2
 reviews: 9
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: nowallet
 appHashes: 
-date: 2025-01-27
+date: '2025-01-27'
 signer: 
 reviewArchive: 
 twitter: airtimedatahub

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.walletx
 appCountry: 
-released: 2022-04-28
-updated: 2022-11-23
+released: '2022-04-28'
+updated: '2022-11-23'
 version: '2.0'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nobtc
 appHashes: 
-date: 2024-11-13
+date: '2024-11-13'
 signer: 
 reviewArchive: 
 twitter: 

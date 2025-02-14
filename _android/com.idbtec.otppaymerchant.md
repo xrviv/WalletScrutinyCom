@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.idbtec.otppaymerchant
 appCountry: 
-released: 2018-12-05
-updated: 2019-06-18
+released: '2018-12-05'
+updated: '2019-06-18'
 version: '1.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.apollox.android
 appCountry: 
-released: 2021-10-21
-updated: 2023-08-10
+released: '2021-10-21'
+updated: '2023-08-10'
 version: '2.61.0'
 stars: 3.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: ApolloX_Finance

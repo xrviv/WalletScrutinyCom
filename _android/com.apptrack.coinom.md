@@ -8,8 +8,8 @@ authors:
 users: 10
 appId: com.apptrack.coinom
 appCountry: 
-released: 2021-05-25
-updated: 2021-05-25
+released: '2021-05-25'
+updated: '2021-05-25'
 version: '1.0.12'
 stars: 
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-07-30
+date: '2021-07-30'
 signer: 
 reviewArchive: 
 twitter: 

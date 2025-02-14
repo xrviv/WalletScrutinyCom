@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.planb.savings
 appCountry: 
-released: 2020-07-08
-updated: 2020-07-13
+released: '2020-07-08'
+updated: '2020-07-13'
 version: '0.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,7 +7,7 @@ users: 500
 appId: com.ecotx.platform
 appCountry: 
 released: 
-updated: 2022-10-04
+updated: '2022-10-04'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

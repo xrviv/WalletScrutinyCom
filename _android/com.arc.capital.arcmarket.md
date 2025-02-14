@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.arc.capital.arcmarket
 appCountry: 
-released: 2021-09-24
-updated: 2021-09-24
+released: '2021-09-24'
+updated: '2021-09-24'
 version: '1.0'
 stars: 4.4
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

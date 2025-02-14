@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.ubrain.cryptowallet
 appCountry: 
-released: 2022-04-22
-updated: 2023-04-18
+released: '2022-04-22'
+updated: '2023-04-18'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-11-12
+date: '2024-11-12'
 signer: 
 reviewArchive: 
 twitter: 

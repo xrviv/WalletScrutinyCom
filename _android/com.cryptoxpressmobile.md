@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.cryptoxpressmobile
 appCountry: 
-released: 2021-09-20
-updated: 2024-10-31
+released: '2021-09-20'
+updated: '2024-10-31'
 version: '1.40.4'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-21
+date: '2023-04-21'
 signer: 
 reviewArchive: 
 twitter: crypto_xpress

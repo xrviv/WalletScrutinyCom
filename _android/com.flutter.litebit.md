@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.flutter.litebit
 appCountry: 
-released: 2019-12-12
-updated: 2023-05-16
+released: '2019-12-12'
+updated: '2023-05-16'
 version: '3.3.19'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-05-11
+date: '2024-05-11'
 signer: 
 reviewArchive: 
 twitter: litebiteu

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.getamber.app
 appCountry: 
-released: 2021-06-21
-updated: 2024-12-10
+released: '2021-06-21'
+updated: '2024-12-10'
 version: '5.5.3'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-17
+date: '2023-07-17'
 signer: 
 reviewArchive: 
 twitter: theamberapp

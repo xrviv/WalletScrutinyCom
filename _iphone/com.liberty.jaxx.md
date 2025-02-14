@@ -7,8 +7,8 @@ authors:
 appId: com.liberty.jaxx
 appCountry: 
 idd: 1435383184
-released: 2018-10-03
-updated: 2022-06-20
+released: '2018-10-03'
+updated: '2022-06-20'
 version: '3.0.0'
 stars: 4.5
 reviews: 1566
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-04-16
+date: '2023-04-16'
 signer: 
 reviewArchive: 
 twitter: jaxx_io

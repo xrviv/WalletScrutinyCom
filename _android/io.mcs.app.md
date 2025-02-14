@@ -7,7 +7,7 @@ users: 1000
 appId: io.mcs.app
 appCountry: 
 released: 
-updated: 2022-01-20
+updated: '2022-01-20'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

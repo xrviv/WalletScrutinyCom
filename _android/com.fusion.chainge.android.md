@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.fusion.chainge.android
 appCountry: us
-released: 2021-05-17
-updated: 2024-10-17
+released: '2021-05-17'
+updated: '2024-10-17'
 version: '0.8.1'
 stars: 3.7
 ratings: 8141
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-16
+date: '2024-07-16'
 signer: 
 reviewArchive: 
 twitter: FinanceChainge

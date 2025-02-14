@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.richamster.app
 appCountry: 
-released: 2018-11-24
-updated: 2023-07-12
+released: '2018-11-24'
+updated: '2023-07-12'
 version: '3.2.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-14
+date: '2024-07-14'
 signer: 
 reviewArchive: 
 twitter: Richamster_com

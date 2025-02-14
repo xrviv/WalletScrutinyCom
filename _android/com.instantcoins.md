@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.instantcoins
 appCountry: ng
-released: 2020-06-19
-updated: 2021-04-05
+released: '2020-06-19'
+updated: '2021-04-05'
 version: '1.0.6'
 stars: 2.1
 ratings: 214
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: instantcoins_ng

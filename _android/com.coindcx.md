@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.coindcx
 appCountry: 
-released: 2018-11-02
-updated: 2024-07-12
+released: '2018-11-02'
+updated: '2024-07-12'
 version: '6.34.0003'
 stars: 4.5
 ratings: 13567
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-08-21
+date: '2021-08-21'
 signer: 
 reviewArchive: 
 twitter: coindcx

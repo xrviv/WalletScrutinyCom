@@ -7,8 +7,8 @@ authors:
 appId: com.atani.mobile
 appCountry: us
 idd: '1547110479'
-released: 2021-03-12
-updated: 2025-01-22
+released: '2021-03-12'
+updated: '2025-01-22'
 version: '4.25.14'
 stars: 4.6
 reviews: 35
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-07-28
+date: '2023-07-28'
 signer: 
 reviewArchive: 
 twitter: Atani_Official

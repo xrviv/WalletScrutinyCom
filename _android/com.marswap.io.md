@@ -7,7 +7,7 @@ users: 10
 appId: com.marswap.io
 appCountry: 
 released: 
-updated: 2022-11-29
+updated: '2022-11-29'
 version: '2.6.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

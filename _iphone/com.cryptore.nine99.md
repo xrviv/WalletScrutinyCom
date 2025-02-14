@@ -7,8 +7,8 @@ authors:
 appId: com.cryptore.nine99
 appCountry: in
 idd: '1609787479'
-released: 2022-02-16
-updated: 2022-07-14
+released: '2022-02-16'
+updated: '2022-07-14'
 version: '1.1.8'
 stars: 2.9
 reviews: 17
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: coinlord_trade

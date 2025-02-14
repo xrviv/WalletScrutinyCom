@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: bit.consortium.wallet
 appCountry: 
-released: 2021-08-10
-updated: 2021-08-10
+released: '2021-08-10'
+updated: '2021-08-10'
 version: '9.02'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-30
+date: '2023-01-30'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.fold
 appCountry: us
-released: 2019-11-12
-updated: 2025-02-11
+released: '2019-11-12'
+updated: '2025-02-11'
 version: '141.1.1'
 stars: 3.6
 ratings: 987
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-09-15
+date: '2021-09-15'
 signer: 
 reviewArchive: 
 twitter: fold_app

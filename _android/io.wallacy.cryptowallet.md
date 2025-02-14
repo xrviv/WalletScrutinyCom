@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: io.wallacy.cryptowallet
 appCountry: 
-released: 2023-07-19
-updated: 2025-01-14
+released: '2023-07-19'
+updated: '2025-01-14'
 version: '0.1.15'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-08-30
+date: '2023-08-30'
 signer: 
 reviewArchive: 
 twitter: WallacyWallet

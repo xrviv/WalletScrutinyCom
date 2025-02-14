@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.trading.token_app
 appCountry: 
-released: 2022-04-11
-updated: 2022-04-14
+released: '2022-04-11'
+updated: '2022-04-14'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: 

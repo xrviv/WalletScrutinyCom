@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.exchangedm
 appCountry: 
-released: 2022-08-22
-updated: 2022-08-22
+released: '2022-08-22'
+updated: '2022-08-22'
 version: '1.1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-15
+date: '2024-12-15'
 signer: 
 reviewArchive: 
 twitter: dmdigitalmoney

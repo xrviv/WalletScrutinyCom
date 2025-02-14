@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.yeschanger.com
 appCountry: 
-released: 2022-06-02
-updated: 2023-03-27
+released: '2022-06-02'
+updated: '2023-03-27'
 version: '3.92.13'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nowallet
 appHashes: 
-date: 2024-03-22
+date: '2024-03-22'
 signer: 
 reviewArchive: 
 twitter: YesChanger

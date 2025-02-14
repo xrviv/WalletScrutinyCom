@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: com.emc.elmaocoin
 appCountry: 
-released: 2022-01-03
-updated: 2022-01-03
+released: '2022-01-03'
+updated: '2022-01-03'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

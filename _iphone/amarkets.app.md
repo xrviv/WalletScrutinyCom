@@ -7,8 +7,8 @@ authors:
 appId: amarkets.app
 appCountry: us
 idd: 1495820700
-released: 2020-02-12
-updated: 2023-03-15
+released: '2020-02-12'
+updated: '2023-03-15'
 version: '1.4.68'
 stars: 4.9
 reviews: 728
@@ -21,7 +21,7 @@ bugbounty:
 meta: defunct
 verdict: nosendreceive
 appHashes: 
-date: 2023-04-16
+date: '2023-04-16'
 signer: 
 reviewArchive: 
 twitter: 

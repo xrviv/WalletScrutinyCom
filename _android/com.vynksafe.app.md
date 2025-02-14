@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.vynksafe.app
 appCountry: 
-released: 2022-05-31
-updated: 2024-02-05
+released: '2022-05-31'
+updated: '2024-02-05'
 version: '2.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2025-02-01
+date: '2025-02-01'
 signer: 
 reviewArchive: 
 twitter: vynkgroup

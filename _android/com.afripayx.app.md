@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.afripayx.app
 appCountry: 
-released: 2022-01-04
-updated: 2022-04-21
+released: '2022-01-04'
+updated: '2022-04-21'
 version: '1.0.0'
 stars: 3.9
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2025-02-04
+date: '2025-02-04'
 signer: 
 reviewArchive: 
 twitter: 

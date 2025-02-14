@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.gamehub.playwallet2
 appCountry: 
-released: 2020-02-19
-updated: 2020-04-08
+released: '2020-02-19'
+updated: '2020-04-08'
 version: '2.0.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-25
+date: '2023-05-25'
 signer: 
 reviewArchive: 
 twitter: 

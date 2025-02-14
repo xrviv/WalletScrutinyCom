@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.muda.exchange
 appCountry: 
-released: 2022-05-04
-updated: 2023-12-06
+released: '2022-05-04'
+updated: '2023-12-06'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: mudatech_

@@ -8,7 +8,7 @@ users: 5000
 appId: jb.tech.blockchainpro
 appCountry: 
 released: 
-updated: 2021-04-25
+updated: '2021-04-25'
 version: '2.5'
 stars: 4.6
 ratings: 203
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-04-30
+date: '2021-04-30'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: tech.ionia.app
 appCountry: 
-released: 2018-05-11
-updated: 2019-02-27
+released: '2018-05-11'
+updated: '2019-02-27'
 version: '1.1.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: ionia_io

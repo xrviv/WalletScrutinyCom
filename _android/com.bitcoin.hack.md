@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bitcoin.hack
 appCountry: 
-released: 2022-08-15
-updated: 2022-08-15
+released: '2022-08-15'
+updated: '2022-08-15'
 version: '1.0'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

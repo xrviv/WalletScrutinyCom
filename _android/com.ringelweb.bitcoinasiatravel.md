@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.ringelweb.bitcoinasiatravel
 appCountry: 
-released: 2021-02-11
-updated: 2021-11-23
+released: '2021-02-11'
+updated: '2021-11-23'
 version: '2.2.4'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: bitcoin_asia

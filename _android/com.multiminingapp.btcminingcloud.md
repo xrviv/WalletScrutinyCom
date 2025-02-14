@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: com.multiminingapp.btcminingcloud
 appCountry: 
-released: 2021-03-25
-updated: 2021-03-31
+released: '2021-03-25'
+updated: '2021-03-31'
 version: '2.1'
 stars: 4.1
 ratings: 3255
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2021-10-30
+date: '2021-10-30'
 signer: 
 reviewArchive: 
 twitter: 

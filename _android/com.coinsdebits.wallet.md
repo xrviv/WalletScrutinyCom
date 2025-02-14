@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.coinsdebits.wallet
 appCountry: 
-released: 2017-06-26
-updated: 2017-11-21
+released: '2017-06-26'
+updated: '2017-11-21'
 version: '0.0.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -8,7 +8,7 @@ users: 10000
 appId: com.metallum.nicex
 appCountry: 
 released: 
-updated: 2024-08-27
+updated: '2024-08-27'
 version: '2.3.5'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-07
+date: '2024-11-07'
 signer: 
 reviewArchive: 
 twitter: NiceXExchange

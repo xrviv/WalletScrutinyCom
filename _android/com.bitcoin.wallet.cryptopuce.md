@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bitcoin.wallet.cryptopuce
 appCountry: 
-released: 2021-03-07
-updated: 2021-05-20
+released: '2021-03-07'
+updated: '2021-05-20'
 version: '1.2'
 stars: 4.9
 ratings: 70
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2022-02-16
+date: '2022-02-16'
 signer: 
 reviewArchive: 
 twitter: 

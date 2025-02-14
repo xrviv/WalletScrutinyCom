@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.globiance.android
 appCountry: 
-released: 2021-09-29
-updated: 2024-06-27
+released: '2021-09-29'
+updated: '2024-06-27'
 version: '2.07'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-20
+date: '2023-07-20'
 signer: 
 reviewArchive: 
 twitter: globiance

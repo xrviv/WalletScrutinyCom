@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.torexapp
 appCountry: 
-released: 2020-08-03
-updated: 2020-09-29
+released: '2020-08-03'
+updated: '2020-09-29'
 version: '1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-06-03
+date: '2023-06-03'
 signer: 
 reviewArchive: 
 twitter: 

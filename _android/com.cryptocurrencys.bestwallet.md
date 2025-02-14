@@ -7,7 +7,7 @@ users: 0
 appId: com.cryptocurrencys.bestwallet
 appCountry: 
 released: 
-updated: 2021-12-30
+updated: '2021-12-30'
 version: 
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2020-12-04
+date: '2020-12-04'
 signer: 
 reviewArchive: 
 twitter: 

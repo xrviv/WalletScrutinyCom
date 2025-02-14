@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.stakelead.stakelead
 appCountry: 
-released: 2022-06-04
-updated: 2022-06-04
+released: '2022-06-04'
+updated: '2022-06-04'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.ctskola.exchange
 appCountry: 
-released: 2022-05-25
-updated: 2022-05-25
+released: '2022-05-25'
+updated: '2022-05-25'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-09-04
+date: '2023-09-04'
 signer: 
 reviewArchive: 
 twitter: CtsKola

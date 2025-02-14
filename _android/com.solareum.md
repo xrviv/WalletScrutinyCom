@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.solareum
 appCountry: 
-released: 2021-08-06
-updated: 2022-10-23
+released: '2021-08-06'
+updated: '2022-10-23'
 version: '2.23.4'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

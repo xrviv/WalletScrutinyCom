@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.nine
 appCountry: 
-released: 2020-07-20
-updated: 2020-10-08
+released: '2020-07-20'
+updated: '2020-10-08'
 version: '1.0.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

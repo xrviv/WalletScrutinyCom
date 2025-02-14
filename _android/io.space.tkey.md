@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: io.space.tkey
 appCountry: 
-released: 2020-02-14
-updated: 2020-04-27
+released: '2020-02-14'
+updated: '2020-04-27'
 version: '1.3.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

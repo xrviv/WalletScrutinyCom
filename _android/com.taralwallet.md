@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.taralwallet
 appCountry: 
-released: 2021-10-22
-updated: 2024-12-19
+released: '2021-10-22'
+updated: '2024-12-19'
 version: '13.5.0'
 stars: 3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: TaralityCoin

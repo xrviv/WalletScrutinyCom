@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.libertify
 appCountry: 
-released: 2023-01-12
-updated: 2024-02-06
+released: '2023-01-12'
+updated: '2024-02-06'
 version: '2.4.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-11-29
+date: '2024-11-29'
 signer: 
 reviewArchive: 
 twitter: Libertify_

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.kangamobile
 appCountry: 
-released: 2020-01-03
-updated: 2025-02-06
+released: '2020-01-03'
+updated: '2025-02-06'
 version: '1.21.0'
 stars: 3.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-07-20
+date: '2022-07-20'
 signer: 
 reviewArchive: 
 twitter: KangaExchange

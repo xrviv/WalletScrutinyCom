@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bitcoinfuture.bitcoinfuture
 appCountry: 
-released: 2019-05-05
-updated: 2024-07-24
+released: '2019-05-05'
+updated: '2024-07-24'
 version: '1.7'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-11-01
+date: '2023-11-01'
 signer: 
 reviewArchive: 
 twitter: 

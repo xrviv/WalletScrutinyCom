@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.beta.obc.WOWOO
 appCountry: 
-released: 2020-01-02
-updated: 2021-10-13
+released: '2020-01-02'
+updated: '2021-10-13'
 version: '2.1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

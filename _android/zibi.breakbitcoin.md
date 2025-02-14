@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: zibi.breakbitcoin
 appCountry: 
-released: 2021-03-17
-updated: 2021-03-17
+released: '2021-03-17'
+updated: '2021-03-17'
 version: '2.00'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

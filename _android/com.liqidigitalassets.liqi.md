@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.liqidigitalassets.liqi
 appCountry: 
-released: 2022-08-08
-updated: 2023-03-13
+released: '2022-08-08'
+updated: '2023-03-13'
 version: '1.2.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: liqibr

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.app.huoancoin
 appCountry: 
-released: 2022-01-23
-updated: 2022-01-24
+released: '2022-01-23'
+updated: '2022-01-24'
 version: '1.0'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-08-07
+date: '2023-08-07'
 signer: 
 reviewArchive: 
 twitter: 

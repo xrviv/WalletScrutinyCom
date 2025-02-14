@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.maicoin.max
 appCountry: us
-released: 2018-07-01
-updated: 2024-04-26
+released: '2018-07-01'
+updated: '2024-04-26'
 version: '13.0.0'
 stars: 3.6
 ratings: 1049
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: Max_exch

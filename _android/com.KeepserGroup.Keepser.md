@@ -7,8 +7,8 @@ authors:
 users: 50
 appId: com.KeepserGroup.Keepser
 appCountry: 
-released: 2021-07-22
-updated: 2024-12-17
+released: '2021-07-22'
+updated: '2024-12-17'
 version: '2.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2024-12-18
+date: '2024-12-18'
 signer: 
 reviewArchive: 
 twitter: keepser

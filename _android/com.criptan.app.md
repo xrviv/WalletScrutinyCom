@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.criptan.app
 appCountry: 
-released: 2020-08-23
-updated: 2024-12-12
+released: '2020-08-23'
+updated: '2024-12-12'
 version: '3.00.0'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-12-14
+date: '2023-12-14'
 signer: 
 reviewArchive: 
 twitter: 

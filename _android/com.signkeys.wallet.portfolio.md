@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.signkeys.wallet.portfolio
 appCountry: 
-released: 2019-07-17
-updated: 2020-10-26
+released: '2019-07-17'
+updated: '2020-10-26'
 version: '2.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

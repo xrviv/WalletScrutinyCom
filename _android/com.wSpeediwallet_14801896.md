@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.wSpeediwallet_14801896
 appCountry: 
-released: 2021-12-08
-updated: 2021-12-08
+released: '2021-12-08'
+updated: '2021-12-08'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.chainup.exchange.Zenith
 appCountry: 
-released: 2022-03-06
-updated: 2022-11-19
+released: '2022-03-06'
+updated: '2022-11-19'
 version: '5.5.2_push_v2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-21
+date: '2023-04-21'
 signer: 
 reviewArchive: 
 twitter: 

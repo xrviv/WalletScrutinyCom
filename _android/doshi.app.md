@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: doshi.app
 appCountry: 
-released: 2022-08-22
-updated: 2023-11-17
+released: '2022-08-22'
+updated: '2023-11-17'
 version: '1.0.130'
 stars: 3.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-10-23
+date: '2024-10-23'
 signer: 
 reviewArchive: 
 twitter: doshi_wallet

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: excoinge.excoinge
 appCountry: 
-released: 2017-12-04
-updated: 2018-05-13
+released: '2017-12-04'
+updated: '2018-05-13'
 version: '1.020180512'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

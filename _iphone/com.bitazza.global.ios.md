@@ -7,8 +7,8 @@ authors:
 appId: com.bitazza.global.ios
 appCountry: th
 idd: '1612226119'
-released: 2022-04-07
-updated: 2025-01-27
+released: '2022-04-07'
+updated: '2025-01-27'
 version: '3.9.2'
 stars: 4.5
 reviews: 156
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-03-09
+date: '2023-03-09'
 signer: 
 reviewArchive: 
 twitter: BitazzaGlobal

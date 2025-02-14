@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.trade.werewolf_exchange
 appCountry: 
-released: 2022-07-11
-updated: 2022-09-29
+released: '2022-07-11'
+updated: '2022-09-29'
 version: '1.0.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: 

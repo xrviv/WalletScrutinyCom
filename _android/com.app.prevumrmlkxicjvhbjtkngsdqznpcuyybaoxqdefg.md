@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.app.prevumrmlkxicjvhbjtkngsdqznpcuyybaoxqdefg
 appCountry: us
-released: 2018-02-27
-updated: 2021-05-22
+released: '2018-02-27'
+updated: '2021-05-22'
 version: '2.0'
 stars: 4.9
 ratings: 396
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.cyclebit.wallet
 appCountry: 
-released: 2020-09-30
-updated: 2021-02-08
+released: '2020-09-30'
+updated: '2021-02-08'
 version: '2.1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.cryptojournal.bitpay.buy.crypto
 appCountry: 
-released: 2021-07-07
-updated: 2021-07-07
+released: '2021-07-07'
+updated: '2021-07-07'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: 

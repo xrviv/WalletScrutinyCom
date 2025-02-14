@@ -6,8 +6,8 @@ authors:
 appId: app.newealth
 appCountry: us
 idd: '1533526876'
-released: 2020-11-15
-updated: 2021-04-17
+released: '2020-11-15'
+updated: '2021-04-17'
 version: '1.2.1'
 stars: 0
 reviews: 0
@@ -20,7 +20,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.hubI
 appCountry: 
-released: 2021-06-15
-updated: 2021-07-13
+released: '2021-06-15'
+updated: '2021-07-13'
 version: '1.3.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-01-15
+date: '2022-01-15'
 signer: 
 reviewArchive: 
 twitter: 

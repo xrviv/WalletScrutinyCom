@@ -8,7 +8,7 @@ users: 500
 appId: com.dcash.wallet
 appCountry: 
 released: 
-updated: 2020-07-27
+updated: '2020-07-27'
 version: '1.7.6'
 stars: 5
 ratings: 5
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-03-04
+date: '2021-03-04'
 signer: 
 reviewArchive: 
 twitter: 

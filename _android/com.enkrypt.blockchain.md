@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.enkrypt.blockchain
 appCountry: 
-released: 2021-07-24
-updated: 2021-08-12
+released: '2021-07-24'
+updated: '2021-08-12'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

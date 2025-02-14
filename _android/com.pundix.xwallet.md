@@ -9,8 +9,8 @@ authors:
 users: 100000
 appId: com.pundix.xwallet
 appCountry: 
-released: 2018-10-22
-updated: 2023-07-07
+released: '2018-10-22'
+updated: '2023-07-07'
 version: '2.8.7'
 stars: 3.1
 ratings: 5049
@@ -24,7 +24,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-07-01
+date: '2024-07-01'
 signer: 
 reviewArchive: 
 twitter: PundiXLabs

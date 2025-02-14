@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.am.flashtrade
 appCountry: 
-released: 2020-10-13
-updated: 2020-10-13
+released: '2020-10-13'
+updated: '2020-10-13'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

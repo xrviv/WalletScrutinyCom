@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: net.fxbitcoinsoft.crypto.coin.invest
 appCountry: 
-released: 2021-07-18
-updated: 2021-07-18
+released: '2021-07-18'
+updated: '2021-07-18'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-09-23
+date: '2021-09-23'
 signer: 
 reviewArchive: 
 twitter: 

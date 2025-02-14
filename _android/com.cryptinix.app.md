@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.cryptinix.app
 appCountry: us
-released: 2020-11-24
-updated: 2023-10-11
+released: '2020-11-24'
+updated: '2023-10-11'
 version: '1.2.8'
 stars: 
 ratings: 62
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-10-06
+date: '2024-10-06'
 signer: 
 reviewArchive: 
 twitter: 

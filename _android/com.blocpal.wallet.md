@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.blocpal.wallet
 appCountry: us
-released: 2018-10-30
-updated: 2022-01-19
+released: '2018-10-30'
+updated: '2022-01-19'
 version: '2.0.38'
 stars: 5
 ratings: 60
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

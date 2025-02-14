@@ -7,8 +7,8 @@ authors:
 appId: com.b4uwallet.ioswallet
 appCountry: 
 idd: 1491304459
-released: 2019-12-17
-updated: 2021-04-22
+released: '2019-12-17'
+updated: '2021-04-22'
 version: '1.0.5'
 stars: 1
 reviews: 2
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-04-25
+date: '2022-04-25'
 signer: 
 reviewArchive: 
 twitter: b4uwallet_b4u

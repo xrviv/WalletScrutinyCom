@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.ferrum.kudi
 appCountry: 
-released: 2019-01-13
-updated: 2020-10-19
+released: '2019-01-13'
+updated: '2020-10-19'
 version: '3.0.6'
 stars: 4.3
 ratings: 139
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: firstkudiapp

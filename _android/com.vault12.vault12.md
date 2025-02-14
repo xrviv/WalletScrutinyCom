@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.vault12.vault12
 appCountry: 
-released: 2019-08-28
-updated: 2024-12-19
+released: '2019-08-28'
+updated: '2024-12-19'
 version: '2.5.3'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-02-13
+date: '2023-02-13'
 signer: 
 reviewArchive: 
 twitter: _vault12_

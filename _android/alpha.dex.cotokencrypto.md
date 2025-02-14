@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: alpha.dex.cotokencrypto
 appCountry: 
-released: 2023-03-29
-updated: 2023-03-30
+released: '2023-03-29'
+updated: '2023-03-30'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

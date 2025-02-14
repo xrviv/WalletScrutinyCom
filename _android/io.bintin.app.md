@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.bintin.app
 appCountry: 
-released: 2021-08-18
-updated: 2022-03-16
+released: '2021-08-18'
+updated: '2022-03-16'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.frostwallet
 appCountry: 
-released: 2022-02-01
-updated: 2025-01-24
+released: '2022-02-01'
+updated: '2025-01-24'
 version: '2.5.23'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: 

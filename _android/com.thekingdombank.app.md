@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.thekingdombank.app
 appCountry: 
-released: 2021-12-17
-updated: 2024-11-05
+released: '2021-12-17'
+updated: '2024-11-05'
 version: '8.6.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-08-08
+date: '2023-08-08'
 signer: 
 reviewArchive: 
 twitter: kingdombankcom

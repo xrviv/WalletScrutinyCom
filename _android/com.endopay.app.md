@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.endopay.app
 appCountry: 
-released: 2018-01-13
-updated: 2020-04-26
+released: '2018-01-13'
+updated: '2020-04-26'
 version: '4.3.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

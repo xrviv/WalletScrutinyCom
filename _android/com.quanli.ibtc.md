@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.quanli.ibtc
 appCountry: 
-released: 2019-12-09
-updated: 2023-09-07
+released: '2019-12-09'
+updated: '2023-09-07'
 version: '1.6.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

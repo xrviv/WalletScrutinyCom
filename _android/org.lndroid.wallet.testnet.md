@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: org.lndroid.wallet.testnet
 appCountry: 
-released: 2020-03-23
-updated: 2020-04-14
+released: '2020-03-23'
+updated: '2020-04-14'
 version: '0.1.6-testnet'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

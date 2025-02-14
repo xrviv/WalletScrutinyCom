@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.aisx
 appCountry: 
-released: 2020-02-11
-updated: 2020-07-29
+released: '2020-02-11'
+updated: '2020-07-29'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

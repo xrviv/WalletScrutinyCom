@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.Linqcash
 appCountry: 
-released: 2020-04-28
-updated: 2020-05-18
+released: '2020-04-28'
+updated: '2020-05-18'
 version: '0.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

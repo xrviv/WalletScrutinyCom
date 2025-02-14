@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: io.trade.tradeio.eu
 appCountry: 
-released: 2019-07-22
-updated: 2019-09-20
+released: '2019-07-22'
+updated: '2019-09-20'
 version: '1.0.0'
 stars: 1.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-05
+date: '2023-05-05'
 signer: 
 reviewArchive: 
 twitter: 

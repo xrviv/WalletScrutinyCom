@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.independentreserve.mobileapp
 appCountry: 
-released: 2021-10-18
-updated: 2025-01-07
+released: '2021-10-18'
+updated: '2025-01-07'
 version: '9.0.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-01
+date: '2023-07-01'
 signer: 
 reviewArchive: 
 twitter: indepreserve

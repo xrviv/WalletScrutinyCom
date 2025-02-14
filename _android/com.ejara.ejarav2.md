@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.ejara.ejarav2
 appCountry: 
-released: 2021-03-08
-updated: 2025-02-06
+released: '2021-03-08'
+updated: '2025-02-06'
 version: '3.8.4'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-17
+date: '2024-07-17'
 signer: 
 reviewArchive: 
 twitter: EjaraApp

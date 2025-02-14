@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.bibo.exchange
 appCountry: 
-released: 2020-02-19
-updated: 2020-02-20
+released: '2020-02-19'
+updated: '2020-02-20'
 version: '2.4.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: biboexchange

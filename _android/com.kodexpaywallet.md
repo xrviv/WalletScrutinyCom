@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.kodexpaywallet
 appCountry: 
-released: 2023-03-29
-updated: 2023-06-30
+released: '2023-03-29'
+updated: '2023-06-30'
 version: '2.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2025-02-04
+date: '2025-02-04'
 signer: 
 reviewArchive: 
 twitter: 

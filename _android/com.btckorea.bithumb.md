@@ -7,8 +7,8 @@ authors:
 users: 5000000
 appId: com.btckorea.bithumb
 appCountry: 
-released: 2017-09-26
-updated: 2025-02-10
+released: '2017-09-26'
+updated: '2025-02-10'
 version: '3.3.6'
 stars: 3
 ratings: 25850
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-02-19
+date: '2021-02-19'
 signer: 
 reviewArchive: 
 twitter: BithumbOfficial

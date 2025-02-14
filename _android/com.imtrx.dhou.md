@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.imtrx.dhou
 appCountry: 
-released: 2022-04-11
-updated: 2022-09-13
+released: '2022-04-11'
+updated: '2022-09-13'
 version: '1.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: 

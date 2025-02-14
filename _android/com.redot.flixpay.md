@@ -6,8 +6,8 @@ authors:
 users: 5000
 appId: com.redot.flixpay
 appCountry: 
-released: 2022-04-04
-updated: 2022-05-02
+released: '2022-04-04'
+updated: '2022-05-02'
 version: '1.3.3'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-29
+date: '2023-04-29'
 signer: 
 reviewArchive: 
 twitter: 

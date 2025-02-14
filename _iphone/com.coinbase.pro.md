@@ -7,8 +7,8 @@ authors:
 appId: com.coinbase.pro
 appCountry: 
 idd: 1446636681
-released: 2019-10-10
-updated: 2022-12-09
+released: '2019-10-10'
+updated: '2022-12-09'
 version: '1.0.104'
 stars: 4.7
 reviews: 173326
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: CoinbasePro

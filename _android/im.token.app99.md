@@ -8,8 +8,8 @@ authors:
 users: 1000
 appId: im.token.app99
 appCountry: 
-released: 2020-05-09
-updated: 2021-05-07
+released: '2020-05-09'
+updated: '2021-05-07'
 version: '2.9.6'
 stars: 4.8
 ratings: 98
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2022-02-10
+date: '2022-02-10'
 signer: 
 reviewArchive: 
 twitter: 

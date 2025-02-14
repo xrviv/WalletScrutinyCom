@@ -6,8 +6,8 @@ authors:
 appId: io.getdelta.ios
 appCountry: us
 idd: 1288676542
-released: 2017-09-25
-updated: 2025-01-22
+released: '2017-09-25'
+updated: '2025-01-22'
 version: '2025.1.0'
 stars: 4.7
 reviews: 11274
@@ -20,7 +20,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-11-01
+date: '2021-11-01'
 signer: 
 reviewArchive: 
 twitter: 

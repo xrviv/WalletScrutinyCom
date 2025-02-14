@@ -7,8 +7,8 @@ authors:
 appId: io.sparkpoint.ios.wallet
 appCountry: us
 idd: 1572629350
-released: 2021-06-26
-updated: 2023-04-13
+released: '2021-06-26'
+updated: '2023-04-13'
 version: '12.1.0'
 stars: 4.6
 reviews: 16
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-08-31
+date: '2024-08-31'
 signer: 
 reviewArchive: 
 twitter: sparkpointio

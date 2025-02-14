@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.coinut.app
 appCountry: 
-released: 2018-02-04
-updated: 2023-12-07
+released: '2018-02-04'
+updated: '2023-12-07'
 version: '0.8.5'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: coinut_exchange

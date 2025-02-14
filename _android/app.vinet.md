@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: app.vinet
 appCountry: 
-released: 2020-05-18
-updated: 2021-04-25
+released: '2020-05-18'
+updated: '2021-04-25'
 version: '10.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2022-05-31
+date: '2022-05-31'
 signer: 
 reviewArchive: 
 twitter: 

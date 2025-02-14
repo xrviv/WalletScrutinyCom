@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.sgcdex
 appCountry: 
-released: 2022-05-21
-updated: 2022-12-01
+released: '2022-05-21'
+updated: '2022-12-01'
 version: '2.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-08-30
+date: '2023-08-30'
 signer: 
 reviewArchive: 
 twitter: 

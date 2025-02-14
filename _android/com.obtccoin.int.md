@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.obtccoin.int
 appCountry: 
-released: 2022-06-28
-updated: 2022-12-30
+released: '2022-06-28'
+updated: '2022-12-30'
 version: '1.3.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-07-11
+date: '2023-07-11'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.cluzstudio.marketbtc
 appCountry: 
-released: 2020-03-02
-updated: 2020-03-02
+released: '2020-03-02'
+updated: '2020-03-02'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

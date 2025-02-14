@@ -8,7 +8,7 @@ users: 1000
 appId: tradefada.com.exchange.app
 appCountry: 
 released: 
-updated: 2023-10-26
+updated: '2023-10-26'
 version: '3.3.0'
 stars: 3.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-02
+date: '2024-10-02'
 signer: 
 reviewArchive: 
 twitter: tradefada

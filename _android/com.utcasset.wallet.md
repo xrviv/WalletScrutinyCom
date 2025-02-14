@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.utcasset.wallet
 appCountry: 
-released: 2021-08-26
-updated: 2021-08-27
+released: '2021-08-26'
+updated: '2021-08-27'
 version: '0.21.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

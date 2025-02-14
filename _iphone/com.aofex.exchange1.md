@@ -7,8 +7,8 @@ authors:
 appId: com.aofex.exchange1
 appCountry: us
 idd: 1477466894
-released: 2019-09-19
-updated: 2021-12-03
+released: '2019-09-19'
+updated: '2021-12-03'
 version: '3.0.9'
 stars: 4.5
 reviews: 129
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-10-21
+date: '2022-10-21'
 signer: 
 reviewArchive: 
 twitter: Aofex2

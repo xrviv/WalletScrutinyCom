@@ -7,8 +7,8 @@ authors:
 appId: com.feitian.jubiterwallet
 appCountry: 
 idd: 1518743276
-released: 2020-06-27
-updated: 2022-04-26
+released: '2020-06-27'
+updated: '2022-04-26'
 version: '2.7.0'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: nosource
 appHashes: 
-date: 2024-04-17
+date: '2024-04-17'
 signer: 
 reviewArchive: 
 twitter: JuBiterWallet

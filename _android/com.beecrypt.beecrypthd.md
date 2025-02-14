@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.beecrypt.beecrypthd
 appCountry: us
-released: 2020-05-27
-updated: 2023-05-05
+released: '2020-05-27'
+updated: '2023-05-05'
 version: '6.0.7'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nosource
 appHashes: 
-date: 2024-05-04
+date: '2024-05-04'
 signer: 
 reviewArchive: 
 twitter: money_pipe

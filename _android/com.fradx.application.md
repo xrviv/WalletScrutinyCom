@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.fradx.application
 appCountry: 
-released: 2021-07-14
-updated: 2022-09-21
+released: '2021-07-14'
+updated: '2022-09-21'
 version: '1.4.0'
 stars: 3.6
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2025-01-09
+date: '2025-01-09'
 signer: 
 reviewArchive: 
 twitter: 

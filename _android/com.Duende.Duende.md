@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.Duende.Duende
 appCountry: 
-released: 2021-08-23
-updated: 2021-08-24
+released: '2021-08-23'
+updated: '2021-08-24'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-19
+date: '2024-07-19'
 signer: 
 reviewArchive: 
 twitter: 

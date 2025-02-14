@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.trustadx.ttcm
 appCountry: 
-released: 2022-02-11
-updated: 2022-02-13
+released: '2022-02-11'
+updated: '2022-02-13'
 version: '2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

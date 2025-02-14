@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: org.missmonacoin.monya
 appCountry: 
-released: 2018-01-02
-updated: 2021-12-14
+released: '2018-01-02'
+updated: '2021-12-14'
 version: '3.10.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nonverifiable
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: monya_wallet

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: org.coinid.vault
 appCountry: 
-released: 2018-10-14
-updated: 2021-02-20
+released: '2018-10-14'
+updated: '2021-02-20'
 version: '1.5.5'
 stars: 3.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: ftbfs
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: COINiDGroup

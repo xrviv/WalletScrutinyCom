@@ -7,8 +7,8 @@ authors:
 appId: com.okex.OKExAppstoreFull
 appCountry: 
 idd: 1327268470
-released: 2018-01-04
-updated: 2025-02-11
+released: '2018-01-04'
+updated: '2025-02-11'
 version: '6.107.0'
 stars: 4.6
 reviews: 17021
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2020-12-23
+date: '2020-12-23'
 signer: 
 reviewArchive: 
 twitter: OKEx

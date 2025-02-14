@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: org.qbita.bitcoin_wallet
 appCountry: 
-released: 2019-08-28
-updated: 2019-08-28
+released: '2019-08-28'
+updated: '2019-08-28'
 version: '1.0'
 stars: 4.5
 ratings: 93
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nosource
 appHashes: 
-date: 2023-04-18
+date: '2023-04-18'
 signer: 
 reviewArchive: 
 twitter: 

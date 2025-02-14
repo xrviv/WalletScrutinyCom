@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.tongtong.wallet
 appCountry: 
-released: 2022-04-21
-updated: 2024-11-21
+released: '2022-04-21'
+updated: '2024-11-21'
 version: '1.6.05'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-20
+date: '2024-07-20'
 signer: 
 reviewArchive: 
 twitter: tomatochain

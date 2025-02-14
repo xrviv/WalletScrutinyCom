@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: io.bytrade
 appCountry: 
-released: 2021-12-24
-updated: 2024-03-07
+released: '2021-12-24'
+updated: '2024-03-07'
 version: '2.1.1'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-07-14
+date: '2024-07-14'
 signer: 
 reviewArchive: 
 twitter: bytradeio

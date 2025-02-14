@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.quasarwallet.android
 appCountry: 
-released: 2022-04-05
-updated: 2024-08-29
+released: '2022-04-05'
+updated: '2024-08-29'
 version: '1.5'
 stars: 3.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: reflextoken

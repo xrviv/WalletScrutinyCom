@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: st.xpairssignals
 appCountry: 
-released: 2017-10-07
-updated: 2024-11-18
+released: '2017-10-07'
+updated: '2024-11-18'
 version: '5.1'
 stars: 4.2
 ratings: 931
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-11-19
+date: '2024-11-19'
 signer: 
 reviewArchive: 
 twitter: 

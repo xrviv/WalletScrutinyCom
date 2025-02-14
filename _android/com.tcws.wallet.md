@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.tcws.wallet
 appCountry: 
-released: 2019-10-15
-updated: 2019-10-15
+released: '2019-10-15'
+updated: '2019-10-15'
 version: '2.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.tudtt.imjys.v2
 appCountry: 
-released: 2022-11-06
-updated: 2023-01-08
+released: '2022-11-06'
+updated: '2023-01-08'
 version: '1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

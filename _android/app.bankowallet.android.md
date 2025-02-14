@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: app.bankowallet.android
 appCountry: 
-released: 2019-07-22
-updated: 2020-06-29
+released: '2019-07-22'
+updated: '2020-06-29'
 version: '1.3.17851'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-10
+date: '2023-05-10'
 signer: 
 reviewArchive: 
 twitter: BankoWallet1

@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: co.id.dompet.btc.indonesia
 appCountry: 
-released: 2017-01-15
-updated: 2021-10-26
+released: '2017-01-15'
+updated: '2021-10-26'
 version: '2.4.9'
 stars: 3.9
 ratings: 4803
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: indodax

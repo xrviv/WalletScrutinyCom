@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.usenobi
 appCountry: 
-released: 2020-07-15
-updated: 2024-11-05
+released: '2020-07-15'
+updated: '2024-11-05'
 version: '3.6.7'
 stars: 3.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-12
+date: '2023-04-12'
 signer: 
 reviewArchive: 
 twitter: usenobi

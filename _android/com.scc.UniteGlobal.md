@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.scc.UniteGlobal
 appCountry: 
-released: 2019-08-08
-updated: 2019-08-08
+released: '2019-08-08'
+updated: '2019-08-08'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2023-06-02
+date: '2023-06-02'
 signer: 
 reviewArchive: 
 twitter: 

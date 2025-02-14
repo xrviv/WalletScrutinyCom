@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.otcfy.crypto
 appCountry: 
-released: 2022-12-29
-updated: 2022-12-30
+released: '2022-12-29'
+updated: '2022-12-30'
 version: '2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

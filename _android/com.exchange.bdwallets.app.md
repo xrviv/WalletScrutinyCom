@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.exchange.bdwallets.app
 appCountry: 
-released: 2021-12-29
-updated: 2022-01-08
+released: '2021-12-29'
+updated: '2022-01-08'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: defunct
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

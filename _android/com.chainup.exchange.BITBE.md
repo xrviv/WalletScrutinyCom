@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.chainup.exchange.BITBE
 appCountry: 
-released: 2021-10-13
-updated: 2021-10-13
+released: '2021-10-13'
+updated: '2021-10-13'
 version: '5.3.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: 

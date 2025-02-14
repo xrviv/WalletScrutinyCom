@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bucdev.bestforexbroker
 appCountry: 
-released: 2018-04-17
-updated: 2020-10-09
+released: '2018-04-17'
+updated: '2020-10-09'
 version: '1.1.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

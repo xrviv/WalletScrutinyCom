@@ -7,8 +7,8 @@ authors:
 appId: com.freeda.freedawallet
 appCountry: us
 idd: 1545428547
-released: 2021-03-17
-updated: 2022-08-18
+released: '2021-03-17'
+updated: '2022-08-18'
 version: '2.3.2'
 stars: 4.7
 reviews: 90
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-30
+date: '2023-01-30'
 signer: 
 reviewArchive: 
 twitter: FreedaWallet

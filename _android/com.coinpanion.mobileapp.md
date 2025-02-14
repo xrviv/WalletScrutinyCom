@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.coinpanion.mobileapp
 appCountry: 
-released: 2021-02-26
-updated: 2023-07-27
+released: '2021-02-26'
+updated: '2023-07-27'
 version: '4.4.7'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

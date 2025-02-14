@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.androidwallet
 appCountry: 
-released: 2019-07-04
-updated: 2020-04-09
+released: '2019-07-04'
+updated: '2020-04-09'
 version: '1.1.20'
 stars: 4.6
 ratings: 433
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: dCipher_io

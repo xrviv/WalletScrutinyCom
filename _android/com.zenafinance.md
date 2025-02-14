@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.zenafinance
 appCountry: 
-released: 2020-12-17
-updated: 2021-10-16
+released: '2020-12-17'
+updated: '2021-10-16'
 version: '2.1.3'
 stars: 3.5
 ratings: 60
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2021-12-22
+date: '2021-12-22'
 signer: 
 reviewArchive: 
 twitter: 

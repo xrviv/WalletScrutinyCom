@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: hr.apps.n114615
 appCountry: 
-released: 2019-11-25
-updated: 2019-11-25
+released: '2019-11-25'
+updated: '2019-11-25'
 version: '5.0.1'
 stars: 3.2
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

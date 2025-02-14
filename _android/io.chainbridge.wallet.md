@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: io.chainbridge.wallet
 appCountry: 
-released: 2019-09-15
-updated: 2022-09-07
+released: '2019-09-15'
+updated: '2022-09-07'
 version: '1.1.20220907'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

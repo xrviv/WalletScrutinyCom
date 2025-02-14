@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.cryptex.www.binexhosting
 appCountry: 
-released: 2018-11-21
-updated: 2018-11-21
+released: '2018-11-21'
+updated: '2018-11-21'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: 

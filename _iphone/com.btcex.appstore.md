@@ -7,8 +7,8 @@ authors:
 appId: com.btcex.appstore
 appCountry: am
 idd: '1580680668'
-released: 2021-10-22
-updated: 2023-06-21
+released: '2021-10-22'
+updated: '2023-06-21'
 version: '1.4.4'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: BTCEX_exchange

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.tallin.wallet
 appCountry: 
-released: 2021-09-09
-updated: 2021-11-22
+released: '2021-09-09'
+updated: '2021-11-22'
 version: '1.0.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

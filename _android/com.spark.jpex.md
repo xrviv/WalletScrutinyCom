@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.spark.jpex
 appCountry: jp
-released: 2020-07-30
-updated: 2023-08-02
+released: '2020-07-30'
+updated: '2023-08-02'
 version: '2.83.848'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-07-30
+date: '2024-07-30'
 signer: 
 reviewArchive: 
 twitter: ExchangeJpex

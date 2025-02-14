@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.usc.uscwallet
 appCountry: 
-released: 2020-12-13
-updated: 2020-12-21
+released: '2020-12-13'
+updated: '2020-12-21'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

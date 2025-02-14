@@ -7,8 +7,8 @@ authors:
 appId: com.plasmaalliance.PlasmaPay
 appCountry: us
 idd: 1461735396
-released: 2019-08-19
-updated: 2020-12-20
+released: '2019-08-19'
+updated: '2020-12-20'
 version: 'v2.1.3'
 stars: 5
 reviews: 1
@@ -21,7 +21,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2021-11-17
+date: '2021-11-17'
 signer: 
 reviewArchive: 
 twitter: 0xPlasma

@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.ubsdreamdigital
 appCountry: 
-released: 2021-02-17
-updated: 2021-03-12
+released: '2021-02-17'
+updated: '2021-03-12'
 version: '1.01'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

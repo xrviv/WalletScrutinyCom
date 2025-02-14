@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.aabb
 appCountry: ca
-released: 2021-03-08
-updated: 2023-06-30
+released: '2021-03-08'
+updated: '2023-06-30'
 version: '1.0.1271'
 stars: 4.7
 ratings: 614
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-11-29
+date: '2024-11-29'
 signer: 
 reviewArchive: 
 twitter: AsiaBroadband

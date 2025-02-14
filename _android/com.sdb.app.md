@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.sdb.app
 appCountry: 
-released: 2022-12-07
-updated: 2023-03-28
+released: '2022-12-07'
+updated: '2023-03-28'
 version: '2023.03.27'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-19
+date: '2024-10-19'
 signer: 
 reviewArchive: 
 twitter: 

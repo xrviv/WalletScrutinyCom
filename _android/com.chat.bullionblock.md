@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.chat.bullionblock
 appCountry: 
-released: 2020-06-06
-updated: 2020-10-14
+released: '2020-06-06'
+updated: '2020-10-14'
 version: '1.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

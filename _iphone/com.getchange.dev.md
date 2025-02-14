@@ -7,8 +7,8 @@ authors:
 appId: com.getchange.dev
 appCountry: nl
 idd: 1442085358
-released: 2018-11-15
-updated: 2025-02-10
+released: '2018-11-15'
+updated: '2025-02-10'
 version: '30.58.2'
 stars: 4.1
 reviews: 38
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-01-04
+date: '2022-01-04'
 signer: 
 reviewArchive: 
 twitter: changefinance

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.mybitcart.app
 appCountry: 
-released: 2020-04-23
-updated: 2020-04-24
+released: '2020-04-23'
+updated: '2020-04-24'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

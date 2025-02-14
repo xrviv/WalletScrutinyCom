@@ -7,8 +7,8 @@ authors:
 appId: com.ptpwallet
 appCountry: 
 idd: 1428589045
-released: 2018-12-12
-updated: 2024-06-12
+released: '2018-12-12'
+updated: '2024-06-12'
 version: '1.0.265'
 stars: 4.2
 reviews: 24
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-10-05
+date: '2024-10-05'
 signer: 
 reviewArchive: 
 twitter: PtpWallet

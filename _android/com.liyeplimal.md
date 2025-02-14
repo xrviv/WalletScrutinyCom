@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.liyeplimal
 appCountry: 
-released: 2019-08-29
-updated: 2021-11-17
+released: '2019-08-29'
+updated: '2021-11-17'
 version: '1.18'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-08-05
+date: '2023-08-05'
 signer: 
 reviewArchive: 
 twitter: gcct2017

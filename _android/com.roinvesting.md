@@ -8,7 +8,7 @@ users: 10000
 appId: com.roinvesting
 appCountry: us
 released: 
-updated: 2021-08-25
+updated: '2021-08-25'
 version: '1.5.69-roinvesting'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: Roinvesting

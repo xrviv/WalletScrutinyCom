@@ -7,7 +7,7 @@ users: 100
 appId: wallet.trupay.finance
 appCountry: 
 released: 
-updated: 2021-07-04
+updated: '2021-07-04'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

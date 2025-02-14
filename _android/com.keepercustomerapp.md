@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.keepercustomerapp
 appCountry: 
-released: 2019-02-25
-updated: 2023-02-17
+released: '2019-02-25'
+updated: '2023-02-17'
 version: '3.8.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

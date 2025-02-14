@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: app.cricketrade.com
 appCountry: 
-released: 2019-10-23
-updated: 2019-10-23
+released: '2019-10-23'
+updated: '2019-10-23'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

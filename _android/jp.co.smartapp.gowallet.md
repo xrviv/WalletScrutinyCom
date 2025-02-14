@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: jp.co.smartapp.gowallet
 appCountry: us
-released: 2019-06-16
-updated: 2020-10-07
+released: '2019-06-16'
+updated: '2020-10-07'
 version: '1.2.5'
 stars: 4
 ratings: 813
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: gowallet_app_

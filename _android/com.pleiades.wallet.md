@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.pleiades.wallet
 appCountry: 
-released: 2021-11-28
-updated: 2022-02-28
+released: '2021-11-28'
+updated: '2022-02-28'
 version: '1.3.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: 

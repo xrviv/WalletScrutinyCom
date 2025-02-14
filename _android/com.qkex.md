@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.qkex
 appCountry: 
-released: 2022-11-10
-updated: 2023-12-21
+released: '2022-11-10'
+updated: '2023-12-21'
 version: '3.0.34'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: qkexglobal

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.cybexmobile.google
 appCountry: 
-released: 2018-10-10
-updated: 2019-04-28
+released: '2018-10-10'
+updated: '2019-04-28'
 version: '1.10.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

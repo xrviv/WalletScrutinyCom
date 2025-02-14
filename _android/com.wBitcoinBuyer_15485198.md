@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.wBitcoinBuyer_15485198
 appCountry: 
-released: 2022-05-05
-updated: 2022-05-05
+released: '2022-05-05'
+updated: '2022-05-05'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: org.telegram.bananatok
 appCountry: KR
-released: 2019-08-11
-updated: 2024-12-28
+released: '2019-08-11'
+updated: '2024-12-28'
 version: '5.0.3'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-06-27
+date: '2022-06-27'
 signer: 
 reviewArchive: 
 twitter: kr_bna

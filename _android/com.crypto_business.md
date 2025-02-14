@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: com.crypto_business
 appCountry: 
-released: 2021-10-08
-updated: 2021-10-14
+released: '2021-10-08'
+updated: '2021-10-14'
 version: '3.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: 

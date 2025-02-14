@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.app.boastcoast12
 appCountry: 
-released: 2022-05-31
-updated: 2022-05-31
+released: '2022-05-31'
+updated: '2022-05-31'
 version: '1.0'
 stars: 3.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.ayrex.trading.dlvc
 appCountry: 
-released: 2020-05-14
-updated: 2020-05-14
+released: '2020-05-14'
+updated: '2020-05-14'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: 

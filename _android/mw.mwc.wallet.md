@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: mw.mwc.wallet
 appCountry: 
-released: 2021-05-29
-updated: 2021-05-30
+released: '2021-05-29'
+updated: '2021-05-30'
 version: '1.0.0'
 stars: 
 ratings: 5
@@ -21,7 +21,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2021-11-01
+date: '2021-11-01'
 signer: 
 reviewArchive: 
 twitter: 

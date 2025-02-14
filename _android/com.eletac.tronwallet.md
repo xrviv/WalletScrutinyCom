@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.eletac.tronwallet
 appCountry: 
-released: 2018-05-13
-updated: 2023-03-07
+released: '2018-05-13'
+updated: '2023-03-07'
 version: '2.4.56'
 stars: 4.1
 ratings: 1199
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-11-25
+date: '2024-11-25'
 signer: 
 reviewArchive: 
 twitter: VisionCryptoApp

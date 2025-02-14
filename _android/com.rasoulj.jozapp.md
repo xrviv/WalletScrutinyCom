@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.rasoulj.jozapp
 appCountry: 
-released: 2021-07-17
-updated: 2022-05-20
+released: '2021-07-17'
+updated: '2022-05-20'
 version: '1.0.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.oxdealer.oxdealer
 appCountry: 
-released: 2020-06-20
-updated: 2020-06-20
+released: '2020-06-20'
+updated: '2020-06-20'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

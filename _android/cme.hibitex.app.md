@@ -6,8 +6,8 @@ authors:
 users: 5000
 appId: cme.hibitex.app
 appCountry: 
-released: 2018-11-13
-updated: 2018-11-14
+released: '2018-11-13'
+updated: '2018-11-14'
 version: '1.02'
 stars: 2.9
 ratings: 9
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2022-01-15
+date: '2022-01-15'
 signer: 
 reviewArchive: 
 twitter: 

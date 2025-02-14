@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: app.botrado
 appCountry: 
-released: 2021-12-27
-updated: 2021-12-27
+released: '2021-12-27'
+updated: '2021-12-27'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

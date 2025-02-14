@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: com.mke.investcrypto
 appCountry: 
-released: 2020-04-25
-updated: 2020-04-25
+released: '2020-04-25'
+updated: '2020-04-25'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

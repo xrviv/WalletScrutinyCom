@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.enigma.trading
 appCountry: 
-released: 2022-04-27
-updated: 2022-09-29
+released: '2022-04-27'
+updated: '2022-09-29'
 version: '1.1.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

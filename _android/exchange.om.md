@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: exchange.om
 appCountry: 
-released: 2022-10-23
-updated: 2022-10-23
+released: '2022-10-23'
+updated: '2022-10-23'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

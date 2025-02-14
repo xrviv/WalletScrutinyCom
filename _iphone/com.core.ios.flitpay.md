@@ -7,8 +7,8 @@ authors:
 appId: com.core.ios.flitpay
 appCountry: in
 idd: 1571975471
-released: 2021-08-27
-updated: 2025-02-06
+released: '2021-08-27'
+updated: '2025-02-06'
 version: '1.0.24'
 stars: 4
 reviews: 80
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-10-07
+date: '2024-10-07'
 signer: 
 reviewArchive: 
 twitter: flitpayofficial

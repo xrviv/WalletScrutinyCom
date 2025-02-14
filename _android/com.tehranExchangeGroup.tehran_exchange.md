@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.tehranExchangeGroup.tehran_exchange
 appCountry: 
-released: 2022-12-08
-updated: 2023-10-24
+released: '2022-12-08'
+updated: '2023-10-24'
 version: '1.1.55'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-08-17
+date: '2024-08-17'
 signer: 
 reviewArchive: 
 twitter: 

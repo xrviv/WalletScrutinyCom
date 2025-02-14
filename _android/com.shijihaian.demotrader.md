@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.shijihaian.demotrader
 appCountry: 
-released: 2020-10-29
-updated: 2020-12-14
+released: '2020-10-29'
+updated: '2020-12-14'
 version: '1.0.3'
 stars: 1.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

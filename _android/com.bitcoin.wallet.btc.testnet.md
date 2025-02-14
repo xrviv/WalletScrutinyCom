@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.bitcoin.wallet.btc.testnet
 appCountry: 
-released: 2019-07-04
-updated: 2019-07-05
+released: '2019-07-04'
+updated: '2019-07-05'
 version: '1.0'
 stars: 4.5
 ratings: 37
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: 

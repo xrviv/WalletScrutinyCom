@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.bombibank
 appCountry: 
-released: 2022-01-21
-updated: 2022-01-21
+released: '2022-01-21'
+updated: '2022-01-21'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

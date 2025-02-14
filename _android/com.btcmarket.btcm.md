@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.btcmarket.btcm
 appCountry: 
-released: 2022-03-17
-updated: 2025-02-12
+released: '2022-03-17'
+updated: '2025-02-12'
 version: '1.9.4'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-20
+date: '2023-04-20'
 signer: 
 reviewArchive: 
 twitter: BTCMarkets

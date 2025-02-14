@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.oxbtc_Miner.iamswr.myapplication
 appCountry: 
-released: 2021-08-24
-updated: 2021-09-14
+released: '2021-08-24'
+updated: '2021-09-14'
 version: '2.1.0'
 stars: 3.3
 ratings: 57
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-01-02
+date: '2022-01-02'
 signer: 
 reviewArchive: 
 twitter: 

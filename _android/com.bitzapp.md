@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.bitzapp
 appCountry: 
-released: 2020-03-15
-updated: 2020-08-11
+released: '2020-03-15'
+updated: '2020-08-11'
 version: '1.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.vaultycrypto.wallet
 appCountry: 
-released: 2022-08-10
-updated: 2022-08-10
+released: '2022-08-10'
+updated: '2022-08-10'
 version: '1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-09-16
+date: '2024-09-16'
 signer: 
 reviewArchive: 
 twitter: 

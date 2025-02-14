@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.tmebit.exchange
 appCountry: 
-released: 2020-04-14
-updated: 2021-04-05
+released: '2020-04-14'
+updated: '2021-04-05'
 version: '3.0'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

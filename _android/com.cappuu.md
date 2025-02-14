@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.cappuu
 appCountry: 
-released: 2020-12-04
-updated: 2023-08-24
+released: '2020-12-04'
+updated: '2023-08-24'
 version: '3.57'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: Coinomo_EN

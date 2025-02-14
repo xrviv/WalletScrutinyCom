@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.lyopay
 appCountry: eg
-released: 2020-10-02
-updated: 2023-08-10
+released: '2020-10-02'
+updated: '2023-08-10'
 version: '1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: lyopayofficial

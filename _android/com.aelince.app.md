@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.aelince.app
 appCountry: 
-released: 2022-10-25
-updated: 2022-11-21
+released: '2022-10-25'
+updated: '2022-11-21'
 version: '1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-08-28
+date: '2023-08-28'
 signer: 
 reviewArchive: 
 twitter: 

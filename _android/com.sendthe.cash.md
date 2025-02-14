@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.sendthe.cash
 appCountry: 
-released: 2022-08-17
-updated: 2023-01-11
+released: '2022-08-17'
+updated: '2023-01-11'
 version: '2.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

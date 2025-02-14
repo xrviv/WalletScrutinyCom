@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.wenlite.dcx
 appCountry: 
-released: 2022-03-11
-updated: 2023-02-22
+released: '2022-03-11'
+updated: '2023-02-22'
 version: '2.0.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-08-17
+date: '2024-08-17'
 signer: 
 reviewArchive: 
 twitter: 

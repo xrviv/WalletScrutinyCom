@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.tempow.legatow
 appCountry: 
-released: 2018-07-04
-updated: 2019-01-30
+released: '2018-07-04'
+updated: '2019-01-30'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-06-03
+date: '2023-06-03'
 signer: 
 reviewArchive: 
 twitter: 

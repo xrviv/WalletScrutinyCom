@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.coinboxwallet
 appCountry: 
-released: 2022-08-13
-updated: 2023-03-02
+released: '2022-08-13'
+updated: '2023-03-02'
 version: '1.0.2.6'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: 

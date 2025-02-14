@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.iqtrader
 appCountry: 
-released: 2022-09-29
-updated: 2022-10-07
+released: '2022-09-29'
+updated: '2022-10-07'
 version: '2.0.7'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-11-04
+date: '2024-11-04'
 signer: 
 reviewArchive: 
 twitter: IQTrader_io

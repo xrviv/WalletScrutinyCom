@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.getcoins.gcwallet2
 appCountry: 
-released: 2019-03-21
-updated: 2023-04-24
+released: '2019-03-21'
+updated: '2023-04-24'
 version: '15.2.0'
 stars: 2.8
 ratings: 21
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-11-12
+date: '2024-11-12'
 signer: 
 reviewArchive: 
 twitter: 

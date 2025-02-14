@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: de.gratisbroker.android.mobileapp
 appCountry: 
-released: 2021-06-02
-updated: 2025-01-27
+released: '2021-06-02'
+updated: '2025-01-27'
 version: '4.27.2'
 stars: 3.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2023-03-02
+date: '2023-03-02'
 signer: 
 reviewArchive: 
 twitter: FinanzenNet

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.companyname.seedgenerator
 appCountry: 
-released: 2022-12-11
-updated: 2022-12-12
+released: '2022-12-11'
+updated: '2022-12-12'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-08-31
+date: '2024-08-31'
 signer: 
 reviewArchive: 
 twitter: 

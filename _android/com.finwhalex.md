@@ -8,7 +8,7 @@ users: 1000
 appId: com.finwhalex
 appCountry: 
 released: 
-updated: 2020-04-07
+updated: '2020-04-07'
 version: 'VARY'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-25
+date: '2023-05-25'
 signer: 
 reviewArchive: 
 twitter: finwhalex

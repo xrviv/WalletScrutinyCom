@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: io.ok.wallet
 appCountry: 
-released: 2021-04-10
-updated: 2021-04-13
+released: '2021-04-10'
+updated: '2021-04-13'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.kaiserex
 appCountry: 
-released: 2020-05-09
-updated: 2020-05-09
+released: '2020-05-09'
+updated: '2020-05-09'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: net.uzuras.uzuras
 appCountry: 
-released: 2019-02-01
-updated: 2021-10-15
+released: '2019-02-01'
+updated: '2021-10-15'
 version: '4.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

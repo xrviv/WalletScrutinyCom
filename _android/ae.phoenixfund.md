@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: ae.phoenixfund
 appCountry: 
-released: 2021-01-29
-updated: 2022-04-12
+released: '2021-01-29'
+updated: '2022-04-12'
 version: '1.1.4'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

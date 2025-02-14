@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.mk.cryptofolio
 appCountry: 
-released: 2018-05-02
-updated: 2020-08-19
+released: '2018-05-02'
+updated: '2020-08-19'
 version: '1.0.51'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

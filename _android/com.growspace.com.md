@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.growspace.com
 appCountry: 
-released: 2022-09-23
-updated: 2022-12-21
+released: '2022-09-23'
+updated: '2022-12-21'
 version: '1.0.19'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2025-01-09
+date: '2025-01-09'
 signer: 
 reviewArchive: 
 twitter: 

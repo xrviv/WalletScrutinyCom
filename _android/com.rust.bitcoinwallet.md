@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.rust.bitcoinwallet
 appCountry: 
-released: 2023-04-15
-updated: 2023-05-15
+released: '2023-04-15'
+updated: '2023-05-15'
 version: '3.04.30'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: obfuscated
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: 

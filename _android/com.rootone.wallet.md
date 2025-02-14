@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.rootone.wallet
 appCountry: us
-released: 2018-10-08
-updated: 2024-01-19
+released: '2018-10-08'
+updated: '2024-01-19'
 version: '1.5.3'
 stars: 3.4
 ratings: 617
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2025-01-15
+date: '2025-01-15'
 signer: 
 reviewArchive: 
 twitter: 

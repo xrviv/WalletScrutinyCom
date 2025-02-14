@@ -8,8 +8,8 @@ authors:
 users: 500000
 appId: com.etoro.wallet
 appCountry: 
-released: 2018-11-27
-updated: 2025-01-23
+released: '2018-11-27'
+updated: '2025-01-23'
 version: '84.0.0'
 stars: 3.8
 ratings: 1122
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-04-21
+date: '2021-04-21'
 signer: 
 reviewArchive: 
 twitter: etoro

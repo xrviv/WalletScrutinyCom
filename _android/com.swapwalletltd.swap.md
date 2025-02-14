@@ -7,7 +7,7 @@ users: 50000
 appId: com.swapwalletltd.swap
 appCountry: 
 released: 
-updated: 2020-11-14
+updated: '2020-11-14'
 version: 'Varies with device'
 stars: 4.9
 ratings: 2282
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2020-12-28
+date: '2020-12-28'
 signer: 
 reviewArchive: 
 twitter: 

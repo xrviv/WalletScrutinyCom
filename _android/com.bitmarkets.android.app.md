@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.bitmarkets.android.app
 appCountry: 
-released: 2022-10-04
-updated: 2025-02-06
+released: '2022-10-04'
+updated: '2025-02-06'
 version: '3.3.7'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-08-09
+date: '2023-08-09'
 signer: 
 reviewArchive: 
 twitter: bitmarkets_com

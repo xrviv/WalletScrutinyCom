@@ -7,8 +7,8 @@ authors:
 appId: com.easyforex.trading
 appCountry: cn
 idd: 348823316
-released: 2010-01-05
-updated: 2024-12-06
+released: '2010-01-05'
+updated: '2024-12-06'
 version: '5.2.4'
 stars: 4.4
 reviews: 212
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-10-07
+date: '2024-10-07'
 signer: 
 reviewArchive: 
 twitter: easymarkets

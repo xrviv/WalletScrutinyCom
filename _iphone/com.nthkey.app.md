@@ -7,8 +7,8 @@ authors:
 appId: com.nthkey.app
 appCountry: 
 idd: 1491367033
-released: 2021-06-18
-updated: 2022-11-27
+released: '2021-06-18'
+updated: '2022-11-27'
 version: '1.0.7'
 stars: 3
 reviews: 2
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: provoost

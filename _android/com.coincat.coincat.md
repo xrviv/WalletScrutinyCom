@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.coincat.coincat
 appCountry: 
-released: 2020-11-02
-updated: 2023-08-24
+released: '2020-11-02'
+updated: '2023-08-24'
 version: '4.2'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-11-12
+date: '2024-11-12'
 signer: 
 reviewArchive: 
 twitter: Coincat_in

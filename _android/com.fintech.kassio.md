@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.fintech.kassio
 appCountry: 
-released: 2022-02-18
-updated: 2023-10-27
+released: '2022-02-18'
+updated: '2023-10-27'
 version: '3.1.1'
 stars: 2.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-31
+date: '2024-10-31'
 signer: 
 reviewArchive: 
 twitter: KassioNetwork

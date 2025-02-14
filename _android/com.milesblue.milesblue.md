@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.milesblue.milesblue
 appCountry: 
-released: 2021-10-10
-updated: 2023-10-26
+released: '2021-10-10'
+updated: '2023-10-26'
 version: '1.1.4'
 stars: 2.1
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: fewusers
 appHashes: 
-date: 2024-10-23
+date: '2024-10-23'
 signer: 
 reviewArchive: 
 twitter: 

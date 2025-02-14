@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.user.cglobank
 appCountry: 
-released: 2021-04-14
-updated: 2021-06-28
+released: '2021-04-14'
+updated: '2021-06-28'
 version: '16'
 stars: 4.3
 ratings: 26
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-22
+date: '2021-11-22'
 signer: 
 reviewArchive: 
 twitter: 

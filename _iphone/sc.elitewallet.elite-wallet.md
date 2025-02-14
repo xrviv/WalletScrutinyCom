@@ -7,8 +7,8 @@ authors:
 appId: sc.elitewallet.elite-wallet
 appCountry: us
 idd: '6447569561'
-released: 2023-06-04
-updated: 2023-06-04
+released: '2023-06-04'
+updated: '2023-06-04'
 version: '1.1.7'
 stars: 4
 reviews: 1
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: EliteWallet

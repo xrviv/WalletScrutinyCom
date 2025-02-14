@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bitcoinstore.bitcoinstorewallet
 appCountry: 
-released: 2023-01-03
-updated: 2025-01-29
+released: '2023-01-03'
+updated: '2025-01-29'
 version: '1.0.38'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-09-07
+date: '2024-09-07'
 signer: 
 reviewArchive: 
 twitter: storebitcoin

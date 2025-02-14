@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.bituniverse.portfolio
 appCountry: 
-released: 2017-09-30
-updated: 2022-12-27
+released: '2017-09-30'
+updated: '2022-12-27'
 version: '3.8.1'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nowallet
 appHashes: 
-date: 2024-12-16
+date: '2024-12-16'
 signer: 
 reviewArchive: 
 twitter: bituniverse_org

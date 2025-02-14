@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.nextgenius.wallet
 appCountry: 
-released: 2019-08-05
-updated: 2020-06-20
+released: '2019-08-05'
+updated: '2020-06-20'
 version: '1.2.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.mao.guiderun
 appCountry: 
-released: 2022-05-08
-updated: 2022-05-20
+released: '2022-05-08'
+updated: '2022-05-20'
 version: '1.0.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nosource
 appHashes: 
-date: 2023-08-07
+date: '2023-08-07'
 signer: 
 reviewArchive: 
 twitter: 

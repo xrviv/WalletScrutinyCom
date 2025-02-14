@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: bitfaucet.com
 appCountry: 
-released: 2021-09-16
-updated: 2021-09-20
+released: '2021-09-16'
+updated: '2021-09-20'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

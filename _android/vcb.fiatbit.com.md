@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: vcb.fiatbit.com
 appCountry: 
-released: 2019-09-12
-updated: 2023-03-03
+released: '2019-09-12'
+updated: '2023-03-03'
 version: '2.5.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

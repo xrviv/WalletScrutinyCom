@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.hybridwallet
 appCountry: 
-released: 2022-04-25
-updated: 2022-05-12
+released: '2022-04-25'
+updated: '2022-05-12'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -8,7 +8,7 @@ users: 5000
 appId: com.faerlik.firewin
 appCountry: 
 released: 
-updated: 2024-01-12
+updated: '2024-01-12'
 version: '0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

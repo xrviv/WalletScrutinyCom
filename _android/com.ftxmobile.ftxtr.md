@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.ftxmobile.ftxtr
 appCountry: 
-released: 2022-02-21
-updated: 2022-11-01
+released: '2022-02-21'
+updated: '2022-11-01'
 version: '2.0.9'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2023-06-14
+date: '2023-06-14'
 signer: 
 reviewArchive: 
 twitter: 

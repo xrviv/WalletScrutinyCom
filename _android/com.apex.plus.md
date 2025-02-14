@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.apex.plus
 appCountry: 
-released: 2022-08-24
-updated: 2025-02-08
+released: '2022-08-24'
+updated: '2025-02-08'
 version: '3.7.0'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-07-02
+date: '2023-07-02'
 signer: 
 reviewArchive: 
 twitter: OfficialApeXdex

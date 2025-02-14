@@ -8,8 +8,8 @@ authors:
 users: 50000
 appId: com.blockchain.wallet.btc
 appCountry: 
-released: 2021-04-03
-updated: 2022-11-23
+released: '2021-04-03'
+updated: '2022-11-23'
 version: '1.0.3.3'
 stars: 4.3
 ratings: 948
@@ -23,10 +23,10 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive:
-- date: 2021-06-04
+- date: '2021-06-04'
   version: '1.0.1.8'
   appHashes: []
   gitRevision: b994137e4f91927a8680b389b81bb5945d1ddf71

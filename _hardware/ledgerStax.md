@@ -3,9 +3,9 @@ title: Ledger Stax
 appId: ledgerStax
 authors:
 - danny
-released: 2024-05-28
+released: '2024-05-28'
 discontinued: 
-updated: 2024-07-16
+updated: '2024-07-16'
 version: '1.5.0'
 binaries: 
 dimensions:
@@ -26,7 +26,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-10-21
+date: '2024-10-21'
 signer: 
 reviewArchive: 
 twitter: Ledger

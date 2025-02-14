@@ -7,7 +7,7 @@ users: 10
 appId: com.fintoda.wallet
 appCountry: 
 released: 
-updated: 2021-08-02
+updated: '2021-08-02'
 version: 'Varies with device'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-09-04
+date: '2021-09-04'
 signer: 
 reviewArchive: 
 twitter: 

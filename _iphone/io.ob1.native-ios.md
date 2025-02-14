@@ -6,8 +6,8 @@ authors:
 appId: io.ob1.native-ios
 appCountry: 
 idd: 1318395690
-released: 2019-08-19
-updated: 2020-09-28
+released: '2019-08-19'
+updated: '2020-09-28'
 version: '1.3.8'
 stars: 4.6
 reviews: 188
@@ -20,7 +20,7 @@ bugbounty:
 meta: removed
 verdict: nonverifiable
 appHashes: 
-date: 2021-01-15
+date: '2021-01-15'
 signer: 
 reviewArchive: 
 twitter: HavenPrivacy

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.crypment
 appCountry: 
-released: 2020-01-27
-updated: 2021-10-22
+released: '2020-01-27'
+updated: '2021-10-22'
 version: '1.2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

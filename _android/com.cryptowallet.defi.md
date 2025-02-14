@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.cryptowallet.defi
 appCountry: 
-released: 2021-08-08
-updated: 2021-08-08
+released: '2021-08-08'
+updated: '2021-08-08'
 version: '0.21.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-03-24
+date: '2022-03-24'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.royalqpro
 appCountry: 
-released: 2022-02-22
-updated: 2024-03-19
+released: '2022-02-22'
+updated: '2024-03-19'
 version: '3.0'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2024-03-01
+date: '2024-03-01'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.edss.pones
 appCountry: 
-released: 2021-04-29
-updated: 2021-04-29
+released: '2021-04-29'
+updated: '2021-04-29'
 version: '1.0'
 stars: 3.9
 ratings: 37
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-12-22
+date: '2021-12-22'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: antroid.cxtech.com.cxandroidproject
 appCountry: 
-released: 2019-02-25
-updated: 2019-10-02
+released: '2019-02-25'
+updated: '2019-10-02'
 version: '1.3.12'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

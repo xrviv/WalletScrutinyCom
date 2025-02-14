@@ -7,8 +7,8 @@ authors:
 appId: co.zoomex.app
 appCountry: us
 idd: '1601766234'
-released: 2022-03-07
-updated: 2024-07-01
+released: '2022-03-07'
+updated: '2024-07-01'
 version: '3.7.11'
 stars: 4
 reviews: 24
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-08-13
+date: '2024-08-13'
 signer: 
 reviewArchive: 
 twitter: zoomexofficial

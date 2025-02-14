@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.msline.mw
 appCountry: 
-released: 2019-06-20
-updated: 2022-06-20
+released: '2019-06-20'
+updated: '2022-06-20'
 version: '2.3.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

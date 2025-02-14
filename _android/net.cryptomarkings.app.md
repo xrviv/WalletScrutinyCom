@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: net.cryptomarkings.app
 appCountry: 
-released: 2022-10-30
-updated: 2024-09-01
+released: '2022-10-30'
+updated: '2024-09-01'
 version: '1.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-09-02
+date: '2024-09-02'
 signer: 
 reviewArchive: 
 twitter: crypto_markings

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.devoioapps.trade6ix
 appCountry: 
-released: 2022-05-31
-updated: 2022-05-31
+released: '2022-05-31'
+updated: '2022-05-31'
 version: '1.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2024-05-24
+date: '2024-05-24'
 signer: 
 reviewArchive: 
 twitter: 

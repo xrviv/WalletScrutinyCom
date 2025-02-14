@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.moonstake.wallet
 appCountry: us
-released: 2020-03-24
-updated: 2025-02-04
+released: '2020-03-24'
+updated: '2025-02-04'
 version: '2.33.1'
 stars: 3.4
 ratings: 2237
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-15
+date: '2024-07-15'
 signer: 
 reviewArchive: 
 twitter: moonstake

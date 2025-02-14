@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.noblecoins.noble_coins
 appCountry: 
-released: 2021-12-01
-updated: 2022-08-12
+released: '2021-12-01'
+updated: '2022-08-12'
 version: '2.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

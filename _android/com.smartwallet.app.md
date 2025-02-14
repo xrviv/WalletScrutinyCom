@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.smartwallet.app
 appCountry: 
-released: 2023-02-10
-updated: 2025-01-21
+released: '2023-02-10'
+updated: '2025-01-21'
 version: '1.21.0'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: echooo_wallet

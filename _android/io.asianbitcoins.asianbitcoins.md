@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: io.asianbitcoins.asianbitcoins
 appCountry: 
-released: 2020-08-11
-updated: 2020-08-11
+released: '2020-08-11'
+updated: '2020-08-11'
 version: '1.0.0'
 stars: 5
 ratings: 3899
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-05
+date: '2023-05-05'
 signer: 
 reviewArchive: 
 twitter: 

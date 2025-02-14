@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.profittrading.forftx
 appCountry: 
-released: 2021-08-25
-updated: 2022-09-13
+released: '2021-08-25'
+updated: '2022-09-13'
 version: '1.2.1'
 stars: 4.9
 ratings: 30
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: ProfitTrading_

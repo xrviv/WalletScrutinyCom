@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.criptohub
 appCountry: 
-released: 2019-07-30
-updated: 2019-10-10
+released: '2019-07-30'
+updated: '2019-10-10'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-17
+date: '2023-05-17'
 signer: 
 reviewArchive: 
 twitter: 

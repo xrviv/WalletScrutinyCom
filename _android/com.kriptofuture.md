@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.kriptofuture
 appCountry: 
-released: 2021-07-27
-updated: 2021-07-30
+released: '2021-07-27'
+updated: '2021-07-30'
 version: 'Version 16'
 stars: 2.5
 ratings: 183
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

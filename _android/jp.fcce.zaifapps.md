@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: jp.fcce.zaifapps
 appCountry: in
-released: 2020-05-07
-updated: 2023-10-05
+released: '2020-05-07'
+updated: '2023-10-05'
 version: '1.1.23'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: zaifdotjp

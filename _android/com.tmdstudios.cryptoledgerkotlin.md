@@ -7,7 +7,7 @@ users: 100
 appId: com.tmdstudios.cryptoledgerkotlin
 appCountry: 
 released: 
-updated: 2022-12-27
+updated: '2022-12-27'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

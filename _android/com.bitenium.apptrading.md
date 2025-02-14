@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.bitenium.apptrading
 appCountry: 
-released: 2021-08-15
-updated: 2022-07-19
+released: '2021-08-15'
+updated: '2022-07-19'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

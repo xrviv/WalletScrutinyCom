@@ -7,8 +7,8 @@ authors:
 appId: app.patricia
 appCountry: lt
 idd: '1639105995'
-released: 2022-08-13
-updated: 2023-03-27
+released: '2022-08-13'
+updated: '2023-03-27'
 version: '1.3'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: PatriciaSwitch

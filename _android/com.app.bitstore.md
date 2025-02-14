@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.app.bitstore
 appCountry: 
-released: 2019-03-19
-updated: 2019-07-24
+released: '2019-03-19'
+updated: '2019-07-24'
 version: '1.0.11'
 stars: 4.1
 ratings: 17
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-11-26
+date: '2021-11-26'
 signer: 
 reviewArchive: 
 twitter: 

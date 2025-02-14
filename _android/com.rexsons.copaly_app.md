@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.rexsons.copaly_app
 appCountry: 
-released: 2022-07-25
-updated: 2024-11-15
+released: '2022-07-25'
+updated: '2024-11-15'
 version: '4.0.1'
 stars: 4.3
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2023-06-03
+date: '2023-06-03'
 signer: 
 reviewArchive: 
 twitter: 

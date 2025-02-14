@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.buda.crypto
 appCountry: 
-released: 2018-01-04
-updated: 2024-08-21
+released: '2018-01-04'
+updated: '2024-08-21'
 version: '2024.7.1'
 stars: 3.7
 ratings: 648
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-01-07
+date: '2022-01-07'
 signer: 
 reviewArchive: 
 twitter: BudaPuntoCom

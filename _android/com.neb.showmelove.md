@@ -7,7 +7,7 @@ users: 100
 appId: com.neb.showmelove
 appCountry: 
 released: 
-updated: 2020-09-16
+updated: '2020-09-16'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

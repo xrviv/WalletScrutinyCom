@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.isunoneapp
 appCountry: 
-released: 2022-03-10
-updated: 2024-09-04
+released: '2022-03-10'
+updated: '2024-09-04'
 version: '4.0.55'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2025-02-04
+date: '2025-02-04'
 signer: 
 reviewArchive: 
 twitter: isunone1

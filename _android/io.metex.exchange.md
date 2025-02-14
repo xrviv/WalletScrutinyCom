@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: io.metex.exchange
 appCountry: 
-released: 2019-10-24
-updated: 2019-11-07
+released: '2019-10-24'
+updated: '2019-11-07'
 version: '0.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

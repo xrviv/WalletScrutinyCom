@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.fmdc.webview
 appCountry: 
-released: 2022-10-28
-updated: 2022-11-08
+released: '2022-10-28'
+updated: '2022-11-08'
 version: '1.0.build4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

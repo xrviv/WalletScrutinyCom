@@ -7,8 +7,8 @@ authors:
 appId: com.bbx.bbx
 appCountry: us
 idd: 1539393718
-released: 2020-12-01
-updated: 2021-05-27
+released: '2020-12-01'
+updated: '2021-05-27'
 version: '1.3.1'
 stars: 
 reviews: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-10-22
+date: '2021-10-22'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.wBinanceBitcoinExchangeAndCryptocurrencyExchangeTrade_14058627
 appCountry: 
-released: 2021-07-06
-updated: 2021-07-06
+released: '2021-07-06'
+updated: '2021-07-06'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-22
+date: '2021-10-22'
 signer: 
 reviewArchive: 
 twitter: 

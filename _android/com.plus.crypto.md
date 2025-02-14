@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.plus.crypto
 appCountry: 
-released: 2023-01-26
-updated: 2023-05-21
+released: '2023-01-26'
+updated: '2023-05-21'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

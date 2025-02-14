@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.mkgf_nr
 appCountry: 
-released: 2021-10-06
-updated: 2022-02-19
+released: '2021-10-06'
+updated: '2022-02-19'
 version: '40.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: 

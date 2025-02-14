@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.hedged_bitcoin
 appCountry: 
-released: 2018-11-17
-updated: 2021-06-11
+released: '2018-11-17'
+updated: '2021-06-11'
 version: '0.7.0'
 stars: 3.6
 ratings: 28
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-03-07
+date: '2022-03-07'
 signer: 
 reviewArchive: 
 twitter: HedgedBitcoin

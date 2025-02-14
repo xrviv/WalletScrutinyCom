@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: cryptowallet.twt.blockchain
 appCountry: 
-released: 2023-02-22
-updated: 2023-02-22
+released: '2023-02-22'
+updated: '2023-02-22'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 100
 appId: com.frefcrypto.wallet6
 appCountry: 
-released: 2021-09-10
-updated: 2021-09-10
+released: '2021-09-10'
+updated: '2021-09-10'
 version: '1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-11-10
+date: '2021-11-10'
 signer: 
 reviewArchive: 
 twitter: 

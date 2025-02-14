@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.swift.finance.solutions
 appCountry: 
-released: 2022-04-26
-updated: 2022-10-29
+released: '2022-04-26'
+updated: '2022-10-29'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

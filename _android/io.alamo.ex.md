@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: io.alamo.ex
 appCountry: 
-released: 2022-08-12
-updated: 2022-08-23
+released: '2022-08-12'
+updated: '2022-08-23'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: 

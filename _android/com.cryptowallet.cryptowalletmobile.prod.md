@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.cryptowallet.cryptowalletmobile.prod
 appCountry: ee
-released: 2021-03-19
-updated: 2021-11-17
+released: '2021-03-19'
+updated: '2021-11-17'
 version: '1.11.10'
 stars: 3.2
 ratings: 10
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-11-22
+date: '2021-11-22'
 signer: 
 reviewArchive: 
 twitter: cryptowalletcom

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: cn.com.zlct.nf
 appCountry: 
-released: 2021-06-10
-updated: 2021-08-30
+released: '2021-06-10'
+updated: '2021-08-30'
 version: '2.1.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

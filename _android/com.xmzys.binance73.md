@@ -8,8 +8,8 @@ authors:
 users: 50
 appId: com.xmzys.binance73
 appCountry: 
-released: 2021-07-03
-updated: 2021-07-03
+released: '2021-07-03'
+updated: '2021-07-03'
 version: '2.0'
 stars: 
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-10-22
+date: '2021-10-22'
 signer: 
 reviewArchive: 
 twitter: 

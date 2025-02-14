@@ -7,7 +7,7 @@ users: 1000
 appId: org.metahash.metawallet
 appCountry: 
 released: 
-updated: 2018-11-14
+updated: '2018-11-14'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

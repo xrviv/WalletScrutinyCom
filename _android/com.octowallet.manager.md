@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.octowallet.manager
 appCountry: 
-released: 2019-05-05
-updated: 2019-05-29
+released: '2019-05-05'
+updated: '2019-05-29'
 version: '1.1.0.146'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

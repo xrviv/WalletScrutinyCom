@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: ch.btcfx
 appCountry: 
-released: 2013-07-13
-updated: 2019-12-20
+released: '2013-07-13'
+updated: '2019-12-20'
 version: '1.3.0.1'
 stars: 3.5
 ratings: 562
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2022-01-31
+date: '2022-01-31'
 signer: 
 reviewArchive: 
 twitter: 

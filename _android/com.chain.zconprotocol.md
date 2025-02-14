@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.chain.zconprotocol
 appCountry: 
-released: 2022-01-05
-updated: 2022-01-26
+released: '2022-01-05'
+updated: '2022-01-26'
 version: '1.0.2'
 stars: 2.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-01-19
+date: '2024-01-19'
 signer: 
 reviewArchive: 
 twitter: BISKIT_TOKEN

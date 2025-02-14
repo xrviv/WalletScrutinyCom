@@ -7,7 +7,7 @@ users: 500
 appId: com.onyze.wallet
 appCountry: 
 released: 
-updated: 2020-07-14
+updated: '2020-07-14'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

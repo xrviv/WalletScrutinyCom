@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.project.coinad
 appCountry: 
-released: 2018-03-27
-updated: 2019-12-12
+released: '2018-03-27'
+updated: '2019-12-12'
 version: '1.26'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

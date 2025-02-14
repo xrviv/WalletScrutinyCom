@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.bit.btcwallet
 appCountry: 
-released: 2019-11-17
-updated: 2019-11-25
+released: '2019-11-17'
+updated: '2019-11-25'
 version: '0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

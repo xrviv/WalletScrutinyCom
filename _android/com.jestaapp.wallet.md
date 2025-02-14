@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.jestaapp.wallet
 appCountry: 
-released: 2022-09-02
-updated: 2022-09-02
+released: '2022-09-02'
+updated: '2022-09-02'
 version: '2.0'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-07-18
+date: '2023-07-18'
 signer: 
 reviewArchive: 
 twitter: 

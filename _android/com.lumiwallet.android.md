@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.lumiwallet.android
 appCountry: 
-released: 2018-01-15
-updated: 2023-07-11
+released: '2018-01-15'
+updated: '2023-07-11'
 version: '4.1.6'
 stars: 3.8
 ratings: 6388
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nosource
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: Lumi_wallet

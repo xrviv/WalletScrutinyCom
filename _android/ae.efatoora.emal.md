@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: ae.efatoora.emal
 appCountry: 
-released: 2018-07-16
-updated: 2020-01-02
+released: '2018-07-16'
+updated: '2020-01-02'
 version: '3.2'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: com.krakenfutures
 appCountry: 
-released: 2019-10-07
-updated: 2021-03-24
+released: '2019-10-07'
+updated: '2021-03-24'
 version: '5.24.0'
 stars: 3.5
 ratings: 451
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

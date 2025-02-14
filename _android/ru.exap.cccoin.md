@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: ru.exap.cccoin
 appCountry: 
-released: 2017-11-22
-updated: 2018-05-03
+released: '2017-11-22'
+updated: '2018-05-03'
 version: '1.20'
 stars: 4
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

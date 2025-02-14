@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.p95g.trade
 appCountry: 
-released: 2019-09-10
-updated: 2020-03-10
+released: '2019-09-10'
+updated: '2020-03-10'
 version: '1.5.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

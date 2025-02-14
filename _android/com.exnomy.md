@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.exnomy
 appCountry: 
-released: 2020-11-24
-updated: 2021-09-21
+released: '2020-11-24'
+updated: '2021-09-21'
 version: '1.0.18'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

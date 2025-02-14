@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.blockcloud
 appCountry: 
-released: 2021-01-08
-updated: 2021-02-16
+released: '2021-01-08'
+updated: '2021-02-16'
 version: '1.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

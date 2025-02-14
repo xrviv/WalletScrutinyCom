@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: io.tardi.tardigrade
 appCountry: 
-released: 2022-04-28
-updated: 2022-06-30
+released: '2022-04-28'
+updated: '2022-06-30'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

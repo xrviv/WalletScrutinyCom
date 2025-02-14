@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.zfmwallet.wallet
 appCountry: 
-released: 2022-10-24
-updated: 2022-10-25
+released: '2022-10-24'
+updated: '2022-10-25'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

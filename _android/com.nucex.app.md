@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.nucex.app
 appCountry: 
-released: 2019-05-20
-updated: 2019-05-23
+released: '2019-05-20'
+updated: '2019-05-23'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

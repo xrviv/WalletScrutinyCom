@@ -7,8 +7,8 @@ authors:
 appId: com.litebit.app
 appCountry: 
 idd: 1448841440
-released: 2019-08-20
-updated: 2022-12-23
+released: '2019-08-20'
+updated: '2022-12-23'
 version: '3.1.17'
 stars: 3.4
 reviews: 10
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: litebiteu

@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.plutus.wallet
 appCountry: 
-released: 2015-03-04
-updated: 2024-01-12
+released: '2015-03-04'
+updated: '2024-01-12'
 version: '146.0'
 stars: 3.4
 ratings: 44411
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2025-01-06
+date: '2025-01-06'
 signer: 
 reviewArchive: 
 twitter: AbraGlobal

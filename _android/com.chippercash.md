@@ -8,8 +8,8 @@ authors:
 users: 5000000
 appId: com.chippercash
 appCountry: 
-released: 2018-07-07
-updated: 2025-02-09
+released: '2018-07-07'
+updated: '2025-02-09'
 version: '1.119.0'
 stars: 4.2
 ratings: 59630
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-03
+date: '2021-09-03'
 signer: 
 reviewArchive: 
 twitter: chippercashapp

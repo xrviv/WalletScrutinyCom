@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: net.cryptocurrencersltd.invest.on.bitcoin
 appCountry: 
-released: 2021-07-18
-updated: 2021-07-18
+released: '2021-07-18'
+updated: '2021-07-18'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: 

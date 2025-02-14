@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: io.sylo.dapp
 appCountry: 
-released: 2019-09-10
-updated: 2022-10-27
+released: '2019-09-10'
+updated: '2022-10-27'
 version: '4.0.14'
 stars: 4
 ratings: 758
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nosource
 appHashes: 
-date: 2024-10-19
+date: '2024-10-19'
 signer: 
 reviewArchive: 
 twitter: sylo

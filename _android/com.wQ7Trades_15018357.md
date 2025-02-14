@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.wQ7Trades_15018357
 appCountry: 
-released: 2022-01-13
-updated: 2022-01-13
+released: '2022-01-13'
+updated: '2022-01-13'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

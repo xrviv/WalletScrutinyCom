@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.cmgroup.luna
 appCountry: 
-released: 2021-05-10
-updated: 2021-07-24
+released: '2021-05-10'
+updated: '2021-07-24'
 version: '1.0.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

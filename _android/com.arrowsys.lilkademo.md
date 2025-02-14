@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.arrowsys.lilkademo
 appCountry: mn
-released: 2015-10-08
-updated: 2022-01-15
+released: '2015-10-08'
+updated: '2022-01-15'
 version: '3.1.4'
 stars: 4.4
 ratings: 217
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nowallet
 appHashes: 
-date: 2024-01-16
+date: '2024-01-16'
 signer: 
 reviewArchive: 
 twitter: 

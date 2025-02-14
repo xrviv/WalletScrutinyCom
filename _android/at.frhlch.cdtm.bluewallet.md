@@ -7,7 +7,7 @@ users: 50
 appId: at.frhlch.cdtm.bluewallet
 appCountry: 
 released: 
-updated: 2022-03-01
+updated: '2022-03-01'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

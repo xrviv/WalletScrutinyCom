@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.hipcibot.hip
 appCountry: 
-released: 2021-03-01
-updated: 2021-03-01
+released: '2021-03-01'
+updated: '2021-03-01'
 version: '0.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-05-10
+date: '2023-05-10'
 signer: 
 reviewArchive: 
 twitter: 

@@ -8,8 +8,8 @@ authors:
 users: 5000
 appId: info.mysecurewallet.wallet
 appCountry: 
-released: 2019-11-01
-updated: 2019-11-02
+released: '2019-11-01'
+updated: '2019-11-02'
 version: '1.1'
 stars: 3.5
 ratings: 63
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-01-15
+date: '2022-01-15'
 signer: 
 reviewArchive: 
 twitter: 

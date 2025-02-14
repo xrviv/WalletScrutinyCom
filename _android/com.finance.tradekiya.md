@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.finance.tradekiya
 appCountry: 
-released: 2022-08-26
-updated: 2023-08-24
+released: '2022-08-26'
+updated: '2023-08-24'
 version: '1.0.147'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: trade_kia

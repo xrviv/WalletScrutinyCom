@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.rockwallet.app
 appCountry: 
-released: 2022-11-14
-updated: 2025-02-07
+released: '2022-11-14'
+updated: '2025-02-07'
 version: '5.17.0'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-06-07
+date: '2024-06-07'
 signer: 
 reviewArchive: 
 twitter: rockwallet

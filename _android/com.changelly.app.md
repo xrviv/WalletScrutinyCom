@@ -8,8 +8,8 @@ authors:
 users: 500000
 appId: com.changelly.app
 appCountry: 
-released: 2018-08-28
-updated: 2025-01-31
+released: '2018-08-28'
+updated: '2025-01-31'
 version: '3.34.0'
 stars: 4.6
 ratings: 5008
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-11-01
+date: '2021-11-01'
 signer: 
 reviewArchive: 
 twitter: 

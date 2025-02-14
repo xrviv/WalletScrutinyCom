@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: ecurrency.exchange.plus
 appCountry: 
-released: 2019-09-28
-updated: 2019-09-28
+released: '2019-09-28'
+updated: '2019-09-28'
 version: 'v5.0'
 stars: 3.7
 ratings: 87
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: 

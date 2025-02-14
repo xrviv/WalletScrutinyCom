@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.epocash.epocash
 appCountry: 
-released: 2020-09-20
-updated: 2020-10-21
+released: '2020-09-20'
+updated: '2020-10-21'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

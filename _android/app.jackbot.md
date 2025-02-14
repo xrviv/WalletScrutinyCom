@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: app.jackbot
 appCountry: 
-released: 2021-01-05
-updated: 2024-05-02
+released: '2021-01-05'
+updated: '2024-05-02'
 version: '4.9.13'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-11-22
+date: '2021-11-22'
 signer: 
 reviewArchive: 
 twitter: 

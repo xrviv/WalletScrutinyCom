@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.crypterum.crypterum
 appCountry: 
-released: 2018-09-28
-updated: 2020-09-23
+released: '2018-09-28'
+updated: '2020-09-23'
 version: '0.1.13'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-22
+date: '2023-05-22'
 signer: 
 reviewArchive: 
 twitter: 

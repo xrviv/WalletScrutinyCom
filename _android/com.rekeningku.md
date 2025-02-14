@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.rekeningku
 appCountry: us
-released: 2018-02-21
-updated: 2025-02-08
+released: '2018-02-21'
+updated: '2025-02-08'
 version: '4.2.01'
 stars: 4.3
 ratings: 22977
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-08-27
+date: '2021-08-27'
 signer: 
 reviewArchive: 
 twitter: Rekeningkucom

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.barongxtrade.users
 appCountry: 
-released: 2022-10-28
-updated: 2023-04-30
+released: '2022-10-28'
+updated: '2023-04-30'
 version: '4.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: 

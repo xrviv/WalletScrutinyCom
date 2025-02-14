@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.defiato
 appCountry: 
-released: 2021-10-26
-updated: 2023-01-18
+released: '2021-10-26'
+updated: '2023-01-18'
 version: '1.2.9'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2025-01-09
+date: '2025-01-09'
 signer: 
 reviewArchive: 
 twitter: 

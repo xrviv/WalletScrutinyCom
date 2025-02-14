@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.ficdev.javatar.exsparkle
 appCountry: 
-released: 2017-12-01
-updated: 2018-01-15
+released: '2017-12-01'
+updated: '2018-01-15'
 version: '3.4.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-05-10
+date: '2023-05-10'
 signer: 
 reviewArchive: 
 twitter: 

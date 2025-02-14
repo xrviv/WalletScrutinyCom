@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: net.benoitbasset.liqapi
 appCountry: 
-released: 2018-10-24
-updated: 2019-01-25
+released: '2018-10-24'
+updated: '2019-01-25'
 version: '1.1.1'
 stars: 4.8
 ratings: 6
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-11-26
+date: '2021-11-26'
 signer: 
 reviewArchive: 
 twitter: 

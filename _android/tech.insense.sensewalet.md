@@ -8,8 +8,8 @@ authors:
 users: 5000
 appId: tech.insense.sensewalet
 appCountry: 
-released: 2018-09-27
-updated: 2019-06-21
+released: '2018-09-27'
+updated: '2019-06-21'
 version: '0.0068beta'
 stars: 4
 ratings: 25
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2021-11-16
+date: '2021-11-16'
 signer: 
 reviewArchive: 
 twitter: 

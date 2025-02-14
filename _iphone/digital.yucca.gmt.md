@@ -7,8 +7,8 @@ authors:
 appId: digital.yucca.gmt
 appCountry: us
 idd: '1622100275'
-released: 2022-10-21
-updated: 2025-02-03
+released: '2022-10-21'
+updated: '2025-02-03'
 version: '3.3.7'
 stars: 4.2
 reviews: 2337
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-07-24
+date: '2023-07-24'
 signer: 
 reviewArchive: 
 twitter: Gomining_token

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.goldex.pro
 appCountry: 
-released: 2022-03-11
-updated: 2022-10-18
+released: '2022-03-11'
+updated: '2022-10-18'
 version: '1.1.2'
 stars: 4.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-25
+date: '2024-07-25'
 signer: 
 reviewArchive: 
 twitter: 

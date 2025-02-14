@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.blockchainappfactory.mwallet
 appCountry: 
-released: 2020-03-08
-updated: 2020-03-09
+released: '2020-03-08'
+updated: '2020-03-09'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-13
+date: '2023-05-13'
 signer: 
 reviewArchive: 
 twitter: 

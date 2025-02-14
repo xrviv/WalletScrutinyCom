@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: mudra.exchange
 appCountry: 
-released: 2022-02-04
-updated: 2024-05-24
+released: '2022-02-04'
+updated: '2024-05-24'
 version: '1.4.21'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-08
+date: '2024-12-08'
 signer: 
 reviewArchive: 
 twitter: mudraex

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: ea.antbot.org
 appCountry: 
-released: 2021-09-29
-updated: 2024-03-08
+released: '2021-09-29'
+updated: '2024-03-08'
 version: '2.5.6'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: antrade_io

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.q9.capital
 appCountry: 
-released: 2021-11-19
-updated: 2022-09-22
+released: '2021-11-19'
+updated: '2022-09-22'
 version: '1.0.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: 

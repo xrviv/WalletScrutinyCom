@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.particl.copay
 appCountry: 
-released: 2017-09-18
-updated: 2020-05-30
+released: '2017-09-18'
+updated: '2020-05-30'
 version: '5.5.1'
 stars: 4.1
 ratings: 134
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: ParticlProject

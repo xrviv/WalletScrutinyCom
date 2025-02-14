@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.hashkey.hub
 appCountry: 
-released: 2019-03-17
-updated: 2022-04-07
+released: '2019-03-17'
+updated: '2022-04-07'
 version: '4.0.0'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-26
+date: '2023-05-26'
 signer: 
 reviewArchive: 
 twitter: HashkeyHub

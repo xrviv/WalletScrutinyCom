@@ -3,9 +3,9 @@ title: Blockchain Commons LetheKit Seedtool
 appId: blockchaincommons.lethekit.seedtool
 authors:
 - danny
-released: 2020-10-16
+released: '2020-10-16'
 discontinued: 
-updated: 2021-10-07
+updated: '2021-10-07'
 version: '0.5.0'
 binaries: 
 dimensions: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: diy
 appHashes: 
-date: 2022-04-29
+date: '2022-04-29'
 signer: 
 reviewArchive: 
 twitter: BlockchainComns

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.funex.pro
 appCountry: 
-released: 2022-10-13
-updated: 2024-08-31
+released: '2022-10-13'
+updated: '2024-08-31'
 version: '1.0.1'
 stars: 4.4
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-11-04
+date: '2024-11-04'
 signer: 
 reviewArchive: 
 twitter: 

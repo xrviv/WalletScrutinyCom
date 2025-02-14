@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.bitcan.app
 appCountry: us
-released: 2017-10-18
-updated: 2024-08-30
+released: '2017-10-18'
+updated: '2024-08-30'
 version: '8.23.0.9'
 stars: 3.1
 ratings: 92
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-09-28
+date: '2024-09-28'
 signer: 
 reviewArchive: 
 twitter: bitkanofficial

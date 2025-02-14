@@ -7,8 +7,8 @@ authors:
 appId: com.bchi.haruinvestapp
 appCountry: us
 idd: 1579344792
-released: 2021-08-19
-updated: 2023-05-24
+released: '2021-08-19'
+updated: '2023-05-24'
 version: '5.2.0'
 stars: 4.7
 reviews: 203
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: haruinvest

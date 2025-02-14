@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.coindoctor.your
 appCountry: 
-released: 2019-01-08
-updated: 2019-03-11
+released: '2019-01-08'
+updated: '2019-03-11'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-11-10
+date: '2021-11-10'
 signer: 
 reviewArchive: 
 twitter: 

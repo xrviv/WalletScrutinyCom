@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.bittradify
 appCountry: 
-released: 2021-06-17
-updated: 2021-06-17
+released: '2021-06-17'
+updated: '2021-06-17'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

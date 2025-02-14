@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: exchange.fox.android
 appCountry: 
-released: 2019-06-11
-updated: 2020-04-20
+released: '2019-06-11'
+updated: '2020-04-20'
 version: '1.5.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-03
+date: '2023-05-03'
 signer: 
 reviewArchive: 
 twitter: 

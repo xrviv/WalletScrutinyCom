@@ -9,8 +9,8 @@ authors:
 users: 50000
 appId: one.mixin.messenger
 appCountry: us
-released: 2018-05-24
-updated: 2025-02-05
+released: '2018-05-24'
+updated: '2025-02-05'
 version: '2.2.1'
 stars: 4.4
 ratings: 1252
@@ -24,10 +24,10 @@ bugbounty:
 meta: ok
 verdict: ftbfs
 appHashes: []
-date: 2024-09-19
+date: '2024-09-19'
 signer: 
 reviewArchive:
-- date: 2021-10-18
+- date: '2021-10-18'
   version: '0.32.6'
   appHashes: []
   gitRevision: 7145041114617ce3cbf596302a4fa7deb1a5df74

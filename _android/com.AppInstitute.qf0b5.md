@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.AppInstitute.qf0b5
 appCountry: 
-released: 2018-10-04
-updated: 2018-10-12
+released: '2018-10-04'
+updated: '2018-10-12'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

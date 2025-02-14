@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: io.bincap.exchange
 appCountry: 
-released: 2019-08-08
-updated: 2020-05-02
+released: '2019-08-08'
+updated: '2020-05-02'
 version: '2.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

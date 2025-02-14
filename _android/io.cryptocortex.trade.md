@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: io.cryptocortex.trade
 appCountry: 
-released: 2019-09-18
-updated: 2019-09-18
+released: '2019-09-18'
+updated: '2019-09-18'
 version: '1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

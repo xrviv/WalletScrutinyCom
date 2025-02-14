@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: io.arax.cryptowallet
 appCountry: 
-released: 2019-01-15
-updated: 2019-11-25
+released: '2019-01-15'
+updated: '2019-11-25'
 version: 'Varies with device'
 stars: 3.5
 ratings: 223
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-15
+date: '2023-04-15'
 signer: 
 reviewArchive: 
 twitter: 

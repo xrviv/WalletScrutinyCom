@@ -7,8 +7,8 @@ authors:
 appId: co.tradehall.app.tradehall
 appCountry: my
 idd: '1642488506'
-released: 2022-12-20
-updated: 2023-03-10
+released: '2022-12-20'
+updated: '2023-03-10'
 version: '1.0.14'
 stars: 4
 reviews: 4
@@ -21,7 +21,7 @@ bugbounty:
 meta: defunct
 verdict: nosendreceive
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

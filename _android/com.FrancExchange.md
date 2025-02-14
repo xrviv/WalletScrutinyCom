@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.FrancExchange
 appCountry: us
-released: 2020-12-02
-updated: 2020-12-02
+released: '2020-12-02'
+updated: '2020-12-02'
 version: '1.0'
 stars: 
 ratings: 283
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2021-10-24
+date: '2021-10-24'
 signer: 
 reviewArchive: 
 twitter: 

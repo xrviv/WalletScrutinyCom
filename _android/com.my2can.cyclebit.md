@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.my2can.cyclebit
 appCountry: 
-released: 2022-01-19
-updated: 2022-05-30
+released: '2022-01-19'
+updated: '2022-05-30'
 version: '4.0.13'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

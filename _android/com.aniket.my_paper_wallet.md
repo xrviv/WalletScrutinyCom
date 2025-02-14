@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.aniket.my_paper_wallet
 appCountry: 
-released: 2020-12-24
-updated: 2020-12-24
+released: '2020-12-24'
+updated: '2020-12-24'
 version: '1.0.0'
 stars: 3.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: ftbfs
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

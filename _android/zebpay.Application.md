@@ -7,8 +7,8 @@ authors:
 users: 5000000
 appId: zebpay.Application
 appCountry: 
-released: 2014-12-23
-updated: 2025-02-10
+released: '2014-12-23'
+updated: '2025-02-10'
 version: '3.45.00'
 stars: 3.2
 ratings: 103840
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2020-05-29
+date: '2020-05-29'
 signer: 
 reviewArchive: 
 twitter: zebpay

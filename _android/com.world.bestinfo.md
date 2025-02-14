@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.world.bestinfo
 appCountry: 
-released: 2020-02-29
-updated: 2020-02-29
+released: '2020-02-29'
+updated: '2020-02-29'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nosendreceive
 appHashes: 
-date: 2023-06-10
+date: '2023-06-10'
 signer: 
 reviewArchive: 
 twitter: 

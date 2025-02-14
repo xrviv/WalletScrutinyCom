@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: com.ptpwallet
 appCountry: 
-released: 2018-12-04
-updated: 2024-06-11
+released: '2018-12-04'
+updated: '2024-06-11'
 version: '1.0.1281'
 stars: 4.2
 ratings: 352
@@ -23,10 +23,10 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: []
-date: 2024-12-15
+date: '2024-12-15'
 signer: 
 reviewArchive:
-- date: 2020-12-06
+- date: '2020-12-06'
   version: ''
   appHashes: []
   gitRevision: b20db46c47bab0030c7d6989f38ba53e10a8a0d7

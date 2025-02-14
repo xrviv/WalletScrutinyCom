@@ -7,7 +7,7 @@ users: 100
 appId: com.bookingpoint
 appCountry: 
 released: 
-updated: 2023-01-02
+updated: '2023-01-02'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

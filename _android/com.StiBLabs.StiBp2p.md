@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.StiBLabs.StiBp2p
 appCountry: 
-released: 2019-10-07
-updated: 2020-03-11
+released: '2019-10-07'
+updated: '2020-03-11'
 version: '1.0.5'
 stars: 4.5
 ratings: 454
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-20
+date: '2023-04-20'
 signer: 
 reviewArchive: 
 twitter: 

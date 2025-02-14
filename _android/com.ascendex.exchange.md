@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.ascendex.exchange
 appCountry: 
-released: 2021-04-28
-updated: 2025-01-22
+released: '2021-04-28'
+updated: '2025-01-22'
 version: '3.5.1'
 stars: 3.7
 ratings: 6660
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-05-12
+date: '2021-05-12'
 signer: 
 reviewArchive: 
 twitter: AscendEX_Global

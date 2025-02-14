@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.ittoken.app22
 appCountry: 
-released: 2022-05-09
-updated: 2022-05-09
+released: '2022-05-09'
+updated: '2022-05-09'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-08-07
+date: '2023-08-07'
 signer: 
 reviewArchive: 
 twitter: 

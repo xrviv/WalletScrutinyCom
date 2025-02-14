@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bitholic.rdmchain.bitholic
 appCountry: 
-released: 2019-01-20
-updated: 2021-08-02
+released: '2019-01-20'
+updated: '2021-08-02'
 version: '1.1.1'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

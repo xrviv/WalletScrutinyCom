@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.paxful.wallet
 appCountry: 
-released: 2019-04-30
-updated: 2024-11-25
+released: '2019-04-30'
+updated: '2024-11-25'
 version: '2.9.40.707'
 stars: 3.2
 ratings: 21528
@@ -22,7 +22,7 @@ bugbounty: https://paxful.com/bug-bounty-policy
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2020-10-12
+date: '2020-10-12'
 signer: 
 reviewArchive: 
 twitter: paxful

@@ -6,8 +6,8 @@ authors:
 users: 500000
 appId: com.algorand.android
 appCountry: 
-released: 2019-06-07
-updated: 2025-02-05
+released: '2019-06-07'
+updated: '2025-02-05'
 version: '5.202502.0'
 stars: 4.6
 ratings: 14091
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2020-12-06
+date: '2020-12-06'
 signer: 
 reviewArchive: 
 twitter: 

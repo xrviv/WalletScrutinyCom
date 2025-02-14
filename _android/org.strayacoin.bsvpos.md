@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: org.strayacoin.bsvpos
 appCountry: 
-released: 2019-07-13
-updated: 2021-04-17
+released: '2019-07-13'
+updated: '2021-04-17'
 version: '3.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-03-24
+date: '2022-03-24'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.qwertynetworks
 appCountry: 
-released: 2022-08-10
-updated: 2022-09-02
+released: '2022-08-10'
+updated: '2022-09-02'
 version: '1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-07-10
+date: '2023-07-10'
 signer: 
 reviewArchive: 
 twitter: 

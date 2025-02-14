@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.truzact.truzact_mobile
 appCountry: 
-released: 2022-02-13
-updated: 2023-07-12
+released: '2022-02-13'
+updated: '2023-07-12'
 version: '4.6.7'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-30
+date: '2024-11-30'
 signer: 
 reviewArchive: 
 twitter: truzact

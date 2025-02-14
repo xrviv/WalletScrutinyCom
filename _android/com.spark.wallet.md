@@ -8,8 +8,8 @@ authors:
 users: 1000
 appId: com.spark.wallet
 appCountry: 
-released: 2018-12-10
-updated: 2021-11-08
+released: '2018-12-10'
+updated: '2021-11-08'
 version: '0.3.1'
 stars: 4.5
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nonverifiable
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

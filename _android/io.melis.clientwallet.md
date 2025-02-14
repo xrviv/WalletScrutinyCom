@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.melis.clientwallet
 appCountry: 
-released: 2017-01-30
-updated: 2021-09-30
+released: '2017-01-30'
+updated: '2021-09-30'
 version: '1.6.24'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: ftbfs
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,7 +7,7 @@ users: 500
 appId: co.tippin.android.wallet
 appCountry: 
 released: 
-updated: 2019-10-22
+updated: '2019-10-22'
 version: 'Varies with device'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-15
+date: '2021-10-15'
 signer: 
 reviewArchive: 
 twitter: 

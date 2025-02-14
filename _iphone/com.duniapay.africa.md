@@ -7,8 +7,8 @@ authors:
 appId: com.duniapay.africa
 appCountry: bf
 idd: '1474570971'
-released: 2019-10-18
-updated: 2022-04-10
+released: '2019-10-18'
+updated: '2022-04-10'
 version: '3.0.0'
 stars: 4.8
 reviews: 11
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-30
+date: '2023-01-30'
 signer: 
 reviewArchive: 
 twitter: dunia_pay

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: pro.smartym.wllt
 appCountry: 
-released: 2019-03-19
-updated: 2019-03-21
+released: '2019-03-19'
+updated: '2019-03-21'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

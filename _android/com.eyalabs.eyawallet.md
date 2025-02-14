@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.eyalabs.eyawallet
 appCountry: 
-released: 2015-12-03
-updated: 2019-02-20
+released: '2015-12-03'
+updated: '2019-02-20'
 version: '5.3.2'
 stars: 3.2
 ratings: 90
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-12-29
+date: '2021-12-29'
 signer: 
 reviewArchive: 
 twitter: 

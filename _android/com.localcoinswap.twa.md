@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.localcoinswap.twa
 appCountry: 
-released: 2023-03-10
-updated: 2023-03-11
+released: '2023-03-10'
+updated: '2023-03-11'
 version: '1.0.0.0'
 stars: 3.2
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-09-08
+date: '2024-09-08'
 signer: 
 reviewArchive: 
 twitter: Localcoinswap_

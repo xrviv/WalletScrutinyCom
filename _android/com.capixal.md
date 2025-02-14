@@ -8,7 +8,7 @@ users: 1000
 appId: com.capixal
 appCountry: 
 released: 
-updated: 2021-12-01
+updated: '2021-12-01'
 version: '1.5.78-capixal'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

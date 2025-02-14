@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.hagglex.hagglex
 appCountry: us
-released: 2021-03-17
-updated: 2021-11-26
+released: '2021-03-17'
+updated: '2021-11-26'
 version: '1.1.2'
 stars: 4.3
 ratings: 2775
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: hagglexintl

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: ps.greenminer.app
 appCountry: 
-released: 2021-06-04
-updated: 2022-06-28
+released: '2021-06-04'
+updated: '2022-06-28'
 version: '3.13.28-0d7a9f0'
 stars: 
 ratings: 5347
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: app.metavest.mobile
 appCountry: 
-released: 2022-07-06
-updated: 2024-08-20
+released: '2022-07-06'
+updated: '2024-08-20'
 version: '3.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-12
+date: '2024-11-12'
 signer: 
 reviewArchive: 
 twitter: MetavestApp

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.dino.wallet
 appCountry: 
-released: 2021-05-30
-updated: 2021-08-28
+released: '2021-05-30'
+updated: '2021-08-28'
 version: '1.26'
 stars: 4.9
 ratings: 1593
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

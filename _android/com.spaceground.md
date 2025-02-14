@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.spaceground
 appCountry: 
-released: 2022-06-09
-updated: 2023-07-10
+released: '2022-06-09'
+updated: '2023-07-10'
 version: '1.0.30'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-30
+date: '2024-07-30'
 signer: 
 reviewArchive: 
 twitter: 

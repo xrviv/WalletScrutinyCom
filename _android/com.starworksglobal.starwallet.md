@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.starworksglobal.starwallet
 appCountry: 
-released: 2021-02-01
-updated: 2025-02-07
+released: '2021-02-01'
+updated: '2025-02-07'
 version: '3.001.250'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-08-14
+date: '2023-08-14'
 signer: 
 reviewArchive: 
 twitter: starworksglobal

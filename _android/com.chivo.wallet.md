@@ -8,8 +8,8 @@ authors:
 users: 1000000
 appId: com.chivo.wallet
 appCountry: sv
-released: 2021-09-06
-updated: 2024-11-25
+released: '2021-09-06'
+updated: '2024-11-25'
 version: '3.0.0'
 stars: 2.7
 ratings: 27085
@@ -23,10 +23,10 @@ bugbounty:
 meta: ok
 verdict: obfuscated
 appHashes: []
-date: 2024-11-29
+date: '2024-11-29'
 signer: 
 reviewArchive:
-- date: 2021-10-10
+- date: '2021-10-10'
   version: '1.1.0'
   appHashes: []
   gitRevision: fa227d42296cae666acec49c980629e0b2a71636

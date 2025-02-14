@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: one.citadel.mobile
 appCountry: 
-released: 2020-12-29
-updated: 2024-05-08
+released: '2020-12-29'
+updated: '2024-05-08'
 version: '2.12.2'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-17
+date: '2024-07-17'
 signer: 
 reviewArchive: 
 twitter: CitadelDAO

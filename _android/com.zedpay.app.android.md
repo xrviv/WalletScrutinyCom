@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.zedpay.app.android
 appCountry: 
-released: 2022-10-25
-updated: 2024-01-27
+released: '2022-10-25'
+updated: '2024-01-27'
 version: '1.4.6-production'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2025-01-27
+date: '2025-01-27'
 signer: 
 reviewArchive: 
 twitter: ZedPayCo

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.ublex
 appCountry: 
-released: 2019-10-21
-updated: 2019-10-24
+released: '2019-10-21'
+updated: '2019-10-24'
 version: '0.0.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

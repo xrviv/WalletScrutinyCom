@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.hanryubank.fnsWallet
 appCountry: 
-released: 2021-07-30
-updated: 2022-10-17
+released: '2021-07-30'
+updated: '2022-10-17'
 version: '2.1.2'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-04-07
+date: '2023-04-07'
 signer: 
 reviewArchive: 
 twitter: 

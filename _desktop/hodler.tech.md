@@ -3,9 +3,9 @@ title: HODLER TECH Open Source Multi-Asset Wallet
 appId: hodler.tech
 authors:
 - danny
-released: 2018-12-30
+released: '2018-12-30'
 discontinued: 
-updated: 2019-10-29
+updated: '2019-10-29'
 version: '0.4.6'
 binaries: 
 provider: 
@@ -17,7 +17,7 @@ icon: hodler.tech.png
 bugbounty: 
 meta: obsolete
 verdict: wip
-date: 2024-04-25
+date: '2024-04-25'
 reviewArchive: 
 twitter: 
 social:

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: io.fastewallet.bankwallet
 appCountry: 
-released: 2022-08-31
-updated: 2023-01-18
+released: '2022-08-31'
+updated: '2023-01-18'
 version: '0.26.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: blocktechbrew

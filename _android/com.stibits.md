@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.stibits
 appCountry: 
-released: 2022-03-10
-updated: 2022-11-23
+released: '2022-03-10'
+updated: '2022-11-23'
 version: '0.16BETA'
 stars: 3.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: stibits

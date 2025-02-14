@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.flynncrypt.wallet
 appCountry: 
-released: 2022-06-16
-updated: 2022-06-16
+released: '2022-06-16'
+updated: '2022-06-16'
 version: '1.0.9'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

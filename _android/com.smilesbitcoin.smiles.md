@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.smilesbitcoin.smiles
 appCountry: us
-released: 2020-12-15
-updated: 2025-01-29
+released: '2020-12-15'
+updated: '2025-01-29'
 version: '3.3.0'
 stars: 2.3
 ratings: 208
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-11-04
+date: '2021-11-04'
 signer: 
 reviewArchive: 
 twitter: smilesbitcoin

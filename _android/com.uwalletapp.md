@@ -7,7 +7,7 @@ users: 5000
 appId: com.uwalletapp
 appCountry: 
 released: 
-updated: 2020-06-08
+updated: '2020-06-08'
 version: '1.4.2'
 stars: 4.3
 ratings: 106
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-01-23
+date: '2021-01-23'
 signer: 
 reviewArchive: 
 twitter: utrust

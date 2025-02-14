@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.crypter.cryptocyrrency
 appCountry: us
-released: 2017-09-09
-updated: 2025-02-07
+released: '2017-09-09'
+updated: '2025-02-07'
 version: '3.5.10'
 stars: 4.3
 ratings: 78687
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-11-01
+date: '2021-11-01'
 signer: 
 reviewArchive: 
 twitter: TrustSwap

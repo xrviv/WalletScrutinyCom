@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: yadav.sachin.earn.free.crypto.cryptoexchange
 appCountry: 
-released: 2022-08-25
-updated: 2023-01-07
+released: '2022-08-25'
+updated: '2023-01-07'
 version: '3.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: 

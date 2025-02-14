@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: app.aitrade.ai
 appCountry: 
-released: 2022-12-19
-updated: 2022-12-20
+released: '2022-12-19'
+updated: '2022-12-20'
 version: '1.0.1'
 stars: 2.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-09-28
+date: '2024-09-28'
 signer: 
 reviewArchive: 
 twitter: 

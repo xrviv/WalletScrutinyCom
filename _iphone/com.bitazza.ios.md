@@ -7,8 +7,8 @@ authors:
 appId: com.bitazza.ios
 appCountry: th
 idd: 1476944844
-released: 2020-05-25
-updated: 2025-02-02
+released: '2020-05-25'
+updated: '2025-02-02'
 version: '3.9.4'
 stars: 4.4
 reviews: 1849
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: bitazzaofficial

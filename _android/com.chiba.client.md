@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.chiba.client
 appCountry: 
-released: 2018-04-19
-updated: 2018-05-08
+released: '2018-04-19'
+updated: '2018-05-08'
 version: '1.0.11'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-17
+date: '2023-05-17'
 signer: 
 reviewArchive: 
 twitter: 

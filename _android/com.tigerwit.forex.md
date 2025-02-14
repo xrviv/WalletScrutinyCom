@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.tigerwit.forex
 appCountry: 
-released: 2018-01-24
-updated: 2023-04-12
+released: '2018-01-24'
+updated: '2023-04-12'
 version: '6.1.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: TigerWitGlobal

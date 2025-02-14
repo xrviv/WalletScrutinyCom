@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.callsfreecalls.android
 appCountry: 
-released: 2012-10-15
-updated: 2020-10-07
+released: '2012-10-15'
+updated: '2020-10-07'
 version: '5.6.1'
 stars: 3.7
 ratings: 12322
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-08-21
+date: '2021-08-21'
 signer: 
 reviewArchive: 
 twitter: cfc_io

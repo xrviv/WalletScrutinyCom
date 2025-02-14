@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.sharpdev.fxcoin
 appCountry: ru
-released: 2019-03-07
-updated: 2020-10-30
+released: '2019-03-07'
+updated: '2020-10-30'
 version: '1.11.1'
 stars: 3.3
 ratings: 2801
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

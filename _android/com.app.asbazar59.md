@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.app.asbazar59
 appCountry: 
-released: 2021-06-15
-updated: 2021-10-14
+released: '2021-06-15'
+updated: '2021-10-14'
 version: '4'
 stars: 2.8
 ratings: 434
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: asbazarofficial

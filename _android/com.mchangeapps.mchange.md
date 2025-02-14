@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.mchangeapps.mchange
 appCountry: 
-released: 2021-09-01
-updated: 2024-08-10
+released: '2021-09-01'
+updated: '2024-08-10'
 version: '4.0.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

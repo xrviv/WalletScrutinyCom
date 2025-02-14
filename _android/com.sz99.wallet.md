@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.sz99.wallet
 appCountry: 
-released: 2021-09-23
-updated: 2023-02-01
+released: '2021-09-23'
+updated: '2023-02-01'
 version: '3.7.2'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

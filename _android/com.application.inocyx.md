@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.application.inocyx
 appCountry: 
-released: 2022-11-16
-updated: 2024-08-02
+released: '2022-11-16'
+updated: '2024-08-02'
 version: '1.42'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: INOCYX

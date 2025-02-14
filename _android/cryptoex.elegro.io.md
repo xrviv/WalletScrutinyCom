@@ -8,8 +8,8 @@ authors:
 users: 1000
 appId: cryptoex.elegro.io
 appCountry: 
-released: 2019-06-26
-updated: 2021-04-29
+released: '2019-06-26'
+updated: '2021-04-29'
 version: '1.0.4'
 stars: 
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: elegro_eu

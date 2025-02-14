@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.cryptoidlemine.fake.bitcoin.investor
 appCountry: 
-released: 2021-07-20
-updated: 2021-07-20
+released: '2021-07-20'
+updated: '2021-07-20'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-09-18
+date: '2021-09-18'
 signer: 
 reviewArchive: 
 twitter: 

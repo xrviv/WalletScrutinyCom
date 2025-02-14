@@ -8,7 +8,7 @@ users: 1000
 appId: com.euphoriahit
 appCountry: 
 released: 
-updated: 2021-12-03
+updated: '2021-12-03'
 version: 'VARY'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: Euphoria_Hit

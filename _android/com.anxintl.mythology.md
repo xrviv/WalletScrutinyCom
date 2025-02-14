@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.anxintl.mythology
 appCountry: 
-released: 2016-04-18
-updated: 2016-10-29
+released: '2016-04-18'
+updated: '2016-10-29'
 version: '1.3.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-08-07
+date: '2023-08-07'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: apps.produccion.line2coinswap
 appCountry: 
-released: 2022-07-22
-updated: 2022-07-24
+released: '2022-07-22'
+updated: '2022-07-24'
 version: '1.0.0.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

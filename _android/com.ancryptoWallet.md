@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.ancryptoWallet
 appCountry: 
-released: 2022-09-27
-updated: 2025-01-20
+released: '2022-09-27'
+updated: '2025-01-20'
 version: '1.47.0'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: AnCryptoWallet

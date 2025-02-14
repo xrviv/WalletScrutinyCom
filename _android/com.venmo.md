@@ -7,8 +7,8 @@ authors:
 users: 50000000
 appId: com.venmo
 appCountry: 
-released: 2010-05-17
-updated: 2025-01-29
+released: '2010-05-17'
+updated: '2025-01-29'
 version: '10.58.0'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2022-04-12
+date: '2022-04-12'
 signer: 
 reviewArchive: 
 twitter: venmo

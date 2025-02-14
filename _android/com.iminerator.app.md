@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.iminerator.app
 appCountry: us
-released: 2021-04-20
-updated: 2022-08-30
+released: '2021-04-20'
+updated: '2022-08-30'
 version: '2.1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nowallet
 appHashes: 
-date: 2024-08-19
+date: '2024-08-19'
 signer: 
 reviewArchive: 
 twitter: 

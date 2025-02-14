@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.buyandsellbtcguide.coinbase.buyandsellcoinsviacoinbase
 appCountry: 
-released: 2021-04-29
-updated: 2022-05-19
+released: '2021-04-29'
+updated: '2022-05-19'
 version: '1.7'
 stars: 4.3
 ratings: 286
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

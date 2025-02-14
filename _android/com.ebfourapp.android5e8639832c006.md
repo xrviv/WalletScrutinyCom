@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.ebfourapp.android5e8639832c006
 appCountry: 
-released: 2020-06-24
-updated: 2020-08-10
+released: '2020-06-24'
+updated: '2020-08-10'
 version: '2.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

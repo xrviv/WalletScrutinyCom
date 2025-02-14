@@ -7,8 +7,8 @@ authors:
 users: 500
 appId: com.lightning.denryu
 appCountry: 
-released: 2018-12-14
-updated: 2018-12-26
+released: '2018-12-14'
+updated: '2018-12-26'
 version: '0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: 

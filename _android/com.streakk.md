@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.streakk
 appCountry: 
-released: 2022-07-29
-updated: 2023-09-26
+released: '2022-07-29'
+updated: '2023-09-26'
 version: '3.7'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: streakkofficial

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.cypper.casswallet
 appCountry: 
-released: 2019-10-29
-updated: 2019-12-07
+released: '2019-10-29'
+updated: '2019-12-07'
 version: '2.0.7.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: 

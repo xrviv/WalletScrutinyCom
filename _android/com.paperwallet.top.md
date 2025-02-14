@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.paperwallet.top
 appCountry: 
-released: 2019-06-12
-updated: 2020-10-18
+released: '2019-06-12'
+updated: '2020-10-18'
 version: '1.0.22'
 stars: 4.4
 ratings: 55
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: wip
 appHashes: 
-date: 2023-04-08
+date: '2023-04-08'
 signer: 
 reviewArchive: 
 twitter: paperwallettop

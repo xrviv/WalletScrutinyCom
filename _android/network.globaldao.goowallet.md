@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: network.globaldao.goowallet
 appCountry: 
-released: 2019-12-10
-updated: 2020-10-25
+released: '2019-12-10'
+updated: '2020-10-25'
 version: '0.1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

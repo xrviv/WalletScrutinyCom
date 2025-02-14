@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: org.coinlend
 appCountry: 
-released: 2018-07-19
-updated: 2020-06-30
+released: '2018-07-19'
+updated: '2020-06-30'
 version: '0.0.36'
 stars: 4.4
 ratings: 83
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: Coinlend2018

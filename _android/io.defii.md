@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.defii
 appCountry: 
-released: 2021-04-24
-updated: 2021-08-05
+released: '2021-04-24'
+updated: '2021-08-05'
 version: '2.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 appId: com.TrendluxOU.trendlux
 appCountry: us
 idd: '1370977008'
-released: 2018-05-14
-updated: 2023-12-08
+released: '2018-05-14'
+updated: '2023-12-08'
 version: '3.9.7'
 stars: 4.7
 reviews: 2794
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 3commas_io

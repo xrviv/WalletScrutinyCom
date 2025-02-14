@@ -8,7 +8,7 @@ users: 1000
 appId: com.nayuta.core
 appCountry: 
 released: 
-updated: 2021-12-16
+updated: '2021-12-16'
 version: 'Varies with device'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2022-01-15
+date: '2022-01-15'
 signer: 
 reviewArchive: 
 twitter: nayuta_en

@@ -7,8 +7,8 @@ authors:
 appId: co.sarwa.ios
 appCountry: us
 idd: '1554353496'
-released: 2021-04-12
-updated: 2024-12-11
+released: '2021-04-12'
+updated: '2024-12-11'
 version: '5.9.0'
 stars: 4.1
 reviews: 53
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2023-07-28
+date: '2023-07-28'
 signer: 
 reviewArchive: 
 twitter: SarwaCo

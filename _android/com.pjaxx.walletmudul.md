@@ -8,8 +8,8 @@ authors:
 users: 100
 appId: com.pjaxx.walletmudul
 appCountry: 
-released: 2021-07-05
-updated: 2021-07-05
+released: '2021-07-05'
+updated: '2021-07-05'
 version: '1'
 stars: 
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-08-04
+date: '2021-08-04'
 signer: 
 reviewArchive: 
 twitter: 

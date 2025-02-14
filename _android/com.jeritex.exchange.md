@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.jeritex.exchange
 appCountry: 
-released: 2022-05-05
-updated: 2023-05-22
+released: '2022-05-05'
+updated: '2023-05-22'
 version: '1.1.20'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-08-31
+date: '2024-08-31'
 signer: 
 reviewArchive: 
 twitter: 

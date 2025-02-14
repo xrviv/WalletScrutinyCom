@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.bastionpay.betrapay
 appCountry: 
-released: 2019-10-30
-updated: 2019-11-20
+released: '2019-10-30'
+updated: '2019-11-20'
 version: 'v1.0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.fourthwavestudios.joseph.mnemonic
 appCountry: 
-released: 2021-05-18
-updated: 2021-05-18
+released: '2021-05-18'
+updated: '2021-05-18'
 version: '2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

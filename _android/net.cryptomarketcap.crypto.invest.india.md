@@ -6,8 +6,8 @@ authors:
 users: 0
 appId: net.cryptomarketcap.crypto.invest.india
 appCountry: 
-released: 2021-06-22
-updated: 2021-06-22
+released: '2021-06-22'
+updated: '2021-06-22'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-08-13
+date: '2021-08-13'
 signer: 
 reviewArchive: 
 twitter: 

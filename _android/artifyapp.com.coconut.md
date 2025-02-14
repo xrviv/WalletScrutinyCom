@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: artifyapp.com.coconut
 appCountry: 
-released: 2018-07-05
-updated: 2018-10-22
+released: '2018-07-05'
+updated: '2018-10-22'
 version: '1.1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

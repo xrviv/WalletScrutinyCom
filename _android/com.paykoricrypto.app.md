@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.paykoricrypto.app
 appCountry: 
-released: 2022-04-26
-updated: 2022-11-15
+released: '2022-04-26'
+updated: '2022-11-15'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

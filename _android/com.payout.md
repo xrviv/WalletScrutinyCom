@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.payout
 appCountry: 
-released: 2020-01-14
-updated: 2020-10-16
+released: '2020-01-14'
+updated: '2020-10-16'
 version: '2.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

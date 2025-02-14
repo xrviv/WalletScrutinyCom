@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.bytewallet.bytewallet
 appCountry: 
-released: 2021-07-20
-updated: 2024-12-27
+released: '2021-07-20'
+updated: '2024-12-27'
 version: 'VARY'
 stars: 3.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-22
+date: '2024-07-22'
 signer: 
 reviewArchive: 
 twitter: bytefederal

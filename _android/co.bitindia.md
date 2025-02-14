@@ -7,7 +7,7 @@ users: 1000
 appId: co.bitindia
 appCountry: 
 released: 
-updated: 2018-02-06
+updated: '2018-02-06'
 version: 'Varies with device'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-10-18
+date: '2021-10-18'
 signer: 
 reviewArchive: 
 twitter: 

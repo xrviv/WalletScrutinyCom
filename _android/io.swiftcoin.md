@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.swiftcoin
 appCountry: 
-released: 2022-09-12
-updated: 2025-01-21
+released: '2022-09-12'
+updated: '2025-01-21'
 version: '3.1.0'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-08-30
+date: '2023-08-30'
 signer: 
 reviewArchive: 
 twitter: SwiftCoin380

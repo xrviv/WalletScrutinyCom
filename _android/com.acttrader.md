@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.acttrader
 appCountry: 
-released: 2021-12-29
-updated: 2025-02-10
+released: '2021-12-29'
+updated: '2025-02-10'
 version: '2.2.34'
 stars: 1.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-09-06
+date: '2024-09-06'
 signer: 
 reviewArchive: 
 twitter: ActTraderTech

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.farhadmarket.app
 appCountry: 
-released: 2019-07-08
-updated: 2021-12-05
+released: '2019-07-08'
+updated: '2021-12-05'
 version: '1.9.124'
 stars: 3.9
 ratings: 1035
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

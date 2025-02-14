@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.isun.ag.bitnuk
 appCountry: 
-released: 2020-02-16
-updated: 2020-03-09
+released: '2020-02-16'
+updated: '2020-03-09'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

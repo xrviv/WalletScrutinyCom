@@ -8,7 +8,7 @@ users: 1000
 appId: org.cordova.verto.app
 appCountry: 
 released: 
-updated: 2019-12-13
+updated: '2019-12-13'
 version: '0.9.1'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-12-04
+date: '2024-12-04'
 signer: 
 reviewArchive: 
 twitter: 

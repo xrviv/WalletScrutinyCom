@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: plus.H589A351F
 appCountry: 
-released: 2023-03-29
-updated: 2023-04-18
+released: '2023-03-29'
+updated: '2023-04-18'
 version: '2.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: 

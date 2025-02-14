@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: com.bitcoin.m.bitcoinbankbreaker.official
 appCountry: 
-released: 2022-09-07
-updated: 2022-09-07
+released: '2022-09-07'
+updated: '2022-09-07'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: 

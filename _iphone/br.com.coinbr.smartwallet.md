@@ -7,8 +7,8 @@ authors:
 appId: br.com.coinbr.smartwallet
 appCountry: us
 idd: 1302270848
-released: 2018-01-02
-updated: 2021-11-02
+released: '2018-01-02'
+updated: '2021-11-02'
 version: '2.0.28'
 stars: 4.5
 reviews: 2
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: stratumhk

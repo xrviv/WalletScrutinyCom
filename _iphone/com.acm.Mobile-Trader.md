@@ -7,8 +7,8 @@ authors:
 appId: com.acm.Mobile-Trader
 appCountry: ch
 idd: '340408565'
-released: 2009-12-09
-updated: 2025-02-12
+released: '2009-12-09'
+updated: '2025-02-12'
 version: '3.30.0'
 stars: 4.2
 reviews: 598
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: Swissquote

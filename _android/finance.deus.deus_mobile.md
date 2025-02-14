@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: finance.deus.deus_mobile
 appCountry: 
-released: 2021-05-13
-updated: 2021-07-23
+released: '2021-05-13'
+updated: '2021-07-23'
 version: '1.1.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2022-03-07
+date: '2022-03-07'
 signer: 
 reviewArchive: 
 twitter: 

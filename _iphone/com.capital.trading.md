@@ -7,8 +7,8 @@ authors:
 appId: com.capital.trading
 appCountry: jp
 idd: 1230088754
-released: 2019-12-10
-updated: 2025-02-10
+released: '2019-12-10'
+updated: '2025-02-10'
 version: '1.95.1'
 stars: 4.5
 reviews: 302
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2024-10-07
+date: '2024-10-07'
 signer: 
 reviewArchive: 
 twitter: capitalcom

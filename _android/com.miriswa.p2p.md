@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.miriswa.p2p
 appCountry: 
-released: 2022-08-29
-updated: 2022-09-01
+released: '2022-08-29'
+updated: '2022-09-01'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: 

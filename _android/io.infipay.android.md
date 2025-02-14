@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.infipay.android
 appCountry: in
-released: 2020-10-28
-updated: 2021-04-08
+released: '2020-10-28'
+updated: '2021-04-08'
 version: '1.1.2'
 stars: 4.2
 ratings: 50
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: 

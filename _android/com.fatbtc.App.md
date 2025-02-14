@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.fatbtc.App
 appCountry: us
-released: 2018-06-02
-updated: 2023-02-16
+released: '2018-06-02'
+updated: '2023-02-16'
 version: '2.512'
 stars: 3
 ratings: 160
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2025-02-05
+date: '2025-02-05'
 signer: 
 reviewArchive: 
 twitter: fatbtc

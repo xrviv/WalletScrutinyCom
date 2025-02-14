@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.bitkart_exchange
 appCountry: 
-released: 2019-07-18
-updated: 2020-03-12
+released: '2019-07-18'
+updated: '2020-03-12'
 version: '1.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

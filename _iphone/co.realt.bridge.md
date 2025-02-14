@@ -7,8 +7,8 @@ authors:
 appId: co.realt.bridge
 appCountry: be
 idd: 1545585469
-released: 2021-05-06
-updated: 2021-12-14
+released: '2021-05-06'
+updated: '2021-12-14'
 version: '1.20'
 stars: 
 reviews: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: defunct
 verdict: nobtc
 appHashes: 
-date: 2022-01-15
+date: '2022-01-15'
 signer: 
 reviewArchive: 
 twitter: RealTPlatform

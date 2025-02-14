@@ -7,8 +7,8 @@ authors:
 users: 100
 appId: com.github.samotari.cryptoterminal
 appCountry: 
-released: 2020-01-14
-updated: 2020-01-14
+released: '2020-01-14'
+updated: '2020-01-14'
 version: '1.6.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.hyd.bitfrog
 appCountry: 
-released: 2022-08-31
-updated: 2023-03-17
+released: '2022-08-31'
+updated: '2023-03-17'
 version: '2.4.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

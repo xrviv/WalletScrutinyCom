@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.bitdu.exapp
 appCountry: 
-released: 2021-07-21
-updated: 2023-10-31
+released: '2021-07-21'
+updated: '2023-10-31'
 version: '3.0.3'
 stars: 2.9
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.kryptobot
 appCountry: 
-released: 2019-06-07
-updated: 2021-01-15
+released: '2019-06-07'
+updated: '2021-01-15'
 version: '1.1.4'
 stars: 3.5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

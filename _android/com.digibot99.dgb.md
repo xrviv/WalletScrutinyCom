@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.digibot99.dgb
 appCountry: 
-released: 2020-11-07
-updated: 2020-11-07
+released: '2020-11-07'
+updated: '2020-11-07'
 version: '0.0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-23
+date: '2023-05-23'
 signer: 
 reviewArchive: 
 twitter: 

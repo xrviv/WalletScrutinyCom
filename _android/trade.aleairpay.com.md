@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: trade.aleairpay.com
 appCountry: 
-released: 2022-08-25
-updated: 2022-08-25
+released: '2022-08-25'
+updated: '2022-08-25'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-08-04
+date: '2024-08-04'
 signer: 
 reviewArchive: 
 twitter: 

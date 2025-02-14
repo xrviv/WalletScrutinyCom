@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: kr.hndsoft.usepay
 appCountry: 
-released: 2022-06-06
-updated: 2022-12-21
+released: '2022-06-06'
+updated: '2022-12-21'
 version: '1.2.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

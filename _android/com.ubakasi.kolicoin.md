@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.ubakasi.kolicoin
 appCountry: 
-released: 2021-11-05
-updated: 2023-02-21
+released: '2021-11-05'
+updated: '2023-02-21'
 version: '5.1.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.fizen.io.wallet
 appCountry: 
-released: 2022-02-25
-updated: 2025-02-11
+released: '2022-02-25'
+updated: '2025-02-11'
 version: '2.5.0'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-03-31
+date: '2023-03-31'
 signer: 
 reviewArchive: 
 twitter: fizenwallet

@@ -7,8 +7,8 @@ authors:
 users: 500
 appId: com.coinbase.airdrop
 appCountry: 
-released: 2021-05-31
-updated: 2021-05-31
+released: '2021-05-31'
+updated: '2021-05-31'
 version: '1.0'
 stars: 3.3
 ratings: 7
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-08-31
+date: '2021-08-31'
 signer: 
 reviewArchive: 
 twitter: 

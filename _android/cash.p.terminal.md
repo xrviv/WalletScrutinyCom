@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: cash.p.terminal
 appCountry: 
-released: 2023-02-10
-updated: 2025-02-11
+released: '2023-02-10'
+updated: '2025-02-11'
 version: '0.41.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nonverifiable
 appHashes: 
-date: 2024-09-12
+date: '2024-09-12'
 signer: 
 reviewArchive: 
 twitter: PirateCash_NET

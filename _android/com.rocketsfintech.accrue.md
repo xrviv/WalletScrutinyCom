@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.rocketsfintech.accrue
 appCountry: 
-released: 2021-10-09
-updated: 2025-02-07
+released: '2021-10-09'
+updated: '2025-02-07'
 version: '3.6.20'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-05-04
+date: '2023-05-04'
 signer: 
 reviewArchive: 
 twitter: useaccrue

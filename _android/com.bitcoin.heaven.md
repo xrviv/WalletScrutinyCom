@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.bitcoin.heaven
 appCountry: 
-released: 2020-07-14
-updated: 2020-07-14
+released: '2020-07-14'
+updated: '2020-07-14'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-12-22
+date: '2021-12-22'
 signer: 
 reviewArchive: 
 twitter: 

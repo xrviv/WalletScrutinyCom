@@ -7,8 +7,8 @@ authors:
 appId: com.app.Inocyx
 appCountry: in
 idd: '6444437433'
-released: 2022-12-05
-updated: 2025-01-09
+released: '2022-12-05'
+updated: '2025-01-09'
 version: '3.4'
 stars: 4.6
 reviews: 10
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-11-01
+date: '2023-11-01'
 signer: 
 reviewArchive: 
 twitter: INOCYX

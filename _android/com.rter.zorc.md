@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.rter.zorc
 appCountry: 
-released: 2021-09-20
-updated: 2021-09-20
+released: '2021-09-20'
+updated: '2021-09-20'
 version: '1.0'
 stars: 4
 ratings: 31
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-10-15
+date: '2021-10-15'
 signer: 
 reviewArchive: 
 twitter: 

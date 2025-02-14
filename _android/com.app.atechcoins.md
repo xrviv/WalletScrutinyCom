@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.app.atechcoins
 appCountry: 
-released: 2020-11-10
-updated: 2025-01-06
+released: '2020-11-10'
+updated: '2025-01-06'
 version: '1.1.7'
 stars: 3.6
 ratings: 85
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-03-03
+date: '2023-03-03'
 signer: 
 reviewArchive: 
 twitter: 

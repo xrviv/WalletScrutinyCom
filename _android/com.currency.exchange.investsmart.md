@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.currency.exchange.investsmart
 appCountry: tm
-released: 2020-12-10
-updated: 2024-12-10
+released: '2020-12-10'
+updated: '2024-12-10'
 version: '1.42.11'
 stars: 4.1
 ratings: 216
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-06
+date: '2021-10-06'
 signer: 
 reviewArchive: 
 twitter: currencycom

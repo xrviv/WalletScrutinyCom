@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bityard.us2
 appCountry: 
-released: 2021-03-31
-updated: 2021-03-31
+released: '2021-03-31'
+updated: '2021-03-31'
 version: '1.0.2'
 stars: 3.1
 ratings: 165
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-03-07
+date: '2022-03-07'
 signer: 
 reviewArchive: 
 twitter: BitYard_Global

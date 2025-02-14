@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: us.dt777.com
 appCountry: 
-released: 2022-04-20
-updated: 2022-04-20
+released: '2022-04-20'
+updated: '2022-04-20'
 version: '1.0.9'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

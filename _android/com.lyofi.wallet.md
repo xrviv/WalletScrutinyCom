@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.lyofi.wallet
 appCountry: 
-released: 2022-05-20
-updated: 2023-12-27
+released: '2022-05-20'
+updated: '2023-12-27'
 version: '1.5.1'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: lyopayofficial

@@ -7,7 +7,7 @@ users: 100
 appId: com.dopamineapps.exchangevalet
 appCountry: 
 released: 
-updated: 2019-01-24
+updated: '2019-01-24'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

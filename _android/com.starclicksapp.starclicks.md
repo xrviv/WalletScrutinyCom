@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.starclicksapp.starclicks
 appCountry: 
-released: 2021-04-28
-updated: 2021-04-28
+released: '2021-04-28'
+updated: '2021-04-28'
 version: '1.0'
 stars: 3.9
 ratings: 135
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2021-11-10
+date: '2021-11-10'
 signer: 
 reviewArchive: 
 twitter: Starclicks

@@ -8,8 +8,8 @@ authors:
 users: 50000
 appId: io.talken.wallet
 appCountry: 
-released: 2019-07-31
-updated: 2025-02-04
+released: '2019-07-31'
+updated: '2025-02-04'
 version: '2.00.01'
 stars: 4.8
 ratings: 5882
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2021-09-03
+date: '2021-09-03'
 signer: 
 reviewArchive: 
 twitter: Talken_

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.tmweasy.ipay
 appCountry: 
-released: 2020-08-12
-updated: 2022-01-23
+released: '2020-08-12'
+updated: '2022-01-23'
 version: '1.3'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.stealthex
 appCountry: 
-released: 2022-11-01
-updated: 2025-01-13
+released: '2022-11-01'
+updated: '2025-01-13'
 version: '1.1.18'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-07-28
+date: '2023-07-28'
 signer: 
 reviewArchive: 
 twitter: StealthEX_io

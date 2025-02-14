@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.llc.bitcastle
 appCountry: 
-released: 2022-07-29
-updated: 2025-01-23
+released: '2022-07-29'
+updated: '2025-01-23'
 version: '1.11.5'
 stars: 2.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-10
+date: '2023-07-10'
 signer: 
 reviewArchive: 
 twitter: bit_castle

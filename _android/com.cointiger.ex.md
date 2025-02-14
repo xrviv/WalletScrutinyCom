@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.cointiger.ex
 appCountry: us
-released: 2020-07-23
-updated: 2023-07-03
+released: '2020-07-23'
+updated: '2023-07-03'
 version: '5.13.2'
 stars: 3.4
 ratings: 13093
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-04
+date: '2024-12-04'
 signer: 
 reviewArchive: 
 twitter: CoinTigerEX

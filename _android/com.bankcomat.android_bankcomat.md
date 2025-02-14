@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.bankcomat.android_bankcomat
 appCountry: 
-released: 2021-08-19
-updated: 2024-08-03
+released: '2021-08-19'
+updated: '2024-08-03'
 version: '4.1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

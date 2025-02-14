@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.btcex.exchange
 appCountry: 
-released: 2021-10-25
-updated: 2023-07-05
+released: '2021-10-25'
+updated: '2023-07-05'
 version: '1.4.50'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: BTCEX_exchange

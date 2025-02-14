@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.valar.pintu
 appCountry: us
-released: 2020-01-25
-updated: 2025-02-05
+released: '2020-01-25'
+updated: '2025-02-05'
 version: '3.67.0'
 stars: 4.5
 ratings: 28130
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-08-27
+date: '2021-08-27'
 signer: 
 reviewArchive: 
 twitter: pintuid

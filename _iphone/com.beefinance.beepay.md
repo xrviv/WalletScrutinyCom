@@ -7,8 +7,8 @@ authors:
 appId: com.beefinance.beepay
 appCountry: sg
 idd: '1592439709'
-released: 2021-11-10
-updated: 2023-07-11
+released: '2021-11-10'
+updated: '2023-07-11'
 version: '2.2.1'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: BeFiWalletverse

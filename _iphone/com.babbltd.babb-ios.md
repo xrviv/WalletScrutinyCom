@@ -7,8 +7,8 @@ authors:
 appId: com.babbltd.babb-ios
 appCountry: us
 idd: '1474391121'
-released: 2020-04-14
-updated: 2024-12-16
+released: '2020-04-14'
+updated: '2024-12-16'
 version: '2.5.3'
 stars: 4.3
 reviews: 85
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-10
+date: '2023-07-10'
 signer: 
 reviewArchive: 
 twitter: getbabb

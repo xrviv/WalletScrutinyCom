@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: app.truste.wallet
 appCountry: 
-released: 2021-07-01
-updated: 2021-07-01
+released: '2021-07-01'
+updated: '2021-07-01'
 version: '1.2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

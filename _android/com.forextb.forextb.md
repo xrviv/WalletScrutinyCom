@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.forextb.forextb
 appCountry: dk
-released: 2020-09-24
-updated: 2024-07-02
+released: '2020-09-24'
+updated: '2024-07-02'
 version: '2.7.1'
 stars: 2.4
 ratings: 339
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-08-15
+date: '2024-08-15'
 signer: 
 reviewArchive: 
 twitter: 

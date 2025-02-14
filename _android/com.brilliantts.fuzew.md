@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.brilliantts.fuzew
 appCountry: us
-released: 2018-07-25
-updated: 2022-04-26
+released: '2018-07-25'
+updated: '2022-04-26'
 version: '1.0.26'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-09-16
+date: '2024-09-16'
 signer: 
 reviewArchive: 
 twitter: w_fuze

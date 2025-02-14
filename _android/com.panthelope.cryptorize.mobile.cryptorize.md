@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.panthelope.cryptorize.mobile.cryptorize
 appCountry: 
-released: 2020-11-14
-updated: 2021-05-30
+released: '2020-11-14'
+updated: '2021-05-30'
 version: '2.0.0'
 stars: 3.2
 ratings: 36
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-01-15
+date: '2022-01-15'
 signer: 
 reviewArchive: 
 twitter: 

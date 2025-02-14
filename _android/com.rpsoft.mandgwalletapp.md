@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.rpsoft.mandgwalletapp
 appCountry: 
-released: 2021-03-29
-updated: 2021-03-29
+released: '2021-03-29'
+updated: '2021-03-29'
 version: '1.0'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: network.cri.criwallet
 appCountry: 
-released: 2022-02-14
-updated: 2022-07-31
+released: '2022-02-14'
+updated: '2022-07-31'
 version: '2.0.0'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-07-22
+date: '2024-07-22'
 signer: 
 reviewArchive: 
 twitter: Cri_Vivranium

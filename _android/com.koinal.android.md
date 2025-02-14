@@ -8,8 +8,8 @@ authors:
 users: 100000
 appId: com.koinal.android
 appCountry: gb
-released: 2020-06-04
-updated: 2023-03-31
+released: '2020-06-04'
+updated: '2023-03-31'
 version: '1.4.10'
 stars: 4.1
 ratings: 1938
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: koinal_io

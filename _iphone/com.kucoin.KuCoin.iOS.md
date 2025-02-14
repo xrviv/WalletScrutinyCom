@@ -7,8 +7,8 @@ authors:
 appId: com.kucoin.KuCoin.iOS
 appCountry: 
 idd: 1378956601
-released: 2018-05-14
-updated: 2024-05-20
+released: '2018-05-14'
+updated: '2024-05-20'
 version: '3.109.0'
 stars: 4.7
 reviews: 26462
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-15
+date: '2024-11-15'
 signer: 
 reviewArchive: 
 twitter: KuCoinCom

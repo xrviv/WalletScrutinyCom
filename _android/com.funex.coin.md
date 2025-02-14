@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.funex.coin
 appCountry: 
-released: 2022-02-18
-updated: 2024-08-30
+released: '2022-02-18'
+updated: '2024-08-30'
 version: '1.0.32'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-23
+date: '2024-10-23'
 signer: 
 reviewArchive: 
 twitter: Funexclub

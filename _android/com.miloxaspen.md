@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: com.miloxaspen
 appCountry: 
-released: 2022-02-08
-updated: 2022-03-16
+released: '2022-02-08'
+updated: '2022-03-16'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: 

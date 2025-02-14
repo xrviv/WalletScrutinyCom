@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.BitcoinProfit.com
 appCountry: 
-released: 2022-06-18
-updated: 2022-06-18
+released: '2022-06-18'
+updated: '2022-06-18'
 version: '1.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-17
+date: '2023-08-17'
 signer: 
 reviewArchive: 
 twitter: 

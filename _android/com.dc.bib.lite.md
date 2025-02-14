@@ -6,8 +6,8 @@ authors:
 users: 50000
 appId: com.dc.bib.lite
 appCountry: 
-released: 2023-02-06
-updated: 2024-05-15
+released: '2023-02-06'
+updated: '2024-05-15'
 version: '1.2.9'
 stars: 2.2
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: bib_exchange

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.covest.covestM
 appCountry: 
-released: 2022-11-03
-updated: 2024-10-15
+released: '2022-11-03'
+updated: '2024-10-15'
 version: '1.5'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-05-17
+date: '2023-05-17'
 signer: 
 reviewArchive: 
 twitter: COVEST_Official

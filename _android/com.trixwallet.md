@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.trixwallet
 appCountry: 
-released: 2021-12-20
-updated: 2021-12-20
+released: '2021-12-20'
+updated: '2021-12-20'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

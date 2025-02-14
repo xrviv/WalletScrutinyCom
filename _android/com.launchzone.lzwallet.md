@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.launchzone.lzwallet
 appCountry: 
-released: 2021-11-30
-updated: 2022-09-08
+released: '2021-11-30'
+updated: '2022-09-08'
 version: '1.0.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-30
+date: '2023-05-30'
 signer: 
 reviewArchive: 
 twitter: 

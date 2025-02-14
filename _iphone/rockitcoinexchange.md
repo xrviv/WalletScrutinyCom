@@ -7,8 +7,8 @@ authors:
 appId: rockitcoinexchange
 appCountry: us
 idd: '1476730078'
-released: 2019-09-18
-updated: 2024-11-28
+released: '2019-09-18'
+updated: '2024-11-28'
 version: '3.7.1'
 stars: 3.2
 reviews: 142
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2023-07-07
+date: '2023-07-07'
 signer: 
 reviewArchive: 
 twitter: rockitcoin

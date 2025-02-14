@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.quantdart.app
 appCountry: us
-released: 2020-09-16
-updated: 2022-01-27
+released: '2020-09-16'
+updated: '2022-01-27'
 version: '1.1.25'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: QuantDART

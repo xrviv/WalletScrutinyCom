@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.traintechnical.ttgen
 appCountry: 
-released: 2019-08-31
-updated: 2019-10-07
+released: '2019-08-31'
+updated: '2019-10-07'
 version: '1.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

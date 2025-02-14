@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: io.dharma.Dharma
 appCountry: 
-released: 2020-01-15
-updated: 2021-11-19
+released: '2020-01-15'
+updated: '2021-11-19'
 version: '1.0.26'
 stars: 3.3
 ratings: 386
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2022-03-07
+date: '2022-03-07'
 signer: 
 reviewArchive: 
 twitter: 

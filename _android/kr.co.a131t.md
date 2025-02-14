@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: kr.co.a131t
 appCountry: 
-released: 2019-06-26
-updated: 2019-06-27
+released: '2019-06-26'
+updated: '2019-06-27'
 version: '1.0-R'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

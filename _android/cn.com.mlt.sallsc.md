@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: cn.com.mlt.sallsc
 appCountry: 
-released: 2021-11-21
-updated: 2021-12-08
+released: '2021-11-21'
+updated: '2021-12-08'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

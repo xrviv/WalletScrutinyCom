@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.cloudminingespapp.espapp
 appCountry: 
-released: 2021-09-08
-updated: 2021-09-08
+released: '2021-09-08'
+updated: '2021-09-08'
 version: '1.0'
 stars: 1.6
 ratings: 15
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-11-10
+date: '2021-11-10'
 signer: 
 reviewArchive: 
 twitter: 

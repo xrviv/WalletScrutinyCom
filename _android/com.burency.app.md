@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.burency.app
 appCountry: us
-released: 2021-03-21
-updated: 2021-05-07
+released: '2021-03-21'
+updated: '2021-05-07'
 version: '1.0.2'
 stars: 4.3
 ratings: 241
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-12-05
+date: '2021-12-05'
 signer: 
 reviewArchive: 
 twitter: BurencyOfficial

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.nitroex.nitroexchangeapp
 appCountry: tt
-released: 2021-06-23
-updated: 2025-01-02
+released: '2021-06-23'
+updated: '2025-01-02'
 version: '3.2.5'
 stars: 4.1
 ratings: 231
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-11-10
+date: '2021-11-10'
 signer: 
 reviewArchive: 
 twitter: NitroExOfficial

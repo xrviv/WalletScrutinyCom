@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.rapidz.rapidzpay
 appCountry: 
-released: 2021-06-21
-updated: 2025-02-11
+released: '2021-06-21'
+updated: '2025-02-11'
 version: '2.15.5'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-19
+date: '2023-07-19'
 signer: 
 reviewArchive: 
 twitter: Rapidz_io

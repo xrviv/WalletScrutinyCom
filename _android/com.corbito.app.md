@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.corbito.app
 appCountry: 
-released: 2022-02-15
-updated: 2022-02-15
+released: '2022-02-15'
+updated: '2022-02-15'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: 

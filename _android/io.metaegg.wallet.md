@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.metaegg.wallet
 appCountry: 
-released: 2022-09-04
-updated: 2022-09-11
+released: '2022-09-04'
+updated: '2022-09-11'
 version: '0.1.2'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: Metaegg_io

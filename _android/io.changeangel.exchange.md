@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: io.changeangel.exchange
 appCountry: 
-released: 2022-05-24
-updated: 2024-08-30
+released: '2022-05-24'
+updated: '2024-08-30'
 version: '1.1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2024-03-07
+date: '2024-03-07'
 signer: 
 reviewArchive: 
 twitter: 

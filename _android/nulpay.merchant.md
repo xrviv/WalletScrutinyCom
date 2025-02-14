@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: nulpay.merchant
 appCountry: 
-released: 2022-09-02
-updated: 2024-03-23
+released: '2022-09-02'
+updated: '2024-03-23'
 version: '4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2024-03-25
+date: '2024-03-25'
 signer: 
 reviewArchive: 
 twitter: 

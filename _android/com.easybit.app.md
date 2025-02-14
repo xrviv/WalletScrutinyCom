@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.easybit.app
 appCountry: 
-released: 2020-01-16
-updated: 2021-12-14
+released: '2020-01-16'
+updated: '2021-12-14'
 version: '1.4.0'
 stars: 4.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nowallet
 appHashes: 
-date: 2023-12-13
+date: '2023-12-13'
 signer: 
 reviewArchive: 
 twitter: EasyBit_com

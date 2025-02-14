@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.heatwallet.heat_app
 appCountry: 
-released: 2024-10-24
-updated: 2025-02-07
+released: '2024-10-24'
+updated: '2025-02-07'
 version: '2.5.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2024-03-01
+date: '2024-03-01'
 signer: 
 reviewArchive: 
 twitter: 

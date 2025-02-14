@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.dok.wallet
 appCountry: il
-released: 2020-09-28
-updated: 2025-02-10
+released: '2020-09-28'
+updated: '2025-02-10'
 version: '2.51'
 stars: 5
 ratings: 35
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: 

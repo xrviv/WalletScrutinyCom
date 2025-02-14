@@ -7,8 +7,8 @@ authors:
 appId: com.astontek.stockmaster
 appCountry: us
 idd: 591644846
-released: 2013-03-07
-updated: 2025-01-27
+released: '2013-03-07'
+updated: '2025-01-27'
 version: '7.43'
 stars: 4.6
 reviews: 70031
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2021-10-10
+date: '2021-10-10'
 signer: 
 reviewArchive: 
 twitter: 

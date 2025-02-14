@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: network.minter.bipwallet.mainnet
 appCountry: 
-released: 2019-05-13
-updated: 2022-06-12
+released: '2019-05-13'
+updated: '2022-06-12'
 version: '2.4.1'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

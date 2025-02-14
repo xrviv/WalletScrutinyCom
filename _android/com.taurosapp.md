@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.taurosapp
 appCountry: 
-released: 2019-10-03
-updated: 2023-03-31
+released: '2019-10-03'
+updated: '2023-03-31'
 version: '9.6.4'
 stars: 3.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: tauros_io

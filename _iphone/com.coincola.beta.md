@@ -7,8 +7,8 @@ authors:
 appId: com.coincola.beta
 appCountry: 
 idd: 1234231551
-released: 2017-06-06
-updated: 2022-07-01
+released: '2017-06-06'
+updated: '2022-07-01'
 version: '4.8.13'
 stars: 3.6
 reviews: 245
@@ -21,7 +21,7 @@ bugbounty:
 meta: defunct
 verdict: custodial
 appHashes: 
-date: 2023-01-11
+date: '2023-01-11'
 signer: 
 reviewArchive: 
 twitter: CoinCola_Global

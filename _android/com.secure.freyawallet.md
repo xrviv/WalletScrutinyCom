@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.secure.freyawallet
 appCountry: 
-released: 2022-12-28
-updated: 2023-02-05
+released: '2022-12-28'
+updated: '2023-02-05'
 version: '1.17.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

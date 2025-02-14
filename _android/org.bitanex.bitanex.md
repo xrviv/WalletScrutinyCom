@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: org.bitanex.bitanex
 appCountry: 
-released: 2017-03-17
-updated: 2019-04-27
+released: '2017-03-17'
+updated: '2019-04-27'
 version: '1.2.49'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

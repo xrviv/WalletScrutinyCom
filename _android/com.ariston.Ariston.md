@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.ariston.Ariston
 appCountry: 
-released: 2019-07-02
-updated: 2019-07-09
+released: '2019-07-02'
+updated: '2019-07-09'
 version: '0.1.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: eu.wunderbit.trading_web
 appCountry: 
-released: 2021-01-19
-updated: 2021-01-19
+released: '2021-01-19'
+updated: '2021-01-19'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: Wunder_bit

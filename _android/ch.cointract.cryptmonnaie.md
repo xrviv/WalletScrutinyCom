@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: ch.cointract.cryptmonnaie
 appCountry: 
-released: 2021-07-05
-updated: 2022-02-14
+released: '2021-07-05'
+updated: '2022-02-14'
 version: '2.0.28'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-04-16
+date: '2023-04-16'
 signer: 
 reviewArchive: 
 twitter: 

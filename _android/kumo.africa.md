@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: kumo.africa
 appCountry: 
-released: 2022-06-03
-updated: 2024-04-25
+released: '2022-06-03'
+updated: '2024-04-25'
 version: '8.0.0'
 stars: 3.9
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: 

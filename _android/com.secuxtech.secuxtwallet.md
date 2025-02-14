@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.secuxtech.secuxtwallet
 appCountry: TW
-released: 2022-05-20
-updated: 2024-10-18
+released: '2022-05-20'
+updated: '2024-10-18'
 version: '2.1.02'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-09-03
+date: '2024-09-03'
 signer: 
 reviewArchive: 
 twitter: SecuXwallet

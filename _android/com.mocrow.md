@@ -7,7 +7,7 @@ users: 10
 appId: com.mocrow
 appCountry: 
 released: 
-updated: 2019-09-13
+updated: '2019-09-13'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

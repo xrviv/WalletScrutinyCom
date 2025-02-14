@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.chiji14xchange
 appCountry: ng
-released: 2019-04-22
-updated: 2021-05-22
+released: '2019-04-22'
+updated: '2021-05-22'
 version: '3.0.5'
 stars: 1.7
 ratings: 1121
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: myrocketapp

@@ -7,8 +7,8 @@ authors:
 appId: com.FrancExchange
 appCountry: us
 idd: 1543754366
-released: 2020-12-10
-updated: 2020-12-10
+released: '2020-12-10'
+updated: '2020-12-10'
 version: '1.0'
 stars: 1
 reviews: 1
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-10-24
+date: '2021-10-24'
 signer: 
 reviewArchive: 
 twitter: 

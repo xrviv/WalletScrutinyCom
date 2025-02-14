@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.coin4sales.coin4sales
 appCountry: 
-released: 2020-02-11
-updated: 2020-03-06
+released: '2020-02-11'
+updated: '2020-03-06'
 version: '1.2.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: 

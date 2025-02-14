@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.zbpro.global
 appCountry: 
-released: 2022-08-30
-updated: 2022-10-30
+released: '2022-08-30'
+updated: '2022-10-30'
 version: '1.4.0.1582'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: ZBexchange

@@ -7,8 +7,8 @@ authors:
 appId: com.bitoshi
 appCountry: us
 idd: '1627285591'
-released: 2022-10-17
-updated: 2024-12-03
+released: '2022-10-17'
+updated: '2024-12-03'
 version: '1.4.1'
 stars: 4.8
 reviews: 1061
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-11-01
+date: '2023-11-01'
 signer: 
 reviewArchive: 
 twitter: Bitoshiafrica

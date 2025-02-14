@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.fluxpayment
 appCountry: us
-released: 2020-09-02
-updated: 2023-04-13
+released: '2020-09-02'
+updated: '2023-04-13'
 version: '3.0.391'
 stars: 3.4
 ratings: 372
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-04-09
+date: '2024-04-09'
 signer: 
 reviewArchive: 
 twitter: ifluxdotapp

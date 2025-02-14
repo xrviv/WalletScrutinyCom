@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.bancryp.dmbank.user
 appCountry: 
-released: 2020-07-31
-updated: 2021-01-13
+released: '2020-07-31'
+updated: '2021-01-13'
 version: '1.4.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-04-20
+date: '2023-04-20'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.interestinate.flutter_cryptowallet
 appCountry: 
-released: 2020-01-06
-updated: 2020-01-06
+released: '2020-01-06'
+updated: '2020-01-06'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-09-08
+date: '2024-09-08'
 signer: 
 reviewArchive: 
 twitter: 

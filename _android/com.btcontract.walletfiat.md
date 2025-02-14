@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.btcontract.walletfiat
 appCountry: 
-released: 2023-10-09
-updated: 2024-05-07
+released: '2023-10-09'
+updated: '2024-05-07'
 version: '4.4.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2022-07-31
+date: '2022-07-31'
 signer: 
 reviewArchive: 
 twitter: 

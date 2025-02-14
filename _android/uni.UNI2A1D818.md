@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: uni.UNI2A1D818
 appCountry: 
-released: 2021-09-23
-updated: 2021-12-16
+released: '2021-09-23'
+updated: '2021-12-16'
 version: '1.4.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-05
+date: '2023-08-05'
 signer: 
 reviewArchive: 
 twitter: 

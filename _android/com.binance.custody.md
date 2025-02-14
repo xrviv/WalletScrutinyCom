@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.binance.custody
 appCountry: 
-released: 2021-11-25
-updated: 2023-08-17
+released: '2021-11-25'
+updated: '2023-08-17'
 version: '2.9.1'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: CeffuGlobal

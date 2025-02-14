@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.silenca.expresswallet
 appCountry: 
-released: 2020-05-14
-updated: 2020-05-14
+released: '2020-05-14'
+updated: '2020-05-14'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-28
+date: '2023-09-28'
 signer: 
 reviewArchive: 
 twitter: 

@@ -11,7 +11,7 @@ users: 10000
 appId: com.breez.client
 appCountry: 
 released: 
-updated: 2025-01-14
+updated: '2025-01-14'
 version: 'VARY'
 stars: 
 ratings: 
@@ -25,15 +25,15 @@ bugbounty:
 meta: ok
 verdict: nonverifiable
 appHashes: []
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive:
-- date: 2023-07-12
+- date: '2023-07-12'
   version: '0.15.refund_hotfix'
   appHashes: []
   gitRevision: 3fd8b756e9afbeface68b158e46d292877bc03d7
   verdict: nonverifiable
-- date: 2023-06-24
+- date: '2023-06-24'
   version: '0.15.refund_hotfix'
   appHashes: []
   gitRevision: 3f6ea3a7e29487f3f7144bf5e7029b90d01e3d32

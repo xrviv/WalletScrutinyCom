@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.exchange.Ciexv2
 appCountry: 
-released: 2022-07-20
-updated: 2024-05-27
+released: '2022-07-20'
+updated: '2024-05-27'
 version: '5.9.8_push_v2_home_enturion'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-05-30
+date: '2024-05-30'
 signer: 
 reviewArchive: 
 twitter: CENTURION_INVST

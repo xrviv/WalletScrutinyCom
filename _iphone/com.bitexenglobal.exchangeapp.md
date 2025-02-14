@@ -7,8 +7,8 @@ authors:
 appId: com.bitexenglobal.exchangeapp
 appCountry: az
 idd: '1634643482'
-released: 2022-09-30
-updated: 2024-12-11
+released: '2022-09-30'
+updated: '2024-12-11'
 version: '1.98'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-09-06
+date: '2023-09-06'
 signer: 
 reviewArchive: 
 twitter: bitexenglobal

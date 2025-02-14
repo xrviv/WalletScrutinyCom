@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.zybitech.juancash
 appCountry: 
-released: 2019-07-22
-updated: 2024-08-05
+released: '2019-07-22'
+updated: '2024-08-05'
 version: 'V2.0.3'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-17
+date: '2023-07-17'
 signer: 
 reviewArchive: 
 twitter: JuanCashPH

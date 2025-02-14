@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.coinzix.android
 appCountry: 
-released: 2021-10-27
-updated: 2023-06-02
+released: '2021-10-27'
+updated: '2023-06-02'
 version: '1.96'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2025-02-04
+date: '2025-02-04'
 signer: 
 reviewArchive: 
 twitter: coinzixcom

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.universecoincellphone
 appCountry: 
-released: 2019-12-12
-updated: 2020-08-10
+released: '2019-12-12'
+updated: '2020-08-10'
 version: '4.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

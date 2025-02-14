@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.ebanq.zima
 appCountry: 
-released: 2022-09-06
-updated: 2023-08-28
+released: '2022-09-06'
+updated: '2023-08-28'
 version: '1.4.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: 

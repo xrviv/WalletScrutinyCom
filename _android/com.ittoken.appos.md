@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.ittoken.appos
 appCountry: 
-released: 2022-05-10
-updated: 2022-05-10
+released: '2022-05-10'
+updated: '2022-05-10'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

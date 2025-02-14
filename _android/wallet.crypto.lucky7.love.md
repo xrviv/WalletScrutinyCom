@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: wallet.crypto.lucky7.love
 appCountry: 
-released: 2019-10-30
-updated: 2019-11-07
+released: '2019-10-30'
+updated: '2019-11-07'
 version: '1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

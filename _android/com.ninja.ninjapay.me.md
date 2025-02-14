@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.ninja.ninjapay.me
 appCountry: 
-released: 2023-01-10
-updated: 2023-11-24
+released: '2023-01-10'
+updated: '2023-11-24'
 version: '2.1.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: fewusers
 appHashes: 
-date: 2024-11-19
+date: '2024-11-19'
 signer: 
 reviewArchive: 
 twitter: 

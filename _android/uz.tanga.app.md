@@ -7,7 +7,7 @@ users: 500
 appId: uz.tanga.app
 appCountry: 
 released: 
-updated: 2020-09-17
+updated: '2020-09-17'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

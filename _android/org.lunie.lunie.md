@@ -7,7 +7,7 @@ users: 1000
 appId: org.lunie.lunie
 appCountry: 
 released: 
-updated: 2020-11-26
+updated: '2020-11-26'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: 

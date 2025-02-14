@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.vent.app
 appCountry: 
-released: 2022-01-26
-updated: 2025-02-11
+released: '2022-01-26'
+updated: '2025-02-11'
 version: '1.10.10'
 stars: 4.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-06-10
+date: '2023-06-10'
 signer: 
 reviewArchive: 
 twitter: ventafricaHQ

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.coinburp.mobile
 appCountry: 
-released: 2020-06-17
-updated: 2022-01-05
+released: '2020-06-17'
+updated: '2022-01-05'
 version: '1.0.15'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-04-07
+date: '2022-04-07'
 signer: 
 reviewArchive: 
 twitter: coinburp

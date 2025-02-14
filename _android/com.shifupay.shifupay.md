@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.shifupay.shifupay
 appCountry: 
-released: 2022-08-24
-updated: 2022-10-15
+released: '2022-08-24'
+updated: '2022-10-15'
 version: '0.0.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

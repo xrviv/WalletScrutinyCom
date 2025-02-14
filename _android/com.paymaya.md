@@ -7,8 +7,8 @@ authors:
 users: 10000000
 appId: com.paymaya
 appCountry: 
-released: 2016-06-05
-updated: 2025-01-31
+released: '2016-06-05'
+updated: '2025-01-31'
 version: '2.127.0'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-09-02
+date: '2024-09-02'
 signer: 
 reviewArchive: 
 twitter: mayaofficialph

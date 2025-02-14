@@ -7,7 +7,7 @@ users: 1000
 appId: com.satsapp
 appCountry: 
 released: 
-updated: 2020-04-13
+updated: '2020-04-13'
 version: '1.3.1'
 stars: 3.1
 ratings: 14
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2020-07-31
+date: '2020-07-31'
 signer: 
 reviewArchive: 
 twitter: 

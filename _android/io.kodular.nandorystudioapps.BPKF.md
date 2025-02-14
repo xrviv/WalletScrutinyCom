@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.kodular.nandorystudioapps.BPKF
 appCountry: 
-released: 2021-04-16
-updated: 2021-05-09
+released: '2021-04-16'
+updated: '2021-05-09'
 version: '1.2'
 stars: 3.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

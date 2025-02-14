@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.tusker.bytexio
 appCountry: 
-released: 2022-04-28
-updated: 2022-11-25
+released: '2022-04-28'
+updated: '2022-11-25'
 version: '1.0.9'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: bytex_io

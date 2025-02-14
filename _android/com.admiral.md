@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.admiral
 appCountry: 
-released: 2021-01-22
-updated: 2021-03-10
+released: '2021-01-22'
+updated: '2021-03-10'
 version: '1.9.3'
 stars: 2.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-02-03
+date: '2023-02-03'
 signer: 
 reviewArchive: 
 twitter: 

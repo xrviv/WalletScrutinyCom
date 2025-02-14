@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.lc.lcpay
 appCountry: 
-released: 2021-03-07
-updated: 2021-04-13
+released: '2021-03-07'
+updated: '2021-04-13'
 version: '5.0.0'
 stars: 4.7
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

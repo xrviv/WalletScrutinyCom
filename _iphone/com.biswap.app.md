@@ -7,8 +7,8 @@ authors:
 appId: com.biswap.app
 appCountry: ca
 idd: '1634279692'
-released: 2022-11-29
-updated: 2023-07-11
+released: '2022-11-29'
+updated: '2023-07-11'
 version: '1.0.12'
 stars: 5
 reviews: 5
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: nosource
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: exchangilydex

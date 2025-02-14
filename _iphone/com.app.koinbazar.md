@@ -7,8 +7,8 @@ authors:
 appId: com.app.koinbazar
 appCountry: in
 idd: 1567360326
-released: 2021-06-02
-updated: 2025-02-11
+released: '2021-06-02'
+updated: '2025-02-11'
 version: '4.1.9'
 stars: 3
 reviews: 124
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-26
+date: '2021-10-26'
 signer: 
 reviewArchive: 
 twitter: koinbazar

@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.wallet.bryptoxchange
 appCountry: 
-released: 2022-11-01
-updated: 2023-02-01
+released: '2022-11-01'
+updated: '2023-02-01'
 version: '1.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

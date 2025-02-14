@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.skb_app
 appCountry: 
-released: 2018-07-21
-updated: 2020-10-21
+released: '2018-07-21'
+updated: '2020-10-21'
 version: '3.25'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

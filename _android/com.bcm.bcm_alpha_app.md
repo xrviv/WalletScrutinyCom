@@ -7,7 +7,7 @@ users: 100
 appId: com.bcm.bcm_alpha_app
 appCountry: 
 released: 
-updated: 2021-09-26
+updated: '2021-09-26'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

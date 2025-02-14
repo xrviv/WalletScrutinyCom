@@ -7,8 +7,8 @@ authors:
 appId: com.ventafrica.app
 appCountry: us
 idd: '1607187419'
-released: 2022-02-01
-updated: 2024-02-21
+released: '2022-02-01'
+updated: '2024-02-21'
 version: '1.8.4'
 stars: 3.4
 reviews: 58
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: ventafricaHQ

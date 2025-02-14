@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: com.ccwalletapp
 appCountry: 
-released: 2019-06-26
-updated: 2020-07-29
+released: '2019-06-26'
+updated: '2020-07-29'
 version: '1.3.1'
 stars: 4.2
 ratings: 555
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: ftbfs
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: CoinCasso

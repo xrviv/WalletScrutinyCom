@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: com.cryptotrillionaires.bitcoin.investment
 appCountry: 
-released: 2021-07-17
-updated: 2021-07-17
+released: '2021-07-17'
+updated: '2021-07-17'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.phonegap.bit2me
 appCountry: 
-released: 2015-01-08
-updated: 2025-02-06
+released: '2015-01-08'
+updated: '2025-02-06'
 version: '3.33.0'
 stars: 4
 ratings: 5162
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2020-05-29
+date: '2020-05-29'
 signer: 
 reviewArchive: 
 twitter: bit2me

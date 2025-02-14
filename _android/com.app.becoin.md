@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.app.becoin
 appCountry: 
-released: 2022-10-01
-updated: 2022-10-01
+released: '2022-10-01'
+updated: '2022-10-01'
 version: '1.0'
 stars: 4.6
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

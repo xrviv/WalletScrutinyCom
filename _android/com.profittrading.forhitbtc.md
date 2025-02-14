@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.profittrading.forhitbtc
 appCountry: 
-released: 2018-07-23
-updated: 2021-08-07
+released: '2018-07-23'
+updated: '2021-08-07'
 version: 'VARY'
 stars: 4.5
 ratings: 41
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: ProfitTrading_

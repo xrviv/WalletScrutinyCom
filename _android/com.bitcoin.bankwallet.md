@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.bitcoin.bankwallet
 appCountry: 
-released: 2021-12-23
-updated: 2022-04-10
+released: '2021-12-23'
+updated: '2022-04-10'
 version: '0.3.7'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-11-04
+date: '2024-11-04'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: capital.novum.cryptohero
 appCountry: 
-released: 2021-07-16
-updated: 2023-11-17
+released: '2021-07-16'
+updated: '2023-11-17'
 version: '2.1.0.15'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nowallet
 appHashes: 
-date: 2024-11-12
+date: '2024-11-12'
 signer: 
 reviewArchive: 
 twitter: 

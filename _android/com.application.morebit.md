@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.application.morebit
 appCountry: 
-released: 2019-05-06
-updated: 2019-10-23
+released: '2019-05-06'
+updated: '2019-10-23'
 version: '1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

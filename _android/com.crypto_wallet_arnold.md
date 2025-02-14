@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.crypto_wallet_arnold
 appCountry: 
-released: 2022-08-16
-updated: 2023-03-07
+released: '2022-08-16'
+updated: '2023-03-07'
 version: '3.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

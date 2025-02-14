@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: mn.godeal.gopay
 appCountry: 
-released: 2018-02-10
-updated: 2019-01-20
+released: '2018-02-10'
+updated: '2019-01-20'
 version: '2.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

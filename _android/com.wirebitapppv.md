@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.wirebitapppv
 appCountry: 
-released: 2022-04-28
-updated: 2022-08-29
+released: '2022-04-28'
+updated: '2022-08-29'
 version: '1.2.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-11-30
+date: '2024-11-30'
 signer: 
 reviewArchive: 
 twitter: 

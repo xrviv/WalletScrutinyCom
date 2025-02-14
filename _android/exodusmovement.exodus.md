@@ -8,8 +8,8 @@ authors:
 users: 1000000
 appId: exodusmovement.exodus
 appCountry: 
-released: 2019-06-06
-updated: 2025-02-10
+released: '2019-06-06'
+updated: '2025-02-10'
 version: '25.7.9'
 stars: 4.5
 ratings: 81868
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-13
+date: '2024-07-13'
 signer: 
 reviewArchive: 
 twitter: exodus_io

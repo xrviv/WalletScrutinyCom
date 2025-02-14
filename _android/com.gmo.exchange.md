@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.gmo.exchange
 appCountry: th
-released: 2020-08-07
-updated: 2025-01-16
+released: '2020-08-07'
+updated: '2025-01-16'
 version: '3.1.7'
 stars: 4
 ratings: 82
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-11-08
+date: '2021-11-08'
 signer: 
 reviewArchive: 
 twitter: ZcomExchange

@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.belcobtm
 appCountry: 
-released: 2021-07-12
-updated: 2022-08-15
+released: '2021-07-12'
+updated: '2022-08-15'
 version: '2.7.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-05-17
+date: '2023-05-17'
 signer: 
 reviewArchive: 
 twitter: 

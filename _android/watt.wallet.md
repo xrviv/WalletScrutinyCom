@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: watt.wallet
 appCountry: 
-released: 2021-11-29
-updated: 2022-06-11
+released: '2021-11-29'
+updated: '2022-06-11'
 version: '1.28.0'
 stars: 3.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nosource
 appHashes: 
-date: 2024-06-03
+date: '2024-06-03'
 signer: 
 reviewArchive: 
 twitter: watt_me_token

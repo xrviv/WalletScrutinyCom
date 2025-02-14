@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.bitdonate
 appCountry: 
-released: 2021-04-28
-updated: 2021-07-26
+released: '2021-04-28'
+updated: '2021-07-26'
 version: '2.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

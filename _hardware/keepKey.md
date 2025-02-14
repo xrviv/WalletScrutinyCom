@@ -5,9 +5,9 @@ authors:
 - leo
 - Mohammad
 - danny
-released: 2014-08-01
+released: '2014-08-01'
 discontinued: 
-updated: 2024-03-06
+updated: '2024-03-06'
 version: '7.9.3'
 binaries: https://github.com/keepkey/keepkey-firmware/releases
 dimensions:
@@ -29,22 +29,22 @@ meta: ok
 verdict: reproducible
 appHashes:
 - 24cca93ef5e7907dc6d8405b8ab9800d4e072dd9259138cf7679107985b88137
-date: 2024-05-10
+date: '2024-05-10'
 signer: 
 reviewArchive:
-- date: 2023-05-25
+- date: '2023-05-25'
   version: '7.8.0'
   appHashes:
   - 31c1cdd945a7331e01b3cced866cb28add5b49eef87c2bbc08370e5aa7daf9bf
   gitRevision: 191d84904d55d79a68e06b7883218d4fd2fbfaea
   verdict: nonverifiable
-- date: 2022-08-07
+- date: '2022-08-07'
   version: '7.2.1'
   appHashes:
   - c6cf79e7c2cc1b9cf7eca57aacaab5310b4dd0eff1559cda307295d753251eff
   gitRevision: 4d17758721800cfb909014c9a158065de16cc6d3
   verdict: reproducible
-- date: 2021-07-31
+- date: '2021-07-31'
   version: '7.1.7'
   appHashes:
   - 2b7edd319536076e0a00058d0cfd1b1863c8d616ba5851668796d04966df8594

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.hermesus.android
 appCountry: 
-released: 2022-04-17
-updated: 2022-04-17
+released: '2022-04-17'
+updated: '2022-04-17'
 version: '1.1'
 stars: 2.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-07
+date: '2024-11-07'
 signer: 
 reviewArchive: 
 twitter: hermesus_us

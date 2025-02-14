@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: com.equuslabs.sample
 appCountry: 
-released: 2020-07-04
-updated: 2020-07-04
+released: '2020-07-04'
+updated: '2020-07-04'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

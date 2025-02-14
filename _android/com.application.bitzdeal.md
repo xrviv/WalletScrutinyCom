@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.application.bitzdeal
 appCountry: 
-released: 2020-08-03
-updated: 2020-08-12
+released: '2020-08-03'
+updated: '2020-08-12'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

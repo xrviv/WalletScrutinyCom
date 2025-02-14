@@ -7,8 +7,8 @@ authors:
 appId: com.trusteeplus1
 appCountry: us
 idd: '1634455978'
-released: 2022-07-18
-updated: 2025-01-28
+released: '2022-07-18'
+updated: '2025-01-28'
 version: '1.32.3'
 stars: 4.6
 reviews: 65
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-10-07
+date: '2024-10-07'
 signer: 
 reviewArchive: 
 twitter: TrusteeGlobal

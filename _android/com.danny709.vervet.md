@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.danny709.vervet
 appCountry: 
-released: 2022-06-04
-updated: 2022-06-04
+released: '2022-06-04'
+updated: '2022-06-04'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

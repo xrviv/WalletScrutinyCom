@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: appinventor.ai_Traid777.WALLETBTC
 appCountry: 
-released: 2021-06-16
-updated: 2021-06-16
+released: '2021-06-16'
+updated: '2021-06-16'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

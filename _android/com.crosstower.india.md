@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.crosstower.india
 appCountry: 
-released: 2021-09-08
-updated: 2023-04-02
+released: '2021-09-08'
+updated: '2023-04-02'
 version: '3.27'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: CrossTowerIndia

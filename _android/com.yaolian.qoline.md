@@ -7,8 +7,8 @@ authors:
 users: 100
 appId: com.yaolian.qoline
 appCountry: 
-released: 2021-07-14
-updated: 2024-02-19
+released: '2021-07-14'
+updated: '2024-02-19'
 version: '1.9.26'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2022-02-17
+date: '2022-02-17'
 signer: 
 reviewArchive: 
 twitter: salletone

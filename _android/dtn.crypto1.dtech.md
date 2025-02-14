@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: dtn.crypto1.dtech
 appCountry: 
-released: 2021-03-05
-updated: 2021-03-05
+released: '2021-03-05'
+updated: '2021-03-05'
 version: '1.0.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nobtc
 appHashes: 
-date: 2023-06-12
+date: '2023-06-12'
 signer: 
 reviewArchive: 
 twitter: 

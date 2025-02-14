@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: org.sapien.wallet
 appCountry: us
-released: 2021-06-24
-updated: 2024-06-20
+released: '2021-06-24'
+updated: '2024-06-20'
 version: '1.88.0'
 stars: 3.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-16
+date: '2024-07-16'
 signer: 
 reviewArchive: 
 twitter: 

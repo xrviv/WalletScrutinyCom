@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.mymoneymachine.app
 appCountry: 
-released: 2022-04-19
-updated: 2022-08-05
+released: '2022-04-19'
+updated: '2022-08-05'
 version: '1.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-09-21
+date: '2024-09-21'
 signer: 
 reviewArchive: 
 twitter: 

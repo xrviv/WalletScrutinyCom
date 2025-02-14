@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.pccryptomarket
 appCountry: 
-released: 2019-08-18
-updated: 2019-08-31
+released: '2019-08-18'
+updated: '2019-08-31'
 version: '1.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-31
+date: '2023-05-31'
 signer: 
 reviewArchive: 
 twitter: 

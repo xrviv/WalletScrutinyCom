@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.emoney_365
 appCountry: 
-released: 2020-10-16
-updated: 2020-10-16
+released: '2020-10-16'
+updated: '2020-10-16'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

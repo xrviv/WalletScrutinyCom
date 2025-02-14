@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.remibit.wallet.twa
 appCountry: 
-released: 2021-03-17
-updated: 2021-05-17
+released: '2021-03-17'
+updated: '2021-05-17'
 version: '3.0.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

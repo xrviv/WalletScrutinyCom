@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.definnpay.business
 appCountry: 
-released: 2021-12-19
-updated: 2022-03-25
+released: '2021-12-19'
+updated: '2022-03-25'
 version: '1.2.9'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

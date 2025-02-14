@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.talewallet
 appCountry: 
-released: 2023-04-07
-updated: 2024-05-05
+released: '2023-04-07'
+updated: '2024-05-05'
 version: '8.1.7'
 stars: 3.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-11-12
+date: '2024-11-12'
 signer: 
 reviewArchive: 
 twitter: TaleWallet

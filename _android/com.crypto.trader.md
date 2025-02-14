@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.crypto.trader
 appCountry: 
-released: 2021-09-29
-updated: 2021-09-29
+released: '2021-09-29'
+updated: '2021-09-29'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-11-16
+date: '2021-11-16'
 signer: 
 reviewArchive: 
 twitter: 

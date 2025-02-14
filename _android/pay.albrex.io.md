@@ -6,8 +6,8 @@ authors:
 users: 0
 appId: pay.albrex.io
 appCountry: 
-released: 2021-08-24
-updated: 2021-08-24
+released: '2021-08-24'
+updated: '2021-08-24'
 version: '4.7.10'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

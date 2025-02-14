@@ -6,8 +6,8 @@ authors:
 users: 100000
 appId: io.handcash.wallet
 appCountry: 
-released: 2019-09-10
-updated: 2025-02-12
+released: '2019-09-10'
+updated: '2025-02-12'
 version: '5.5.28'
 stars: 4.6
 ratings: 581
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2019-12-28
+date: '2019-12-28'
 signer: 
 reviewArchive: 
 twitter: handcashapp

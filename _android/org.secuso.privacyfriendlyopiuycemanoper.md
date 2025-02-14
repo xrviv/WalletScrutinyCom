@@ -8,7 +8,7 @@ users: 10
 appId: org.secuso.privacyfriendlyopiuycemanoper
 appCountry: 
 released: 
-updated: 2021-02-22
+updated: '2021-02-22'
 version: '2.0.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-05-11
+date: '2021-05-11'
 signer: 
 reviewArchive: 
 twitter: 

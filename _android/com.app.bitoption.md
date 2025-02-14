@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.app.bitoption
 appCountry: 
-released: 2020-08-19
-updated: 2020-09-09
+released: '2020-08-19'
+updated: '2020-09-09'
 version: '1.1.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.kelta.app
 appCountry: sk
-released: 2018-05-15
-updated: 2022-07-29
+released: '2018-05-15'
+updated: '2022-07-29'
 version: '3.1.2'
 stars: 2.9
 ratings: 1251
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-30
+date: '2023-01-30'
 signer: 
 reviewArchive: 
 twitter: 

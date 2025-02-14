@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: ru.borik.cryptomarket.android
 appCountry: 
-released: 2017-12-18
-updated: 2021-04-01
+released: '2017-12-18'
+updated: '2021-04-01'
 version: '1.62'
 stars: 4
 ratings: 137
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.coinberry_mobile
 appCountry: ca
-released: 2018-12-19
-updated: 2023-06-01
+released: '2018-12-19'
+updated: '2023-06-01'
 version: '137.6.4'
 stars: 2.8
 ratings: 1118
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: CoinberryHQ

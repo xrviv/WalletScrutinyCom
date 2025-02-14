@@ -7,7 +7,7 @@ users: 10
 appId: com.xazur.tradeapp
 appCountry: 
 released: 
-updated: 2023-06-14
+updated: '2023-06-14'
 version: '61.6.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

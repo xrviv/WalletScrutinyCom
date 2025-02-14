@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: org.chainverse
 appCountry: 
-released: 2022-02-23
-updated: 2023-03-23
+released: '2022-02-23'
+updated: '2023-03-23'
 version: '1.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-09-21
+date: '2024-09-21'
 signer: 
 reviewArchive: 
 twitter: Chainverseorg

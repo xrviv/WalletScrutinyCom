@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.app.foxexchangeapp
 appCountry: 
-released: 2022-03-06
-updated: 2023-08-20
+released: '2022-03-06'
+updated: '2023-08-20'
 version: '2.0'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-07-14
+date: '2024-07-14'
 signer: 
 reviewArchive: 
 twitter: 

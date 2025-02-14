@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.trustdx.bybit
 appCountry: 
-released: 2021-06-29
-updated: 2021-07-19
+released: '2021-06-29'
+updated: '2021-07-19'
 version: '5.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-09-02
+date: '2021-09-02'
 signer: 
 reviewArchive: 
 twitter: 

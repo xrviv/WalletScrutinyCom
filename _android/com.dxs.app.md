@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.dxs.app
 appCountry: 
-released: 2022-04-25
-updated: 2024-10-04
+released: '2022-04-25'
+updated: '2024-10-04'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-11-12
+date: '2024-11-12'
 signer: 
 reviewArchive: 
 twitter: 

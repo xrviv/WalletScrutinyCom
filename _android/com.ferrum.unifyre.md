@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.ferrum.unifyre
 appCountry: us
-released: 2020-05-29
-updated: 2020-09-20
+released: '2020-05-29'
+updated: '2020-09-20'
 version: '0.0.19'
 stars: 4.7
 ratings: 103
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: UnifyreWallet

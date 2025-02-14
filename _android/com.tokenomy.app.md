@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.tokenomy.app
 appCountry: 
-released: 2021-07-09
-updated: 2023-09-27
+released: '2021-07-09'
+updated: '2023-09-27'
 version: '2.15.1'
 stars: 3.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: tokenomy

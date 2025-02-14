@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.secux.mobile
 appCountry: 
-released: 2020-07-03
-updated: 2021-01-15
+released: '2020-07-03'
+updated: '2021-01-15'
 version: '1.0.1'
 stars: 2.5
 ratings: 56
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: SecuXwallet

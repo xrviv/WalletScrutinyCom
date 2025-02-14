@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.hybridsolutions.btc
 appCountry: 
-released: 2020-08-24
-updated: 2023-06-13
+released: '2020-08-24'
+updated: '2023-06-13'
 version: '1.2.1.10'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: VertexFXTrader

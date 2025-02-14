@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: coin.ajaib.co.id
 appCountry: 
-released: 2022-07-15
-updated: 2025-02-10
+released: '2022-07-15'
+updated: '2025-02-10'
 version: '2.65.1'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-09-06
+date: '2024-09-06'
 signer: 
 reviewArchive: 
 twitter: 

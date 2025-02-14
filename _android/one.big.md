@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: one.big
 appCountry: us
-released: 2019-10-30
-updated: 2025-01-27
+released: '2019-10-30'
+updated: '2025-01-27'
 version: '2.5.3'
 stars: 4
 ratings: 836
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-17
+date: '2021-09-17'
 signer: 
 reviewArchive: 
 twitter: BigONEexchange

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.capitalika.exhange
 appCountry: 
-released: 2019-03-18
-updated: 2025-01-28
+released: '2019-03-18'
+updated: '2025-01-28'
 version: '2.0.20'
 stars: 1.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-07-14
+date: '2022-07-14'
 signer: 
 reviewArchive: 
 twitter: capitalikalatam

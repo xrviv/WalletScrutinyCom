@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: cz.confirmo.app.confirmo_flutter
 appCountry: 
-released: 2022-08-12
-updated: 2023-08-01
+released: '2022-08-12'
+updated: '2023-08-01'
 version: '1.0.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: CryptoConfirmo

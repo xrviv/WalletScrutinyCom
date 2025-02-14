@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.plusblocks.boxtradex
 appCountry: 
-released: 2021-05-04
-updated: 2024-10-30
+released: '2021-05-04'
+updated: '2024-10-30'
 version: '2.0.1'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-04-11
+date: '2023-04-11'
 signer: 
 reviewArchive: 
 twitter: box_trad

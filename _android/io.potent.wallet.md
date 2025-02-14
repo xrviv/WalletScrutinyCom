@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: io.potent.wallet
 appCountry: 
-released: 2021-08-12
-updated: 2021-08-13
+released: '2021-08-12'
+updated: '2021-08-13'
 version: '0.20.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-10-16
+date: '2023-10-16'
 signer: 
 reviewArchive: 
 twitter: 

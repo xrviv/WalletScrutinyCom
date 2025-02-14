@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: wallet.peach.com
 appCountry: 
-released: 2022-04-09
-updated: 2022-06-06
+released: '2022-04-09'
+updated: '2022-06-06'
 version: '0.0.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

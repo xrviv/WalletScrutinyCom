@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: cme.ecoinexV1.app
 appCountry: 
-released: 2018-12-19
-updated: 2018-12-19
+released: '2018-12-19'
+updated: '2018-12-19'
 version: '1.01'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-22
+date: '2021-10-22'
 signer: 
 reviewArchive: 
 twitter: 

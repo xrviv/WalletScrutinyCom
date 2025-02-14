@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.finzo
 appCountry: 
-released: 2020-11-08
-updated: 2021-01-25
+released: '2020-11-08'
+updated: '2021-01-25'
 version: '1.3'
 stars: 4.2
 ratings: 76
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-11-26
+date: '2021-11-26'
 signer: 
 reviewArchive: 
 twitter: 

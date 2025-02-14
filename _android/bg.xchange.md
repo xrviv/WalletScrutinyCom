@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: bg.xchange
 appCountry: 
-released: 2020-12-22
-updated: 2024-09-19
+released: '2020-12-22'
+updated: '2024-09-19'
 version: '2.2.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-09-21
+date: '2024-09-21'
 signer: 
 reviewArchive: 
 twitter: xchangebg

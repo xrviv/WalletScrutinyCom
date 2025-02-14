@@ -7,8 +7,8 @@ authors:
 appId: com.bitbay.BitBayTrading
 appCountry: ca
 idd: 1409644952
-released: 2018-11-20
-updated: 2025-02-05
+released: '2018-11-20'
+updated: '2025-02-05'
 version: '1.4.14'
 stars: 5
 reviews: 3
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-10-07
+date: '2024-10-07'
 signer: 
 reviewArchive: 
 twitter: BitBay

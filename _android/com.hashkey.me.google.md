@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.hashkey.me.google
 appCountry: 
-released: 2021-06-23
-updated: 2023-07-08
+released: '2021-06-23'
+updated: '2023-07-08'
 version: '4.1.0'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2025-02-04
+date: '2025-02-04'
 signer: 
 reviewArchive: 
 twitter: hashkey_me

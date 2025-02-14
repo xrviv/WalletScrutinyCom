@@ -8,7 +8,7 @@ users: 10000
 appId: com.leadwallet.io
 appCountry: 
 released: 
-updated: 2021-08-14
+updated: '2021-08-14'
 version: 'Varies with device'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2021-10-30
+date: '2021-10-30'
 signer: 
 reviewArchive: 
 twitter: Leadwallet

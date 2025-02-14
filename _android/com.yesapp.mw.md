@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.yesapp.mw
 appCountry: 
-released: 2022-10-11
-updated: 2023-03-05
+released: '2022-10-11'
+updated: '2023-03-05'
 version: '11.3.10'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

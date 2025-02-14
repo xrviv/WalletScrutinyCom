@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.chainup.exchange.BKX
 appCountry: 
-released: 2022-01-14
-updated: 2022-09-19
+released: '2022-01-14'
+updated: '2022-09-19'
 version: '5.5.0_push_v2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-11-21
+date: '2024-11-21'
 signer: 
 reviewArchive: 
 twitter: 

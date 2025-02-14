@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.quidax.app
 appCountry: 
-released: 2019-10-31
-updated: 2021-01-12
+released: '2019-10-31'
+updated: '2021-01-12'
 version: '1.8.0'
 stars: 3
 ratings: 2041
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-02-10
+date: '2022-02-10'
 signer: 
 reviewArchive: 
 twitter: QuidaxAfrica

@@ -7,8 +7,8 @@ authors:
 appId: com.bitbay.BitBayPay
 appCountry: us
 idd: '1205935259'
-released: 2017-03-17
-updated: 2023-11-08
+released: '2017-03-17'
+updated: '2023-11-08'
 version: '2.1.3'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2025-01-06
+date: '2025-01-06'
 signer: 
 reviewArchive: 
 twitter: zondaglobal

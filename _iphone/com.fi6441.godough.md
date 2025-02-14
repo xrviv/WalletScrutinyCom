@@ -7,8 +7,8 @@ authors:
 appId: com.fi6441.godough
 appCountry: us
 idd: '997893151'
-released: 2015-06-02
-updated: 2025-02-04
+released: '2015-06-02'
+updated: '2025-02-04'
 version: '4016.0.1'
 stars: 4.8
 reviews: 1526
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-08-28
+date: '2023-08-28'
 signer: 
 reviewArchive: 
 twitter: signalFCU

@@ -7,8 +7,8 @@ authors:
 users: 5000000
 appId: cn.com.vau
 appCountry: cn
-released: 2019-07-06
-updated: 2025-02-08
+released: '2019-07-06'
+updated: '2025-02-08'
 version: '3.55.1'
 stars: 4
 ratings: 8949
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2021-11-01
+date: '2021-11-01'
 signer: 
 reviewArchive: 
 twitter: VantageFX

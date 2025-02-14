@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: io.nash.app
 appCountry: 
-released: 2019-08-31
-updated: 2025-01-29
+released: '2019-08-31'
+updated: '2025-01-29'
 version: '17.0.11'
 stars: 4.6
 ratings: 646
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-15
+date: '2024-07-15'
 signer: 
 reviewArchive: 
 twitter: nashsocial

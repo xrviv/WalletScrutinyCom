@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.newbit.tech
 appCountry: 
-released: 2022-07-14
-updated: 2022-08-29
+released: '2022-07-14'
+updated: '2022-08-29'
 version: '1.0.11'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

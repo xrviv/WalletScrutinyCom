@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.bitroyal.bitroyalapp
 appCountry: 
-released: 2021-03-06
-updated: 2021-03-07
+released: '2021-03-06'
+updated: '2021-03-07'
 version: '2.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.worldofwallet
 appCountry: 
-released: 2022-04-16
-updated: 2022-04-16
+released: '2022-04-16'
+updated: '2022-04-16'
 version: '1.3.8'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

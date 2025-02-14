@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: net.walletharcomia.android
 appCountry: 
-released: 2020-11-01
-updated: 2020-11-23
+released: '2020-11-01'
+updated: '2020-11-23'
 version: '1.0.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-04-07
+date: '2022-04-07'
 signer: 
 reviewArchive: 
 twitter: 

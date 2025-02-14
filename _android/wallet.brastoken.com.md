@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: wallet.brastoken.com
 appCountry: 
-released: 2022-01-16
-updated: 2022-01-19
+released: '2022-01-16'
+updated: '2022-01-19'
 version: '1.0.2'
 stars: 4.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: 

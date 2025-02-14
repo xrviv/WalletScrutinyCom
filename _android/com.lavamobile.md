@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.lavamobile
 appCountry: 
-released: 2024-05-25
-updated: 2025-02-06
+released: '2024-05-25'
+updated: '2025-02-06'
 version: '1.7.21'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2024-09-26
+date: '2024-09-26'
 signer: 
 reviewArchive: 
 twitter: 

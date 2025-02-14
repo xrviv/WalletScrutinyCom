@@ -9,8 +9,8 @@ authors:
 users: 50000
 appId: net.bither
 appCountry: 
-released: 2014-02-27
-updated: 2024-10-12
+released: '2014-02-27'
+updated: '2024-10-12'
 version: '2.1.6'
 stars: 4.1
 ratings: 335
@@ -24,7 +24,7 @@ bugbounty:
 meta: removed
 verdict: obfuscated
 appHashes: 
-date: 2024-11-07
+date: '2024-11-07'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.bitforex.bitforex
 appCountry: 
-released: 2022-03-17
-updated: 2023-10-25
+released: '2022-03-17'
+updated: '2023-10-25'
 version: '3.5.5'
 stars: 2.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-10-19
+date: '2024-10-19'
 signer: 
 reviewArchive: 
 twitter: 

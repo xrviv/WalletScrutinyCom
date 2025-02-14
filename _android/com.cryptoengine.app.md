@@ -8,7 +8,7 @@ users: 1000
 appId: com.cryptoengine.app
 appCountry: 
 released: 
-updated: 2020-09-15
+updated: '2020-09-15'
 version: '1.0'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: CryptoEngineApp

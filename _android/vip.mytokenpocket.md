@@ -8,8 +8,8 @@ authors:
 users: 5000000
 appId: vip.mytokenpocket
 appCountry: 
-released: 2018-06-29
-updated: 2025-01-23
+released: '2018-06-29'
+updated: '2025-01-23'
 version: '2.4.2'
 stars: 4.4
 ratings: 16862
@@ -23,10 +23,10 @@ bugbounty:
 meta: ok
 verdict: obfuscated
 appHashes: []
-date: 2024-07-17
+date: '2024-07-17'
 signer: 
 reviewArchive:
-- date: 2024-07-17
+- date: '2024-07-17'
   version: '2.3.8'
   appHashes: []
   gitRevision: 4458285efc54bd9bc76d74f88e696201a4af4a93

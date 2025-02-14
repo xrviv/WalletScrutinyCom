@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.chainup.exchange.VAEX
 appCountry: 
-released: 2022-02-09
-updated: 2023-02-02
+released: '2022-02-09'
+updated: '2023-02-02'
 version: '5.6.5_push_v2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: VaexExchange

@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.valr.app
 appCountry: 
-released: 2019-09-13
-updated: 2025-02-05
+released: '2019-09-13'
+updated: '2025-02-05'
 version: '1.1.9'
 stars: 4.2
 ratings: 1725
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-04-13
+date: '2021-04-13'
 signer: 
 reviewArchive: 
 twitter: valrdotcom

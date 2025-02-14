@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.nominex.app
 appCountry: ru
-released: 2021-06-01
-updated: 2021-12-13
+released: '2021-06-01'
+updated: '2021-12-13'
 version: '1.4.0'
 stars: 3.5
 ratings: 173
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: NominexExchange

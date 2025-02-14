@@ -7,8 +7,8 @@ authors:
 users: 5000000
 appId: com.fbs.tpand
 appCountry: 
-released: 2019-03-25
-updated: 2023-12-22
+released: '2019-03-25'
+updated: '2023-12-22'
 version: '1.58.6'
 stars: 4.6
 ratings: 128577
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosendreceive
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: financefreedomsuccess

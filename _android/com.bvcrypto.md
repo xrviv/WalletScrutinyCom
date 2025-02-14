@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.bvcrypto
 appCountry: 
-released: 2019-05-28
-updated: 2019-05-28
+released: '2019-05-28'
+updated: '2019-05-28'
 version: '1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

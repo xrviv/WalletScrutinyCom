@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.laxya.laxya
 appCountry: 
-released: 2022-01-20
-updated: 2023-08-23
+released: '2022-01-20'
+updated: '2023-08-23'
 version: '1.0.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-09-25
+date: '2024-09-25'
 signer: 
 reviewArchive: 
 twitter: 

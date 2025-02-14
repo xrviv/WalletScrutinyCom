@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.im.tech.imcard
 appCountry: 
-released: 2022-01-12
-updated: 2024-04-17
+released: '2022-01-12'
+updated: '2024-04-17'
 version: '1.8.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-08-31
+date: '2024-08-31'
 signer: 
 reviewArchive: 
 twitter: 

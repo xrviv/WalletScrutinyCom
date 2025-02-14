@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.unicornx.exchange
 appCountry: 
-released: 2020-05-13
-updated: 2020-07-28
+released: '2020-05-13'
+updated: '2020-07-28'
 version: '1.4.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

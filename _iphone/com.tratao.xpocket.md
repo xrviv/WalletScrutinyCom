@@ -7,8 +7,8 @@ authors:
 appId: com.tratao.xpocket
 appCountry: us
 idd: '1481024258'
-released: 2019-11-08
-updated: 2024-01-23
+released: '2019-11-08'
+updated: '2024-01-23'
 version: '4.7.0'
 stars: 3.9
 reviews: 167
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2025-01-27
+date: '2025-01-27'
 signer: 
 reviewArchive: 
 twitter: xBank_Official

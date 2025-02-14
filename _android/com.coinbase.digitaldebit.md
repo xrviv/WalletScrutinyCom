@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.coinbase.digitaldebit
 appCountry: 
-released: 2019-11-12
-updated: 2019-11-12
+released: '2019-11-12'
+updated: '2019-11-12'
 version: '3.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: 

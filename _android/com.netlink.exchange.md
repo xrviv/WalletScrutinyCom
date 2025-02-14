@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.netlink.exchange
 appCountry: 
-released: 2019-08-27
-updated: 2019-08-27
+released: '2019-08-27'
+updated: '2019-08-27'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

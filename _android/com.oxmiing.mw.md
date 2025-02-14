@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.oxmiing.mw
 appCountry: 
-released: 2022-01-13
-updated: 2022-04-07
+released: '2022-01-13'
+updated: '2022-04-07'
 version: '2.7.0'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: fake
 appHashes: 
-date: 2024-03-30
+date: '2024-03-30'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.app.payble
 appCountry: 
-released: 2018-01-07
-updated: 2021-03-01
+released: '2018-01-07'
+updated: '2021-03-01'
 version: '2.1.5'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: mypayble

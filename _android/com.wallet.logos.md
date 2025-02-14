@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.wallet.logos
 appCountry: 
-released: 2020-09-16
-updated: 2024-10-21
+released: '2020-09-16'
+updated: '2024-10-21'
 version: '0.4.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-10-24
+date: '2024-10-24'
 signer: 
 reviewArchive: 
 twitter: 

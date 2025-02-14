@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.capitual
 appCountry: 
-released: 2019-03-28
-updated: 2023-10-05
+released: '2019-03-28'
+updated: '2023-10-05'
 version: '3.44.6'
 stars: 3.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2025-02-04
+date: '2025-02-04'
 signer: 
 reviewArchive: 
 twitter: capitual

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.blockbee.pos
 appCountry: 
-released: 2022-08-30
-updated: 2024-10-07
+released: '2022-08-30'
+updated: '2024-10-07'
 version: '1.0.2.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2023-06-03
+date: '2023-06-03'
 signer: 
 reviewArchive: 
 twitter: 

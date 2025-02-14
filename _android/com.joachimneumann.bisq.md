@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.joachimneumann.bisq
 appCountry: 
-released: 2018-09-06
-updated: 2025-01-15
+released: '2018-09-06'
+updated: '2025-01-15'
 version: '1.3.2'
 stars: 2.8
 ratings: 69
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2025-01-27
+date: '2025-01-27'
 signer: 
 reviewArchive: 
 twitter: devinbileck

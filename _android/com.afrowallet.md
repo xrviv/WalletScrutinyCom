@@ -7,7 +7,7 @@ users: 100
 appId: com.afrowallet
 appCountry: 
 released: 
-updated: 2021-02-18
+updated: '2021-02-18'
 version: '1.2'
 stars: 4.4
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

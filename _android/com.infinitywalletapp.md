@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.infinitywalletapp
 appCountry: 
-released: 2022-04-13
-updated: 2023-02-23
+released: '2022-04-13'
+updated: '2023-02-23'
 version: '3.0'
 stars: 4.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-30
+date: '2024-07-30'
 signer: 
 reviewArchive: 
 twitter: 

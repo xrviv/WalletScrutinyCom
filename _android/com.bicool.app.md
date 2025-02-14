@@ -6,8 +6,8 @@ authors:
 users: 10000
 appId: com.bicool.app
 appCountry: 
-released: 2022-05-11
-updated: 2022-07-28
+released: '2022-05-11'
+updated: '2022-07-28'
 version: '1.2.8'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

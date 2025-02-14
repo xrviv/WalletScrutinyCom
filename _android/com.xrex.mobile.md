@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.xrex.mobile
 appCountry: au
-released: 2020-02-20
-updated: 2025-01-06
+released: '2020-02-20'
+updated: '2025-01-06'
 version: '2.1.462'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-11-15
+date: '2021-11-15'
 signer: 
 reviewArchive: 
 twitter: xrexinc

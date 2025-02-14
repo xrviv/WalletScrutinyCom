@@ -7,8 +7,8 @@ authors:
 users: 5000000
 appId: com.stormgain.mobile
 appCountry: de
-released: 2019-07-08
-updated: 2024-08-07
+released: '2019-07-08'
+updated: '2024-08-07'
 version: '1.52.1'
 stars: 3.7
 ratings: 114954
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-03-10
+date: '2021-03-10'
 signer: 
 reviewArchive: 
 twitter: StormGain_com

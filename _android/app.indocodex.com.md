@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: app.indocodex.com
 appCountry: 
-released: 2020-06-23
-updated: 2021-05-18
+released: '2020-06-23'
+updated: '2021-05-18'
 version: '1.1.7'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: indocodex

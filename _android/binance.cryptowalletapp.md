@@ -7,7 +7,7 @@ users: 5000
 appId: binance.cryptowalletapp
 appCountry: 
 released: 
-updated: 2021-04-05
+updated: '2021-04-05'
 version: '9.8'
 stars: 3.9
 ratings: 14
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-05-05
+date: '2021-05-05'
 signer: 
 reviewArchive: 
 twitter: 

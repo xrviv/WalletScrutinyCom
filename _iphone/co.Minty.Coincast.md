@@ -7,8 +7,8 @@ authors:
 appId: co.Minty.Coincast
 appCountry: us
 idd: '1517543384'
-released: 2021-07-21
-updated: 2022-05-08
+released: '2021-07-21'
+updated: '2022-05-08'
 version: '1.2.14'
 stars: 4.8
 reviews: 25
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: nosource
 appHashes: 
-date: 2024-04-28
+date: '2024-04-28'
 signer: 
 reviewArchive: 
 twitter: CoincastApp

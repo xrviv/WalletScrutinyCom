@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.jukai.tutou
 appCountry: 
-released: 2022-04-21
-updated: 2022-04-21
+released: '2022-04-21'
+updated: '2022-04-21'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

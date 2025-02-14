@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.ebitconics.com
 appCountry: 
-released: 2021-01-18
-updated: 2021-01-18
+released: '2021-01-18'
+updated: '2021-01-18'
 version: '0.0.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: eBitcoinics

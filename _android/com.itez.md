@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.itez
 appCountry: 
-released: 2020-03-26
-updated: 2021-03-19
+released: '2020-03-26'
+updated: '2021-03-19'
 version: '0.8.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: Itezofficial

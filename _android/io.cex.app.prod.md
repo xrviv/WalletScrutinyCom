@@ -7,8 +7,8 @@ authors:
 users: 5000000
 appId: io.cex.app.prod
 appCountry: 
-released: 2015-12-22
-updated: 2025-02-04
+released: '2015-12-22'
+updated: '2025-02-04'
 version: '11.2.3'
 stars: 4.3
 ratings: 16669
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-04-16
+date: '2021-04-16'
 signer: 
 reviewArchive: 
 twitter: cex_io

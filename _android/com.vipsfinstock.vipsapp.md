@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.vipsfinstock.vipsapp
 appCountry: 
-released: 2021-11-28
-updated: 2023-10-02
+released: '2021-11-28'
+updated: '2023-10-02'
 version: '1.7.6'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-09-26
+date: '2024-09-26'
 signer: 
 reviewArchive: 
 twitter: VIPS_Finstock

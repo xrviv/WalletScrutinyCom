@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.cindicator
 appCountry: 
-released: 2016-12-28
-updated: 2019-09-30
+released: '2016-12-28'
+updated: '2019-09-30'
 version: '3.0.10'
 stars: 3.9
 ratings: 1690
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nowallet
 appHashes: 
-date: 2023-02-08
+date: '2023-02-08'
 signer: 
 reviewArchive: 
 twitter: Cindicator

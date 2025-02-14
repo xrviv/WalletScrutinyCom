@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: bitcoin.twenty.twenty
 appCountry: 
-released: 2019-06-24
-updated: 2019-07-18
+released: '2019-06-24'
+updated: '2019-07-18'
 version: '2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

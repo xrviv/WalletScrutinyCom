@@ -7,8 +7,8 @@ authors:
 appId: app.coinmetro
 appCountry: us
 idd: 1397585225
-released: 2018-07-25
-updated: 2024-12-19
+released: '2018-07-25'
+updated: '2024-12-19'
 version: '5.50.819'
 stars: 4.4
 reviews: 310
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-26
+date: '2021-10-26'
 signer: 
 reviewArchive: 
 twitter: CoinMetro

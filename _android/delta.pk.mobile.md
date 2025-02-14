@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: delta.pk.mobile
 appCountry: bg
-released: 2013-03-29
-updated: 2024-12-12
+released: '2013-03-29'
+updated: '2024-12-12'
 version: '5.9.11'
 stars: 4.1
 ratings: 410
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2023-08-30
+date: '2023-08-30'
 signer: 
 reviewArchive: 
 twitter: deltastock

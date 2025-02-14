@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.metapay.mymetapay
 appCountry: 
-released: 2022-06-18
-updated: 2024-04-02
+released: '2022-06-18'
+updated: '2024-04-02'
 version: '1.20.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-11-04
+date: '2024-11-04'
 signer: 
 reviewArchive: 
 twitter: 

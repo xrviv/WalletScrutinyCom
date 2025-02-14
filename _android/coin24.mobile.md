@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: coin24.mobile
 appCountry: 
-released: 2020-09-28
-updated: 2020-09-28
+released: '2020-09-28'
+updated: '2020-09-28'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-04-20
+date: '2023-04-20'
 signer: 
 reviewArchive: 
 twitter: 

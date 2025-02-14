@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: io.trustverse.mars
 appCountry: 
-released: 2020-05-27
-updated: 2022-11-22
+released: '2020-05-27'
+updated: '2022-11-22'
 version: '2.4.0G'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: TrustVerse

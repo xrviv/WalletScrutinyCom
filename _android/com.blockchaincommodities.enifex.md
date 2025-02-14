@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.blockchaincommodities.enifex
 appCountry: 
-released: 2022-12-14
-updated: 2022-12-14
+released: '2022-12-14'
+updated: '2022-12-14'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2024-12-04
+date: '2024-12-04'
 signer: 
 reviewArchive: 
 twitter: 

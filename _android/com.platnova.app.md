@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.platnova.app
 appCountry: 
-released: 2022-03-28
-updated: 2025-01-21
+released: '2022-03-28'
+updated: '2025-01-21'
 version: '1.0.6'
 stars: 2.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: getplatnova

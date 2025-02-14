@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.xrpllabs.xumm
 appCountry: 
-released: 2020-12-29
-updated: 2025-01-31
+released: '2020-12-29'
+updated: '2025-01-31'
 version: '3.3.2'
 stars: 4.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2024-09-03
+date: '2024-09-03'
 signer: 
 reviewArchive: 
 twitter: XummWallet

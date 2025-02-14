@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.sesacash.app
 appCountry: 
-released: 2020-03-15
-updated: 2020-03-15
+released: '2020-03-15'
+updated: '2020-03-15'
 version: '1.0'
 stars: 2.6
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

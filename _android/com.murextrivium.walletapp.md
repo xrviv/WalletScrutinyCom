@@ -7,8 +7,8 @@ authors:
 users: 50
 appId: com.murextrivium.walletapp
 appCountry: 
-released: 2018-09-22
-updated: 2018-09-23
+released: '2018-09-22'
+updated: '2018-09-23'
 version: '1.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-08-09
+date: '2021-08-09'
 signer: 
 reviewArchive: 
 twitter: 

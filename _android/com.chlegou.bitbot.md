@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.chlegou.bitbot
 appCountry: 
-released: 2019-01-02
-updated: 2024-09-14
+released: '2019-01-02'
+updated: '2024-09-14'
 version: '2.1.0'
 stars: 3.9
 ratings: 7718
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-04-24
+date: '2024-04-24'
 signer: 
 reviewArchive: 
 twitter: 

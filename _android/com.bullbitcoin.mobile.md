@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.bullbitcoin.mobile
 appCountry: 
-released: 2023-10-31
-updated: 2024-12-27
+released: '2023-10-31'
+updated: '2024-12-27'
 version: '0.4.0'
 stars: 
 ratings: 
@@ -22,10 +22,10 @@ bugbounty:
 meta: ok
 verdict: nonverifiable
 appHashes: []
-date: 2025-01-13
+date: '2025-01-13'
 signer: 
 reviewArchive:
-- date: 2023-07-05
+- date: '2023-07-05'
   version: '0.3.2'
   appHashes: []
   gitRevision: 3fadfe82d841cefe9dabe322d1422f8404c98484

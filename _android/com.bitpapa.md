@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.bitpapa
 appCountry: 
-released: 2020-08-18
-updated: 2024-01-22
+released: '2020-08-18'
+updated: '2024-01-22'
 version: '1.12.3'
 stars: 3.8
 ratings: 5332
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: bitpapa_com

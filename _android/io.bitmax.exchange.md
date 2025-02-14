@@ -9,7 +9,7 @@ users: 100000
 appId: io.bitmax.exchange
 appCountry: 
 released: 
-updated: 2021-04-25
+updated: '2021-04-25'
 version: '2.4.7'
 stars: 4.2
 ratings: 2788
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-05-11
+date: '2021-05-11'
 signer: 
 reviewArchive: 
 twitter: AscendEX_Global

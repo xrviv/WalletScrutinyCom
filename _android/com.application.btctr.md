@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.application.btctr
 appCountry: 
-released: 2022-03-18
-updated: 2022-04-30
+released: '2022-03-18'
+updated: '2022-04-30'
 version: '1.0.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

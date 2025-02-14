@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.bit.eu
 appCountry: 
-released: 2019-07-03
-updated: 2023-10-03
+released: '2019-07-03'
+updated: '2023-10-03'
 version: '1.12.3'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-09-28
+date: '2024-09-28'
 signer: 
 reviewArchive: 
 twitter: BiteeuExchange

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.btcpool.app.android
 appCountry: us
-released: 2020-02-25
-updated: 2025-01-06
+released: '2020-02-25'
+updated: '2025-01-06'
 version: '2.4.3'
 stars: 4
 ratings: 261
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2024-09-25
+date: '2024-09-25'
 signer: 
 reviewArchive: 
 twitter: btccom_official

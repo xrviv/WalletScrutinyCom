@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: com.bitbill.www
 appCountry: 
-released: 2018-03-22
-updated: 2025-02-11
+released: '2018-03-22'
+updated: '2025-02-11'
 version: '4.54.7'
 stars: 3.8
 ratings: 79
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-13
+date: '2024-07-13'
 signer: 
 reviewArchive: 
 twitter: 

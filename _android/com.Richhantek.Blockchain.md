@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.Richhantek.Blockchain
 appCountry: 
-released: 2018-02-26
-updated: 2019-07-09
+released: '2018-02-26'
+updated: '2019-07-09'
 version: '12.1.0'
 stars: 3.8
 ratings: 15
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nowallet
 appHashes: 
-date: 2023-05-22
+date: '2023-05-22'
 signer: 
 reviewArchive: 
 twitter: 

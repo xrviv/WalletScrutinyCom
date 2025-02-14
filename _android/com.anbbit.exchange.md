@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.anbbit.exchange
 appCountry: 
-released: 2020-10-16
-updated: 2020-12-31
+released: '2020-10-16'
+updated: '2020-12-31'
 version: '1.1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

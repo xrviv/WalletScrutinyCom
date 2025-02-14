@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.cryptooriented.exchanges
 appCountry: 
-released: 2018-01-10
-updated: 2022-01-10
+released: '2018-01-10'
+updated: '2022-01-10'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2023-12-31
+date: '2023-12-31'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.app.exchangejl
 appCountry: 
-released: 2022-03-29
-updated: 2023-05-22
+released: '2022-03-29'
+updated: '2023-05-22'
 version: '1.5.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-08-30
+date: '2023-08-30'
 signer: 
 reviewArchive: 
 twitter: Krypterzxchange

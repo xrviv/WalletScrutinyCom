@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.fiveroi
 appCountry: 
-released: 2022-03-31
-updated: 2022-05-18
+released: '2022-03-31'
+updated: '2022-05-18'
 version: '4.3.4'
 stars: 1.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-02-22
+date: '2023-02-22'
 signer: 
 reviewArchive: 
 twitter: 5roiglobal

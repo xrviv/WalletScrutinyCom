@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.yesapp.bitflex
 appCountry: 
-released: 2022-09-18
-updated: 2022-09-19
+released: '2022-09-18'
+updated: '2022-09-19'
 version: '3.1.12'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

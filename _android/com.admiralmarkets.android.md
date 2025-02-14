@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.admiralmarkets.android
 appCountry: us
-released: 2020-10-07
-updated: 2025-02-06
+released: '2020-10-07'
+updated: '2025-02-06'
 version: '1.10.5'
 stars: 4.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2021-10-16
+date: '2021-10-16'
 signer: 
 reviewArchive: 
 twitter: AdmiralsGlobal

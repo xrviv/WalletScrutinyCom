@@ -8,7 +8,7 @@ users: 500
 appId: com.bitgate.flutter
 appCountry: 
 released: 
-updated: 2023-04-14
+updated: '2023-04-14'
 version: '0.9.4'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: bitgatex

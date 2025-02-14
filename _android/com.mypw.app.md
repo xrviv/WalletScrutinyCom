@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.mypw.app
 appCountry: 
-released: 2019-07-22
-updated: 2019-08-12
+released: '2019-07-22'
+updated: '2019-08-12'
 version: '1.0.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

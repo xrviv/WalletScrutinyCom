@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.digilab24.apps
 appCountry: 
-released: 2022-04-06
-updated: 2023-05-18
+released: '2022-04-06'
+updated: '2023-05-18'
 version: '1.9.18'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-15
+date: '2024-12-15'
 signer: 
 reviewArchive: 
 twitter: CPass_Official

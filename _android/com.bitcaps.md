@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.bitcaps
 appCountry: 
-released: 2020-10-30
-updated: 2021-04-06
+released: '2020-10-30'
+updated: '2021-04-06'
 version: '1.5.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

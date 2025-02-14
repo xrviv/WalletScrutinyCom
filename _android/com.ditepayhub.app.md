@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.ditepayhub.app
 appCountry: 
-released: 2020-12-11
-updated: 2020-12-11
+released: '2020-12-11'
+updated: '2020-12-11'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

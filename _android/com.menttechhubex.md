@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.menttechhubex
 appCountry: 
-released: 2020-06-01
-updated: 2020-06-04
+released: '2020-06-01'
+updated: '2020-06-04'
 version: '3.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-30
+date: '2023-05-30'
 signer: 
 reviewArchive: 
 twitter: 

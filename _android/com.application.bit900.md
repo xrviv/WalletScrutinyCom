@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.application.bit900
 appCountry: 
-released: 2019-10-22
-updated: 2020-06-26
+released: '2019-10-22'
+updated: '2020-06-26'
 version: '1.24'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-11
+date: '2023-05-11'
 signer: 
 reviewArchive: 
 twitter: 

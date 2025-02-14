@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.bdb.bdbwallet
 appCountry: 
-released: 2020-11-05
-updated: 2021-02-17
+released: '2020-11-05'
+updated: '2021-02-17'
 version: '1.1.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

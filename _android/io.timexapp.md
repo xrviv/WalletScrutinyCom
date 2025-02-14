@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.timexapp
 appCountry: 
-released: 2023-01-27
-updated: 2023-09-25
+released: '2023-01-27'
+updated: '2023-09-25'
 version: '1.4.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-10-02
+date: '2024-10-02'
 signer: 
 reviewArchive: 
 twitter: ExchangeTimex

@@ -8,7 +8,7 @@ users: 1000
 appId: digital.juwelis.app
 appCountry: 
 released: 
-updated: 2021-02-19
+updated: '2021-02-19'
 version: 'VARY'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

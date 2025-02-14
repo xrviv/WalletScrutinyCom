@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.ampiy.app
 appCountry: 
-released: 2022-04-06
-updated: 2025-01-31
+released: '2022-04-06'
+updated: '2025-01-31'
 version: '4.0.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2022-07-31
+date: '2022-07-31'
 signer: 
 reviewArchive: 
 twitter: 

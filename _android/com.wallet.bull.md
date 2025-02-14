@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.wallet.bull
 appCountry: us
-released: 2021-06-28
-updated: 2021-10-13
+released: '2021-06-28'
+updated: '2021-10-13'
 version: '1.4.1-947'
 stars: 4.1
 ratings: 713
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-09-04
+date: '2023-09-04'
 signer: 
 reviewArchive: 
 twitter: bullcoinfinance

@@ -8,8 +8,8 @@ authors:
 users: 50
 appId: samurai.wallet.crypto
 appCountry: 
-released: 2021-07-31
-updated: 2021-08-01
+released: '2021-07-31'
+updated: '2021-08-01'
 version: '9.8'
 stars: 
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-09-10
+date: '2021-09-10'
 signer: 
 reviewArchive: 
 twitter: 

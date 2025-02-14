@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.cbx.api
 appCountry: 
-released: 2018-12-05
-updated: 2021-01-25
+released: '2018-12-05'
+updated: '2021-01-25'
 version: '2.2.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

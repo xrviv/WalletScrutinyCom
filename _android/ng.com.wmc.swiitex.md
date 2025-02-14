@@ -6,8 +6,8 @@ authors:
 users: 5
 appId: ng.com.wmc.swiitex
 appCountry: 
-released: 2021-10-26
-updated: 2023-01-04
+released: '2021-10-26'
+updated: '2023-01-04'
 version: '2.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

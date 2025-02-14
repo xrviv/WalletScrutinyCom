@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.finbloxapp.finblox
 appCountry: 
-released: 2021-12-28
-updated: 2023-11-06
+released: '2021-12-28'
+updated: '2023-11-06'
 version: '0.117.0'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-23
+date: '2024-10-23'
 signer: 
 reviewArchive: 
 twitter: finblox

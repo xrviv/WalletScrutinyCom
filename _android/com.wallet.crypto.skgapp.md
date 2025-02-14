@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.wallet.crypto.skgapp
 appCountry: 
-released: 2019-06-17
-updated: 2019-07-22
+released: '2019-06-17'
+updated: '2019-07-22'
 version: '1.4.42'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

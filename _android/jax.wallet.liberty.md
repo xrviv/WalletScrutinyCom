@@ -7,8 +7,8 @@ authors:
 users: 500
 appId: jax.wallet.liberty
 appCountry: 
-released: 2021-08-30
-updated: 2021-08-31
+released: '2021-08-30'
+updated: '2021-08-31'
 version: '12.003'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2021-10-22
+date: '2021-10-22'
 signer: 
 reviewArchive: 
 twitter: 

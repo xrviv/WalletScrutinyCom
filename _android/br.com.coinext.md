@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: br.com.coinext
 appCountry: 
-released: 2019-11-19
-updated: 2024-11-22
+released: '2019-11-19'
+updated: '2024-11-22'
 version: '2.15.5'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-09-07
+date: '2024-09-07'
 signer: 
 reviewArchive: 
 twitter: coinext_oficial

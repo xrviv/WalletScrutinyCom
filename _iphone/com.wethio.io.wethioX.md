@@ -7,8 +7,8 @@ authors:
 appId: com.wethio.io.wethioX
 appCountry: in
 idd: '1546041711'
-released: 2022-02-11
-updated: 2023-01-31
+released: '2022-02-11'
+updated: '2023-01-31'
 version: '3.0.6'
 stars: 5
 reviews: 4
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2025-01-27
+date: '2025-01-27'
 signer: 
 reviewArchive: 
 twitter: wethiox

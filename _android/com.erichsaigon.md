@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.erichsaigon
 appCountry: 
-released: 2020-01-06
-updated: 2020-01-25
+released: '2020-01-06'
+updated: '2020-01-25'
 version: '1.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.plus.bumpt.app
 appCountry: 
-released: 2022-12-01
-updated: 2022-12-01
+released: '2022-12-01'
+updated: '2022-12-01'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 appId: bisqremote.joachimneumann.com
 appCountry: us
 idd: '1424420411'
-released: 2018-09-09
-updated: 2022-05-13
+released: '2018-09-09'
+updated: '2022-05-13'
 version: '1.5'
 stars: 4.4
 reviews: 18
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: nowallet
 appHashes: 
-date: 2024-05-04
+date: '2024-05-04'
 signer: 
 reviewArchive: 
 twitter: devinbileck

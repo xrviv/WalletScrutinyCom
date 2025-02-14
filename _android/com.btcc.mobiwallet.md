@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.btcc.mobiwallet
 appCountry: au
-released: 2019-03-28
-updated: 2021-05-20
+released: '2019-03-28'
+updated: '2021-05-20'
 version: '2.32.2'
 stars: 3.6
 ratings: 27
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-12-22
+date: '2021-12-22'
 signer: 
 reviewArchive: 
 twitter: mobimeglobal

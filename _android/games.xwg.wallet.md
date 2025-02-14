@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: games.xwg.wallet
 appCountry: 
-released: 2022-07-04
-updated: 2023-09-25
+released: '2022-07-04'
+updated: '2023-09-25'
 version: '1.1.1'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nobtc
 appHashes: 
-date: 2024-09-20
+date: '2024-09-20'
 signer: 
 reviewArchive: 
 twitter: xwg_games

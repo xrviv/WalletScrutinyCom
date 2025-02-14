@@ -7,8 +7,8 @@ authors:
 appId: com.x-meta.exchange
 appCountry: ru
 idd: '1603193880'
-released: 2022-02-13
-updated: 2022-03-11
+released: '2022-02-13'
+updated: '2022-03-11'
 version: '1.1.0'
 stars: 5
 reviews: 3
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: XMetaOfficial

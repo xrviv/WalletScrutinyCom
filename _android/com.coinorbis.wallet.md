@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.coinorbis.wallet
 appCountry: 
-released: 2018-11-27
-updated: 2019-01-25
+released: '2018-11-27'
+updated: '2019-01-25'
 version: '1.2.1'
 stars: 4.5
 ratings: 8
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-12-22
+date: '2021-12-22'
 signer: 
 reviewArchive: 
 twitter: 

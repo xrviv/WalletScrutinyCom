@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: folgory.folgory
 appCountry: 
-released: 2021-04-09
-updated: 2021-04-09
+released: '2021-04-09'
+updated: '2021-04-09'
 version: '1.0.1'
 stars: 2.7
 ratings: 20
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-30
+date: '2021-11-30'
 signer: 
 reviewArchive: 
 twitter: folgory1

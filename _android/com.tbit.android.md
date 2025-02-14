@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.tbit.android
 appCountry: 
-released: 2022-02-08
-updated: 2023-05-09
+released: '2022-02-08'
+updated: '2023-05-09'
 version: '2.2.9'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-09-10
+date: '2024-09-10'
 signer: 
 reviewArchive: 
 twitter: 

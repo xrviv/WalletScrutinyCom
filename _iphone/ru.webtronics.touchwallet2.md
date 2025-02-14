@@ -7,8 +7,8 @@ authors:
 appId: ru.webtronics.touchwallet2
 appCountry: us
 idd: '6443906980'
-released: 2022-11-01
-updated: 2024-08-26
+released: '2022-11-01'
+updated: '2024-08-26'
 version: '2.1.0'
 stars: 3.7
 reviews: 3
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-03
+date: '2024-10-03'
 signer: 
 reviewArchive: 
 twitter: Touch_Wallet

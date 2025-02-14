@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: io.level01.android
 appCountry: 
-released: 2020-10-09
-updated: 2021-12-16
+released: '2020-10-09'
+updated: '2021-12-16'
 version: '0.2.3.3'
 stars: 3.5
 ratings: 137
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: level01io

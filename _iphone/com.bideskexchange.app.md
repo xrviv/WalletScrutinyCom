@@ -7,8 +7,8 @@ authors:
 appId: com.bideskexchange.app
 appCountry: us
 idd: 1495664797
-released: 2020-02-03
-updated: 2021-03-28
+released: '2020-02-03'
+updated: '2021-03-28'
 version: '3.1.2'
 stars: 3.5
 reviews: 12
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-10-21
+date: '2021-10-21'
 signer: 
 reviewArchive: 
 twitter: bideskcom

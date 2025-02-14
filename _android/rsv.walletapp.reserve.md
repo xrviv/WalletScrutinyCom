@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: rsv.walletapp.reserve
 appCountry: 
-released: 2019-07-30
-updated: 2025-01-27
+released: '2019-07-30'
+updated: '2025-01-27'
 version: '3.0.16'
 stars: 2.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-07-01
+date: '2023-07-01'
 signer: 
 reviewArchive: 
 twitter: reserveprotocol

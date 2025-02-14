@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.bitleague
 appCountry: us
-released: 2019-05-06
-updated: 2021-05-14
+released: '2019-05-06'
+updated: '2021-05-14'
 version: '2.15.2'
 stars: 4.5
 ratings: 246
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: BitLeague_Group

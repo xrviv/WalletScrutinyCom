@@ -7,8 +7,8 @@ authors:
 appId: com.bitcoinira
 appCountry: us
 idd: 1534638949
-released: 2021-06-20
-updated: 2025-02-10
+released: '2021-06-20'
+updated: '2025-02-10'
 version: '1.5.71'
 stars: 4.4
 reviews: 1119
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-18
+date: '2021-10-18'
 signer: 
 reviewArchive: 
 twitter: bitcoin_ira

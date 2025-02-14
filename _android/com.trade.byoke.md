@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.trade.byoke
 appCountry: 
-released: 2019-04-11
-updated: 2019-04-19
+released: '2019-04-11'
+updated: '2019-04-19'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-12-22
+date: '2021-12-22'
 signer: 
 reviewArchive: 
 twitter: 

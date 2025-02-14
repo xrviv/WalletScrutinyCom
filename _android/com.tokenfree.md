@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.tokenfree
 appCountry: 
-released: 2021-09-10
-updated: 2021-10-22
+released: '2021-09-10'
+updated: '2021-10-22'
 version: '2.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-05-30
+date: '2023-05-30'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 appId: com.tokoin.wallet
 appCountry: us
 idd: 1489276175
-released: 2019-12-12
-updated: 2023-08-16
+released: '2019-12-12'
+updated: '2023-08-16'
 version: '3.6.1'
 stars: 4
 reviews: 5
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2025-01-15
+date: '2025-01-15'
 signer: 
 reviewArchive: 
 twitter: tokoinindonesia

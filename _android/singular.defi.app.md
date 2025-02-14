@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: singular.defi.app
 appCountry: 
-released: 2021-11-25
-updated: 2024-02-07
+released: '2021-11-25'
+updated: '2024-02-07'
 version: '2.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2025-02-04
+date: '2025-02-04'
 signer: 
 reviewArchive: 
 twitter: 

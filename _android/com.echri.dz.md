@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.echri.dz
 appCountry: 
-released: 2019-05-18
-updated: 2020-01-18
+released: '2019-05-18'
+updated: '2020-01-18'
 version: '4.0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-23
+date: '2023-05-23'
 signer: 
 reviewArchive: 
 twitter: 

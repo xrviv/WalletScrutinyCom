@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.coinpanel.appdev
 appCountry: 
-released: 2022-05-15
-updated: 2023-01-10
+released: '2022-05-15'
+updated: '2023-01-10'
 version: '2.0.0'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-10-19
+date: '2024-10-19'
 signer: 
 reviewArchive: 
 twitter: coin_panel

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: net.cryptoanalysis.bitcoin.trader.francais
 appCountry: 
-released: 2021-06-28
-updated: 2021-06-28
+released: '2021-06-28'
+updated: '2021-06-28'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: 

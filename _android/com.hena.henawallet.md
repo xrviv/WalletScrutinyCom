@@ -6,8 +6,8 @@ authors:
 users: 50000
 appId: com.hena.henawallet
 appCountry: 
-released: 2019-03-12
-updated: 2020-06-04
+released: '2019-03-12'
+updated: '2020-06-04'
 version: '29'
 stars: 3
 ratings: 738
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-09-03
+date: '2024-09-03'
 signer: 
 reviewArchive: 
 twitter: 

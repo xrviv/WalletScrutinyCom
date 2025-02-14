@@ -7,8 +7,8 @@ authors:
 appId: com.Techbank.Beeone
 appCountry: 
 idd: 1473120022
-released: 2019-07-19
-updated: 2024-01-12
+released: '2019-07-19'
+updated: '2024-01-12'
 version: '1.0.62'
 stars: 4.4
 reviews: 25
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2025-01-06
+date: '2025-01-06'
 signer: 
 reviewArchive: 
 twitter: 

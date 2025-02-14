@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.app.vptplus
 appCountry: 
-released: 2020-09-02
-updated: 2023-07-17
+released: '2020-09-02'
+updated: '2023-07-17'
 version: '4.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: nowallet
 appHashes: 
-date: 2024-07-14
+date: '2024-07-14'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.hyperbot.qwcodes
 appCountry: 
-released: 2022-07-22
-updated: 2022-07-22
+released: '2022-07-22'
+updated: '2022-07-22'
 version: '2.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

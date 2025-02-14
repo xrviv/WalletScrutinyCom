@@ -8,7 +8,7 @@ users: 1000
 appId: best.bitcoin.wallet.btc.price.buy.cryptocurrency
 appCountry: 
 released: 
-updated: 2021-03-13
+updated: '2021-03-13'
 version: '1.0'
 stars: 4.8
 ratings: 31
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-05-11
+date: '2021-05-11'
 signer: 
 reviewArchive: 
 twitter: 

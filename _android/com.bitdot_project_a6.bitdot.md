@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.bitdot_project_a6.bitdot
 appCountry: 
-released: 2022-06-13
-updated: 2022-06-14
+released: '2022-06-13'
+updated: '2022-06-14'
 version: '1.2.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

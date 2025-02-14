@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.escrowspace
 appCountry: 
-released: 2018-07-25
-updated: 2018-07-26
+released: '2018-07-25'
+updated: '2018-07-26'
 version: '1.08'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-12-05
+date: '2021-12-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,7 +7,7 @@ users: 10
 appId: com.onealliance.app
 appCountry: 
 released: 
-updated: 2022-09-28
+updated: '2022-09-28'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

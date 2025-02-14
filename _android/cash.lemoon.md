@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: cash.lemoon
 appCountry: 
-released: 2022-11-20
-updated: 2023-06-17
+released: '2022-11-20'
+updated: '2023-06-17'
 version: '1.0.17'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

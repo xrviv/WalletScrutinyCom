@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.bit.finx
 appCountry: 
-released: 2022-01-19
-updated: 2022-02-17
+released: '2022-01-19'
+updated: '2022-02-17'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

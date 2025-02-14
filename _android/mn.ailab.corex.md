@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: mn.ailab.corex
 appCountry: 
-released: 2021-11-24
-updated: 2025-01-13
+released: '2021-11-24'
+updated: '2025-01-13'
 version: '2.0.59'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: COREXmn

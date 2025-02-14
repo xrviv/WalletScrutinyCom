@@ -7,8 +7,8 @@ authors:
 appId: app.mudraexchange
 appCountry: in
 idd: '1623044880'
-released: 2023-02-01
-updated: 2024-05-25
+released: '2023-02-01'
+updated: '2024-05-25'
 version: '1.6'
 stars: 5
 reviews: 1
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-09-03
+date: '2024-09-03'
 signer: 
 reviewArchive: 
 twitter: mudraex

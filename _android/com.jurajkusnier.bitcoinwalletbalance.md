@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.jurajkusnier.bitcoinwalletbalance
 appCountry: 
-released: 2017-12-29
-updated: 2020-06-01
+released: '2017-12-29'
+updated: '2020-06-01'
 version: '2.4'
 stars: 4.2
 ratings: 251
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: nowallet
 appHashes: 
-date: 2022-05-22
+date: '2022-05-22'
 signer: 
 reviewArchive: 
 twitter: 

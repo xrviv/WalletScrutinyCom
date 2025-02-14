@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: fi.cardwallet.android
 appCountry: pt
-released: 2021-08-31
-updated: 2023-07-11
+released: '2021-08-31'
+updated: '2023-07-11'
 version: '1.12'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: CardWallet_fi

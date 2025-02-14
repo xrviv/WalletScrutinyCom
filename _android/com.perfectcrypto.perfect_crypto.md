@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.perfectcrypto.perfect_crypto
 appCountry: 
-released: 2020-11-09
-updated: 2022-01-25
+released: '2020-11-09'
+updated: '2022-01-25'
 version: '1.1.6'
 stars: 4.6
 ratings: 809
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-08-16
+date: '2023-08-16'
 signer: 
 reviewArchive: 
 twitter: irPerfectCrypto

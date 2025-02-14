@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: app.ctmwallet
 appCountry: 
-released: 2021-12-28
-updated: 2025-01-22
+released: '2021-12-28'
+updated: '2025-01-22'
 version: '1.0.24'
 stars: 3.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-07-18
+date: '2023-07-18'
 signer: 
 reviewArchive: 
 twitter: 

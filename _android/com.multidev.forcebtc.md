@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.multidev.forcebtc
 appCountry: 
-released: 2021-01-08
-updated: 2021-01-08
+released: '2021-01-08'
+updated: '2021-01-08'
 version: '1.0'
 stars: 4.1
 ratings: 11
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-01-31
+date: '2022-01-31'
 signer: 
 reviewArchive: 
 twitter: 

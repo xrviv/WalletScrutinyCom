@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.transcrypt.armadillo
 appCountry: ru
-released: 2018-05-23
-updated: 2022-03-09
+released: '2018-05-23'
+updated: '2022-03-09'
 version: '2.08.9'
 stars: 4.8
 ratings: 172
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: TizerWallet

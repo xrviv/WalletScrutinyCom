@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: info.androidhive.btn
 appCountry: 
-released: 2018-10-05
-updated: 2018-10-05
+released: '2018-10-05'
+updated: '2018-10-05'
 version: '1.0'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

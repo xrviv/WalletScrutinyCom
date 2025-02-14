@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: io.bottrex.starter
 appCountry: 
-released: 2019-05-20
-updated: 2022-05-03
+released: '2019-05-20'
+updated: '2022-05-03'
 version: '0.5.9'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: bottrexoficial

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: one.nobank.app
 appCountry: 
-released: 2022-05-12
-updated: 2025-01-09
+released: '2022-05-12'
+updated: '2025-01-09'
 version: '0.83.4'
 stars: 3.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-08-09
+date: '2023-08-09'
 signer: 
 reviewArchive: 
 twitter: pier_wallet

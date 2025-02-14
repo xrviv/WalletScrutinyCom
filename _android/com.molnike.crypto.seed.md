@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.molnike.crypto.seed
 appCountry: 
-released: 2022-12-23
-updated: 2023-02-28
+released: '2022-12-23'
+updated: '2023-02-28'
 version: '0.6'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: wip
 appHashes: 
-date: 2024-02-24
+date: '2024-02-24'
 signer: 
 reviewArchive: 
 twitter: 

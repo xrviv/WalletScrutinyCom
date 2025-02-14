@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.paramountdax.exchange
 appCountry: 
-released: 2021-11-25
-updated: 2022-11-09
+released: '2021-11-25'
+updated: '2022-11-09'
 version: '1.0.9'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

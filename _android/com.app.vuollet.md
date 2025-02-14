@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.app.vuollet
 appCountry: 
-released: 2021-10-27
-updated: 2022-04-29
+released: '2021-10-27'
+updated: '2022-04-29'
 version: '2.0.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-04-18
+date: '2024-04-18'
 signer: 
 reviewArchive: 
 twitter: Vuollet_io

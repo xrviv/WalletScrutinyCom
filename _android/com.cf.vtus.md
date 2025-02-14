@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.cf.vtus
 appCountry: 
-released: 2022-04-26
-updated: 2023-03-08
+released: '2022-04-26'
+updated: '2023-03-08'
 version: '1.0.13'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

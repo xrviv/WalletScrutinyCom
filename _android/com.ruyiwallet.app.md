@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.ruyiwallet.app
 appCountry: 
-released: 2022-04-05
-updated: 2022-07-22
+released: '2022-04-05'
+updated: '2022-07-22'
 version: '2.3.82'
 stars: 4.8
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.bitturkmobile.android
 appCountry: 
-released: 2019-04-05
-updated: 2022-02-08
+released: '2019-04-05'
+updated: '2022-02-08'
 version: '1.21'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: bitturkcom

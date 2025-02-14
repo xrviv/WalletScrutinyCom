@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.Kprit.theappkeyonebit
 appCountry: 
-released: 2021-11-01
-updated: 2021-11-12
+released: '2021-11-01'
+updated: '2021-11-12'
 version: '4.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: 

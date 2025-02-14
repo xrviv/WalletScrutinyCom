@@ -7,7 +7,7 @@ users: 100
 appId: com.bitcon
 appCountry: 
 released: 
-updated: 2024-12-12
+updated: '2024-12-12'
 version: '1.9.9'
 stars: 4.7
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2021-08-02
+date: '2021-08-02'
 signer: 
 reviewArchive: 
 twitter: 

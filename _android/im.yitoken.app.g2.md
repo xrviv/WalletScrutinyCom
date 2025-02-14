@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: im.yitoken.app.g2
 appCountry: 
-released: 2021-06-15
-updated: 2023-08-24
+released: '2021-06-15'
+updated: '2023-08-24'
 version: '1.3.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-09-18
+date: '2024-09-18'
 signer: 
 reviewArchive: 
 twitter: 

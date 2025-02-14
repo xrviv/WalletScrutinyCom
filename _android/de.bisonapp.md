@@ -8,7 +8,7 @@ users: 100000
 appId: de.bisonapp
 appCountry: 
 released: 
-updated: 2025-02-05
+updated: '2025-02-05'
 version: '4.6.0'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-09-05
+date: '2024-09-05'
 signer: 
 reviewArchive: 
 twitter: bisonapp

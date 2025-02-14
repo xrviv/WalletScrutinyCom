@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.freeda.freedaapp
 appCountry: us
-released: 2021-04-13
-updated: 2022-08-17
+released: '2021-04-13'
+updated: '2022-08-17'
 version: '2.3.2'
 stars: 4.7
 ratings: 80
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-30
+date: '2023-01-30'
 signer: 
 reviewArchive: 
 twitter: FreedaWallet

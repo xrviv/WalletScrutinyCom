@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.cryptostone.ewallet
 appCountry: 
-released: 2023-04-23
-updated: 2023-04-23
+released: '2023-04-23'
+updated: '2023-04-23'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

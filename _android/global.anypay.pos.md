@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: global.anypay.pos
 appCountry: 
-released: 2018-11-08
-updated: 2023-08-30
+released: '2018-11-08'
+updated: '2023-08-30'
 version: '2.3.1'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-11-29
+date: '2024-11-29'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: net.coinpayments.coinpaymentsapp
 appCountry: 
-released: 2016-11-15
-updated: 2024-12-18
+released: '2016-11-15'
+updated: '2024-12-18'
 version: 'VARY'
 stars: 3.4
 ratings: 2277
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-05-25
+date: '2021-05-25'
 signer: 
 reviewArchive: 
 twitter: CoinPaymentsNET

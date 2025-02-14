@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.app.bitay
 appCountry: us
-released: 2019-04-15
-updated: 2023-11-21
+released: '2019-04-15'
+updated: '2023-11-21'
 version: '3.1.29'
 stars: 3.5
 ratings: 5765
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-11-19
+date: '2024-11-19'
 signer: 
 reviewArchive: 
 twitter: BitayTurkiye

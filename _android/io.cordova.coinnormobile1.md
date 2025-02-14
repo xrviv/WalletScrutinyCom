@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: io.cordova.coinnormobile1
 appCountry: 
-released: 2018-07-08
-updated: 2018-07-08
+released: '2018-07-08'
+updated: '2018-07-08'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

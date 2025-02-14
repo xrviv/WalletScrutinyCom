@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.bitso.alpha
 appCountry: GI
-released: 2021-09-28
-updated: 2024-12-04
+released: '2021-09-28'
+updated: '2024-12-04'
 version: '1.32.0'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-02-08
+date: '2023-02-08'
 signer: 
 reviewArchive: 
 twitter: Bitso

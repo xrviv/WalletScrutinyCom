@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.kikitrade
 appCountry: us
-released: 2020-07-24
-updated: 2024-05-29
+released: '2020-07-24'
+updated: '2024-05-29'
 version: '6.0.20'
 stars: 3.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: KikitradeHQ

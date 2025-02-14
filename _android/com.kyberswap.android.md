@@ -6,8 +6,8 @@ authors:
 users: 50000
 appId: com.kyberswap.android
 appCountry: 
-released: 2019-08-14
-updated: 2021-07-21
+released: '2019-08-14'
+updated: '2021-07-21'
 version: '1.1.37'
 stars: 4.2
 ratings: 1810
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2021-08-26
+date: '2021-08-26'
 signer: 
 reviewArchive: 
 twitter: KyberSwap

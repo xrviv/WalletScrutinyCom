@@ -7,7 +7,7 @@ users: 100
 appId: com.deuswallet.wallet
 appCountry: 
 released: 
-updated: 2020-06-09
+updated: '2020-06-09'
 version: '2.0.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

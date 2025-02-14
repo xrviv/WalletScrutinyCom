@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.bitkoex
 appCountry: 
-released: 2018-09-30
-updated: 2021-03-01
+released: '2018-09-30'
+updated: '2021-03-01'
 version: '2.19'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-11-12
+date: '2024-11-12'
 signer: 
 reviewArchive: 
 twitter: 

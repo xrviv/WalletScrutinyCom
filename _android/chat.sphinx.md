@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: chat.sphinx
 appCountry: 
-released: 2021-09-30
-updated: 2024-03-18
+released: '2021-09-30'
+updated: '2024-03-18'
 version: '1.0.0-beta21'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2025-02-13
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: global.bitex.bitexpay.android
 appCountry: 
-released: 2020-09-10
-updated: 2020-11-15
+released: '2020-09-10'
+updated: '2020-11-15'
 version: '1.1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-11-22
+date: '2024-11-22'
 signer: 
 reviewArchive: 
 twitter: 

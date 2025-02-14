@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.decentralized.earth
 appCountry: 
-released: 2022-12-15
-updated: 2023-03-18
+released: '2022-12-15'
+updated: '2023-03-18'
 version: '2.19.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fake
 appHashes: 
-date: 2023-09-04
+date: '2023-09-04'
 signer: 
 reviewArchive: 
 twitter: 

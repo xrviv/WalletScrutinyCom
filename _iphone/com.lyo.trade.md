@@ -7,8 +7,8 @@ authors:
 appId: com.lyo.trade
 appCountry: gb
 idd: '1624895730'
-released: 2022-07-05
-updated: 2023-03-14
+released: '2022-07-05'
+updated: '2023-03-14'
 version: '1.8.0'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-10-16
+date: '2023-10-16'
 signer: 
 reviewArchive: 
 twitter: lyopayofficial

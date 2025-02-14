@@ -9,8 +9,8 @@ authors:
 users: 5000
 appId: coffee.software.coffeewallet
 appCountry: 
-released: 2018-06-04
-updated: 2022-07-13
+released: '2018-06-04'
+updated: '2022-07-13'
 version: '0.22'
 stars: 4.3
 ratings: 
@@ -24,7 +24,7 @@ bugbounty:
 meta: obsolete
 verdict: nonverifiable
 appHashes: 
-date: 2024-07-03
+date: '2024-07-03'
 signer: 
 reviewArchive: 
 twitter: CoffeeWallet

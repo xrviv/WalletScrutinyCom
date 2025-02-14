@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.pundix.functionx
 appCountry: us
-released: 2021-03-25
-updated: 2025-01-09
+released: '2021-03-25'
+updated: '2025-01-09'
 version: '5.0.0'
 stars: 3.6
 ratings: 363
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-08-20
+date: '2024-08-20'
 signer: 
 reviewArchive: 
 twitter: FUNCTIONX_IO

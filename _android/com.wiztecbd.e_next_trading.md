@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.wiztecbd.e_next_trading
 appCountry: 
-released: 2022-03-18
-updated: 2023-01-01
+released: '2022-03-18'
+updated: '2023-01-01'
 version: '2.1.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-10
+date: '2023-05-10'
 signer: 
 reviewArchive: 
 twitter: 

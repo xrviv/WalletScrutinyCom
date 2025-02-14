@@ -7,8 +7,8 @@ authors:
 appId: com.trusteewallet
 appCountry: jp
 idd: 1462924276
-released: 2019-06-14
-updated: 2024-11-16
+released: '2019-06-14'
+updated: '2024-11-16'
 version: '1.51.10'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nonverifiable
 appHashes: 
-date: 2024-10-07
+date: '2024-10-07'
 signer: 
 reviewArchive: 
 twitter: Trustee_Wallet

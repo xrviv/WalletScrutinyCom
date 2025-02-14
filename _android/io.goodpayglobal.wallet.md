@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.goodpayglobal.wallet
 appCountry: 
-released: 2021-04-07
-updated: 2023-09-19
+released: '2021-04-07'
+updated: '2023-09-19'
 version: '1.0.23'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: goodpayglobal

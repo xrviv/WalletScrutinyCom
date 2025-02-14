@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.bicasoft_labs.crypto_tae
 appCountry: 
-released: 2021-08-15
-updated: 2021-09-08
+released: '2021-08-15'
+updated: '2021-09-08'
 version: '2.2.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

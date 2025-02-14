@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: io.smartrader.smartapp
 appCountry: 
-released: 2022-01-25
-updated: 2022-08-17
+released: '2022-01-25'
+updated: '2022-08-17'
 version: '0.3.5'
 stars: 5
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

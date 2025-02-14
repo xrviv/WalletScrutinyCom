@@ -8,8 +8,8 @@ authors:
 users: 500
 appId: com.jubiter.app
 appCountry: 
-released: 2020-11-19
-updated: 2022-04-26
+released: '2020-11-19'
+updated: '2022-04-26'
 version: '2.7.0'
 stars: 
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: JuBiterWallet

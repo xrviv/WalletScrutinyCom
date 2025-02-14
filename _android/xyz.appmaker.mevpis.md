@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: xyz.appmaker.mevpis
 appCountry: 
-released: 2022-02-20
-updated: 2022-02-20
+released: '2022-02-20'
+updated: '2022-02-20'
 version: '1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

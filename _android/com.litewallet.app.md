@@ -7,8 +7,8 @@ authors:
 users: 
 appId: com.litewallet.app
 appCountry: 
-released: 2022-03-29
-updated: 2022-06-28
+released: '2022-03-29'
+updated: '2022-06-28'
 version: '1.1.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-07-19
+date: '2024-07-19'
 signer: 
 reviewArchive: 
 twitter: 

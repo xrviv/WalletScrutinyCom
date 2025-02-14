@@ -7,8 +7,8 @@ authors:
 appId: com.bikipro.exchange
 appCountry: us
 idd: 1470204749
-released: 2019-07-09
-updated: 2021-07-22
+released: '2019-07-09'
+updated: '2021-07-22'
 version: '4.9.2'
 stars: 3.4
 reviews: 16
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-03-07
+date: '2022-03-07'
 signer: 
 reviewArchive: 
 twitter: BiKiEnglish

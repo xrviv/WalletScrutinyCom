@@ -7,8 +7,8 @@ authors:
 users: 10000000
 appId: com.coinbase.android
 appCountry: 
-released: 2013-03-01
-updated: 2025-02-06
+released: '2013-03-01'
+updated: '2025-02-06'
 version: '13.4.11'
 stars: 4.5
 ratings: 666901
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-12
+date: '2021-10-12'
 signer: 
 reviewArchive: 
 twitter: coinbase

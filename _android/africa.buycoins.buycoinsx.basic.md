@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: africa.buycoins.buycoinsx.basic
 appCountry: 
-released: 2021-04-16
-updated: 2022-05-18
+released: '2021-04-16'
+updated: '2022-05-18'
 version: '1.1.85'
 stars: 3.9
 ratings: 281
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: buycoins

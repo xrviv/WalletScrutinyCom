@@ -7,8 +7,8 @@ authors:
 appId: com.bbt.bitkubnext.app
 appCountry: th
 idd: '6444399387'
-released: 2022-12-07
-updated: 2024-12-30
+released: '2022-12-07'
+updated: '2024-12-30'
 version: '2.10.0'
 stars: 4.8
 reviews: 239
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-03-29
+date: '2023-03-29'
 signer: 
 reviewArchive: 
 twitter: bitkubchain

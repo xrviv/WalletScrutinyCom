@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.fcx.pro
 appCountry: 
-released: 2021-08-06
-updated: 2022-08-03
+released: '2021-08-06'
+updated: '2022-08-03'
 version: '1.0.9.220803'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-09-15
+date: '2023-09-15'
 signer: 
 reviewArchive: 
 twitter: 

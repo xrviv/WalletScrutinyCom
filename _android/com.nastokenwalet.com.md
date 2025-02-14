@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: com.nastokenwalet.com
 appCountry: 
-released: 2021-03-10
-updated: 2021-03-10
+released: '2021-03-10'
+updated: '2021-03-10'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-25
+date: '2023-08-25'
 signer: 
 reviewArchive: 
 twitter: 

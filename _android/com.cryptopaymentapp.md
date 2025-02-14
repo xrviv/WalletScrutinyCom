@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.cryptopaymentapp
 appCountry: 
-released: 2020-07-23
-updated: 2020-11-11
+released: '2020-07-23'
+updated: '2020-11-11'
 version: '1.4.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: 

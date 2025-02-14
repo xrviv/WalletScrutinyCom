@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.xcnk.cryptoloupe.android
 appCountry: 
-released: 2021-07-02
-updated: 2022-02-01
+released: '2021-07-02'
+updated: '2022-02-01'
 version: '1.0.5'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-10-02
+date: '2024-10-02'
 signer: 
 reviewArchive: 
 twitter: 

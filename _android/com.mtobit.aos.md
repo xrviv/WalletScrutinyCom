@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.mtobit.aos
 appCountry: 
-released: 2020-02-22
-updated: 2020-09-29
+released: '2020-02-22'
+updated: '2020-09-29'
 version: '1.1.6'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-05-30
+date: '2023-05-30'
 signer: 
 reviewArchive: 
 twitter: 

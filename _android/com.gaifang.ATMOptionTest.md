@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.gaifang.ATMOptionTest
 appCountry: 
-released: 2020-06-18
-updated: 2021-08-29
+released: '2020-06-18'
+updated: '2021-08-29'
 version: '1.1.19'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2022-03-24
+date: '2022-03-24'
 signer: 
 reviewArchive: 
 twitter: 

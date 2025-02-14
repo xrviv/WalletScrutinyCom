@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.wallet.online
 appCountry: 
-released: 2019-11-08
-updated: 2021-04-22
+released: '2019-11-08'
+updated: '2021-04-22'
 version: '1.1.3'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-03-21
+date: '2023-03-21'
 signer: 
 reviewArchive: 
 twitter: 

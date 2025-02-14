@@ -8,7 +8,7 @@ users: 1000
 appId: com.asymony.wallet
 appCountry: 
 released: 
-updated: 2022-09-01
+updated: '2022-09-01'
 version: '1.0.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-10-28
+date: '2024-10-28'
 signer: 
 reviewArchive: 
 twitter: 

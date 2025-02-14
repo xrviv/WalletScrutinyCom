@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.pt.powertrade
 appCountry: 
-released: 2021-07-27
-updated: 2023-04-24
+released: '2021-07-27'
+updated: '2023-04-24'
 version: '2.2.1'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-04-18
+date: '2024-04-18'
 signer: 
 reviewArchive: 
 twitter: powertradehq

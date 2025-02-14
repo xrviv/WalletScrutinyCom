@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.crypt8.crypt8
 appCountry: 
-released: 2022-05-06
-updated: 2023-08-28
+released: '2022-05-06'
+updated: '2023-08-28'
 version: '1.0.6'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-12-04
+date: '2024-12-04'
 signer: 
 reviewArchive: 
 twitter: 

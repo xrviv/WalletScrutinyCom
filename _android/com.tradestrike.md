@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.tradestrike
 appCountry: 
-released: 2022-09-26
-updated: 2024-10-09
+released: '2022-09-26'
+updated: '2024-10-09'
 version: '4.2.3'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: TradeStrikeBVI

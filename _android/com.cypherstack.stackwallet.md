@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: com.cypherstack.stackwallet
 appCountry: 
-released: 2024-05-13
-updated: 2025-01-09
+released: '2024-05-13'
+updated: '2025-01-09'
 version: '2.1.10'
 stars: 4.8
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: ftbfs
 appHashes: 
-date: 2023-09-11
+date: '2023-09-11'
 signer: 
 reviewArchive: 
 twitter: stack_wallet

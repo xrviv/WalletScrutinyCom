@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.raido_wallet
 appCountry: us
-released: 2020-07-27
-updated: 2023-09-21
+released: '2020-07-27'
+updated: '2023-09-21'
 version: '3.9.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: financialraido

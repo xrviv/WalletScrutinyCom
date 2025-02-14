@@ -7,7 +7,7 @@ users: 100
 appId: com.spruceid.app.credible
 appCountry: 
 released: 
-updated: 2021-07-27
+updated: '2021-07-27'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: 

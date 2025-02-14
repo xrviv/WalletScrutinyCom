@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.assisttm
 appCountry: 
-released: 2021-08-02
-updated: 2022-05-10
+released: '2021-08-02'
+updated: '2022-05-10'
 version: '1.1.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

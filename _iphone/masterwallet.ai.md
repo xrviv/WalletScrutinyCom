@@ -7,8 +7,8 @@ authors:
 appId: masterwallet.ai
 appCountry: sa
 idd: '1608828891'
-released: 2022-05-15
-updated: 2022-05-17
+released: '2022-05-15'
+updated: '2022-05-17'
 version: '2.2.4'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

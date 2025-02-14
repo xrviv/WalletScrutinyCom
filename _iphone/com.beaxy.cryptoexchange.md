@@ -7,8 +7,8 @@ authors:
 appId: com.beaxy.cryptoexchange
 appCountry: us
 idd: 1493015933
-released: 2020-02-12
-updated: 2021-12-29
+released: '2020-02-12'
+updated: '2021-12-29'
 version: '2.10'
 stars: 4.5
 reviews: 74
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-05-10
+date: '2023-05-10'
 signer: 
 reviewArchive: 
 twitter: BeaxyExchange

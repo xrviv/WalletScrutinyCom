@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.btcs.stakeseeker
 appCountry: 
-released: 2023-03-10
-updated: 2023-03-31
+released: '2023-03-10'
+updated: '2023-03-31'
 version: '1.7'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: smartchain.aiqt
 appCountry: 
-released: 2021-06-21
-updated: 2021-06-21
+released: '2021-06-21'
+updated: '2021-06-21'
 version: '9.8'
 stars: 4.1
 ratings: 98
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2022-01-31
+date: '2022-01-31'
 signer: 
 reviewArchive: 
 twitter: 

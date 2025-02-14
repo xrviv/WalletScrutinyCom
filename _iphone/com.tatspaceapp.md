@@ -7,8 +7,8 @@ authors:
 appId: com.tatspaceapp
 appCountry: us
 idd: '1629762278'
-released: 2022-06-21
-updated: 2024-01-06
+released: '2022-06-21'
+updated: '2024-01-06'
 version: '1.17.6'
 stars: 3.6
 reviews: 66
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2025-01-06
+date: '2025-01-06'
 signer: 
 reviewArchive: 
 twitter: tatspaceapp

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.lohitgroup.start
 appCountry: 
-released: 2020-05-04
-updated: 2020-10-05
+released: '2020-05-04'
+updated: '2020-10-05'
 version: '0.1.5'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-05-30
+date: '2023-05-30'
 signer: 
 reviewArchive: 
 twitter: 

@@ -8,7 +8,7 @@ users: 10000
 appId: com.bitzlato.mobile
 appCountry: 
 released: 
-updated: 2023-01-12
+updated: '2023-01-12'
 version: '5.5.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: wip
 appHashes: 
-date: 2023-07-20
+date: '2023-07-20'
 signer: 
 reviewArchive: 
 twitter: 

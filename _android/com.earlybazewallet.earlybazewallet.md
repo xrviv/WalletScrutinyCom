@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.earlybazewallet.earlybazewallet
 appCountry: 
-released: 2022-06-06
-updated: 2022-12-15
+released: '2022-06-06'
+updated: '2022-12-15'
 version: '1.0.1'
 stars: 4.3
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

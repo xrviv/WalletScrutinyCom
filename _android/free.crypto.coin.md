@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: free.crypto.coin
 appCountry: 
-released: 2020-02-24
-updated: 2020-09-22
+released: '2020-02-24'
+updated: '2020-09-22'
 version: '1.0.8'
 stars: 4.3
 ratings: 98
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-15
+date: '2023-04-15'
 signer: 
 reviewArchive: 
 twitter: 

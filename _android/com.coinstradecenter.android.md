@@ -7,7 +7,7 @@ users: 1
 appId: com.coinstradecenter.android
 appCountry: 
 released: 
-updated: 2020-01-21
+updated: '2020-01-21'
 version: 'VARY'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

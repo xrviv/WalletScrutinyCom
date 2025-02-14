@@ -8,7 +8,7 @@ users: 1000
 appId: com.arumtrade.app.android
 appCountry: 
 released: 
-updated: 2021-11-18
+updated: '2021-11-18'
 version: '1.0.4'
 stars: 3.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2024-04-03
+date: '2024-04-03'
 signer: 
 reviewArchive: 
 twitter: ArumTrade

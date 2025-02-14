@@ -7,8 +7,8 @@ authors:
 appId: app.vipsats.satos
 appCountry: tt
 idd: '6445799528'
-released: 2023-03-27
-updated: 2024-10-29
+released: '2023-03-27'
+updated: '2024-10-29'
 version: '1.4.2'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: wip
 appHashes: 
-date: 2023-09-06
+date: '2023-09-06'
 signer: 
 reviewArchive: 
 twitter: vipsats

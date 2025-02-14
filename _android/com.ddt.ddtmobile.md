@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.ddt.ddtmobile
 appCountry: 
-released: 2019-10-07
-updated: 2020-03-24
+released: '2019-10-07'
+updated: '2020-03-24'
 version: '1.1.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.ccwallet.app
 appCountry: 
-released: 2019-06-04
-updated: 2020-10-26
+released: '2019-06-04'
+updated: '2020-10-26'
 version: '2.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-05-07
+date: '2024-05-07'
 signer: 
 reviewArchive: 
 twitter: 

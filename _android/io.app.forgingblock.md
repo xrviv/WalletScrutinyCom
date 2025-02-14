@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: io.app.forgingblock
 appCountry: 
-released: 2020-10-20
-updated: 2020-10-20
+released: '2020-10-20'
+updated: '2020-10-20'
 version: '8.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

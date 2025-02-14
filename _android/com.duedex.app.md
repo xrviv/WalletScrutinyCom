@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.duedex.app
 appCountry: 
-released: 2020-05-13
-updated: 2021-05-17
+released: '2020-05-13'
+updated: '2021-05-17'
 version: '1.2.18'
 stars: 3.4
 ratings: 58
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-08
+date: '2021-11-08'
 signer: 
 reviewArchive: 
 twitter: 

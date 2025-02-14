@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.hrdgcoin.hrdgwallet
 appCountry: 
-released: 2021-07-09
-updated: 2022-07-28
+released: '2021-07-09'
+updated: '2022-07-28'
 version: '1.0.8'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-10-08
+date: '2024-10-08'
 signer: 
 reviewArchive: 
 twitter: 

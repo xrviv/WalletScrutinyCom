@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.coinpayu.earn.bitcoin
 appCountry: 
-released: 2021-07-06
-updated: 2025-01-22
+released: '2021-07-06'
+updated: '2025-01-22'
 version: '2.0.3'
 stars: 3.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-10-09
+date: '2023-10-09'
 signer: 
 reviewArchive: 
 twitter: CoinPayU

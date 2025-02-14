@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.techbank
 appCountry: 
-released: 2022-03-16
-updated: 2024-07-10
+released: '2022-03-16'
+updated: '2024-07-10'
 version: '1.8.0'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-12-16
+date: '2023-12-16'
 signer: 
 reviewArchive: 
 twitter: 

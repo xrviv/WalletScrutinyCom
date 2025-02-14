@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.assero.asserowallet
 appCountry: 
-released: 2020-06-01
-updated: 2020-07-13
+released: '2020-06-01'
+updated: '2020-07-13'
 version: '1.9'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.wa.shah
 appCountry: 
-released: 2022-03-28
-updated: 2022-09-17
+released: '2022-03-28'
+updated: '2022-09-17'
 version: '2.8'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-12-31
+date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: ShahOfCryptoApp

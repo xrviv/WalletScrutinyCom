@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: com.coinpay
 appCountry: 
-released: 2020-05-26
-updated: 2020-08-23
+released: '2020-05-26'
+updated: '2020-08-23'
 version: '1.0.7'
 stars: 3.2
 ratings: 29
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.arzif.android
 appCountry: 
-released: 2020-10-09
-updated: 2023-09-09
+released: '2020-10-09'
+updated: '2023-09-09'
 version: '2'
 stars: 4
 ratings: 687
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-09-03
+date: '2024-09-03'
 signer: 
 reviewArchive: 
 twitter: Arzifofficial

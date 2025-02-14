@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.coinstick.myapp
 appCountry: 
-released: 2023-01-23
-updated: 2025-01-07
+released: '2023-01-23'
+updated: '2025-01-07'
 version: '1.0.0'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2023-12-02
+date: '2023-12-02'
 signer: 
 reviewArchive: 
 twitter: coinstickHQ

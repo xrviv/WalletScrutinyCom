@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.lkrcoin.wallet
 appCountry: 
-released: 2019-01-19
-updated: 2019-01-19
+released: '2019-01-19'
+updated: '2019-01-19'
 version: 'v1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

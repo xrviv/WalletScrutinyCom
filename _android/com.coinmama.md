@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.coinmama
 appCountry: 
-released: 2022-11-21
-updated: 2023-12-13
+released: '2022-11-21'
+updated: '2023-12-13'
 version: '1.03.02'
 stars: 3.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: coinmama

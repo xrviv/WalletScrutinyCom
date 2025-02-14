@@ -7,8 +7,8 @@ authors:
 appId: com.CapiteraAG.Welthee
 appCountry: sg
 idd: '1562108720'
-released: 2021-07-19
-updated: 2023-10-11
+released: '2021-07-19'
+updated: '2023-10-11'
 version: '5.0.2'
 stars: 0
 reviews: 0
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: nobtc
 appHashes: 
-date: 2024-10-06
+date: '2024-10-06'
 signer: 
 reviewArchive: 
 twitter: Welthee

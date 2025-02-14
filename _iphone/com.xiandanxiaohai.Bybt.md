@@ -7,8 +7,8 @@ authors:
 appId: com.xiandanxiaohai.Bybt
 appCountry: us
 idd: 1522250001
-released: 2020-07-08
-updated: 2025-01-24
+released: '2020-07-08'
+updated: '2025-01-24'
 version: '2.2.1'
 stars: 4.9
 reviews: 3414
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fake
 appHashes: 
-date: 2021-11-02
+date: '2021-11-02'
 signer: 
 reviewArchive: 
 twitter: coinglass_com

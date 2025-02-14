@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: jp.co.moneypartners.CryptoTrade
 appCountry: 
-released: 2021-11-23
-updated: 2024-02-14
+released: '2021-11-23'
+updated: '2024-02-14'
 version: '1.4.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: wip
 appHashes: 
-date: 2025-02-08
+date: '2025-02-08'
 signer: 
 reviewArchive: 
 twitter: 

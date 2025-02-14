@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: cloud.antalpha.app
 appCountry: 
-released: 2023-02-21
-updated: 2024-12-24
+released: '2023-02-21'
+updated: '2024-12-24'
 version: '2.23.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2023-06-03
+date: '2023-06-03'
 signer: 
 reviewArchive: 
 twitter: 

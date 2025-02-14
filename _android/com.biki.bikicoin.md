@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.biki.bikicoin
 appCountry: us
-released: 2019-05-13
-updated: 2021-07-21
+released: '2019-05-13'
+updated: '2021-07-21'
 version: '4.9.1'
 stars: 3.2
 ratings: 777
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-03-07
+date: '2022-03-07'
 signer: 
 reviewArchive: 
 twitter: BiKiEnglish

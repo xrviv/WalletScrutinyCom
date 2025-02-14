@@ -3,9 +3,9 @@ title: Kronos Wallet
 appId: kronoswallet
 authors:
 - danny
-released: 2020-11-07
+released: '2020-11-07'
 discontinued: 
-updated: 2021-07-12
+updated: '2021-07-12'
 version: '2.0.4-Beta'
 binaries: 
 provider: 
@@ -17,7 +17,7 @@ icon: kronoswallet.png
 bugbounty: 
 meta: obsolete
 verdict: wip
-date: 2024-04-25
+date: '2024-04-25'
 reviewArchive: 
 twitter: KronosWallet
 social: 

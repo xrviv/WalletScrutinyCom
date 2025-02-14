@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.instantexchange.instantexchange
 appCountry: 
-released: 2022-03-25
-updated: 2022-03-25
+released: '2022-03-25'
+updated: '2022-03-25'
 version: '2.0.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 

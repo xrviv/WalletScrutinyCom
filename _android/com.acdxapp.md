@@ -7,7 +7,7 @@ users: 100
 appId: com.acdxapp
 appCountry: 
 released: 
-updated: 2021-10-26
+updated: '2021-10-26'
 version: '1.0.5'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

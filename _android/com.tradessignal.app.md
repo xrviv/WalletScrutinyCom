@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.tradessignal.app
 appCountry: 
-released: 2021-01-02
-updated: 2021-01-02
+released: '2021-01-02'
+updated: '2021-01-02'
 version: '2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

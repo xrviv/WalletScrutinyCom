@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: br.com.treepart.genbit
 appCountry: 
-released: 2019-11-10
-updated: 2019-11-16
+released: '2019-11-10'
+updated: '2019-11-16'
 version: '1.2'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-19
+date: '2023-04-19'
 signer: 
 reviewArchive: 
 twitter: 

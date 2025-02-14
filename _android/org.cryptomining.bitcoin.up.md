@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: org.cryptomining.bitcoin.up
 appCountry: 
-released: 2021-07-21
-updated: 2021-07-21
+released: '2021-07-21'
+updated: '2021-07-21'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: 

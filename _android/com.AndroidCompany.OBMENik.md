@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.AndroidCompany.OBMENik
 appCountry: 
-released: 2020-11-18
-updated: 2020-11-18
+released: '2020-11-18'
+updated: '2020-11-18'
 version: '1.0'
 stars: 4.7
 ratings: 462
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-10-26
+date: '2021-10-26'
 signer: 
 reviewArchive: 
 twitter: 

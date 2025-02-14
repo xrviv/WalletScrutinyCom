@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.ferraripay
 appCountry: 
-released: 2021-06-01
-updated: 2023-05-19
+released: '2021-06-01'
+updated: '2023-05-19'
 version: '1.1'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-12-19
+date: '2023-12-19'
 signer: 
 reviewArchive: 
 twitter: 

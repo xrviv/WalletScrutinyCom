@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.xccg.xchange
 appCountry: 
-released: 2020-05-12
-updated: 2024-08-15
+released: '2020-05-12'
+updated: '2024-08-15'
 version: '4.1.1'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-23
+date: '2024-12-23'
 signer: 
 reviewArchive: 
 twitter: XchangeO

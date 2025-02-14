@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.digi.exchange
 appCountry: 
-released: 2019-03-11
-updated: 2022-04-24
+released: '2019-03-11'
+updated: '2022-04-24'
 version: '1.1.7'
 stars: 4.3
 ratings: 265
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2024-09-08
+date: '2024-09-08'
 signer: 
 reviewArchive: 
 twitter: digiexchange3

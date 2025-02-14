@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: io.sideswap
 appCountry: 
-released: 2021-03-09
-updated: 2024-09-23
+released: '2021-03-09'
+updated: '2024-09-23'
 version: '1.6.1'
 stars: 5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-08-19
+date: '2023-08-19'
 signer: 
 reviewArchive: 
 twitter: 

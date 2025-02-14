@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.ninjacoin
 appCountry: 
-released: 2019-11-30
-updated: 2021-05-25
+released: '2019-11-30'
+updated: '2021-05-25'
 version: 'v1.3.0'
 stars: 4.2
 ratings: 65
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nobtc
 appHashes: 
-date: 2021-11-26
+date: '2021-11-26'
 signer: 
 reviewArchive: 
 twitter: Ninjacoin_org

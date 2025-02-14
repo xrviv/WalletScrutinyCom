@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: net.bitstamp.app
 appCountry: 
-released: 2019-01-29
-updated: 2024-12-20
+released: '2019-01-29'
+updated: '2024-12-20'
 version: '4.4.2'
 stars: 4.6
 ratings: 11088
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2020-05-29
+date: '2020-05-29'
 signer: 
 reviewArchive: 
 twitter: Bitstamp

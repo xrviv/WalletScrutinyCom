@@ -6,8 +6,8 @@ authors:
 users: 1000000
 appId: com.blocktrail.mywallet
 appCountry: 
-released: 2015-09-09
-updated: 2019-04-03
+released: '2015-09-09'
+updated: '2019-04-03'
 version: '4.4.7'
 stars: 3.4
 ratings: 8291
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: ftbfs
 appHashes: 
-date: 2021-12-29
+date: '2021-12-29'
 signer: 
 reviewArchive: 
 twitter: btccom_official

@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.myetherwallet.mewwallet
 appCountry: us
-released: 2020-03-11
-updated: 2025-02-06
+released: '2020-03-11'
+updated: '2025-02-06'
 version: '2.9.1'
 stars: 4.3
 ratings: 7093
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2021-02-05
+date: '2021-02-05'
 signer: 
 reviewArchive: 
 twitter: myetherwallet

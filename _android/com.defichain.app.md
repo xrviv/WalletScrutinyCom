@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.defichain.app
 appCountry: qa
-released: 2021-08-22
-updated: 2024-08-29
+released: '2021-08-22'
+updated: '2024-08-29'
 version: '2.43.3'
 stars: 3.2
 ratings: 319
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2021-11-11
+date: '2021-11-11'
 signer: 
 reviewArchive: 
 twitter: defichain

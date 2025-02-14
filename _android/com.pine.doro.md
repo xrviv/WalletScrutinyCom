@@ -6,8 +6,8 @@ authors:
 users: 1000
 appId: com.pine.doro
 appCountry: 
-released: 2021-04-10
-updated: 2021-05-05
+released: '2021-04-10'
+updated: '2021-05-05'
 version: '1.1'
 stars: 3.2
 ratings: 40
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-09-16
+date: '2021-09-16'
 signer: 
 reviewArchive: 
 twitter: 

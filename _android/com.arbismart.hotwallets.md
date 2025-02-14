@@ -8,7 +8,7 @@ users: 5000
 appId: com.arbismart.hotwallets
 appCountry: 
 released: 
-updated: 2024-06-18
+updated: '2024-06-18'
 version: '1.0.0028'
 stars: 2.8
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-11-29
+date: '2024-11-29'
 signer: 
 reviewArchive: 
 twitter: arbismart

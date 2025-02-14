@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.bitcointrainee.br
 appCountry: 
-released: 2018-09-09
-updated: 2018-09-10
+released: '2018-09-09'
+updated: '2018-09-10'
 version: '1.0.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.turismobtc.app
 appCountry: 
-released: 2019-04-22
-updated: 2019-06-27
+released: '2019-04-22'
+updated: '2019-06-27'
 version: '1.2.4'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-19
+date: '2024-04-19'
 signer: 
 reviewArchive: 
 twitter: 

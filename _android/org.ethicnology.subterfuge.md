@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: org.ethicnology.subterfuge
 appCountry: 
-released: 2022-09-11
-updated: 2022-09-11
+released: '2022-09-11'
+updated: '2022-09-11'
 version: '1.0.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-03-02
+date: '2024-03-02'
 signer: 
 reviewArchive: 
 twitter: 

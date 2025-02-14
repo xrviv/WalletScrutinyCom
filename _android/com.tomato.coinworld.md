@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: com.tomato.coinworld
 appCountry: 
-released: 2019-09-19
-updated: 2022-05-04
+released: '2019-09-19'
+updated: '2022-05-04'
 version: '3.2'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: obsolete
 verdict: fewusers
 appHashes: 
-date: 2024-04-24
+date: '2024-04-24'
 signer: 
 reviewArchive: 
 twitter: 

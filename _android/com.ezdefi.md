@@ -8,8 +8,8 @@ authors:
 users: 10000
 appId: com.ezdefi
 appCountry: 
-released: 2019-11-29
-updated: 2021-09-08
+released: '2019-11-29'
+updated: '2021-09-08'
 version: '0.3.9'
 stars: 4.1
 ratings: 633
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: ezDeFi

@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.kope.xa.app
 appCountry: 
-released: 2023-04-21
-updated: 2023-04-22
+released: '2023-04-21'
+updated: '2023-04-22'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

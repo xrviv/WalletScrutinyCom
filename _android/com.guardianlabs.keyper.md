@@ -6,8 +6,8 @@ authors:
 users: 50
 appId: com.guardianlabs.keyper
 appCountry: 
-released: 2022-08-06
-updated: 2024-11-05
+released: '2022-08-06'
+updated: '2024-11-05'
 version: '2.3.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: fewusers
 appHashes: 
-date: 2023-06-03
+date: '2023-06-03'
 signer: 
 reviewArchive: 
 twitter: 

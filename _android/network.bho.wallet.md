@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: network.bho.wallet
 appCountry: 
-released: 2022-06-04
-updated: 2024-12-04
+released: '2022-06-04'
+updated: '2024-12-04'
 version: '1.1.6'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-07-19
+date: '2023-07-19'
 signer: 
 reviewArchive: 
 twitter: 3S_Wallet

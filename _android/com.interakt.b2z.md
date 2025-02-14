@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.interakt.b2z
 appCountry: 
-released: 2022-04-12
-updated: 2024-07-29
+released: '2022-04-12'
+updated: '2024-07-29'
 version: '1.8.0'
 stars: 4.3
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-01-18
+date: '2024-01-18'
 signer: 
 reviewArchive: 
 twitter: B2zExchange

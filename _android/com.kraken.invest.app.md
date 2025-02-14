@@ -7,8 +7,8 @@ authors:
 users: 1000000
 appId: com.kraken.invest.app
 appCountry: 
-released: 2020-12-30
-updated: 2025-02-11
+released: '2020-12-30'
+updated: '2025-02-11'
 version: '3.2.0'
 stars: 4.1
 ratings: 15716
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-08-21
+date: '2021-08-21'
 signer: 
 reviewArchive: 
 twitter: krakenfx

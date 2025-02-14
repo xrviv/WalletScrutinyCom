@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.swissy
 appCountry: 
-released: 2020-09-01
-updated: 2021-01-27
+released: '2020-09-01'
+updated: '2021-01-27'
 version: '3.3'
 stars: 4.2
 ratings: 25
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-10-26
+date: '2021-10-26'
 signer: 
 reviewArchive: 
 twitter: 

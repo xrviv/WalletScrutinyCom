@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: am.ecos.android
 appCountry: us
-released: 2020-09-22
-updated: 2025-01-05
+released: '2020-09-22'
+updated: '2025-01-05'
 version: '2.1.4'
 stars: 2
 ratings: 377
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-10-07
+date: '2021-10-07'
 signer: 
 reviewArchive: 
 twitter: ecosmining

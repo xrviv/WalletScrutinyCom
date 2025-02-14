@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.khodo
 appCountry: 
-released: 2020-10-02
-updated: 2021-08-12
+released: '2020-10-02'
+updated: '2021-08-12'
 version: '2.0.2'
 stars: 3.5
 ratings: 54
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nowallet
 appHashes: 
-date: 2022-02-10
+date: '2022-02-10'
 signer: 
 reviewArchive: 
 twitter: buymalawi

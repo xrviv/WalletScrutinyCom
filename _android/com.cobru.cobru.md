@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.cobru.cobru
 appCountry: 
-released: 2021-06-26
-updated: 2023-12-19
+released: '2021-06-26'
+updated: '2023-12-19'
 version: '4.0.99'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: cobruapp

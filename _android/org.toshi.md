@@ -8,8 +8,8 @@ authors:
 users: 10000000
 appId: org.toshi
 appCountry: 
-released: 2017-09-20
-updated: 2025-02-07
+released: '2017-09-20'
+updated: '2025-02-07'
 version: '29.28.0'
 stars: 4.2
 ratings: 38828
@@ -23,7 +23,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-15
+date: '2024-07-15'
 signer: 
 reviewArchive: 
 twitter: CoinbaseWallet

@@ -6,8 +6,8 @@ authors:
 users: 500
 appId: com.wallet.crypto.safeapp
 appCountry: 
-released: 2020-05-23
-updated: 2020-05-24
+released: '2020-05-23'
+updated: '2020-05-24'
 version: '1.0'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-02-05
+date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.aladiex.global
 appCountry: 
-released: 2020-07-04
-updated: 2021-04-27
+released: '2020-07-04'
+updated: '2021-04-27'
 version: '1.7.9'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: Aladiexchange

@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.burtar.wallet
 appCountry: 
-released: 2021-07-29
-updated: 2021-07-30
+released: '2021-07-29'
+updated: '2021-07-30'
 version: '1.0'
 stars: 4.3
 ratings: 1446
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2022-02-25
+date: '2022-02-25'
 signer: 
 reviewArchive: 
 twitter: 

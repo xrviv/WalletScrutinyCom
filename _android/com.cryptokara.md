@@ -7,8 +7,8 @@ authors:
 users: 500000
 appId: com.cryptokara
 appCountry: 
-released: 2021-09-28
-updated: 2024-04-08
+released: '2021-09-28'
+updated: '2024-04-08'
 version: '1.7.5'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-17
+date: '2024-07-17'
 signer: 
 reviewArchive: 
 twitter: 

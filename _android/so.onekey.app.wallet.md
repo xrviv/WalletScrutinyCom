@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: so.onekey.app.wallet
 appCountry: 
-released: 2022-04-27
-updated: 2025-01-24
+released: '2022-04-27'
+updated: '2025-01-24'
 version: '5.6.0'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-04-18
+date: '2023-04-18'
 signer: 
 reviewArchive: 
 twitter: OneKeyHQ

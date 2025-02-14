@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.torque.android.torquewallet
 appCountry: 
-released: 2019-12-11
-updated: 2021-02-03
+released: '2019-12-11'
+updated: '2021-02-03'
 version: '1.1.15'
 stars: 4.2
 ratings: 
@@ -23,7 +23,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2023-04-12
+date: '2023-04-12'
 signer: 
 reviewArchive: 
 twitter: 

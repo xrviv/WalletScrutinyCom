@@ -7,8 +7,8 @@ authors:
 appId: com.elrond.maiar.wallet
 appCountry: us
 idd: 1519405832
-released: 2021-01-31
-updated: 2023-01-07
+released: '2021-01-31'
+updated: '2023-01-07'
 version: '1.5.10'
 stars: 4.7
 reviews: 382
@@ -21,7 +21,7 @@ bugbounty:
 meta: defunct
 verdict: nosource
 appHashes: 
-date: 2023-01-30
+date: '2023-01-30'
 signer: 
 reviewArchive: 
 twitter: getMaiar

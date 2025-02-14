@@ -7,7 +7,7 @@ users: 1000
 appId: engineering.lightning.LightningMainnet
 appCountry: 
 released: 
-updated: 2020-10-02
+updated: '2020-10-02'
 version: 'Varies with device'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-02-04
+date: '2021-02-04'
 signer: 
 reviewArchive: 
 twitter: lightning

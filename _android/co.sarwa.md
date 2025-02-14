@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: co.sarwa
 appCountry: 
-released: 2021-04-04
-updated: 2024-12-10
+released: '2021-04-04'
+updated: '2024-12-10'
 version: '5.9.0'
 stars: 3.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2023-07-28
+date: '2023-07-28'
 signer: 
 reviewArchive: 
 twitter: SarwaCo

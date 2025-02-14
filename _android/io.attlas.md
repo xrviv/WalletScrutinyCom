@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: io.attlas
 appCountry: 
-released: 2021-05-16
-updated: 2025-02-11
+released: '2021-05-16'
+updated: '2025-02-11'
 version: '3.5.35'
 stars: 3.9
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-02-13
+date: '2023-02-13'
 signer: 
 reviewArchive: 
 twitter: 

@@ -7,8 +7,8 @@ authors:
 users: 100
 appId: com.arindamdawn.coinflow
 appCountry: 
-released: 2017-07-26
-updated: 2017-07-27
+released: '2017-07-26'
+updated: '2017-07-27'
 version: '1.0.1'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2021-10-30
+date: '2021-10-30'
 signer: 
 reviewArchive: 
 twitter: 

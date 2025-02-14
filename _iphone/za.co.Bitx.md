@@ -7,8 +7,8 @@ authors:
 appId: za.co.Bitx
 appCountry: 
 idd: 927362479
-released: 2014-11-03
-updated: 2025-02-11
+released: '2014-11-03'
+updated: '2025-02-11'
 version: '8.76.2'
 stars: 4.2
 reviews: 3604
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-05-12
+date: '2021-05-12'
 signer: 
 reviewArchive: 
 twitter: LunoGlobal

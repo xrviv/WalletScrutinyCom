@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: app.pxq.android
 appCountry: 
-released: 2023-04-19
-updated: 2024-03-17
+released: '2023-04-19'
+updated: '2024-03-17'
 version: '1.1.2'
 stars: 2.4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: 

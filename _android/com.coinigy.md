@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.coinigy
 appCountry: us
-released: 2018-06-11
-updated: 2024-07-01
+released: '2018-06-11'
+updated: '2024-07-01'
 version: '0.5.36'
 stars: 3.9
 ratings: 225
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-11-02
+date: '2023-11-02'
 signer: 
 reviewArchive: 
 twitter: coinigy

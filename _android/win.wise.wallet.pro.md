@@ -6,8 +6,8 @@ authors:
 users: 100
 appId: win.wise.wallet.pro
 appCountry: 
-released: 2021-08-13
-updated: 2021-10-14
+released: '2021-08-13'
+updated: '2021-10-14'
 version: '1.46'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-26
+date: '2024-04-26'
 signer: 
 reviewArchive: 
 twitter: 

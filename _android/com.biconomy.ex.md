@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.biconomy.ex
 appCountry: 
-released: 2020-01-14
-updated: 2025-02-10
+released: '2020-01-14'
+updated: '2025-02-10'
 version: '2.2.39'
 stars: 4.1
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-02-15
+date: '2023-02-15'
 signer: 
 reviewArchive: 
 twitter: BiconomyCom

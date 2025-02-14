@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.exonyxapp.trader
 appCountry: 
-released: 2020-08-25
-updated: 2022-06-18
+released: '2020-08-25'
+updated: '2022-06-18'
 version: '2.0.6'
 stars: 4.6
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: Exonyxir

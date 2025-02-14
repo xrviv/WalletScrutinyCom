@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: io.fgraph.shinobiwallet
 appCountry: 
-released: 2021-06-02
-updated: 2024-03-02
+released: '2021-06-02'
+updated: '2024-03-02'
 version: '1.8.9'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: '2024-07-24'
 signer: 
 reviewArchive: 
 twitter: shinobi_wallet

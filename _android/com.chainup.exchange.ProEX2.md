@@ -7,8 +7,8 @@ authors:
 users: 5000
 appId: com.chainup.exchange.ProEX2
 appCountry: 
-released: 2022-04-06
-updated: 2023-11-28
+released: '2022-04-06'
+updated: '2023-11-28'
 version: '5.9.1_push_v2'
 stars: 4
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-11-23
+date: '2024-11-23'
 signer: 
 reviewArchive: 
 twitter: 

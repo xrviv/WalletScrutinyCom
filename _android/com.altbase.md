@@ -7,8 +7,8 @@ authors:
 users: 1000
 appId: com.altbase
 appCountry: 
-released: 2022-01-06
-updated: 2022-06-15
+released: '2022-01-06'
+updated: '2022-06-15'
 version: '1.1.3'
 stars: 4.5
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: defunct
 verdict: nobtc
 appHashes: 
-date: 2023-08-24
+date: '2023-08-24'
 signer: 
 reviewArchive: 
 twitter: AltbaseApp

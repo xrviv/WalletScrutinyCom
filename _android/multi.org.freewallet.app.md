@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: multi.org.freewallet.app
 appCountry: 
-released: 2017-08-10
-updated: 2018-10-29
+released: '2017-08-10'
+updated: '2018-10-29'
 version: '1.0.69'
 stars: 4.1
 ratings: 2017
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: freewalletorg

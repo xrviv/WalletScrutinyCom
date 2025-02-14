@@ -7,8 +7,8 @@ authors:
 appId: ai.blockbank.blockbankv2
 appCountry: us
 idd: '1592298073'
-released: 2021-11-01
-updated: 2023-04-26
+released: '2021-11-01'
+updated: '2023-04-26'
 version: '3.3.6'
 stars: 4.8
 reviews: 13
@@ -21,7 +21,7 @@ bugbounty:
 meta: defunct
 verdict: nosource
 appHashes: 
-date: 2023-06-21
+date: '2023-06-21'
 signer: 
 reviewArchive: 
 twitter: BLOCKBANKapp

@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.cloud.xmeta
 appCountry: 
-released: 2022-02-14
-updated: 2022-12-19
+released: '2022-02-14'
+updated: '2022-12-19'
 version: '2.1.0'
 stars: 4.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-12-08
+date: '2024-12-08'
 signer: 
 reviewArchive: 
 twitter: XMetaOfficial

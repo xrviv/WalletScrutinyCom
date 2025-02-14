@@ -7,8 +7,8 @@ authors:
 users: 100000
 appId: com.atani
 appCountry: 
-released: 2021-03-09
-updated: 2025-01-22
+released: '2021-03-09'
+updated: '2025-01-22'
 version: '4.25.15'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nowallet
 appHashes: 
-date: 2023-07-28
+date: '2023-07-28'
 signer: 
 reviewArchive: 
 twitter: Atani_Official

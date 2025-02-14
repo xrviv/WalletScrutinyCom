@@ -7,8 +7,8 @@ authors:
 users: 50000
 appId: com.spend.app
 appCountry: 
-released: 2018-08-07
-updated: 2020-07-15
+released: '2018-08-07'
+updated: '2020-07-15'
 version: '3.09'
 stars: 3.5
 ratings: 479
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-05-18
+date: '2024-05-18'
 signer: 
 reviewArchive: 
 twitter: Spendcom

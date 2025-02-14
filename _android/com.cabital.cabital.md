@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.cabital.cabital
 appCountry: 
-released: 2021-06-07
-updated: 2022-06-23
+released: '2021-06-07'
+updated: '2022-06-23'
 version: '1.8.0'
 stars: 
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: custodial
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: cabitalglobal

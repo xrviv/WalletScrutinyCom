@@ -7,7 +7,7 @@ users: 5000
 appId: com.stash.wallet
 appCountry: 
 released: 
-updated: 2018-12-03
+updated: '2018-12-03'
 version: 'Varies with device'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: wip
 appHashes: 
-date: 2021-11-26
+date: '2021-11-26'
 signer: 
 reviewArchive: 
 twitter: 

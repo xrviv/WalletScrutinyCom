@@ -6,8 +6,8 @@ authors:
 users: 10
 appId: com.dabblex.wallet
 appCountry: 
-released: 2021-08-16
-updated: 2021-08-16
+released: '2021-08-16'
+updated: '2021-08-16'
 version: '0.21.3'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-08-04
+date: '2023-08-04'
 signer: 
 reviewArchive: 
 twitter: 

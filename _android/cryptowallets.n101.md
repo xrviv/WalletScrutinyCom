@@ -6,8 +6,8 @@ authors:
 users: 1
 appId: cryptowallets.n101
 appCountry: 
-released: 2021-12-24
-updated: 2021-12-24
+released: '2021-12-24'
+updated: '2021-12-24'
 version: '1.01'
 stars: 
 ratings: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: removed
 verdict: fewusers
 appHashes: 
-date: 2023-01-02
+date: '2023-01-02'
 signer: 
 reviewArchive: 
 twitter: 

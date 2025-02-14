@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: org.safecoin.safepay
 appCountry: 
-released: 2019-05-20
-updated: 2020-08-14
+released: '2019-05-20'
+updated: '2020-08-14'
 version: '7.2.8'
 stars: 4.2
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-07-05
+date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: safecoin

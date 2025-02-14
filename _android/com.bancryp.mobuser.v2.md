@@ -7,8 +7,8 @@ authors:
 users: 10000
 appId: com.bancryp.mobuser.v2
 appCountry: 
-released: 2020-05-18
-updated: 2023-04-14
+released: '2020-05-18'
+updated: '2023-04-14'
 version: '1.6.0'
 stars: 3.7
 ratings: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-04-09
+date: '2024-04-09'
 signer: 
 reviewArchive: 
 twitter: 
