@@ -113,7 +113,7 @@ function loadFromFile (file, outHeaderAndBody = { header: {}, body: '' }) {
       outHeaderAndBody.header[k] = header[k];
 
       // Convert numeric fields from string to number if possible
-      const numericFields = ['ratings', 'stars', 'users'];
+      const numericFields = ['ratings', 'stars', 'users', 'reviews'];
       if (numericFields.includes(k) && typeof header[k] === 'string' && !isNaN(header[k])) {
         outHeaderAndBody.header[k] = Number(header[k]);
       }
