@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Volt Messenger
+title: 'Volt Messenger'
 altTitle: 
 authors: 
 users: 1000
-appId: com.volt.messenger
+appId: 'com.volt.messenger'
 appCountry: 
 released: '2019-02-18'
 updated: '2020-06-18'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.voltmessenger.com
+website: 'http://www.voltmessenger.com'
 repository: 
 issue: 
-icon: com.volt.messenger.png
+icon: 'com.volt.messenger.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

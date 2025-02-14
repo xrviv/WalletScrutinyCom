@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Love Wallet
+title: 'Love Wallet'
 altTitle: 
 authors: 
 users: 10000
-appId: com.lovewallet.bfic
+appId: 'com.lovewallet.bfic'
 appCountry: 
 released: '2022-04-12'
 updated: '2022-04-13'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://lovewallet.online
+website: 'https://lovewallet.online'
 repository: 
 issue: 
-icon: com.lovewallet.bfic.png
+icon: 'com.lovewallet.bfic.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-30'
 signer: 

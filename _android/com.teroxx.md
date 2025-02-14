@@ -1,26 +1,25 @@
 ---
-wsId: TeroxxWallet
-title: Teroxx
+wsId: 'TeroxxWallet'
+title: 'Teroxx'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.teroxx
-appCountry: us
+appId: 'com.teroxx'
+appCountry: 'us'
 released: '2019-08-26'
-updated: '2025-02-10'
+updated: 2025-02-10
 version: '3.0.36'
 stars: 4.2
 ratings: 
 reviews: 
-size: 
-website: https://www.teroxx.com/
+website: 'https://www.teroxx.com/'
 repository: 
 issue: 
-icon: com.teroxx.png
+icon: 'com.teroxx.png'
 bugbounty: 
-meta: ok
-verdict: custodial
+meta: 'ok'
+verdict: 'custodial'
 appHashes: 
 date: '2021-11-15'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Teroxx
+developerName: 'Teroxx'
 features: 
 
 ---

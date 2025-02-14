@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: ForceBTC - Blockchain Wallet and Exchanger
+title: 'ForceBTC - Blockchain Wallet and Exchanger'
 altTitle: 
 authors: 
 users: 500
-appId: com.multidev.forcebtc
+appId: 'com.multidev.forcebtc'
 appCountry: 
 released: '2021-01-08'
 updated: '2021-01-08'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 4.1
 ratings: 11
 reviews: 3
-size: 2.4M
+size: '2.4M'
 website: 
 repository: 
 issue: 
-icon: com.multidev.forcebtc.png
+icon: 'com.multidev.forcebtc.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2022-01-31'
 signer: 

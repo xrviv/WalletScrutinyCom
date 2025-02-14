@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Safe Wallet
+title: 'Safe Wallet'
 altTitle: 
 authors: 
 users: 500
-appId: network.worldshare.safewallet
+appId: 'network.worldshare.safewallet'
 appCountry: 
 released: '2020-02-11'
 updated: '2020-02-12'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://worldshare.network
+website: 'https://worldshare.network'
 repository: 
 issue: 
-icon: network.worldshare.safewallet.png
+icon: 'network.worldshare.safewallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: may Ryan
+developerName: 'may Ryan'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: AyrexTrading
+title: 'AyrexTrading'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.ayrex.trading.dlvc
+appId: 'com.ayrex.trading.dlvc'
 appCountry: 
 released: '2020-05-14'
 updated: '2020-05-14'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.ayrextrading.com
+website: 'https://www.ayrextrading.com'
 repository: 
 issue: 
-icon: com.ayrex.trading.dlvc.png
+icon: 'com.ayrex.trading.dlvc.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-09-15'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Charu Prakash
+developerName: 'Charu Prakash'
 features: 
 
 ---

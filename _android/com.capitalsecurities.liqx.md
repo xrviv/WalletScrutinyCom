@@ -1,11 +1,11 @@
 ---
-wsId: liquidityX
+wsId: 'liquidityX'
 title: 'LiquidityX: CFD Online Trading'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.capitalsecurities.liqx
+appId: 'com.capitalsecurities.liqx'
 appCountry: 
 released: 
 updated: '2024-07-02'
@@ -14,13 +14,13 @@ stars: 2.3
 ratings: 
 reviews: 
 size: 
-website: https://www.liquidityx.com/eu/
+website: 'https://www.liquidityx.com/eu/'
 repository: 
 issue: 
-icon: com.capitalsecurities.liqx.png
+icon: 'com.capitalsecurities.liqx.png'
 bugbounty: 
-meta: removed
-verdict: nosendreceive
+meta: 'removed'
+verdict: 'nosendreceive'
 appHashes: 
 date: '2024-07-22'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Capital Securities S.A.
+developerName: 'Capital Securities S.A.'
 features: 
 
 ---

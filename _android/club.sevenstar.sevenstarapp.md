@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: 7StarPay
+title: '7StarPay'
 altTitle: 
 authors: 
 users: 100
-appId: club.sevenstar.sevenstarapp
+appId: 'club.sevenstar.sevenstarapp'
 appCountry: 
 released: '2021-08-31'
 updated: '2022-05-31'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://7StarPay.com
+website: 'https://7StarPay.com'
 repository: 
 issue: 
-icon: club.sevenstar.sevenstarapp.png
+icon: 'club.sevenstar.sevenstarapp.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Exchangily LLC
+developerName: 'Exchangily LLC'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Tweta Exchange - Trade Cryptos
+title: 'Tweta Exchange - Trade Cryptos'
 altTitle: 
 authors: 
 users: 1000
-appId: com.twetaexchange.app
+appId: 'com.twetaexchange.app'
 appCountry: 
 released: '2021-12-01'
 updated: '2021-12-01'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://twetaexchange.com/
+website: 'https://twetaexchange.com/'
 repository: 
 issue: 
-icon: com.twetaexchange.app.png
+icon: 'com.twetaexchange.app.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Tweta International Network
+developerName: 'Tweta International Network'
 features: 
 
 ---

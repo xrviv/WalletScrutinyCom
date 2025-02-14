@@ -3,9 +3,9 @@ wsId:
 title: 'My Paper Wallet: Bitcoin Paper'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.aniket.my_paper_wallet
+appId: 'com.aniket.my_paper_wallet'
 appCountry: 
 released: '2020-12-24'
 updated: '2020-12-24'
@@ -16,11 +16,11 @@ reviews:
 size: 
 website: 
 repository: 
-issue: https://github.com/AniketSindhu/My_Paper_Crypto_Wallet/issues/1
-icon: com.aniket.my_paper_wallet.png
+issue: 'https://github.com/AniketSindhu/My_Paper_Crypto_Wallet/issues/1'
+icon: 'com.aniket.my_paper_wallet.png'
 bugbounty: 
-meta: removed
-verdict: ftbfs
+meta: 'removed'
+verdict: 'ftbfs'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Aniket sindhu
+developerName: 'Aniket sindhu'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: EXIR | اکسیر
+title: 'EXIR | اکسیر'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 100000
-appId: com.exir.mobile
+appId: 'com.exir.mobile'
 appCountry: 
 released: '2020-11-12'
 updated: '2023-02-23'
@@ -14,22 +14,22 @@ stars: 3.7
 ratings: 
 reviews: 14
 size: 
-website: https://www.exir.io/
+website: 'https://www.exir.io/'
 repository: 
 issue: 
-icon: com.exir.mobile.jpg
+icon: 'com.exir.mobile.jpg'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2023-05-10'
 signer: 
 reviewArchive: 
-twitter: EXIR_Official
+twitter: 'EXIR_Official'
 social:
-- https://www.linkedin.com/company/exirexchange/
+- 'https://www.linkedin.com/company/exirexchange/'
 redirect_from: 
-developerName: EXIR
+developerName: 'EXIR'
 features: 
 
 ---

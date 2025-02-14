@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoin Invest Uk
+title: 'Bitcoin Invest Uk'
 altTitle: 
 authors: 
 users: 0
-appId: org.cryptobubbles.bitcoin.invest.uk
+appId: 'org.cryptobubbles.bitcoin.invest.uk'
 appCountry: 
 released: '2021-07-17'
 updated: '2021-07-18'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 2.4M
+size: '2.4M'
 website: 
 repository: 
 issue: 
-icon: org.cryptobubbles.bitcoin.invest.uk.png
+icon: 'org.cryptobubbles.bitcoin.invest.uk.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-01'
 signer: 

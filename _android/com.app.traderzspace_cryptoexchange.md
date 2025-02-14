@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Traderz Space -Crypto Exchange
+title: 'Traderz Space -Crypto Exchange'
 altTitle: 
 authors: 
 users: 10
-appId: com.app.traderzspace_cryptoexchange
+appId: 'com.app.traderzspace_cryptoexchange'
 appCountry: 
 released: '2022-07-08'
 updated: '2022-07-08'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.app.traderzspace_cryptoexchange.png
+icon: 'com.app.traderzspace_cryptoexchange.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-09-28'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Linx GC Dev
+developerName: 'Linx GC Dev'
 features: 
 
 ---

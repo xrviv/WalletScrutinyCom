@@ -4,7 +4,7 @@ title: 'LiveWallet: Crypto Wallet'
 altTitle: 
 authors: 
 users: 100
-appId: io.livewallet.android
+appId: 'io.livewallet.android'
 appCountry: 
 released: '2023-03-04'
 updated: '2023-04-09'
@@ -13,13 +13,13 @@ stars: 4.9
 ratings: 
 reviews: 
 size: 
-website: https://livewallet.io
+website: 'https://livewallet.io'
 repository: 
 issue: 
-icon: io.livewallet.android.png
+icon: 'io.livewallet.android.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Ogaliya Limited
+developerName: 'Ogaliya Limited'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Admiral Option
+title: 'Admiral Option'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 100000
-appId: com.admiral
+appId: 'com.admiral'
 appCountry: 
 released: '2021-01-22'
 updated: '2021-03-10'
@@ -14,13 +14,13 @@ stars: 2.7
 ratings: 
 reviews: 121
 size: 
-website: https://admiraloption.com/
+website: 'https://admiraloption.com/'
 repository: 
 issue: 
-icon: com.admiral.png
+icon: 'com.admiral.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-02-03'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Admiral Option Limited
+developerName: 'Admiral Option Limited'
 features: 
 
 ---

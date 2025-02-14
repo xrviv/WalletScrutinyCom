@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Chainblock
+title: 'Chainblock'
 altTitle: 
 authors: 
 users: 100
-appId: com.app.Chainblock
+appId: 'com.app.Chainblock'
 appCountry: 
 released: '2021-03-22'
 updated: '2023-12-04'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://chainblock.it/flash/
+website: 'https://chainblock.it/flash/'
 repository: 
 issue: 
-icon: com.app.Chainblock.png
+icon: 'com.app.Chainblock.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-08-31'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Chainblock
+developerName: 'Chainblock'
 features: 
 
 ---

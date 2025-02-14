@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: LemonEx
+title: 'LemonEx'
 altTitle: 
 authors: 
 users: 10
-appId: app.exchange.lemon
+appId: 'app.exchange.lemon'
 appCountry: 
 released: '2022-11-16'
 updated: '2022-11-16'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://lemonexchange.africa/
+website: 'https://lemonexchange.africa/'
 repository: 
 issue: 
-icon: app.exchange.lemon.png
+icon: 'app.exchange.lemon.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: LemonExchange
+developerName: 'LemonExchange'
 features: 
 
 ---

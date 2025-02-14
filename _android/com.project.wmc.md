@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: miningt
+title: 'miningt'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.project.wmc
+appId: 'com.project.wmc'
 appCountry: 
 released: '2019-09-30'
 updated: '2020-03-25'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.project.wmc.png
+icon: 'com.project.wmc.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-06-02'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: WorldMiningClub
+developerName: 'WorldMiningClub'
 features: 
 
 ---

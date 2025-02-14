@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Poseidon Wallet
+title: 'Poseidon Wallet'
 altTitle: 
 authors: 
 users: 10
-appId: com.ttchain.poseidon
+appId: 'com.ttchain.poseidon'
 appCountry: 
 released: '2020-04-08'
 updated: '2020-07-30'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.ttchain.poseidon.png
+icon: 'com.ttchain.poseidon.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-09-15'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Poseidon202066
+developerName: 'Poseidon202066'
 features: 
 
 ---

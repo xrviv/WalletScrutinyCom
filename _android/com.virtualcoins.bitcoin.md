@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Virtual Coins
+title: 'Virtual Coins'
 altTitle: 
 authors: 
 users: 10
-appId: com.virtualcoins.bitcoin
+appId: 'com.virtualcoins.bitcoin'
 appCountry: 
 released: '2020-06-09'
 updated: '2020-06-29'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.virtualcoins.bitcoin.png
+icon: 'com.virtualcoins.bitcoin.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Ahana Technosoft pvt.ltd
+developerName: 'Ahana Technosoft pvt.ltd'
 features: 
 
 ---

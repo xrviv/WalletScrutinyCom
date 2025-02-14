@@ -1,26 +1,25 @@
 ---
-wsId: bkexGlobal
-title: BKEX-Global
+wsId: 'bkexGlobal'
+title: 'BKEX-Global'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50000
-appId: com.yayd.exchangglobal
+appId: 'com.yayd.exchangglobal'
 appCountry: 
 released: '2022-03-15'
-updated: '2023-05-23'
+updated: 2023-05-23
 version: '7.30.2'
 stars: 2.8
 ratings: 
 reviews: 50
-size: 
 website: 
 repository: 
 issue: 
-icon: com.yayd.exchangglobal.png
+icon: 'com.yayd.exchangglobal.png'
 bugbounty: 
-meta: stale
-verdict: custodial
+meta: 'stale'
+verdict: 'custodial'
 appHashes: 
 date: '2024-05-18'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: DevYian
+developerName: 'DevYian'
 features: 
 
 ---

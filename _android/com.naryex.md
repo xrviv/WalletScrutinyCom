@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Naryex - Cryptocurrency Exhcange
+title: 'Naryex - Cryptocurrency Exhcange'
 altTitle: 
 authors: 
 users: 1000
-appId: com.naryex
+appId: 'com.naryex'
 appCountry: 
 released: '2021-08-18'
 updated: '2021-11-18'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://naryex.com
+website: 'https://naryex.com'
 repository: 
 issue: 
-icon: com.naryex.png
+icon: 'com.naryex.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

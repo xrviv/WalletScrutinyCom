@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bokka Exchange
+title: 'Bokka Exchange'
 altTitle: 
 authors: 
 users: 1000
-appId: com.bokka.ex
+appId: 'com.bokka.ex'
 appCountry: 
 released: '2018-03-28'
 updated: '2019-05-03'
@@ -13,13 +13,13 @@ stars:
 ratings: 11
 reviews: 
 size: 
-website: https://www.bokka.com
+website: 'https://www.bokka.com'
 repository: 
 issue: 
-icon: com.bokka.ex.png
+icon: 'com.bokka.ex.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2021-09-28'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bokka
+developerName: 'Bokka'
 features: 
 
 ---

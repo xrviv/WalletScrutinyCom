@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: TXTBA
+title: 'TXTBA'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.txtba.app
+appId: 'com.txtba.app'
 appCountry: 
 released: '2021-12-21'
 updated: '2022-10-20'
@@ -17,19 +17,19 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.txtba.app.png
+icon: 'com.txtba.app.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-06-07'
 signer: 
 reviewArchive: 
 twitter: 
 social:
-- https://txtba.com
+- 'https://txtba.com'
 redirect_from: 
-developerName: Txtba
+developerName: 'Txtba'
 features: 
 
 ---

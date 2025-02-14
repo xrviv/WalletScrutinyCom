@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: GCC
+title: 'GCC'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.baanx.gcc
+appId: 'com.baanx.gcc'
 appCountry: 
 released: '2020-06-14'
 updated: '2020-09-17'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.gccglobalplatform.com
+website: 'https://www.gccglobalplatform.com'
 repository: 
 issue: 
-icon: com.baanx.gcc.png
+icon: 'com.baanx.gcc.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: GCC GLOBAL PAYMENTS LIMITED
+developerName: 'GCC GLOBAL PAYMENTS LIMITED'
 features: 
 
 ---

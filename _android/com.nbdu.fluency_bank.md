@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Fluency - The Global Cryptoban
+title: 'Fluency - The Global Cryptoban'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.nbdu.fluency_bank
+appId: 'com.nbdu.fluency_bank'
 appCountry: 
 released: '2020-02-27'
 updated: '2020-04-29'
@@ -14,13 +14,13 @@ stars: 3.9
 ratings: 420
 reviews: 8
 size: 
-website: https://www.fluencybank.com/
+website: 'https://www.fluencybank.com/'
 repository: 
 issue: 
-icon: com.nbdu.fluency_bank.png
+icon: 'com.nbdu.fluency_bank.png'
 bugbounty: 
-meta: defunct
-verdict: custodial
+meta: 'defunct'
+verdict: 'custodial'
 appHashes: 
 date: '2023-05-31'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Fluency App Ltd.
+developerName: 'Fluency App Ltd.'
 features: 
 
 ---

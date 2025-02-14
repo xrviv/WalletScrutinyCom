@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: FMX Trade
+title: 'FMX Trade'
 altTitle: 
 authors: 
 users: 1000
-appId: fmx.trade.cryptocurrency.exchange.finance
+appId: 'fmx.trade.cryptocurrency.exchange.finance'
 appCountry: 
 released: '2021-05-24'
 updated: '2021-05-25'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://fmx.trade
+website: 'https://fmx.trade'
 repository: 
 issue: 
-icon: fmx.trade.cryptocurrency.exchange.finance.png
+icon: 'fmx.trade.cryptocurrency.exchange.finance.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

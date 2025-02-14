@@ -1,11 +1,11 @@
 ---
-wsId: paycool
-title: Pay.cool
+wsId: 'paycool'
+title: 'Pay.cool'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: cool.pay.paycool
+appId: 'cool.pay.paycool'
 appCountry: 
 released: '2022-09-16'
 updated: '2024-03-04'
@@ -14,21 +14,21 @@ stars: 5
 ratings: 
 reviews: 3
 size: 
-website: https://pay.cool
+website: 'https://pay.cool'
 repository: 
 issue: 
-icon: cool.pay.paycool.png
+icon: 'cool.pay.paycool.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-07-05'
 signer: 
 reviewArchive: 
-twitter: Pay_dot_Cool
+twitter: 'Pay_dot_Cool'
 social: 
 redirect_from: 
-developerName: Exchangily LLC
+developerName: 'Exchangily LLC'
 features: 
 
 ---

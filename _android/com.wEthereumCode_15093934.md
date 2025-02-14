@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Ethereum Code
+title: 'Ethereum Code'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.wEthereumCode_15093934
+appId: 'com.wEthereumCode_15093934'
 appCountry: 
 released: '2022-01-28'
 updated: '2022-01-28'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.wEthereumCode_15093934.jpg
+icon: 'com.wEthereumCode_15093934.jpg'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2023-08-16'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: mypatternappstudio
+developerName: 'mypatternappstudio'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Capixal Mobile Trading App
+title: 'Capixal Mobile Trading App'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.capixal
+appId: 'com.capixal'
 appCountry: 
 released: 
 updated: '2021-12-01'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.capixal.com/
+website: 'https://www.capixal.com/'
 repository: 
 issue: 
-icon: com.capixal.png
+icon: 'com.capixal.png'
 bugbounty: 
-meta: removed
-verdict: nosendreceive
+meta: 'removed'
+verdict: 'nosendreceive'
 appHashes: 
 date: '2024-03-02'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: IFC Investments
+developerName: 'IFC Investments'
 features: 
 
 ---

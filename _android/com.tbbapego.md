@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Apego
+title: 'Apego'
 altTitle: 
 authors: 
 users: 10
-appId: com.tbbapego
+appId: 'com.tbbapego'
 appCountry: 
 released: '2020-10-07'
 updated: '2020-10-07'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.theblockbox.io
+website: 'https://www.theblockbox.io'
 repository: 
 issue: 
-icon: com.tbbapego.png
+icon: 'com.tbbapego.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Nena Vuckovic
+developerName: 'Nena Vuckovic'
 features: 
 
 ---

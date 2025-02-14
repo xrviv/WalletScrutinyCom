@@ -1,12 +1,12 @@
 ---
-wsId: changecoins
-title: Changecoins
+wsId: 'changecoins'
+title: 'Changecoins'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.application.changecoin
-appCountry: us
+appId: 'com.application.changecoin'
+appCountry: 'us'
 released: '2020-05-12'
 updated: '2022-02-10'
 version: '1.2.6'
@@ -14,13 +14,13 @@ stars: 4.2
 ratings: 
 reviews: 
 size: 
-website: https://changecoins.io/
+website: 'https://changecoins.io/'
 repository: 
 issue: 
-icon: com.application.changecoin.png
+icon: 'com.application.changecoin.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-11-07'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Changecoins
+developerName: 'Changecoins'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Cryptoasx
+title: 'Cryptoasx'
 altTitle: 
 authors: 
 users: 10
-appId: com.cryptoasx.app
+appId: 'com.cryptoasx.app'
 appCountry: 
 released: 
 updated: '2021-12-06'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.cryptoasx.com/
+website: 'https://www.cryptoasx.com/'
 repository: 
 issue: 
-icon: com.cryptoasx.app.png
+icon: 'com.cryptoasx.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-04-16'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Cryptoasx Limited
+developerName: 'Cryptoasx Limited'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: PlusBit Wallet
+title: 'PlusBit Wallet'
 altTitle: 
 authors: 
 users: 500
-appId: com.plusbit
+appId: 'com.plusbit'
 appCountry: 
 released: '2020-04-07'
 updated: '2020-07-12'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://plusbit.tech/
+website: 'https://plusbit.tech/'
 repository: 
 issue: 
-icon: com.plusbit.png
+icon: 'com.plusbit.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: PlusBit
+developerName: 'PlusBit'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: UUToken
+title: 'UUToken'
 altTitle: 
 authors: 
 users: 1
-appId: io.uutoken
+appId: 'io.uutoken'
 appCountry: 
 released: '2022-12-08'
 updated: '2022-12-14'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: io.uutoken.png
+icon: 'io.uutoken.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: DIGITAL FINANCE TRADER INC.
+developerName: 'DIGITAL FINANCE TRADER INC.'
 features: 
 
 ---

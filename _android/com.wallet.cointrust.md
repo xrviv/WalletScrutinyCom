@@ -4,7 +4,7 @@ title: 'CoinTrust: BTC & Crypto Wallet'
 altTitle: 
 authors: 
 users: 1000
-appId: com.wallet.cointrust
+appId: 'com.wallet.cointrust'
 appCountry: 
 released: '2022-12-13'
 updated: '2022-12-14'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.wallet.cointrust.jpg
+icon: 'com.wallet.cointrust.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: MintMyBitcoin | Cloud Services
+developerName: 'MintMyBitcoin | Cloud Services'
 features: 
 
 ---

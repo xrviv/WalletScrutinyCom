@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: DMBank
+title: 'DMBank'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.bancryp.dmbank.user
+appId: 'com.bancryp.dmbank.user'
 appCountry: 
 released: '2020-07-31'
 updated: '2021-01-13'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.dmbank.com.br
+website: 'https://www.dmbank.com.br'
 repository: 
 issue: 
-icon: com.bancryp.dmbank.user.png
+icon: 'com.bancryp.dmbank.user.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-04-20'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: The Digital Money
+developerName: 'The Digital Money'
 features: 
 
 ---

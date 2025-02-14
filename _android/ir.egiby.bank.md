@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Egiby Bank
+title: 'Egiby Bank'
 altTitle: 
 authors: 
 users: 10
-appId: ir.egiby.bank
+appId: 'ir.egiby.bank'
 appCountry: 
 released: '2021-11-16'
 updated: '2021-11-22'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://egiby.com
+website: 'https://egiby.com'
 repository: 
 issue: 
-icon: ir.egiby.bank.png
+icon: 'ir.egiby.bank.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Egiby Company
+developerName: 'Egiby Company'
 features: 
 
 ---

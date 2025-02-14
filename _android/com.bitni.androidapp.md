@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: bitni.com Anon Crypto Exchange
+title: 'bitni.com Anon Crypto Exchange'
 altTitle: 
 authors: 
 users: 1000
-appId: com.bitni.androidapp
+appId: 'com.bitni.androidapp'
 appCountry: 
 released: '2021-09-24'
 updated: '2021-11-08'
@@ -13,13 +13,13 @@ stars: 4.9
 ratings: 
 reviews: 111
 size: 
-website: http://bitni.com
+website: 'http://bitni.com'
 repository: 
 issue: 
-icon: com.bitni.androidapp.png
+icon: 'com.bitni.androidapp.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-03-21'
 signer: 

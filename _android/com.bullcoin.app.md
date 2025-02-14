@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bulltrade
+title: 'Bulltrade'
 altTitle: 
 authors: 
 users: 500
-appId: com.bullcoin.app
+appId: 'com.bullcoin.app'
 appCountry: 
 released: '2021-02-22'
 updated: '2023-07-11'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bull-trade.net
+website: 'https://bull-trade.net'
 repository: 
 issue: 
-icon: com.bullcoin.app.png
+icon: 'com.bullcoin.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Lotus Bro
+developerName: 'Lotus Bro'
 features: 
 
 ---

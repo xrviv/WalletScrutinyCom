@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BitLeast - Trading Company
+title: 'BitLeast - Trading Company'
 altTitle: 
 authors: 
 users: 100
-appId: com.bitleast.web.app
+appId: 'com.bitleast.web.app'
 appCountry: 
 released: '2021-04-25'
 updated: '2021-04-30'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.bitleast.web.app.png
+icon: 'com.bitleast.web.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: RetrixDev
+developerName: 'RetrixDev'
 features: 
 
 ---

@@ -4,7 +4,7 @@ title: 'PayFrequent Wallet: PayFQ, PUSD, PEUR, PINR, TOMO'
 altTitle: 
 authors: 
 users: 5000
-appId: com.payfrequent
+appId: 'com.payfrequent'
 appCountry: 
 released: '2020-08-06'
 updated: '2020-08-15'
@@ -13,13 +13,13 @@ stars: 4.8
 ratings: 
 reviews: 51
 size: 
-website: https://web.payfrequent.com/
+website: 'https://web.payfrequent.com/'
 repository: 
 issue: 
-icon: com.payfrequent.png
+icon: 'com.payfrequent.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

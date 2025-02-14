@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: USFCX_US Foundry Cryptocurrenc
+title: 'USFCX_US Foundry Cryptocurrenc'
 altTitle: 
 authors: 
 users: 100
-appId: com.usfcx.wallet
+appId: 'com.usfcx.wallet'
 appCountry: 
 released: '2021-04-19'
 updated: '2021-08-25'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://usfcx.com/
+website: 'https://usfcx.com/'
 repository: 
 issue: 
-icon: com.usfcx.wallet.jpg
+icon: 'com.usfcx.wallet.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: omg blockchain factory
+developerName: 'omg blockchain factory'
 features: 
 
 ---

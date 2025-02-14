@@ -1,11 +1,11 @@
 ---
-wsId: phemexTR
+wsId: 'phemexTR'
 title: 'Phemex TR: TL ile Bitcoin Al'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.phemex.turkey
+appId: 'com.phemex.turkey'
 appCountry: 
 released: '2021-09-30'
 updated: '2022-09-27'
@@ -14,13 +14,13 @@ stars: 3.6
 ratings: 
 reviews: 1
 size: 
-website: https://phemex.com.tr/
+website: 'https://phemex.com.tr/'
 repository: 
 issue: 
-icon: com.phemex.turkey.png
+icon: 'com.phemex.turkey.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-09-08'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Phemex TR
+developerName: 'Phemex TR'
 features: 
 
 ---

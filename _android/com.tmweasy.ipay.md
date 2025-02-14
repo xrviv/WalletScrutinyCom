@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Ipay Exchange
+title: 'Ipay Exchange'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.tmweasy.ipay
+appId: 'com.tmweasy.ipay'
 appCountry: 
 released: '2020-08-12'
 updated: '2022-01-23'
@@ -14,13 +14,13 @@ stars: 4.2
 ratings: 
 reviews: 
 size: 
-website: https://www.ipay-ex.com/
+website: 'https://www.ipay-ex.com/'
 repository: 
 issue: 
-icon: com.tmweasy.ipay.png
+icon: 'com.tmweasy.ipay.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: tmweasyapp
+developerName: 'tmweasyapp'
 features: 
 
 ---

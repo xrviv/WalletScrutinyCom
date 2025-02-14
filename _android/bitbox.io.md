@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Bitbox Bitcoin Wallet & Exchan
+title: 'Bitbox Bitcoin Wallet & Exchan'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: bitbox.io
+appId: 'bitbox.io'
 appCountry: 
 released: '2019-05-16'
 updated: '2019-07-30'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: bitbox.io.png
+icon: 'bitbox.io.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-09'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Cryptex PTE. LTD.
+developerName: 'Cryptex PTE. LTD.'
 features: 
 
 ---

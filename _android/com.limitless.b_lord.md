@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: B-Lord Trading App
+title: 'B-Lord Trading App'
 altTitle: 
 authors: 
 users: 100
-appId: com.limitless.b_lord
+appId: 'com.limitless.b_lord'
 appCountry: 
 released: '2020-11-04'
 updated: '2020-11-04'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.limitless.b_lord.png
+icon: 'com.limitless.b_lord.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-03-21'
 signer: 

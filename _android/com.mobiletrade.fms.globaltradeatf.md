@@ -1,12 +1,12 @@
 ---
-wsId: GlobalTradeATF
-title: Global TradeATF Online Trading | Forex and Stocks
+wsId: 'GlobalTradeATF'
+title: 'Global TradeATF Online Trading | Forex and Stocks'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50000
-appId: com.mobiletrade.fms.globaltradeatf
-appCountry: ag
+appId: 'com.mobiletrade.fms.globaltradeatf'
+appCountry: 'ag'
 released: '2020-06-10'
 updated: '2021-11-22'
 version: '1.5.78-mobiletrade.fms.globaltradeatf'
@@ -14,21 +14,21 @@ stars: 2.9
 ratings: 389
 reviews: 318
 size: 
-website: https://global.tradeatf.com/
+website: 'https://global.tradeatf.com/'
 repository: 
 issue: 
-icon: com.mobiletrade.fms.globaltradeatf.png
+icon: 'com.mobiletrade.fms.globaltradeatf.png'
 bugbounty: 
-meta: removed
-verdict: nosendreceive
+meta: 'removed'
+verdict: 'nosendreceive'
 appHashes: 
 date: '2023-01-02'
 signer: 
 reviewArchive: 
-twitter: TradeATF
+twitter: 'TradeATF'
 social:
-- https://www.linkedin.com/company/globaltradeatf
-- https://www.facebook.com/TradeATF
+- 'https://www.linkedin.com/company/globaltradeatf'
+- 'https://www.facebook.com/TradeATF'
 redirect_from: 
 developerName: 
 features: 

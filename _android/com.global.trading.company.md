@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Global Crypto Trading
+title: 'Global Crypto Trading'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.global.trading.company
+appId: 'com.global.trading.company'
 appCountry: 
 released: '2020-11-11'
 updated: '2021-03-26'
@@ -14,13 +14,13 @@ stars:
 ratings: 74
 reviews: 
 size: 
-website: https://sites.google.com/view/globlacryptotrading/home
+website: 'https://sites.google.com/view/globlacryptotrading/home'
 repository: 
 issue: 
-icon: com.global.trading.company.png
+icon: 'com.global.trading.company.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2021-11-04'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Global Crypto Team
+developerName: 'Global Crypto Team'
 features: 
 
 ---

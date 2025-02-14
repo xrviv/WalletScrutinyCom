@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Qume -  Crypto Derivatives Exc
+title: 'Qume -  Crypto Derivatives Exc'
 altTitle: 
 authors: 
 users: 50
-appId: com.qume.app
+appId: 'com.qume.app'
 appCountry: 
 released: 
 updated: '2020-10-07'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.qume.io
+website: 'http://www.qume.io'
 repository: 
 issue: 
-icon: com.qume.app.png
+icon: 'com.qume.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Karma Innovations PTE. LTD.
+developerName: 'Karma Innovations PTE. LTD.'
 features: 
 
 ---

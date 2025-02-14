@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Gate io exchange crypto
+title: 'Gate io exchange crypto'
 altTitle: 
 authors: 
 users: 500
-appId: com.gtayo.crpt
+appId: 'com.gtayo.crpt'
 appCountry: 
 released: 
 updated: '2022-04-08'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.gtayo.crpt.jpg
+icon: 'com.gtayo.crpt.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

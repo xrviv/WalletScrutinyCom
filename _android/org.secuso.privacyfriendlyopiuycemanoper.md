@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Bitcoin wallet
-altTitle: Bitcoin wallet by Mr. Bald
+title: 'Bitcoin wallet'
+altTitle: 'Bitcoin wallet by Mr. Bald'
 authors:
-- leo
+- 'leo'
 users: 10
-appId: org.secuso.privacyfriendlyopiuycemanoper
+appId: 'org.secuso.privacyfriendlyopiuycemanoper'
 appCountry: 
 released: 
 updated: '2021-02-22'
@@ -13,14 +13,14 @@ version: '2.0.3'
 stars: 
 ratings: 
 reviews: 
-size: 13M
+size: '13M'
 website: 
 repository: 
 issue: 
-icon: org.secuso.privacyfriendlyopiuycemanoper.png
+icon: 'org.secuso.privacyfriendlyopiuycemanoper.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-05-11'
 signer: 

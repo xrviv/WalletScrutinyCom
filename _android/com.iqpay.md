@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: IQPay
+title: 'IQPay'
 altTitle: 
 authors: 
 users: 100
-appId: com.iqpay
+appId: 'com.iqpay'
 appCountry: 
 released: '2021-03-22'
 updated: '2021-03-22'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.iqpay.png
+icon: 'com.iqpay.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

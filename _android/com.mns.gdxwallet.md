@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: GDX Wallet
+title: 'GDX Wallet'
 altTitle: 
 authors: 
 users: 100
-appId: com.mns.gdxwallet
+appId: 'com.mns.gdxwallet'
 appCountry: 
 released: '2022-01-09'
 updated: '2022-05-04'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://gdxwallet.com/
+website: 'http://gdxwallet.com/'
 repository: 
 issue: 
-icon: com.mns.gdxwallet.png
+icon: 'com.mns.gdxwallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: GDX
+developerName: 'GDX'
 features: 
 
 ---

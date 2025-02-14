@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bynery
+title: 'Bynery'
 altTitle: 
 authors: 
 users: 10
-appId: bynery.bce
+appId: 'bynery.bce'
 appCountry: 
 released: '2022-04-04'
 updated: '2022-06-02'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.bynery.com
+website: 'https://www.bynery.com'
 repository: 
 issue: 
-icon: bynery.bce.png
+icon: 'bynery.bce.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bynery
+developerName: 'Bynery'
 features: 
 
 ---

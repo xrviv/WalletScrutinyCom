@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Mota Money Exchange
+title: 'Mota Money Exchange'
 altTitle: 
 authors: 
 users: 500
-appId: com.cis.motacoin
+appId: 'com.cis.motacoin'
 appCountry: 
 released: '2021-10-02'
 updated: '2022-05-05'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://mota.money/
+website: 'https://mota.money/'
 repository: 
 issue: 
-icon: com.cis.motacoin.png
+icon: 'com.cis.motacoin.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

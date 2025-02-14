@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitzet - 비트제트 코인 선물거래소 비트젯
+title: 'Bitzet - 비트제트 코인 선물거래소 비트젯'
 altTitle: 
 authors: 
 users: 500
-appId: com.chainup.exchange.BKX
+appId: 'com.chainup.exchange.BKX'
 appCountry: 
 released: '2022-01-14'
 updated: '2022-09-19'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bitzet.com
+website: 'https://bitzet.com'
 repository: 
 issue: 
-icon: com.chainup.exchange.BKX.png
+icon: 'com.chainup.exchange.BKX.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-11-21'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Neural Engine LLC
+developerName: 'Neural Engine LLC'
 features: 
 
 ---

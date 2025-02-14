@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: chiba - trade cryptocurrency
+title: 'chiba - trade cryptocurrency'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.chiba.client
+appId: 'com.chiba.client'
 appCountry: 
 released: '2018-04-19'
 updated: '2018-05-08'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://chiba.exchange
+website: 'https://chiba.exchange'
 repository: 
 issue: 
-icon: com.chiba.client.png
+icon: 'com.chiba.client.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-17'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Chiba Markets
+developerName: 'Chiba Markets'
 features: 
 
 ---

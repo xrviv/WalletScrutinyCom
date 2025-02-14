@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bigines
+title: 'Bigines'
 altTitle: 
 authors: 
 users: 10
-appId: com.bigines.crypto
+appId: 'com.bigines.crypto'
 appCountry: 
 released: '2022-02-14'
 updated: '2023-01-12'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bigines.com
+website: 'https://bigines.com'
 repository: 
 issue: 
-icon: com.bigines.crypto.png
+icon: 'com.bigines.crypto.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-09-01'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bigines Yazılım ve Ticaret A.Ş
+developerName: 'Bigines Yazılım ve Ticaret A.Ş'
 features: 
 
 ---

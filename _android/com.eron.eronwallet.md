@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Eron Wallet Dapp
+title: 'Eron Wallet Dapp'
 altTitle: 
 authors: 
 users: 500
-appId: com.eron.eronwallet
+appId: 'com.eron.eronwallet'
 appCountry: 
 released: '2022-07-20'
 updated: '2022-07-20'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.eron.eronwallet.jpg
+icon: 'com.eron.eronwallet.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Eron Project and Development SRL
+developerName: 'Eron Project and Development SRL'
 features: 
 
 ---

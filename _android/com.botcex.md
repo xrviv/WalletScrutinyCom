@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Botcex
+title: 'Botcex'
 altTitle: 
 authors: 
 users: 50
-appId: com.botcex
+appId: 'com.botcex'
 appCountry: 
 released: '2021-05-29'
 updated: '2021-05-30'
@@ -13,13 +13,13 @@ stars: 2.2
 ratings: 
 reviews: 
 size: 
-website: https://www.botcex.com
+website: 'https://www.botcex.com'
 repository: 
 issue: 
-icon: com.botcex.png
+icon: 'com.botcex.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Abelsis Yazılım Tic. Ltd. Şti.
+developerName: 'Abelsis Yazılım Tic. Ltd. Şti.'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: GOI Wallet
+title: 'GOI Wallet'
 altTitle: 
 authors: 
 users: 1000
-appId: mx.goi.goimwallet
+appId: 'mx.goi.goimwallet'
 appCountry: 
 released: '2020-12-10'
 updated: '2021-07-19'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://connectgoi.com
+website: 'https://connectgoi.com'
 repository: 
 issue: 
-icon: mx.goi.goimwallet.png
+icon: 'mx.goi.goimwallet.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Connect GOI
+developerName: 'Connect GOI'
 features: 
 
 ---

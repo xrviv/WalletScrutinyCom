@@ -1,26 +1,25 @@
 ---
 wsId: 
-title: Crypto Trading Broker
+title: 'Crypto Trading Broker'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.ftrading.cryptotrading.android.app
+appId: 'com.ftrading.cryptotrading.android.app'
 appCountry: 
 released: '2022-09-19'
-updated: '2022-09-19'
+updated: 2022-09-19
 version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 
 website: 
 repository: 
 issue: 
-icon: com.ftrading.cryptotrading.android.app.png
+icon: 'com.ftrading.cryptotrading.android.app.png'
 bugbounty: 
-meta: obsolete
-verdict: nowallet
+meta: 'obsolete'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-09-10'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: EZ Trade - Online Brokers, Trading Experts
+developerName: 'EZ Trade - Online Brokers, Trading Experts'
 features: 
 
 ---

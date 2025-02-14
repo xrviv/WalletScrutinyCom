@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: P2P Options - Peer to Peer Tra
+title: 'P2P Options - Peer to Peer Tra'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.p2pchallenger
+appId: 'com.p2pchallenger'
 appCountry: 
 released: '2021-04-16'
 updated: '2021-05-24'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.p2pchallenger.jpg
+icon: 'com.p2pchallenger.jpg'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2021-11-22'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: P2P Options
+developerName: 'P2P Options'
 features: 
 
 ---

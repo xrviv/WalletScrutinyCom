@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Yiksi
+title: 'Yiksi'
 altTitle: 
 authors: 
 users: 500
-appId: com.yiksi.app
+appId: 'com.yiksi.app'
 appCountry: 
 released: '2022-06-11'
 updated: '2022-12-08'
@@ -13,13 +13,13 @@ stars: 3.8
 ratings: 
 reviews: 
 size: 
-website: https://yiksi.com/
+website: 'https://yiksi.com/'
 repository: 
 issue: 
-icon: com.yiksi.app.png
+icon: 'com.yiksi.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-05-18'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Yiksi
+developerName: 'Yiksi'
 features: 
 
 ---

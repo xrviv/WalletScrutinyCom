@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: EYbinary
+title: 'EYbinary'
 altTitle: 
 authors: 
 users: 1
-appId: xtrading.eybinary.co
+appId: 'xtrading.eybinary.co'
 appCountry: 
 released: '2022-09-13'
 updated: '2022-09-26'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://eybinary.xtrading.co/
+website: 'https://eybinary.xtrading.co/'
 repository: 
 issue: 
-icon: xtrading.eybinary.co.png
+icon: 'xtrading.eybinary.co.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: MAGNUM TECHNOLOGIES
+developerName: 'MAGNUM TECHNOLOGIES'
 features: 
 
 ---

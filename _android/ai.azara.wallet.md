@@ -1,12 +1,12 @@
 ---
-wsId: azara
+wsId: 'azara'
 title: 'Azara Crypto & Bitcoin Wallet:'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 1000
-appId: ai.azara.wallet
-appCountry: de
+appId: 'ai.azara.wallet'
+appCountry: 'de'
 released: '2020-11-10'
 updated: '2021-04-14'
 version: '0.01.18'
@@ -14,13 +14,13 @@ stars: 4.7
 ratings: 
 reviews: 
 size: 
-website: https://www.azara.ai
+website: 'https://www.azara.ai'
 repository: 
 issue: 
-icon: ai.azara.wallet.png
+icon: 'ai.azara.wallet.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Azara Processing LP
+developerName: 'Azara Processing LP'
 features: 
 
 ---

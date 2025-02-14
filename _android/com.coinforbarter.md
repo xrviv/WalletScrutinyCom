@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: CoinForBarter
+title: 'CoinForBarter'
 altTitle: 
 authors: 
 users: 10
-appId: com.coinforbarter
+appId: 'com.coinforbarter'
 appCountry: 
 released: '2022-05-28'
 updated: '2022-05-28'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://coinforbarter.com
+website: 'https://coinforbarter.com'
 repository: 
 issue: 
-icon: com.coinforbarter.png
+icon: 'com.coinforbarter.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CoinForBarter
+developerName: 'CoinForBarter'
 features: 
 
 ---

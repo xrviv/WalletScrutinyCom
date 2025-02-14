@@ -4,7 +4,7 @@ title: 'Crypto Exchange: Bitcoin, Trad'
 altTitle: 
 authors: 
 users: 10
-appId: com.teamdevops.cryptoapp
+appId: 'com.teamdevops.cryptoapp'
 appCountry: 
 released: '2021-08-18'
 updated: '2021-08-19'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.teamdevops.cryptoapp.png
+icon: 'com.teamdevops.cryptoapp.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-11-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Team DevOps
+developerName: 'Team DevOps'
 features: 
 
 ---

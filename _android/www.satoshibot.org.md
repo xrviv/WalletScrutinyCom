@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Satoshi Bot
+title: 'Satoshi Bot'
 altTitle: 
 authors: 
 users: 100
-appId: www.satoshibot.org
+appId: 'www.satoshibot.org'
 appCountry: 
 released: '2022-05-20'
 updated: '2022-05-20'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: www.satoshibot.org.png
+icon: 'www.satoshibot.org.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2025-02-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: NFT Beast
+developerName: 'NFT Beast'
 features: 
 
 ---

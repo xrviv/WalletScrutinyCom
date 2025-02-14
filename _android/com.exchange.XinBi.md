@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: 新币交易平台 - 加密货币交易应用程序
+title: '新币交易平台 - 加密货币交易应用程序'
 altTitle: 
 authors: 
 users: 500
-appId: com.exchange.XinBi
+appId: 'com.exchange.XinBi'
 appCountry: 
 released: '2019-09-23'
 updated: '2020-01-14'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.xinbipro.com/
+website: 'https://www.xinbipro.com/'
 repository: 
 issue: 
-icon: com.exchange.XinBi.png
+icon: 'com.exchange.XinBi.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: XinBiPro
+developerName: 'XinBiPro'
 features: 
 
 ---

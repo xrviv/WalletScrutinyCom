@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: CRYPTO CREW
+title: 'CRYPTO CREW'
 altTitle: 
 authors: 
 users: 100
-appId: com.cryptocrew
+appId: 'com.cryptocrew'
 appCountry: 
 released: '2020-06-23'
 updated: '2020-06-23'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://goforsage.com/app
+website: 'http://goforsage.com/app'
 repository: 
 issue: 
-icon: com.cryptocrew.png
+icon: 'com.cryptocrew.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-05-07'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: LIV8 LLC
+developerName: 'LIV8 LLC'
 features: 
 
 ---

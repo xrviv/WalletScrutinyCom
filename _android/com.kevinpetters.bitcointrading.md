@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoin Trading
+title: 'Bitcoin Trading'
 altTitle: 
 authors: 
 users: 100
-appId: com.kevinpetters.bitcointrading
+appId: 'com.kevinpetters.bitcointrading'
 appCountry: 
 released: '2019-06-30'
 updated: '2019-06-30'
@@ -12,14 +12,14 @@ version: '1.0.0'
 stars: 
 ratings: 
 reviews: 
-size: 18M
-website: https://bitcoin-trading.global/
+size: '18M'
+website: 'https://bitcoin-trading.global/'
 repository: 
 issue: 
-icon: com.kevinpetters.bitcointrading.png
+icon: 'com.kevinpetters.bitcointrading.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2022-03-24'
 signer: 

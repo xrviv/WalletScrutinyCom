@@ -1,11 +1,11 @@
 ---
-wsId: counos
-title: Counos Bitcoin Wallet
+wsId: 'counos'
+title: 'Counos Bitcoin Wallet'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 10000
-appId: com.counos
+appId: 'com.counos'
 appCountry: 
 released: '2018-07-03'
 updated: '2022-04-20'
@@ -14,23 +14,23 @@ stars: 4.2
 ratings: 513
 reviews: 21
 size: 
-website: https://www.counos.io
+website: 'https://www.counos.io'
 repository: 
 issue: 
-icon: com.counos.png
+icon: 'com.counos.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-07-05'
 signer: 
 reviewArchive: 
-twitter: counoscoin
+twitter: 'counoscoin'
 social:
-- https://www.linkedin.com/company/counosplatform
-- https://www.facebook.com/CounosPlatform
+- 'https://www.linkedin.com/company/counosplatform'
+- 'https://www.facebook.com/CounosPlatform'
 redirect_from: 
-developerName: ZeroCash
+developerName: 'ZeroCash'
 features: 
 
 ---

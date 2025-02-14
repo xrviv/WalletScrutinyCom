@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: TradeAgent
+title: 'TradeAgent'
 altTitle: 
 authors: 
 users: 10
-appId: com.raedahgroup.tradeagent.liveserver
+appId: 'com.raedahgroup.tradeagent.liveserver'
 appCountry: 
 released: 
 updated: '2021-12-01'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.raedahgroup.tradeagent.liveserver.png
+icon: 'com.raedahgroup.tradeagent.liveserver.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

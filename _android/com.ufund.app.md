@@ -1,11 +1,11 @@
 ---
-wsId: uFundFundRaising
+wsId: 'uFundFundRaising'
 title: 'UFUND: Fundraising, Investing'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.ufund.app
+appId: 'com.ufund.app'
 appCountry: 
 released: '2021-10-21'
 updated: '2024-04-22'
@@ -14,25 +14,25 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://web.ufund.online
+website: 'https://web.ufund.online'
 repository: 
 issue: 
-icon: com.ufund.app.png
+icon: 'com.ufund.app.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-12-15'
 signer: 
 reviewArchive: 
-twitter: UFUND1
+twitter: 'UFUND1'
 social:
-- https://www.facebook.com/ufundrealbusiness
-- https://www.youtube.com/channel/UCv9h2Dkr3ZJvETF9jI_1Kcg
-- https://www.instagram.com/ufundonline
-- https://www.linkedin.com/company/ufund1
+- 'https://www.facebook.com/ufundrealbusiness'
+- 'https://www.youtube.com/channel/UCv9h2Dkr3ZJvETF9jI_1Kcg'
+- 'https://www.instagram.com/ufundonline'
+- 'https://www.linkedin.com/company/ufund1'
 redirect_from: 
-developerName: Actiwires LLC
+developerName: 'Actiwires LLC'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: PAYWALA
+title: 'PAYWALA'
 altTitle: 
 authors: 
 users: 50
-appId: com.walahala.paywala
+appId: 'com.walahala.paywala'
 appCountry: 
 released: '2020-02-20'
 updated: '2020-07-23'
@@ -12,14 +12,14 @@ version: '1.5'
 stars: 
 ratings: 
 reviews: 
-size: 52M
-website: https://walahala.com/payWala
+size: '52M'
+website: 'https://walahala.com/payWala'
 repository: 
 issue: 
-icon: com.walahala.paywala.png
+icon: 'com.walahala.paywala.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2022-04-07'
 signer: 

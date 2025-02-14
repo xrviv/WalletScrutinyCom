@@ -1,26 +1,25 @@
 ---
 wsId: 
-title: 2FA (BitBox01)
+title: '2FA (BitBox01)'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.digitalbitbox.tfa
+appId: 'com.digitalbitbox.tfa'
 appCountry: 
 released: '2016-01-24'
-updated: '2019-10-17'
+updated: 2019-10-17
 version: '3.0.5'
 stars: 
 ratings: 
 reviews: 
-size: 
-website: https://shiftcrypto.ch/bitbox01/
+website: 'https://shiftcrypto.ch/bitbox01/'
 repository: 
 issue: 
-icon: com.digitalbitbox.tfa.png
+icon: 'com.digitalbitbox.tfa.png'
 bugbounty: 
-meta: obsolete
-verdict: nowallet
+meta: 'obsolete'
+verdict: 'nowallet'
 appHashes: 
 date: '2023-05-23'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BitBox Swiss
+developerName: 'BitBox Swiss'
 features: 
 
 ---

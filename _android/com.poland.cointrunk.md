@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: CoinTrunk
+title: 'CoinTrunk'
 altTitle: 
 authors: 
 users: 5000
-appId: com.poland.cointrunk
+appId: 'com.poland.cointrunk'
 appCountry: 
 released: '2022-04-18'
 updated: '2022-04-28'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://cointrunk.net
+website: 'http://cointrunk.net'
 repository: 
 issue: 
-icon: com.poland.cointrunk.jpg
+icon: 'com.poland.cointrunk.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

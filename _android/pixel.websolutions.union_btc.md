@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Union Btc
+title: 'Union Btc'
 altTitle: 
 authors: 
 users: 100
-appId: pixel.websolutions.union_btc
+appId: 'pixel.websolutions.union_btc'
 appCountry: 
 released: '2021-09-29'
 updated: '2022-09-07'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://unionbtc.io/
+website: 'https://unionbtc.io/'
 repository: 
 issue: 
-icon: pixel.websolutions.union_btc.png
+icon: 'pixel.websolutions.union_btc.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-03-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CryptoMaticAtm OÜ
+developerName: 'CryptoMaticAtm OÜ'
 features: 
 
 ---

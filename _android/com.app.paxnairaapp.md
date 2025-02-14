@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Paxnaira - Buy & Sell Bitcoin
+title: 'Paxnaira - Buy & Sell Bitcoin'
 altTitle: 
 authors: 
 users: 1000
-appId: com.app.paxnairaapp
+appId: 'com.app.paxnairaapp'
 appCountry: 
 released: '2019-07-29'
 updated: '2019-07-29'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.paxnaira.com
+website: 'https://www.paxnaira.com'
 repository: 
 issue: 
-icon: com.app.paxnairaapp.png
+icon: 'com.app.paxnairaapp.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

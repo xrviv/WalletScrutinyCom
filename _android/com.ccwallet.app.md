@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Coinsclone Wallet - Demo
+title: 'Coinsclone Wallet - Demo'
 altTitle: 
 authors: 
 users: 100
-appId: com.ccwallet.app
+appId: 'com.ccwallet.app'
 appCountry: 
 released: '2019-06-04'
 updated: '2020-10-26'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.coinsclone.com/
+website: 'https://www.coinsclone.com/'
 repository: 
 issue: 
-icon: com.ccwallet.app.png
+icon: 'com.ccwallet.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-05-07'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Coins Clone
+developerName: 'Coins Clone'
 features: 
 
 ---

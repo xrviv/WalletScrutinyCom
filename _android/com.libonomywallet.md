@@ -3,9 +3,9 @@ wsId:
 title: 'Libonomy: Mobile Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.libonomywallet
+appId: 'com.libonomywallet'
 appCountry: 
 released: '2021-09-10'
 updated: '2022-03-24'
@@ -14,13 +14,13 @@ stars: 4.2
 ratings: 
 reviews: 4
 size: 
-website: https://libonomy.com/
+website: 'https://libonomy.com/'
 repository: 
 issue: 
-icon: com.libonomywallet.png
+icon: 'com.libonomywallet.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-11-07'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Libonomy
+developerName: 'Libonomy'
 features: 
 
 ---

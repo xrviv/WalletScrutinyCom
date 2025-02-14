@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: EBC Wallet
+title: 'EBC Wallet'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 1000
-appId: com.ebcecosystem.wallets
+appId: 'com.ebcecosystem.wallets'
 appCountry: 
 released: '2018-12-07'
 updated: '2019-01-30'
@@ -13,14 +13,14 @@ version: '0.0.7'
 stars: 4.7
 ratings: 97
 reviews: 61
-size: 11M
-website: https://ebc.eco
+size: '11M'
+website: 'https://ebc.eco'
 repository: 
 issue: 
-icon: com.ebcecosystem.wallets.png
+icon: 'com.ebcecosystem.wallets.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2021-11-10'
 signer: 
@@ -28,8 +28,8 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from:
-- /com.ebcecosystem.wallets/
-- /posts/com.ebcecosystem.wallets/
+- '/com.ebcecosystem.wallets/'
+- '/posts/com.ebcecosystem.wallets/'
 developerName: 
 features: 
 

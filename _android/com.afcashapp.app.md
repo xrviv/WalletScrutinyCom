@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: AFCASH WALLET
+title: 'AFCASH WALLET'
 altTitle: 
 authors: 
 users: 1000
-appId: com.afcashapp.app
+appId: 'com.afcashapp.app'
 appCountry: 
 released: '2022-01-17'
 updated: '2022-06-23'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://afcash.app
+website: 'http://afcash.app'
 repository: 
 issue: 
-icon: com.afcashapp.app.png
+icon: 'com.afcashapp.app.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: AFRICUNIA
+developerName: 'AFRICUNIA'
 features: 
 
 ---

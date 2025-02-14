@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Huoancoin
+title: 'Huoancoin'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.app.huoancoin
+appId: 'com.app.huoancoin'
 appCountry: 
 released: '2022-01-23'
 updated: '2022-01-24'
@@ -14,13 +14,13 @@ stars: 3.4
 ratings: 
 reviews: 18
 size: 
-website: https://www.huoancoin.com
+website: 'https://www.huoancoin.com'
 repository: 
 issue: 
-icon: com.app.huoancoin.png
+icon: 'com.app.huoancoin.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-08-07'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: TRED Studio
+developerName: 'TRED Studio'
 features: 
 
 ---

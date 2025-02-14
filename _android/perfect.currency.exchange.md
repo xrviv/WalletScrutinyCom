@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Perfect E-currency Exchange
+title: 'Perfect E-currency Exchange'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: perfect.currency.exchange
+appId: 'perfect.currency.exchange'
 appCountry: 
 released: '2019-07-22'
 updated: '2019-09-07'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: perfect.currency.exchange.png
+icon: 'perfect.currency.exchange.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2023-06-21'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Moghadam
+developerName: 'Moghadam'
 features: 
 
 ---

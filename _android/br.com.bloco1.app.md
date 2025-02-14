@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bloco1 - Crypto Exchange
+title: 'Bloco1 - Crypto Exchange'
 altTitle: 
 authors: 
 users: 500
-appId: br.com.bloco1.app
+appId: 'br.com.bloco1.app'
 appCountry: 
 released: '2019-01-12'
 updated: '2021-07-05'
@@ -13,13 +13,13 @@ stars: 2.6
 ratings: 
 reviews: 
 size: 
-website: https://www.bloco1.com.br
+website: 'https://www.bloco1.com.br'
 repository: 
 issue: 
-icon: br.com.bloco1.app.png
+icon: 'br.com.bloco1.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bloco1 Serviços Digitais LTDA
+developerName: 'Bloco1 Serviços Digitais LTDA'
 features: 
 
 ---

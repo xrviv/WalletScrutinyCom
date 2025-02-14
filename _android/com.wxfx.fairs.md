@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BitBank
+title: 'BitBank'
 altTitle: 
 authors: 
 users: 50000
-appId: com.wxfx.fairs
+appId: 'com.wxfx.fairs'
 appCountry: 
 released: '2022-04-09'
 updated: '2022-07-21'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.wxfx.fairs.jpg
+icon: 'com.wxfx.fairs.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: USA:Crypto Exchange App
+title: 'USA:Crypto Exchange App'
 altTitle: 
 authors: 
 users: 10
-appId: com.hrghazali.usacryptoexchange
+appId: 'com.hrghazali.usacryptoexchange'
 appCountry: 
 released: '2021-09-14'
 updated: '2021-09-14'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.hrghazali.usacryptoexchange.png
+icon: 'com.hrghazali.usacryptoexchange.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-09-15'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Islamic Books Urdu
+developerName: 'Islamic Books Urdu'
 features: 
 
 ---

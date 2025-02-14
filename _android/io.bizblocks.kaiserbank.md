@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: OTEX
+title: 'OTEX'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: io.bizblocks.kaiserbank
+appId: 'io.bizblocks.kaiserbank'
 appCountry: 
 released: '2019-01-04'
 updated: '2022-10-23'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bizblocks.io
+website: 'https://bizblocks.io'
 repository: 
 issue: 
-icon: io.bizblocks.kaiserbank.png
+icon: 'io.bizblocks.kaiserbank.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-08-17'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bizblocks
+developerName: 'Bizblocks'
 features: 
 
 ---

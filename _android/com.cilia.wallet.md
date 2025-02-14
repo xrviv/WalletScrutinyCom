@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Cilia Coins Wallet
+title: 'Cilia Coins Wallet'
 altTitle: 
 authors: 
 users: 100
-appId: com.cilia.wallet
+appId: 'com.cilia.wallet'
 appCountry: 
 released: '2021-05-18'
 updated: '2021-05-18'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://getcilia.com
+website: 'https://getcilia.com'
 repository: 
 issue: 
-icon: com.cilia.wallet.png
+icon: 'com.cilia.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Links and Strings
+developerName: 'Links and Strings'
 features: 
 
 ---

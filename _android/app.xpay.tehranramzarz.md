@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: تهران رمز ارز
+title: 'تهران رمز ارز'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: app.xpay.tehranramzarz
+appId: 'app.xpay.tehranramzarz'
 appCountry: 
 released: '2019-10-05'
 updated: '2019-11-11'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://tehranramzarz.com
+website: 'https://tehranramzarz.com'
 repository: 
 issue: 
-icon: app.xpay.tehranramzarz.png
+icon: 'app.xpay.tehranramzarz.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-09'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: charset
+developerName: 'charset'
 features: 
 
 ---

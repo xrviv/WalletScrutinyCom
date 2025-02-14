@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: CoinCat - обмен криптовалют
+title: 'CoinCat - обмен криптовалют'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.coincat.coincat
+appId: 'com.coincat.coincat'
 appCountry: 
 released: '2020-11-02'
 updated: '2023-08-24'
@@ -14,23 +14,23 @@ stars: 4.2
 ratings: 
 reviews: 
 size: 
-website: https://coincat.in
+website: 'https://coincat.in'
 repository: 
 issue: 
-icon: com.coincat.coincat.png
+icon: 'com.coincat.coincat.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-11-12'
 signer: 
 reviewArchive: 
-twitter: Coincat_in
+twitter: 'Coincat_in'
 social:
-- https://vk.com/coincat
-- https://habr.com/ru/users/coincat
+- 'https://vk.com/coincat'
+- 'https://habr.com/ru/users/coincat'
 redirect_from: 
-developerName: CoinCat inc.
+developerName: 'CoinCat inc.'
 features: 
 
 ---

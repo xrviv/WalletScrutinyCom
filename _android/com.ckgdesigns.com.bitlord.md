@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BitLord
+title: 'BitLord'
 altTitle: 
 authors: 
 users: 500
-appId: com.ckgdesigns.com.bitlord
+appId: 'com.ckgdesigns.com.bitlord'
 appCountry: 
 released: '2019-09-21'
 updated: '2019-09-26'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.ckgdesigns.com.bitlord.png
+icon: 'com.ckgdesigns.com.bitlord.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Store of Value
+developerName: 'Store of Value'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: BitGate
+title: 'BitGate'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 500
-appId: com.bitgate.flutter
+appId: 'com.bitgate.flutter'
 appCountry: 
 released: 
 updated: '2023-04-14'
@@ -14,23 +14,23 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.bitgate.io
+website: 'http://www.bitgate.io'
 repository: 
 issue: 
-icon: com.bitgate.flutter.png
+icon: 'com.bitgate.flutter.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
 reviewArchive: 
-twitter: bitgatex
+twitter: 'bitgatex'
 social:
-- https://www.linkedin.com/company/bitgate
-- https://www.facebook.com/bitgatex
+- 'https://www.linkedin.com/company/bitgate'
+- 'https://www.facebook.com/bitgatex'
 redirect_from: 
-developerName: BitSpace
+developerName: 'BitSpace'
 features: 
 
 ---

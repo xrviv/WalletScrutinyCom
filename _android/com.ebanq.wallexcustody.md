@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Wallex Custody
+title: 'Wallex Custody'
 altTitle: 
 authors: 
 users: 100
-appId: com.ebanq.wallexcustody
+appId: 'com.ebanq.wallexcustody'
 appCountry: 
 released: '2021-04-14'
 updated: '2021-06-17'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.wallexcustody.com/
+website: 'https://www.wallexcustody.com/'
 repository: 
 issue: 
-icon: com.ebanq.wallexcustody.png
+icon: 'com.ebanq.wallexcustody.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: AntWallet
+title: 'AntWallet'
 altTitle: 
 authors: 
 users: 1000
-appId: com.bastionpay.antwallet
+appId: 'com.bastionpay.antwallet'
 appCountry: 
 released: '2019-09-23'
 updated: '2019-10-09'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.bastionpay.antwallet.png
+icon: 'com.bastionpay.antwallet.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

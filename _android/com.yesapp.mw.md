@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: BMG INT
+title: 'BMG INT'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.yesapp.mw
+appId: 'com.yesapp.mw'
 appCountry: 
 released: '2022-10-11'
 updated: '2023-03-05'
@@ -17,19 +17,19 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.yesapp.mw.jpg
+icon: 'com.yesapp.mw.jpg'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 
 social:
-- https://www.bmgcrypto.us
+- 'https://www.bmgcrypto.us'
 redirect_from: 
-developerName: MW KOP
+developerName: 'MW KOP'
 features: 
 
 ---

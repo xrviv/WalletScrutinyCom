@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Trade/Earn Interest on crypto
+title: 'Trade/Earn Interest on crypto'
 altTitle: 
 authors: 
 users: 50
-appId: com.bitinvest.tradeearninterestoncrypto
+appId: 'com.bitinvest.tradeearninterestoncrypto'
 appCountry: 
 released: '2021-10-25'
 updated: '2021-10-25'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.bitinvest.tradeearninterestoncrypto.jpg
+icon: 'com.bitinvest.tradeearninterestoncrypto.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Cyrus mall
+title: 'Cyrus mall'
 altTitle: 
 authors: 
 users: 100
-appId: com.xearth.cyrusmall
+appId: 'com.xearth.cyrusmall'
 appCountry: 
 released: '2021-09-14'
 updated: '2021-09-15'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://cyrus-mall.com
+website: 'https://cyrus-mall.com'
 repository: 
 issue: 
-icon: com.xearth.cyrusmall.png
+icon: 'com.xearth.cyrusmall.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: XEARTH
+developerName: 'XEARTH'
 features: 
 
 ---

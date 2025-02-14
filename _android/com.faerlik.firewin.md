@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Pocket Option Binary Options
+title: 'Pocket Option Binary Options'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.faerlik.firewin
+appId: 'com.faerlik.firewin'
 appCountry: 
 released: 
 updated: '2024-01-12'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.faerlik.firewin.jpg
+icon: 'com.faerlik.firewin.jpg'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-03-02'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: AIGUL WIN
+developerName: 'AIGUL WIN'
 features: 
 
 ---

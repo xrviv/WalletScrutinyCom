@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: NuWallet
+title: 'NuWallet'
 altTitle: 
 authors: 
 users: 10
-appId: com.numiner.nuwallet
+appId: 'com.numiner.nuwallet'
 appCountry: 
 released: '2022-05-23'
 updated: '2023-04-18'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.numiner.nuwallet.png
+icon: 'com.numiner.nuwallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-08-07'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: dadteach
+developerName: 'dadteach'
 features: 
 
 ---

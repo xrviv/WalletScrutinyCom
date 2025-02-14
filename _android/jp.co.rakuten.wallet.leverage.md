@@ -1,11 +1,11 @@
 ---
-wsId: rakutenLeverage
-title: 証拠金取引（レバレッジ）アプリ　楽天ウォレットPro
+wsId: 'rakutenLeverage'
+title: '証拠金取引（レバレッジ）アプリ　楽天ウォレットPro'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: jp.co.rakuten.wallet.leverage
+appId: 'jp.co.rakuten.wallet.leverage'
 appCountry: 
 released: '2020-03-22'
 updated: '2023-02-17'
@@ -14,21 +14,21 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.rakuten-wallet.co.jp/
+website: 'https://www.rakuten-wallet.co.jp/'
 repository: 
 issue: 
-icon: jp.co.rakuten.wallet.leverage.png
+icon: 'jp.co.rakuten.wallet.leverage.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-02-05'
 signer: 
 reviewArchive: 
-twitter: Rakuten_Wallet
+twitter: 'Rakuten_Wallet'
 social: 
 redirect_from: 
-developerName: Rakuten Wallet
+developerName: 'Rakuten Wallet'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: LocalTrade DeFi Wallet
+title: 'LocalTrade DeFi Wallet'
 altTitle: 
 authors: 
 users: 100
-appId: com.localtrade.wallet
+appId: 'com.localtrade.wallet'
 appCountry: 
 released: '2022-05-18'
 updated: '2022-06-29'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://lab.localtrade.cc
+website: 'https://lab.localtrade.cc'
 repository: 
 issue: 
-icon: com.localtrade.wallet.png
+icon: 'com.localtrade.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

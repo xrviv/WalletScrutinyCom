@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: EttaWallet
+title: 'EttaWallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10
-appId: com.ettaln
+appId: 'com.ettaln'
 appCountry: 
 released: 
 updated: '2023-09-06'
@@ -14,23 +14,23 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://ettawallet.app
-repository: https://github.com/EttaWallet/EttaWallet
+website: 'https://ettawallet.app'
+repository: 'https://github.com/EttaWallet/EttaWallet'
 issue: 
-icon: com.ettaln.png
+icon: 'com.ettaln.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-11-07'
 signer: 
 reviewArchive: 
-twitter: ettawallet
+twitter: 'ettawallet'
 social: 
 redirect_from: 
-developerName: Rukundo
+developerName: 'Rukundo'
 features:
-- ln
+- 'ln'
 
 ---
 

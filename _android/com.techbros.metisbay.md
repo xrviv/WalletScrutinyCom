@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Metisbay
+title: 'Metisbay'
 altTitle: 
 authors: 
 users: 1
-appId: com.techbros.metisbay
+appId: 'com.techbros.metisbay'
 appCountry: 
 released: '2020-12-18'
 updated: '2021-01-12'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://metisbay.com
+website: 'https://metisbay.com'
 repository: 
 issue: 
-icon: com.techbros.metisbay.jpg
+icon: 'com.techbros.metisbay.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: MetisBay
+developerName: 'MetisBay'
 features: 
 
 ---

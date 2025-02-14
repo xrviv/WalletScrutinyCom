@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BitAzure Wallet Admin
+title: 'BitAzure Wallet Admin'
 altTitle: 
 authors: 
 users: 5
-appId: io.bitazure.wallet
+appId: 'io.bitazure.wallet'
 appCountry: 
 released: '2020-10-01'
 updated: '2021-07-20'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bitazure.com
+website: 'https://bitazure.com'
 repository: 
 issue: 
-icon: io.bitazure.wallet.png
+icon: 'io.bitazure.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BitAzure Blockchain Technology
+developerName: 'BitAzure Blockchain Technology'
 features: 
 
 ---

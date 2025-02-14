@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Dispurse - Get paid in crypto
+title: 'Dispurse - Get paid in crypto'
 altTitle: 
 authors: 
 users: 10
-appId: com.AppInstitute.d3952
+appId: 'com.AppInstitute.d3952'
 appCountry: 
 released: '2021-12-10'
 updated: '2021-12-10'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://dispurseapp.com/
+website: 'https://dispurseapp.com/'
 repository: 
 issue: 
-icon: com.AppInstitute.d3952.png
+icon: 'com.AppInstitute.d3952.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Dispurse
+developerName: 'Dispurse'
 features: 
 
 ---

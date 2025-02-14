@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: SPL Cards
+title: 'SPL Cards'
 altTitle: 
 authors: 
 users: 50
-appId: spl.cards.app
+appId: 'spl.cards.app'
 appCountry: 
 released: '2021-09-23'
 updated: '2021-11-22'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.spl.cards
+website: 'https://www.spl.cards'
 repository: 
 issue: 
-icon: spl.cards.app.jpg
+icon: 'spl.cards.app.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: SPL Cards
+developerName: 'SPL Cards'
 features: 
 
 ---

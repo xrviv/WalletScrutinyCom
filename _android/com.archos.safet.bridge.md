@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Safe-T Companion for ARCHOS Sa
+title: 'Safe-T Companion for ARCHOS Sa'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.archos.safet.bridge
+appId: 'com.archos.safet.bridge'
 appCountry: 
 released: '2019-09-11'
 updated: '2019-12-18'
@@ -14,13 +14,13 @@ stars: 3.1
 ratings: 
 reviews: 
 size: 
-website: http://www.archos.com
+website: 'http://www.archos.com'
 repository: 
 issue: 
-icon: com.archos.safet.bridge.png
+icon: 'com.archos.safet.bridge.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-11-07'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Archos S.A.
+developerName: 'Archos S.A.'
 features: 
 
 ---

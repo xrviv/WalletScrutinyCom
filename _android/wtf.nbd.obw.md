@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Open Bitcoin Wallet
+title: 'Open Bitcoin Wallet'
 altTitle: 
 authors: 
 users: 500
-appId: wtf.nbd.obw
+appId: 'wtf.nbd.obw'
 appCountry: 
 released: '2022-09-23'
 updated: '2022-12-31'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://nbd.wtf
+website: 'https://nbd.wtf'
 repository: 
 issue: 
-icon: wtf.nbd.obw.png
+icon: 'wtf.nbd.obw.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: No Big Deal (NBD)
+developerName: 'No Big Deal (NBD)'
 features: 
 
 ---

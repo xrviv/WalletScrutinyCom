@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Crypto X Capital
+title: 'Crypto X Capital'
 altTitle: 
 authors: 
 users: 10
-appId: com.danmdevelopers.cryptox
+appId: 'com.danmdevelopers.cryptox'
 appCountry: 
 released: '2021-05-01'
 updated: '2021-05-01'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.danmdevelopers.com
+website: 'http://www.danmdevelopers.com'
 repository: 
 issue: 
-icon: com.danmdevelopers.cryptox.png
+icon: 'com.danmdevelopers.cryptox.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Daniel Nicolalde
+developerName: 'Daniel Nicolalde'
 features: 
 
 ---

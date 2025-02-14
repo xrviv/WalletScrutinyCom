@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Koinzaar Crypto Wallet
+title: 'Koinzaar Crypto Wallet'
 altTitle: 
 authors: 
 users: 500
-appId: com.koinzaar.app
+appId: 'com.koinzaar.app'
 appCountry: 
 released: '2020-01-13'
 updated: '2020-01-24'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.koinzaar.com/
+website: 'https://www.koinzaar.com/'
 repository: 
 issue: 
-icon: com.koinzaar.app.png
+icon: 'com.koinzaar.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-30'
 signer: 

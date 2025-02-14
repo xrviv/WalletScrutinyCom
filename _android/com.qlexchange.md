@@ -4,7 +4,7 @@ title: 'QL Exchange: Demo'
 altTitle: 
 authors: 
 users: 10
-appId: com.qlexchange
+appId: 'com.qlexchange'
 appCountry: 
 released: 
 updated: '2022-05-03'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://qilinlab.com
+website: 'http://qilinlab.com'
 repository: 
 issue: 
-icon: com.qlexchange.png
+icon: 'com.qlexchange.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Qilin Lab
+developerName: 'Qilin Lab'
 features: 
 
 ---

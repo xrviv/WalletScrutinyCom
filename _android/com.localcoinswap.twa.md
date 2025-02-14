@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: LocalCoinSwap
+title: 'LocalCoinSwap'
 altTitle: 
 authors: 
 users: 10000
-appId: com.localcoinswap.twa
+appId: 'com.localcoinswap.twa'
 appCountry: 
 released: '2023-03-10'
 updated: '2023-03-11'
@@ -13,26 +13,26 @@ stars: 3.2
 ratings: 
 reviews: 8
 size: 
-website: https://localcoinswap.com
+website: 'https://localcoinswap.com'
 repository: 
 issue: 
-icon: com.localcoinswap.twa.png
+icon: 'com.localcoinswap.twa.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2024-09-08'
 signer: 
 reviewArchive: 
-twitter: Localcoinswap_
+twitter: 'Localcoinswap_'
 social:
-- https://www.linkedin.com/company/localcoinswap
-- https://www.reddit.com/r/LocalCoinSwap
-- https://www.facebook.com/localcoinswap
-- https://t.me/localcoinswap
-- https://www.youtube.com/channel/UCfUR13Y6dzv84EPG9uY1BUA
+- 'https://www.linkedin.com/company/localcoinswap'
+- 'https://www.reddit.com/r/LocalCoinSwap'
+- 'https://www.facebook.com/localcoinswap'
+- 'https://t.me/localcoinswap'
+- 'https://www.youtube.com/channel/UCfUR13Y6dzv84EPG9uY1BUA'
 redirect_from: 
-developerName: LocalCoinSwap
+developerName: 'LocalCoinSwap'
 features: 
 
 ---

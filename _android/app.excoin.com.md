@@ -3,9 +3,9 @@ wsId:
 title: 'Rocket: Mobile Trade App'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: app.excoin.com
+appId: 'app.excoin.com'
 appCountry: 
 released: '2022-03-20'
 updated: '2022-09-16'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://m.excoin.cloud/
+website: 'https://m.excoin.cloud/'
 repository: 
 issue: 
-icon: app.excoin.com.png
+icon: 'app.excoin.com.png'
 bugbounty: 
-meta: removed
-verdict: nosendreceive
+meta: 'removed'
+verdict: 'nosendreceive'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: betcoin
+developerName: 'betcoin'
 features: 
 
 ---

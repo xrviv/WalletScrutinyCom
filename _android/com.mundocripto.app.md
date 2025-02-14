@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Abono Cripto
+title: 'Abono Cripto'
 altTitle: 
 authors: 
 users: 100
-appId: com.mundocripto.app
+appId: 'com.mundocripto.app'
 appCountry: 
 released: '2022-05-11'
 updated: '2022-07-13'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://abonocripto.com.ar
+website: 'https://abonocripto.com.ar'
 repository: 
 issue: 
-icon: com.mundocripto.app.png
+icon: 'com.mundocripto.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Abono cripto
+developerName: 'Abono cripto'
 features: 
 
 ---

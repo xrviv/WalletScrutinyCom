@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: CryptoCortex
+title: 'CryptoCortex'
 altTitle: 
 authors: 
 users: 10
-appId: io.cryptocortex.trade
+appId: 'io.cryptocortex.trade'
 appCountry: 
 released: '2019-09-18'
 updated: '2019-09-18'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://cryptocortex.io/
+website: 'https://cryptocortex.io/'
 repository: 
 issue: 
-icon: io.cryptocortex.trade.png
+icon: 'io.cryptocortex.trade.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Deltix
+developerName: 'Deltix'
 features: 
 
 ---

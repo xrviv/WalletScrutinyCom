@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: mahcard
+title: 'mahcard'
 altTitle: 
 authors: 
 users: 10
-appId: com.mahcard.mahcardapp
+appId: 'com.mahcard.mahcardapp'
 appCountry: 
 released: '2019-10-05'
 updated: '2019-10-06'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://mahcard.co
+website: 'https://mahcard.co'
 repository: 
 issue: 
-icon: com.mahcard.mahcardapp.png
+icon: 'com.mahcard.mahcardapp.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-11-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Mahcard Enterprise
+developerName: 'Mahcard Enterprise'
 features: 
 
 ---

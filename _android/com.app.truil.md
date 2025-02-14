@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: TRUEiL
+title: 'TRUEiL'
 altTitle: 
 authors: 
 users: 10
-appId: com.app.truil
+appId: 'com.app.truil'
 appCountry: 
 released: '2020-09-09'
 updated: '2020-09-17'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://trueil.com
+website: 'https://trueil.com'
 repository: 
 issue: 
-icon: com.app.truil.png
+icon: 'com.app.truil.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-11-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: TRUEUIL.COM
+developerName: 'TRUEUIL.COM'
 features: 
 
 ---

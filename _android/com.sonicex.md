@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: SONICEX
+title: 'SONICEX'
 altTitle: 
 authors: 
 users: 500
-appId: com.sonicex
+appId: 'com.sonicex'
 appCountry: 
 released: '2019-08-05'
 updated: '2020-04-15'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.sonicex.com/welcome
+website: 'https://www.sonicex.com/welcome'
 repository: 
 issue: 
-icon: com.sonicex.png
+icon: 'com.sonicex.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: SONICX FOUNDATION
+developerName: 'SONICX FOUNDATION'
 features: 
 
 ---

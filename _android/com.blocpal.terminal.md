@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BlocPal Terminal
+title: 'BlocPal Terminal'
 altTitle: 
 authors: 
 users: 100
-appId: com.blocpal.terminal
+appId: 'com.blocpal.terminal'
 appCountry: 
 released: '2018-10-30'
 updated: '2019-07-23'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.blocpal.com
+website: 'http://www.blocpal.com'
 repository: 
 issue: 
-icon: com.blocpal.terminal.png
+icon: 'com.blocpal.terminal.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-05-07'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BlocPal International Inc.
+developerName: 'BlocPal International Inc.'
 features: 
 
 ---

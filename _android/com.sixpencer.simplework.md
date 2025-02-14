@@ -1,11 +1,11 @@
 ---
-wsId: dfox
-title: Dfox-Crypto Wallet and DeFi Po
+wsId: 'dfox'
+title: 'Dfox-Crypto Wallet and DeFi Po'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 10000
-appId: com.sixpencer.simplework
+appId: 'com.sixpencer.simplework'
 appCountry: 
 released: '2020-10-09'
 updated: '2021-06-23'
@@ -14,13 +14,13 @@ stars: 4.2
 ratings: 194
 reviews: 14
 size: 
-website: https://dfox.cc/
+website: 'https://dfox.cc/'
 repository: 
 issue: 
-icon: com.sixpencer.simplework.jpg
+icon: 'com.sixpencer.simplework.jpg'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2023-08-16'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: SixPencer Technology Co., Ltd.
+developerName: 'SixPencer Technology Co., Ltd.'
 features: 
 
 ---

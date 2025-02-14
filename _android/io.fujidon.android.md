@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: FujiDon
+title: 'FujiDon'
 altTitle: 
 authors: 
 users: 10
-appId: io.fujidon.android
+appId: 'io.fujidon.android'
 appCountry: 
 released: '2021-05-06'
 updated: '2023-05-29'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.fujidon.io
+website: 'https://www.fujidon.io'
 repository: 
 issue: 
-icon: io.fujidon.android.png
+icon: 'io.fujidon.android.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: FujiDon
+developerName: 'FujiDon'
 features: 
 
 ---

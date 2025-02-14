@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: FFFEX Exchange
+title: 'FFFEX Exchange'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.app.fffex
+appId: 'com.app.fffex'
 appCountry: 
 released: '2019-06-16'
 updated: '2019-11-24'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://main.fffex.co
+website: 'https://main.fffex.co'
 repository: 
 issue: 
-icon: com.app.fffex.png
+icon: 'com.app.fffex.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-11'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: FFFEX
+developerName: 'FFFEX'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: PAYWALA MERCHANT
+title: 'PAYWALA MERCHANT'
 altTitle: 
 authors: 
 users: 10
-appId: com.walahala.paywalamerchant
+appId: 'com.walahala.paywalamerchant'
 appCountry: 
 released: '2020-03-12'
 updated: '2020-07-23'
@@ -12,14 +12,14 @@ version: '1.5'
 stars: 
 ratings: 
 reviews: 
-size: 52M
-website: https://walahala.com/
+size: '52M'
+website: 'https://walahala.com/'
 repository: 
 issue: 
-icon: com.walahala.paywalamerchant.png
+icon: 'com.walahala.paywalamerchant.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2022-04-07'
 signer: 

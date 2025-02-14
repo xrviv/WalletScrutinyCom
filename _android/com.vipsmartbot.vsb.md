@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Smart Bot
+title: 'Smart Bot'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.vipsmartbot.vsb
+appId: 'com.vipsmartbot.vsb'
 appCountry: 
 released: '2020-11-17'
 updated: '2020-11-18'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.vipsmartbot.com
+website: 'https://www.vipsmartbot.com'
 repository: 
 issue: 
-icon: com.vipsmartbot.vsb.png
+icon: 'com.vipsmartbot.vsb.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-06-10'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Smart Crypto Studio
+developerName: 'Smart Crypto Studio'
 features: 
 
 ---

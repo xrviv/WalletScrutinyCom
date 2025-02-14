@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: naijaexchange
+title: 'naijaexchange'
 altTitle: 
 authors: 
 users: 500
-appId: vip.naijaexchange.app.android
+appId: 'vip.naijaexchange.app.android'
 appCountry: 
 released: '2021-09-09'
 updated: '2021-09-14'
@@ -13,13 +13,13 @@ stars: 4.7
 ratings: 
 reviews: 
 size: 
-website: https://naijaexchange.vip
+website: 'https://naijaexchange.vip'
 repository: 
 issue: 
-icon: vip.naijaexchange.app.android.png
+icon: 'vip.naijaexchange.app.android.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: naijaexchange
+developerName: 'naijaexchange'
 features: 
 
 ---

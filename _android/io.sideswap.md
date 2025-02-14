@@ -1,26 +1,25 @@
 ---
-wsId: sideswap
-title: SideSwap
+wsId: 'sideswap'
+title: 'SideSwap'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: io.sideswap
+appId: 'io.sideswap'
 appCountry: 
 released: '2021-03-09'
-updated: '2024-09-23'
+updated: 2024-09-23
 version: '1.6.1'
 stars: 5
 ratings: 
 reviews: 3
-size: 
-website: https://sideswap.io/
+website: 'https://sideswap.io/'
 repository: 
 issue: 
-icon: io.sideswap.png
+icon: 'io.sideswap.png'
 bugbounty: 
-meta: ok
-verdict: nobtc
+meta: 'ok'
+verdict: 'nobtc'
 appHashes: 
 date: '2023-08-19'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: SideSwap Limited
+developerName: 'SideSwap Limited'
 features: 
 
 ---

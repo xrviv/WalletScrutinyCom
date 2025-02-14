@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: EurekaX
+title: 'EurekaX'
 altTitle: 
 authors: 
 users: 1000
-appId: io.eurekax.app
+appId: 'io.eurekax.app'
 appCountry: 
 released: '2020-03-09'
 updated: '2020-10-31'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://eurekax.io
+website: 'https://eurekax.io'
 repository: 
 issue: 
-icon: io.eurekax.app.png
+icon: 'io.eurekax.app.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Eureka Network
+developerName: 'Eureka Network'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: JetFinex
+title: 'JetFinex'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.btcckorea
+appId: 'com.btcckorea'
 appCountry: 
 released: '2019-01-22'
 updated: '2019-07-01'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://jetfinex.com/
+website: 'https://jetfinex.com/'
 repository: 
 issue: 
-icon: com.btcckorea.png
+icon: 'com.btcckorea.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-13'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BTCC KOREA
+developerName: 'BTCC KOREA'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Btcpari
+title: 'Btcpari'
 altTitle: 
 authors: 
 users: 100
-appId: com.btcpari.app
+appId: 'com.btcpari.app'
 appCountry: 
 released: '2022-02-23'
 updated: '2022-04-19'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://btcpari.com
+website: 'https://btcpari.com'
 repository: 
 issue: 
-icon: com.btcpari.app.png
+icon: 'com.btcpari.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

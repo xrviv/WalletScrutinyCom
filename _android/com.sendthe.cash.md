@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: SendThe.Cash
+title: 'SendThe.Cash'
 altTitle: 
 authors: 
 users: 50
-appId: com.sendthe.cash
+appId: 'com.sendthe.cash'
 appCountry: 
 released: '2022-08-17'
 updated: '2023-01-11'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.sendthe.cash/
+website: 'https://www.sendthe.cash/'
 repository: 
 issue: 
-icon: com.sendthe.cash.png
+icon: 'com.sendthe.cash.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: SendThe.Cash
+developerName: 'SendThe.Cash'
 features: 
 
 ---

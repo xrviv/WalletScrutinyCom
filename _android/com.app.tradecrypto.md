@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Trade Crypto
+title: 'Trade Crypto'
 altTitle: 
 authors: 
 users: 500
-appId: com.app.tradecrypto
+appId: 'com.app.tradecrypto'
 appCountry: 
 released: '2021-06-26'
 updated: '2021-08-03'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.tradecrypto.asia
+website: 'http://www.tradecrypto.asia'
 repository: 
 issue: 
-icon: com.app.tradecrypto.png
+icon: 'com.app.tradecrypto.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Trade Crypto
+developerName: 'Trade Crypto'
 features: 
 
 ---

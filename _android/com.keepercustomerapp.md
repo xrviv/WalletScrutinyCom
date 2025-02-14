@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: AP First
+title: 'AP First'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.keepercustomerapp
+appId: 'com.keepercustomerapp'
 appCountry: 
 released: '2019-02-25'
 updated: '2023-02-17'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.tosblock.com
+website: 'http://www.tosblock.com'
 repository: 
 issue: 
-icon: com.keepercustomerapp.png
+icon: 'com.keepercustomerapp.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: TiOSPay
+developerName: 'TiOSPay'
 features: 
 
 ---

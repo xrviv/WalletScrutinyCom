@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: BTC Network
+title: 'BTC Network'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50000
-appId: com.cryptominer.btc.miner.crypto.clouds.mining
+appId: 'com.cryptominer.btc.miner.crypto.clouds.mining'
 appCountry: 
 released: '2021-08-28'
 updated: '2022-02-15'
@@ -13,14 +13,14 @@ version: '1.3'
 stars: 4.4
 ratings: 2353
 reviews: 129
-size: 18M
-website: http://btccryptonetwork.com/
+size: '18M'
+website: 'http://btccryptonetwork.com/'
 repository: 
 issue: 
-icon: com.cryptominer.btc.miner.crypto.clouds.mining.png
+icon: 'com.cryptominer.btc.miner.crypto.clouds.mining.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2021-11-08'
 signer: 

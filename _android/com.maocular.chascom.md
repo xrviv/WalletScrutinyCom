@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Chascom
+title: 'Chascom'
 altTitle: 
 authors: 
 users: 50
-appId: com.maocular.chascom
+appId: 'com.maocular.chascom'
 appCountry: 
 released: '2022-05-05'
 updated: '2022-05-05'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://chascom.tech
+website: 'https://chascom.tech'
 repository: 
 issue: 
-icon: com.maocular.chascom.jpg
+icon: 'com.maocular.chascom.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Chascom
+developerName: 'Chascom'
 features: 
 
 ---

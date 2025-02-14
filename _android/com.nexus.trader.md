@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Nexus Trader
+title: 'Nexus Trader'
 altTitle: 
 authors: 
 users: 500
-appId: com.nexus.trader
+appId: 'com.nexus.trader'
 appCountry: 
 released: 
 updated: '2020-01-19'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.nexus.trader.png
+icon: 'com.nexus.trader.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Nexus Trader Team
+developerName: 'Nexus Trader Team'
 features: 
 
 ---

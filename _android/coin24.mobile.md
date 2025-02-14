@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Coin24 - Bitcoin, cryptocurren
+title: 'Coin24 - Bitcoin, cryptocurren'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: coin24.mobile
+appId: 'coin24.mobile'
 appCountry: 
 released: '2020-09-28'
 updated: '2020-09-28'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://coin24.app/ko
+website: 'https://coin24.app/ko'
 repository: 
 issue: 
-icon: coin24.mobile.png
+icon: 'coin24.mobile.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-04-20'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: 주식회사 블록첸
+developerName: '주식회사 블록첸'
 features: 
 
 ---

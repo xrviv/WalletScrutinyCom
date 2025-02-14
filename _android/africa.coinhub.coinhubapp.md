@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Coinhub
+title: 'Coinhub'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: africa.coinhub.coinhubapp
+appId: 'africa.coinhub.coinhubapp'
 appCountry: 
 released: '2021-11-21'
 updated: '2022-01-25'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.coinhub.africa
+website: 'https://www.coinhub.africa'
 repository: 
 issue: 
-icon: africa.coinhub.coinhubapp.png
+icon: 'africa.coinhub.coinhubapp.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-09-08'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Coinhub Africa Developer
+developerName: 'Coinhub Africa Developer'
 features: 
 
 ---

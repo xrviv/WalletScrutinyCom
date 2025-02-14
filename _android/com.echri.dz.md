@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: اشري بيع و شراء العملات الالكت
+title: 'اشري بيع و شراء العملات الالكت'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.echri.dz
+appId: 'com.echri.dz'
 appCountry: 
 released: '2019-05-18'
 updated: '2020-01-18'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://algeriahost.com
+website: 'https://algeriahost.com'
 repository: 
 issue: 
-icon: com.echri.dz.png
+icon: 'com.echri.dz.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-23'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: AlgeriaHost
+developerName: 'AlgeriaHost'
 features: 
 
 ---

@@ -4,7 +4,7 @@ title: 'Aurora: CryptoWallet'
 altTitle: 
 authors: 
 users: 500
-appId: com.aurora.aurorawallet
+appId: 'com.aurora.aurorawallet'
 appCountry: 
 released: '2022-12-23'
 updated: '2022-12-23'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://aurorawallet.app
+website: 'https://aurorawallet.app'
 repository: 
 issue: 
-icon: com.aurora.aurorawallet.png
+icon: 'com.aurora.aurorawallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: AuroraWallet
+developerName: 'AuroraWallet'
 features: 
 
 ---

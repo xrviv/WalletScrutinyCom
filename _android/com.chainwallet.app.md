@@ -1,11 +1,11 @@
 ---
-wsId: chainAppWeb3
-title: Chain App - Web3 Wallet
+wsId: 'chainAppWeb3'
+title: 'Chain App - Web3 Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 100000
-appId: com.chainwallet.app
+appId: 'com.chainwallet.app'
 appCountry: 
 released: '2023-01-03'
 updated: '2024-08-07'
@@ -14,24 +14,24 @@ stars: 3
 ratings: 
 reviews: 12
 size: 
-website: https://chain.com
+website: 'https://chain.com'
 repository: 
 issue: 
-icon: com.chainwallet.app.png
+icon: 'com.chainwallet.app.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2024-11-19'
 signer: 
 reviewArchive: 
-twitter: chain
+twitter: 'chain'
 social:
-- https://t.me/chain
-- https://www.youtube.com/@chain
-- https://www.facebook.com/chain
+- 'https://t.me/chain'
+- 'https://www.youtube.com/@chain'
+- 'https://www.facebook.com/chain'
 redirect_from: 
-developerName: Chain.com
+developerName: 'Chain.com'
 features: 
 
 ---

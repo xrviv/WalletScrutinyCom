@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Billetera Fibanca
+title: 'Billetera Fibanca'
 altTitle: 
 authors: 
 users: 50
-appId: ve.com.fibanca.walletweb
+appId: 've.com.fibanca.walletweb'
 appCountry: 
 released: '2019-06-28'
 updated: '2019-06-28'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://fibanca.com
+website: 'https://fibanca.com'
 repository: 
 issue: 
-icon: ve.com.fibanca.walletweb.png
+icon: 've.com.fibanca.walletweb.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Fibanca
+developerName: 'Fibanca'
 features: 
 
 ---

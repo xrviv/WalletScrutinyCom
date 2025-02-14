@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Coinzo
+title: 'Coinzo'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.coinzo.app
+appId: 'com.coinzo.app'
 appCountry: 
 released: '2021-02-24'
 updated: '2021-05-11'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.coinzo.com
+website: 'https://www.coinzo.com'
 repository: 
 issue: 
-icon: com.coinzo.app.png
+icon: 'com.coinzo.app.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-03-30'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Coinzo
+developerName: 'Coinzo'
 features: 
 
 ---

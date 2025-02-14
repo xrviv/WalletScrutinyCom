@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: 中币ZB-Buy Bitcoin, ETH, Crypto
+title: '中币ZB-Buy Bitcoin, ETH, Crypto'
 altTitle: 
 authors: 
 users: 100
-appId: com.zbbtc.app
+appId: 'com.zbbtc.app'
 appCountry: 
 released: '2022-04-09'
 updated: '2022-04-09'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.zbbtc.app.png
+icon: 'com.zbbtc.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

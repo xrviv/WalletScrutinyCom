@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Emblex Wallet
+title: 'Emblex Wallet'
 altTitle: 
 authors: 
 users: 100
-appId: io.emblex.wallet
+appId: 'io.emblex.wallet'
 appCountry: 
 released: '2021-08-18'
 updated: '2021-11-30'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://emblex.io
+website: 'https://emblex.io'
 repository: 
 issue: 
-icon: io.emblex.wallet.png
+icon: 'io.emblex.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Emblex
+developerName: 'Emblex'
 features: 
 
 ---

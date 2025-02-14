@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Bitcoin Wallet Exchange - exch
+title: 'Bitcoin Wallet Exchange - exch'
 altTitle: 
 authors:
-- kiwilamb
+- 'kiwilamb'
 users: 50000
-appId: com.BitcoinWalletExchange.org
+appId: 'com.BitcoinWalletExchange.org'
 appCountry: 
 released: '2020-10-12'
 updated: '2020-10-13'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.BitcoinWalletExchange.org.png
+icon: 'com.BitcoinWalletExchange.org.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: ATMwallet
+developerName: 'ATMwallet'
 features: 
 
 ---

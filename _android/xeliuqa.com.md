@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Xeliuqa Wallet
+title: 'Xeliuqa Wallet'
 altTitle: 
 authors: 
 users: 500
-appId: xeliuqa.com
+appId: 'xeliuqa.com'
 appCountry: 
 released: '2021-01-29'
 updated: '2024-01-29'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://xeliuqa.app
+website: 'https://xeliuqa.app'
 repository: 
 issue: 
-icon: xeliuqa.com.png
+icon: 'xeliuqa.com.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-10-23'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Xeliuqa
+developerName: 'Xeliuqa'
 features: 
 
 ---

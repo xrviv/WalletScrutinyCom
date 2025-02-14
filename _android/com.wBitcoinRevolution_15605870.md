@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoin Revolution
+title: 'Bitcoin Revolution'
 altTitle: 
 authors: 
 users: 100
-appId: com.wBitcoinRevolution_15605870
+appId: 'com.wBitcoinRevolution_15605870'
 appCountry: 
 released: '2022-06-09'
 updated: '2022-06-09'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.wBitcoinRevolution_15605870.jpg
+icon: 'com.wBitcoinRevolution_15605870.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-16'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: yahsny tark tankky
+developerName: 'yahsny tark tankky'
 features: 
 
 ---

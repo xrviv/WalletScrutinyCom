@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Equinox Wallet
+title: 'Equinox Wallet'
 altTitle: 
 authors: 
 users: 1000
-appId: com.wwt.equinoxwallet
+appId: 'com.wwt.equinoxwallet'
 appCountry: 
 released: '2021-11-17'
 updated: '2022-05-09'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.wwt.equinoxwallet.png
+icon: 'com.wwt.equinoxwallet.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

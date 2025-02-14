@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Tezelt
+title: 'Tezelt'
 altTitle: 
 authors: 
 users: 10
-appId: com.tezelt
+appId: 'com.tezelt'
 appCountry: 
 released: 
 updated: '2020-05-18'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://tezelt.com/
+website: 'https://tezelt.com/'
 repository: 
 issue: 
-icon: com.tezelt.png
+icon: 'com.tezelt.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: TEZELT
+developerName: 'TEZELT'
 features: 
 
 ---

@@ -4,7 +4,7 @@ title: 'WootzApp: Bharat Web3 Browser'
 altTitle: 
 authors: 
 users: 100
-appId: com.wootzapp.browser
+appId: 'com.wootzapp.browser'
 appCountry: 
 released: '2022-10-30'
 updated: '2024-03-09'
@@ -13,13 +13,13 @@ stars: 4.3
 ratings: 
 reviews: 
 size: 
-website: https://www.wootzapp.com
+website: 'https://www.wootzapp.com'
 repository: 
 issue: 
-icon: com.wootzapp.browser.png
+icon: 'com.wootzapp.browser.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-25'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: WootzApp
+developerName: 'WootzApp'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: AutoCrypto Buyer
+title: 'AutoCrypto Buyer'
 altTitle: 
 authors: 
 users: 50
-appId: com.swappy.autocrypto
+appId: 'com.swappy.autocrypto'
 appCountry: 
 released: '2022-05-20'
 updated: '2022-06-02'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://forintfinance.com/
+website: 'https://forintfinance.com/'
 repository: 
 issue: 
-icon: com.swappy.autocrypto.png
+icon: 'com.swappy.autocrypto.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-12-15'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Forint Finance ltd
+developerName: 'Forint Finance ltd'
 features: 
 
 ---

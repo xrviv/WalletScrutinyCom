@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Fnk.com
+title: 'Fnk.com'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50000
-appId: com.fnkcom
+appId: 'com.fnkcom'
 appCountry: 
 released: 
 updated: '2021-07-07'
@@ -14,13 +14,13 @@ stars: 4.6
 ratings: 
 reviews: 8
 size: 
-website: https://fnk.com
+website: 'https://fnk.com'
 repository: 
 issue: 
-icon: com.fnkcom.jpg
+icon: 'com.fnkcom.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-07-04'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: FNK
+developerName: 'FNK'
 features: 
 
 ---

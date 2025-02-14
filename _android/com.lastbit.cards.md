@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Lastbit Cards
+title: 'Lastbit Cards'
 altTitle: 
 authors: 
 users: 500
-appId: com.lastbit.cards
+appId: 'com.lastbit.cards'
 appCountry: 
 released: 
 updated: '2021-08-28'
@@ -12,14 +12,14 @@ version: 'Varies with device'
 stars: 
 ratings: 
 reviews: 
-size: Varies with device
+size: 'Varies with device'
 website: 
 repository: 
 issue: 
-icon: com.lastbit.cards.png
+icon: 'com.lastbit.cards.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-09-18'
 signer: 

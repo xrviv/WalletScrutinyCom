@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Qive
+title: 'Qive'
 altTitle: 
 authors: 
 users: 10
-appId: com.marathoncorporate.qive
+appId: 'com.marathoncorporate.qive'
 appCountry: 
 released: '2020-03-02'
 updated: '2020-03-31'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://qive.io
+website: 'https://qive.io'
 repository: 
 issue: 
-icon: com.marathoncorporate.qive.png
+icon: 'com.marathoncorporate.qive.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Marathon Corporate Services Ltd
+developerName: 'Marathon Corporate Services Ltd'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Elite Trade - Buy & Sell Bitco
+title: 'Elite Trade - Buy & Sell Bitco'
 altTitle: 
 authors: 
 users: 500
-appId: com.ahyoxsoft.elite
+appId: 'com.ahyoxsoft.elite'
 appCountry: 
 released: '2020-06-15'
 updated: '2020-08-06'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.ahyoxsoft.elite.png
+icon: 'com.ahyoxsoft.elite.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Akanbi Peter
+developerName: 'Akanbi Peter'
 features: 
 
 ---

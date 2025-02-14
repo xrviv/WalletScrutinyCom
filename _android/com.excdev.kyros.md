@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: The Kyros mobile app
+title: 'The Kyros mobile app'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.excdev.kyros
+appId: 'com.excdev.kyros'
 appCountry: 
 released: '2020-09-02'
 updated: '2022-02-07'
@@ -14,13 +14,13 @@ stars: 4.2
 ratings: 
 reviews: 
 size: 
-website: https://kyros.team/
+website: 'https://kyros.team/'
 repository: 
 issue: 
-icon: com.excdev.kyros.png
+icon: 'com.excdev.kyros.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Kyros Managment Ltd.
+developerName: 'Kyros Managment Ltd.'
 features: 
 
 ---

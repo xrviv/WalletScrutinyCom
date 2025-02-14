@@ -1,10 +1,10 @@
 ---
-wsId: newealth
-title: newealth
+wsId: 'newealth'
+title: 'newealth'
 altTitle: 
 authors: 
-appId: app.newealth
-appCountry: us
+appId: 'app.newealth'
+appCountry: 'us'
 idd: '1533526876'
 released: '2020-11-15'
 updated: '2021-04-17'
@@ -15,10 +15,10 @@ size: '52946944'
 website: 
 repository: 
 issue: 
-icon: app.newealth.jpg
+icon: 'app.newealth.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -26,7 +26,7 @@ reviewArchive:
 twitter: 
 social: 
 features: 
-developerName: Newealth (Pty) Ltd
+developerName: 'Newealth (Pty) Ltd'
 
 ---
 

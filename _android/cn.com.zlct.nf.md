@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: NF35 - Buy Crypto Securely
+title: 'NF35 - Buy Crypto Securely'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: cn.com.zlct.nf
+appId: 'cn.com.zlct.nf'
 appCountry: 
 released: '2021-06-10'
 updated: '2021-08-30'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://nf35.com/#/
+website: 'https://nf35.com/#/'
 repository: 
 issue: 
-icon: cn.com.zlct.nf.jpg
+icon: 'cn.com.zlct.nf.jpg'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2023-01-02'
 signer: 

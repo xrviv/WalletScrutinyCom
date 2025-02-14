@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BitKolma
+title: 'BitKolma'
 altTitle: 
 authors: 
 users: 1
-appId: com.bitkolma
+appId: 'com.bitkolma'
 appCountry: 
 released: '2021-01-21'
 updated: '2021-01-21'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bitkolma.com/
+website: 'https://bitkolma.com/'
 repository: 
 issue: 
-icon: com.bitkolma.png
+icon: 'com.bitkolma.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Og Software Solutions
+developerName: 'Og Software Solutions'
 features: 
 
 ---

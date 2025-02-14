@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitmove
+title: 'Bitmove'
 altTitle: 
 authors: 
 users: 10
-appId: com.bitmove
+appId: 'com.bitmove'
 appCountry: 
 released: '2022-04-14'
 updated: '2022-04-14'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.bitmove.png
+icon: 'com.bitmove.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bitmove Team
+developerName: 'Bitmove Team'
 features: 
 
 ---

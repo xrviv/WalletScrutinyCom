@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: HotcoinEx
+title: 'HotcoinEx'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 10000
-appId: com.pro.hot
+appId: 'com.pro.hot'
 appCountry: 
 released: '2021-05-27'
 updated: '2023-12-14'
@@ -14,13 +14,13 @@ stars: 2.8
 ratings: 10
 reviews: 4
 size: 
-website: https://hotcoin.com/
+website: 'https://hotcoin.com/'
 repository: 
 issue: 
-icon: com.pro.hot.png
+icon: 'com.pro.hot.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2021-09-16'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Hotcoin global
+developerName: 'Hotcoin global'
 features: 
 
 ---

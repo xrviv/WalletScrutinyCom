@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Rocket Trade EX
+title: 'Rocket Trade EX'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: app.excointrades.com
+appId: 'app.excointrades.com'
 appCountry: 
 released: '2022-03-28'
 updated: '2023-02-13'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://web.excoin.cloud/
+website: 'https://web.excoin.cloud/'
 repository: 
 issue: 
-icon: app.excointrades.com.jpg
+icon: 'app.excointrades.com.jpg'
 bugbounty: 
-meta: removed
-verdict: nosendreceive
+meta: 'removed'
+verdict: 'nosendreceive'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: rocket trade Limited
+developerName: 'rocket trade Limited'
 features: 
 
 ---

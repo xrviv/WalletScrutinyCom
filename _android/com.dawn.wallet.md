@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Dawn Wallet
+title: 'Dawn Wallet'
 altTitle: 
 authors: 
 users: 50
-appId: com.dawn.wallet
+appId: 'com.dawn.wallet'
 appCountry: 
 released: '2021-01-13'
 updated: '2021-04-24'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://dawn.org
+website: 'https://dawn.org'
 repository: 
 issue: 
-icon: com.dawn.wallet.png
+icon: 'com.dawn.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Dawn Wallet Inc
+developerName: 'Dawn Wallet Inc'
 features: 
 
 ---

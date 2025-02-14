@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: AGEA Online Trading App
+title: 'AGEA Online Trading App'
 altTitle: 
 authors: 
 users: 10000
-appId: com.agea.trade
+appId: 'com.agea.trade'
 appCountry: 
 released: '2020-01-21'
 updated: '2020-08-26'
@@ -13,13 +13,13 @@ stars: 3.4
 ratings: 
 reviews: 3
 size: 
-website: https://www.agea.com
+website: 'https://www.agea.com'
 repository: 
 issue: 
-icon: com.agea.trade.png
+icon: 'com.agea.trade.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-04-16'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: AGEA International AD
+developerName: 'AGEA International AD'
 features: 
 
 ---

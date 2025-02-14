@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: IXX
+title: 'IXX'
 altTitle: 
 authors: 
 users: 500
-appId: com.ixxgoogle_android
+appId: 'com.ixxgoogle_android'
 appCountry: 
 released: '2021-09-23'
 updated: '2021-11-16'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.ixxgoogle_android.png
+icon: 'com.ixxgoogle_android.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: IXX
+developerName: 'IXX'
 features: 
 
 ---

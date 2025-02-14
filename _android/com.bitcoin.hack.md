@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Bitcoin Hack
+title: 'Bitcoin Hack'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.bitcoin.hack
+appId: 'com.bitcoin.hack'
 appCountry: 
 released: '2022-08-15'
 updated: '2022-08-15'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.bitcoin.hack.png
+icon: 'com.bitcoin.hack.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2023-11-02'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: SABIR KHAN QURESHI
+developerName: 'SABIR KHAN QURESHI'
 features: 
 
 ---

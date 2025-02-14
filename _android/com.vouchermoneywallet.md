@@ -1,12 +1,12 @@
 ---
-wsId: VoucherMoney
-title: Voucher Money Vouchers and Bit
+wsId: 'VoucherMoney'
+title: 'Voucher Money Vouchers and Bit'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50000
-appId: com.vouchermoneywallet
-appCountry: in
+appId: 'com.vouchermoneywallet'
+appCountry: 'in'
 released: '2020-12-15'
 updated: '2021-03-03'
 version: '1.38.1'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://vouchermoney.com/
+website: 'https://vouchermoney.com/'
 repository: 
 issue: 
-icon: com.vouchermoneywallet.png
+icon: 'com.vouchermoneywallet.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2023-01-11'
 signer: 

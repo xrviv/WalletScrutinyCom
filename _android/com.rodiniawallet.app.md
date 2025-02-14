@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Rodinia Wallet
+title: 'Rodinia Wallet'
 altTitle: 
 authors: 
 users: 100
-appId: com.rodiniawallet.app
+appId: 'com.rodiniawallet.app'
 appCountry: 
 released: '2021-08-15'
 updated: '2021-11-21'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://rodiniawallet.com
+website: 'https://rodiniawallet.com'
 repository: 
 issue: 
-icon: com.rodiniawallet.app.jpg
+icon: 'com.rodiniawallet.app.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Denxa Corporation
+developerName: 'Denxa Corporation'
 features: 
 
 ---

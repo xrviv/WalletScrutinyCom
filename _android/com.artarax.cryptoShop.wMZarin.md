@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: wmzarin exchange
+title: 'wmzarin exchange'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.artarax.cryptoShop.wMZarin
+appId: 'com.artarax.cryptoShop.wMZarin'
 appCountry: 
 released: '2020-09-02'
 updated: '2022-06-27'
@@ -14,23 +14,23 @@ stars: 4.3
 ratings: 
 reviews: 2
 size: 
-website: https://wmzarin.com
+website: 'https://wmzarin.com'
 repository: 
 issue: 
-icon: com.artarax.cryptoShop.wMZarin.png
+icon: 'com.artarax.cryptoShop.wMZarin.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 
 social:
-- https://www.instagram.com/wmzarin
-- https://t.me/ex_wmzarin
+- 'https://www.instagram.com/wmzarin'
+- 'https://t.me/ex_wmzarin'
 redirect_from: 
-developerName: DAVID JONS
+developerName: 'DAVID JONS'
 features: 
 
 ---

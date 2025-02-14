@@ -1,12 +1,12 @@
 ---
 wsId: 
-title: Spark Lightning Wallet
+title: 'Spark Lightning Wallet'
 altTitle: 
 authors:
-- leo
-- danny
+- 'leo'
+- 'danny'
 users: 1000
-appId: com.spark.wallet
+appId: 'com.spark.wallet'
 appCountry: 
 released: '2018-12-10'
 updated: '2021-11-08'
@@ -15,13 +15,13 @@ stars: 4.5
 ratings: 
 reviews: 1
 size: 
-website: https://github.com/shesek/spark-wallet
-repository: https://github.com/shesek/spark-wallet
-issue: https://github.com/shesek/spark-wallet/issues/192
-icon: com.spark.wallet.png
+website: 'https://github.com/shesek/spark-wallet'
+repository: 'https://github.com/shesek/spark-wallet'
+issue: 'https://github.com/shesek/spark-wallet/issues/192'
+icon: 'com.spark.wallet.png'
 bugbounty: 
-meta: removed
-verdict: nonverifiable
+meta: 'removed'
+verdict: 'nonverifiable'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -29,11 +29,11 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from:
-- /com.spark.wallet/
-- /posts/com.spark.wallet/
-developerName: Nadav Ivgi
+- '/com.spark.wallet/'
+- '/posts/com.spark.wallet/'
+developerName: 'Nadav Ivgi'
 features:
-- ln
+- 'ln'
 
 ---
 

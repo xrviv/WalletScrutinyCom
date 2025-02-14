@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BitInterPay
+title: 'BitInterPay'
 altTitle: 
 authors: 
 users: 50
-appId: com.bitinterpay
+appId: 'com.bitinterpay'
 appCountry: 
 released: '2020-08-26'
 updated: '2020-09-17'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bitinterpay.com
+website: 'https://bitinterpay.com'
 repository: 
 issue: 
-icon: com.bitinterpay.png
+icon: 'com.bitinterpay.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-05-18'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bitinterpay OÜ
+developerName: 'Bitinterpay OÜ'
 features: 
 
 ---

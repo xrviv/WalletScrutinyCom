@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Polo Companion (for Poloniex)
+title: 'Polo Companion (for Poloniex)'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.tool.altintorr.polocompanion
+appId: 'com.tool.altintorr.polocompanion'
 appCountry: 
 released: '2017-09-08'
 updated: '2020-12-08'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.tool.altintorr.polocompanion.png
+icon: 'com.tool.altintorr.polocompanion.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-05-07'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: altintorr
+developerName: 'altintorr'
 features: 
 
 ---

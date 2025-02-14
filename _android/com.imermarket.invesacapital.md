@@ -4,7 +4,7 @@ title: 'InvesaCapital: CFD Trading App'
 altTitle: 
 authors: 
 users: 10000
-appId: com.imermarket.invesacapital
+appId: 'com.imermarket.invesacapital'
 appCountry: 
 released: 
 updated: '2024-07-02'
@@ -13,13 +13,13 @@ stars: 2.3
 ratings: 
 reviews: 
 size: 
-website: https://www.invesacapital.com
+website: 'https://www.invesacapital.com'
 repository: 
 issue: 
-icon: com.imermarket.invesacapital.png
+icon: 'com.imermarket.invesacapital.png'
 bugbounty: 
-meta: removed
-verdict: nosendreceive
+meta: 'removed'
+verdict: 'nosendreceive'
 appHashes: 
 date: '2024-08-15'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Imermarket (PTY) Ltd (Proprietary) Limited
+developerName: 'Imermarket (PTY) Ltd (Proprietary) Limited'
 features: 
 
 ---

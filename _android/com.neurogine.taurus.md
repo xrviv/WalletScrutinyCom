@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Neurogine nTrade Mobile
+title: 'Neurogine nTrade Mobile'
 altTitle: 
 authors: 
 users: 50
-appId: com.neurogine.taurus
+appId: 'com.neurogine.taurus'
 appCountry: 
 released: '2021-09-27'
 updated: '2022-04-27'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://ntrade.com.my/
+website: 'https://ntrade.com.my/'
 repository: 
 issue: 
-icon: com.neurogine.taurus.png
+icon: 'com.neurogine.taurus.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Neurogine
+developerName: 'Neurogine'
 features: 
 
 ---

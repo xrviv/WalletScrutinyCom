@@ -1,11 +1,11 @@
 ---
-wsId: sphinxChat
-title: Sphinx Chat
+wsId: 'sphinxChat'
+title: 'Sphinx Chat'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: chat.sphinx
+appId: 'chat.sphinx'
 appCountry: 
 released: '2021-09-30'
 updated: '2024-03-18'
@@ -14,22 +14,22 @@ stars: 3.7
 ratings: 
 reviews: 8
 size: 
-website: https://sphinx.chat
+website: 'https://sphinx.chat'
 repository: 
 issue: 
-icon: chat.sphinx.png
+icon: 'chat.sphinx.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 
 social:
-- https://t.me/joinchat/Fb4OcRo4LrRD6NXfsNdeeQ
+- 'https://t.me/joinchat/Fb4OcRo4LrRD6NXfsNdeeQ'
 redirect_from: 
-developerName: Senza
+developerName: 'Senza'
 features: 
 
 ---

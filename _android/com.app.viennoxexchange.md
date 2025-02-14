@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Viennox Crypto Exchange
+title: 'Viennox Crypto Exchange'
 altTitle: 
 authors: 
 users: 10
-appId: com.app.viennoxexchange
+appId: 'com.app.viennoxexchange'
 appCountry: 
 released: '2021-10-12'
 updated: '2021-10-18'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://viennox.com/
+website: 'https://viennox.com/'
 repository: 
 issue: 
-icon: com.app.viennoxexchange.png
+icon: 'com.app.viennoxexchange.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-03-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Viennox
+developerName: 'Viennox'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Invest Bitcoin Mining
+title: 'Invest Bitcoin Mining'
 altTitle: 
 authors: 
 users: 10
-appId: org.cryptomining.invest.bitcoin.mining
+appId: 'org.cryptomining.invest.bitcoin.mining'
 appCountry: 
 released: '2021-07-21'
 updated: '2021-07-21'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 2.4M
+size: '2.4M'
 website: 
 repository: 
 issue: 
-icon: org.cryptomining.invest.bitcoin.mining.jpg
+icon: 'org.cryptomining.invest.bitcoin.mining.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-01'
 signer: 

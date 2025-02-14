@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: MenaPay
+title: 'MenaPay'
 altTitle: 
 authors: 
 users: 10000
-appId: io.menapay
+appId: 'io.menapay'
 appCountry: 
 released: '2019-03-08'
 updated: '2020-09-18'
@@ -13,13 +13,13 @@ stars: 3.4
 ratings: 
 reviews: 4
 size: 
-website: http://menapay.io
+website: 'http://menapay.io'
 repository: 
 issue: 
-icon: io.menapay.png
+icon: 'io.menapay.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: MC Digital Tic. ve Bil. Hiz. LTD.
+developerName: 'MC Digital Tic. ve Bil. Hiz. LTD.'
 features: 
 
 ---

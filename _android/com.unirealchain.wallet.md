@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: UnirealWallet
+title: 'UnirealWallet'
 altTitle: 
 authors: 
 users: 100
-appId: com.unirealchain.wallet
+appId: 'com.unirealchain.wallet'
 appCountry: 
 released: '2021-11-08'
 updated: '2021-11-18'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://unirealchain.com/
+website: 'https://unirealchain.com/'
 repository: 
 issue: 
-icon: com.unirealchain.wallet.png
+icon: 'com.unirealchain.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-06-21'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Unirealchain
+developerName: 'Unirealchain'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Novapago Pay
+title: 'Novapago Pay'
 altTitle: 
 authors: 
 users: 100
-appId: com.novapago.novapagopay
+appId: 'com.novapago.novapagopay'
 appCountry: 
 released: '2021-06-25'
 updated: '2023-08-22'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://novapago.com
+website: 'https://novapago.com'
 repository: 
 issue: 
-icon: com.novapago.novapagopay.png
+icon: 'com.novapago.novapagopay.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-09-06'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Novapago
+developerName: 'Novapago'
 features: 
 
 ---

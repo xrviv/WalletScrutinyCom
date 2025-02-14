@@ -1,12 +1,12 @@
 ---
-wsId: stex
-title: Stex.com - Crypto exchange
+wsId: 'stex'
+title: 'Stex.com - Crypto exchange'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 100000
-appId: com.stocksexchange.android
-appCountry: us
+appId: 'com.stocksexchange.android'
+appCountry: 'us'
 released: '2018-05-15'
 updated: '2023-04-18'
 version: '2.2.0'
@@ -14,13 +14,13 @@ stars: 4.4
 ratings: 2148
 reviews: 41
 size: 
-website: https://stex.com
+website: 'https://stex.com'
 repository: 
 issue: 
-icon: com.stocksexchange.android.png
+icon: 'com.stocksexchange.android.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2023-06-21'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Data Protection Corporation
+developerName: 'Data Protection Corporation'
 features: 
 
 ---

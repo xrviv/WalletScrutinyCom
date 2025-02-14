@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BitStash Wallet - Multi Crypto
+title: 'BitStash Wallet - Multi Crypto'
 altTitle: 
 authors: 
 users: 100
-appId: app.odapplications.bitstashwallet
+appId: 'app.odapplications.bitstashwallet'
 appCountry: 
 released: '2019-11-10'
 updated: '2019-11-24'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://payments.bitstash.co/
+website: 'https://payments.bitstash.co/'
 repository: 
 issue: 
-icon: app.odapplications.bitstashwallet.png
+icon: 'app.odapplications.bitstashwallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: ODApplications
+developerName: 'ODApplications'
 features: 
 
 ---

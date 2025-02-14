@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Blockfinex
+title: 'Blockfinex'
 altTitle: 
 authors: 
 users: 100
-appId: com.cloud.blockfinex
+appId: 'com.cloud.blockfinex'
 appCountry: 
 released: 
 updated: '2022-12-29'
@@ -13,13 +13,13 @@ stars: 4.6
 ratings: 
 reviews: 
 size: 
-website: https://www.blockfinex.com
+website: 'https://www.blockfinex.com'
 repository: 
 issue: 
-icon: com.cloud.blockfinex.png
+icon: 'com.cloud.blockfinex.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-12-08'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Telechat Limited
+developerName: 'Telechat Limited'
 features: 
 
 ---

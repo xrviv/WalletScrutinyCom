@@ -1,11 +1,11 @@
 ---
-wsId: zoomexCrypto
-title: ZOOMEX-Crypto & BTC Investment
+wsId: 'zoomexCrypto'
+title: 'ZOOMEX-Crypto & BTC Investment'
 altTitle: 
 authors:
-- danny
-appId: co.zoomex.app
-appCountry: us
+- 'danny'
+appId: 'co.zoomex.app'
+appCountry: 'us'
 idd: '1601766234'
 released: '2022-03-07'
 updated: '2024-07-01'
@@ -16,20 +16,20 @@ size: '113189888'
 website: 
 repository: 
 issue: 
-icon: co.zoomex.app.jpg
+icon: 'co.zoomex.app.jpg'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-08-13'
 signer: 
 reviewArchive: 
-twitter: zoomexofficial
+twitter: 'zoomexofficial'
 social:
-- https://www.zoomex.com
-- https://t.me/zoomex_com
+- 'https://www.zoomex.com'
+- 'https://t.me/zoomex_com'
 features: 
-developerName: Octochain Fintech Limited
+developerName: 'Octochain Fintech Limited'
 
 ---
 

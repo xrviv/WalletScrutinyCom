@@ -4,7 +4,7 @@ title: 'C r y p t o G T : Trade cryptocurrency (cryptogt)'
 altTitle: '*Fake app!* C r y p t o G T : Trade cryptocurrency (cryptogt)'
 authors: 
 users: 10
-appId: com.trustdx.cryptogt
+appId: 'com.trustdx.cryptogt'
 appCountry: 
 released: '2021-07-02'
 updated: '2021-08-13'
@@ -12,14 +12,14 @@ version: '3.0'
 stars: 
 ratings: 
 reviews: 
-size: 2.5M
+size: '2.5M'
 website: 
 repository: 
 issue: 
-icon: com.trustdx.cryptogt.png
+icon: 'com.trustdx.cryptogt.png'
 bugbounty: 
-meta: removed
-verdict: fake
+meta: 'removed'
+verdict: 'fake'
 appHashes: 
 date: '2021-09-02'
 signer: 

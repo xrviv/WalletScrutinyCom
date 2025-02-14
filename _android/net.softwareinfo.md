@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Create Virtual Card Instantly
+title: 'Create Virtual Card Instantly'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 100000
-appId: net.softwareinfo
+appId: 'net.softwareinfo'
 appCountry: 
 released: '2020-11-09'
 updated: '2023-08-27'
@@ -14,13 +14,13 @@ stars: 2.8
 ratings: 
 reviews: 34
 size: 
-website: https://softwareinfo.net
+website: 'https://softwareinfo.net'
 repository: 
 issue: 
-icon: net.softwareinfo.jpg
+icon: 'net.softwareinfo.jpg'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-11-07'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Software Info
+developerName: 'Software Info'
 features: 
 
 ---

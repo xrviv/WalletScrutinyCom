@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Torque Wallet
+title: 'Torque Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.torque.android.torquewallet
+appId: 'com.torque.android.torquewallet'
 appCountry: 
 released: '2019-12-11'
 updated: '2021-02-03'
@@ -14,14 +14,13 @@ stars: 4.2
 ratings: 
 reviews: 13
 size: 
-website: >-
-  https://web.archive.org/web/20210615131456/https://torque.asia/home/terms-and-conditions/
+website: 'https://web.archive.org/web/20210615131456/https://torque.asia/home/terms-and-conditions/'
 repository: 
 issue: 
-icon: com.torque.android.torquewallet.png
+icon: 'com.torque.android.torquewallet.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-04-12'
 signer: 
@@ -29,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Torque Group Holdings
+developerName: 'Torque Group Holdings'
 features: 
 
 ---

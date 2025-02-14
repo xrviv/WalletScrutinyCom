@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoin Trading Global
+title: 'Bitcoin Trading Global'
 altTitle: 
 authors: 
 users: 1000
-appId: com.stefanschneider.bitcointrading
+appId: 'com.stefanschneider.bitcointrading'
 appCountry: 
 released: '2019-07-01'
 updated: '2019-10-12'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bitcoin-trading.global/
+website: 'https://bitcoin-trading.global/'
 repository: 
 issue: 
-icon: com.stefanschneider.bitcointrading.png
+icon: 'com.stefanschneider.bitcointrading.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-30'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bitcoin Trading Global
+developerName: 'Bitcoin Trading Global'
 features: 
 
 ---

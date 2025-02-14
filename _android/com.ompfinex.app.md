@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: ompfinex (او ام پی فینکس)
+title: 'ompfinex (او ام پی فینکس)'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 100000
-appId: com.ompfinex.app
+appId: 'com.ompfinex.app'
 appCountry: 
 released: '2021-07-20'
 updated: '2024-04-21'
@@ -14,24 +14,24 @@ stars: 4
 ratings: 
 reviews: 58
 size: 
-website: https://ompfinex.com
+website: 'https://ompfinex.com'
 repository: 
 issue: 
-icon: com.ompfinex.app.png
+icon: 'com.ompfinex.app.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-10-03'
 signer: 
 reviewArchive: 
-twitter: ompfinex
+twitter: 'ompfinex'
 social:
-- https://www.linkedin.com/company/ompfinex/
-- https://www.instagram.com/ompfinex/
-- https://www.youtube.com/channel/UC7BfUYMUwddfnwCNvq29QpQ
+- 'https://www.linkedin.com/company/ompfinex/'
+- 'https://www.instagram.com/ompfinex/'
+- 'https://www.youtube.com/channel/UC7BfUYMUwddfnwCNvq29QpQ'
 redirect_from: 
-developerName: Mammute.co
+developerName: 'Mammute.co'
 features: 
 
 ---

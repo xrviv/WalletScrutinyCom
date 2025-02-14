@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: 8U EXCHANGE
+title: '8U EXCHANGE'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.u8ex.app22
+appId: 'com.u8ex.app22'
 appCountry: 
 released: '2022-04-08'
 updated: '2022-04-09'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.u8ex.app22.png
+icon: 'com.u8ex.app22.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-06-07'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Georgette Roy
+developerName: 'Georgette Roy'
 features: 
 
 ---

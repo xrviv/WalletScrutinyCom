@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Jus Pay
+title: 'Jus Pay'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.pkg.JusPay
+appId: 'com.pkg.JusPay'
 appCountry: 
 released: '2020-09-16'
 updated: '2020-11-10'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://juspay.app
+website: 'https://juspay.app'
 repository: 
 issue: 
-icon: com.pkg.JusPay.png
+icon: 'com.pkg.JusPay.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-31'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Abdurahman Unia
+developerName: 'Abdurahman Unia'
 features: 
 
 ---

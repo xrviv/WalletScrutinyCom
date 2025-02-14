@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitflex
+title: 'Bitflex'
 altTitle: 
 authors: 
 users: 100
-appId: com.yesapp.bitflex
+appId: 'com.yesapp.bitflex'
 appCountry: 
 released: '2022-09-18'
 updated: '2022-09-19'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.yesapp.bitflex.png
+icon: 'com.yesapp.bitflex.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bitflex app
+developerName: 'Bitflex app'
 features: 
 
 ---

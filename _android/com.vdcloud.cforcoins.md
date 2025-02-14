@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: CforCoins
+title: 'CforCoins'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.vdcloud.cforcoins
+appId: 'com.vdcloud.cforcoins'
 appCountry: 
 released: '2018-05-13'
 updated: '2020-05-13'
@@ -14,22 +14,22 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.cforcoins.com
+website: 'http://www.cforcoins.com'
 repository: 
 issue: 
-icon: com.vdcloud.cforcoins.png
+icon: 'com.vdcloud.cforcoins.png'
 bugbounty: 
-meta: defunct
-verdict: custodial
+meta: 'defunct'
+verdict: 'custodial'
 appHashes: 
 date: '2023-04-12'
 signer: 
 reviewArchive: 
-twitter: CoinsCfor
+twitter: 'CoinsCfor'
 social:
-- https://www.instagram.com/cforcoins/
+- 'https://www.instagram.com/cforcoins/'
 redirect_from: 
-developerName: CforCoins
+developerName: 'CforCoins'
 features: 
 
 ---

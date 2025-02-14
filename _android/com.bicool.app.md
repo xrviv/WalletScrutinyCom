@@ -4,7 +4,7 @@ title: 'BICOOL: Buy Crypto & Bitcoin'
 altTitle: 
 authors: 
 users: 10000
-appId: com.bicool.app
+appId: 'com.bicool.app'
 appCountry: 
 released: '2022-05-11'
 updated: '2022-07-28'
@@ -13,13 +13,13 @@ stars: 5
 ratings: 
 reviews: 125
 size: 
-website: https://bicool.in/
+website: 'https://bicool.in/'
 repository: 
 issue: 
-icon: com.bicool.app.png
+icon: 'com.bicool.app.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

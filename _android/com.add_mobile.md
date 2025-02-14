@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: ADD - DeFi Wallet with Privacy
+title: 'ADD - DeFi Wallet with Privacy'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.add_mobile
+appId: 'com.add_mobile'
 appCountry: 
 released: '2021-12-10'
 updated: '2022-04-28'
@@ -14,13 +14,13 @@ stars: 4.8
 ratings: 
 reviews: 20
 size: 
-website: https://add.xyz/
+website: 'https://add.xyz/'
 repository: 
 issue: 
-icon: com.add_mobile.png
+icon: 'com.add_mobile.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2025-02-04'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: ADD.xyz
+developerName: 'ADD.xyz'
 features: 
 
 ---

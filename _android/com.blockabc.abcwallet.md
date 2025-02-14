@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: ABC Wallet - Crypto, Bitcoin Wallet
+title: 'ABC Wallet - Crypto, Bitcoin Wallet'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 1000
-appId: com.blockabc.abcwallet
+appId: 'com.blockabc.abcwallet'
 appCountry: 
 released: 
 updated: '2020-06-17'
@@ -13,14 +13,14 @@ version: '1.7.2'
 stars: 
 ratings: 
 reviews: 
-size: 13M
+size: '13M'
 website: 
 repository: 
 issue: 
-icon: com.blockabc.abcwallet.png
+icon: 'com.blockabc.abcwallet.png'
 bugbounty: 
-meta: removed
-verdict: obfuscated
+meta: 'removed'
+verdict: 'obfuscated'
 appHashes: 
 date: '2021-04-13'
 signer: 

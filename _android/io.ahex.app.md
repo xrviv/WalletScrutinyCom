@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: AHEX
+title: 'AHEX'
 altTitle: 
 authors: 
 users: 100
-appId: io.ahex.app
+appId: 'io.ahex.app'
 appCountry: 
 released: '2022-06-23'
 updated: '2022-06-23'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: io.ahex.app.png
+icon: 'io.ahex.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-09-15'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Alen Jiang
+developerName: 'Alen Jiang'
 features: 
 
 ---

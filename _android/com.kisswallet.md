@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Moonshine
+title: 'Moonshine'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 500
-appId: com.kisswallet
+appId: 'com.kisswallet'
 appCountry: 
 released: '2020-02-16'
 updated: '2020-05-30'
@@ -14,24 +14,24 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.moonshinewallet.com
-repository: https://github.com/coreyphillips/moonshine
+website: 'https://www.moonshinewallet.com'
+repository: 'https://github.com/coreyphillips/moonshine'
 issue: 
-icon: com.kisswallet.png
+icon: 'com.kisswallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
 reviewArchive: 
-twitter: coreylphillips
+twitter: 'coreylphillips'
 social: 
 redirect_from:
-- /com.kisswallet/
-- /moonshine/
-- /posts/com.kisswallet/
-developerName: Ferryman Fin LLC
+- '/com.kisswallet/'
+- '/moonshine/'
+- '/posts/com.kisswallet/'
+developerName: 'Ferryman Fin LLC'
 features: 
 
 ---

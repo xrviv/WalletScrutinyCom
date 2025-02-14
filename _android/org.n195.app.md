@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: N195
+title: 'N195'
 altTitle: 
 authors: 
 users: 1000
-appId: org.n195.app
+appId: 'org.n195.app'
 appCountry: 
 released: '2019-07-01'
 updated: '2019-07-01'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: org.n195.app.png
+icon: 'org.n195.app.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-04-26'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: URCC PTE. LTD
+developerName: 'URCC PTE. LTD'
 features: 
 
 ---

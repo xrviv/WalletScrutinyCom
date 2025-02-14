@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Evercash
+title: 'Evercash'
 altTitle: 
 authors: 
 users: 100
-appId: com.evercash.mobile.client
+appId: 'com.evercash.mobile.client'
 appCountry: 
 released: '2022-07-23'
 updated: '2023-12-04'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.evercash.mobile.client.jpg
+icon: 'com.evercash.mobile.client.jpg'
 bugbounty: 
-meta: stale
-verdict: fewusers
+meta: 'stale'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-11-29'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Parcent
+developerName: 'Parcent'
 features: 
 
 ---

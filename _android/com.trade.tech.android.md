@@ -1,25 +1,24 @@
 ---
 wsId: 
-title: Finalto
+title: 'Finalto'
 altTitle: 
 authors: 
 users: 100
-appId: com.trade.tech.android
+appId: 'com.trade.tech.android'
 appCountry: 
 released: '2019-01-02'
-updated: '2022-07-29'
+updated: 2022-07-29
 version: '1.15.0'
 stars: 
 ratings: 
 reviews: 
-size: 
-website: https://www.finalto.com/
+website: 'https://www.finalto.com/'
 repository: 
 issue: 
-icon: com.trade.tech.android.png
+icon: 'com.trade.tech.android.png'
 bugbounty: 
-meta: obsolete
-verdict: fewusers
+meta: 'obsolete'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-19'
 signer: 
@@ -27,7 +26,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Finalto
+developerName: 'Finalto'
 features: 
 
 ---

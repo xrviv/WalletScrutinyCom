@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: MCI Investments
+title: 'MCI Investments'
 altTitle: 
 authors: 
 users: 10
-appId: com.finantick.app
+appId: 'com.finantick.app'
 appCountry: 
 released: 
 updated: '2022-06-06'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.mciinvestments.com
+website: 'https://www.mciinvestments.com'
 repository: 
 issue: 
-icon: com.finantick.app.png
+icon: 'com.finantick.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-04-16'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: MCI TRADING SOLUTIONS LTD
+developerName: 'MCI TRADING SOLUTIONS LTD'
 features: 
 
 ---

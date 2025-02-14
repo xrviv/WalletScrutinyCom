@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Runixcoin - Buy Cryptocurrency
+title: 'Runixcoin - Buy Cryptocurrency'
 altTitle: 
 authors: 
 users: 10
-appId: com.runixcoin.com.runixcoin
+appId: 'com.runixcoin.com.runixcoin'
 appCountry: 
 released: '2022-04-13'
 updated: '2022-04-19'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.runixcoin.com/
+website: 'https://www.runixcoin.com/'
 repository: 
 issue: 
-icon: com.runixcoin.com.runixcoin.png
+icon: 'com.runixcoin.com.runixcoin.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Runixcoin
+developerName: 'Runixcoin'
 features: 
 
 ---

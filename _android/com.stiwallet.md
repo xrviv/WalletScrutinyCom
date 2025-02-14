@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: STIWallet
+title: 'STIWallet'
 altTitle: 
 authors: 
 users: 100
-appId: com.stiwallet
+appId: 'com.stiwallet'
 appCountry: 
 released: '2021-03-09'
 updated: '2021-04-13'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://stiwallet.com
+website: 'http://stiwallet.com'
 repository: 
 issue: 
-icon: com.stiwallet.png
+icon: 'com.stiwallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-11-12'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: 아토유니버스
+developerName: '아토유니버스'
 features: 
 
 ---

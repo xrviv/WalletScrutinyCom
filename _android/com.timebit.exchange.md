@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Timebitex - Crypto Trading
+title: 'Timebitex - Crypto Trading'
 altTitle: 
 authors: 
 users: 50
-appId: com.timebit.exchange
+appId: 'com.timebit.exchange'
 appCountry: 
 released: '2021-02-18'
 updated: '2022-01-07'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.timebit.exchange.png
+icon: 'com.timebit.exchange.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Timebit pte. Ltd.
+developerName: 'Timebit pte. Ltd.'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: zapX
+title: 'zapX'
 altTitle: 
 authors: 
 users: 10
-appId: com.app.conv5049zapx
+appId: 'com.app.conv5049zapx'
 appCountry: 
 released: '2021-05-12'
 updated: '2021-05-12'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://zap.exchange
+website: 'https://zap.exchange'
 repository: 
 issue: 
-icon: com.app.conv5049zapx.jpg
+icon: 'com.app.conv5049zapx.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: zapX
+developerName: 'zapX'
 features: 
 
 ---

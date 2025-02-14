@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: VisionWallet — Crypto & Bitcoi
+title: 'VisionWallet — Crypto & Bitcoi'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 1000
-appId: com.visionwallet.app
+appId: 'com.visionwallet.app'
 appCountry: 
 released: '2020-09-07'
 updated: '2020-11-05'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://visionwallet.com/en/
+website: 'https://visionwallet.com/en/'
 repository: 
 issue: 
-icon: com.visionwallet.app.png
+icon: 'com.visionwallet.app.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2023-06-21'
 signer: 
@@ -28,8 +28,8 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from:
-- /com.visionwallet.app/
-developerName: VISION WALLET LTD
+- '/com.visionwallet.app/'
+developerName: 'VISION WALLET LTD'
 features: 
 
 ---

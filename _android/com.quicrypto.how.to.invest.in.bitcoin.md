@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: How To Invest In Bitcoin
+title: 'How To Invest In Bitcoin'
 altTitle: 
 authors: 
 users: 1
-appId: com.quicrypto.how.to.invest.in.bitcoin
+appId: 'com.quicrypto.how.to.invest.in.bitcoin'
 appCountry: 
 released: '2021-06-24'
 updated: '2021-06-24'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 2.3M
+size: '2.3M'
 website: 
 repository: 
 issue: 
-icon: com.quicrypto.how.to.invest.in.bitcoin.jpg
+icon: 'com.quicrypto.how.to.invest.in.bitcoin.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-01'
 signer: 

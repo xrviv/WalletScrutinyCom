@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Buy Bitcoin - Best Bitcoin Exchange- BTC Platforms
+title: 'Buy Bitcoin - Best Bitcoin Exchange- BTC Platforms'
 altTitle: 
 authors: 
 users: 1000
-appId: com.bitcoinexchangehani.buybitcoin
+appId: 'com.bitcoinexchangehani.buybitcoin'
 appCountry: 
 released: '2018-01-25'
 updated: '2018-01-26'
@@ -12,14 +12,14 @@ version: '2.2.2'
 stars: 4.3
 ratings: 6
 reviews: 2
-size: 4.2M
+size: '4.2M'
 website: 
 repository: 
 issue: 
-icon: com.bitcoinexchangehani.buybitcoin.png
+icon: 'com.bitcoinexchangehani.buybitcoin.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2021-11-10'
 signer: 
@@ -27,8 +27,8 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from:
-- /com.bitcoinexchangehani.buybitcoin/
-- /posts/com.bitcoinexchangehani.buybitcoin/
+- '/com.bitcoinexchangehani.buybitcoin/'
+- '/posts/com.bitcoinexchangehani.buybitcoin/'
 developerName: 
 features: 
 

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BluePips Capital
+title: 'BluePips Capital'
 altTitle: 
 authors: 
 users: 10
-appId: com.bluepipscapital.webviewapp
+appId: 'com.bluepipscapital.webviewapp'
 appCountry: 
 released: 
 updated: '2020-11-12'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.bluepips.co/
+website: 'https://www.bluepips.co/'
 repository: 
 issue: 
-icon: com.bluepipscapital.webviewapp.png
+icon: 'com.bluepipscapital.webviewapp.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-11-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BluePips Capital
+developerName: 'BluePips Capital'
 features: 
 
 ---

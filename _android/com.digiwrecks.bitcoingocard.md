@@ -1,25 +1,24 @@
 ---
 wsId: 
-title: VR-BitcoinGoCard
+title: 'VR-BitcoinGoCard'
 altTitle: 
 authors: 
 users: 100
-appId: com.digiwrecks.bitcoingocard
+appId: 'com.digiwrecks.bitcoingocard'
 appCountry: 
 released: '2022-02-01'
-updated: '2024-08-24'
+updated: 2024-08-24
 version: '1.1.6'
 stars: 5
 ratings: 
 reviews: 
-size: 
 website: 
 repository: 
 issue: 
-icon: com.digiwrecks.bitcoingocard.png
+icon: 'com.digiwrecks.bitcoingocard.png'
 bugbounty: 
-meta: ok
-verdict: fewusers
+meta: 'ok'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-08-25'
 signer: 
@@ -27,7 +26,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Die SW-Factory GmbH
+developerName: 'Die SW-Factory GmbH'
 features: 
 
 ---

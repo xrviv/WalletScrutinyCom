@@ -1,11 +1,11 @@
 ---
-wsId: DuniaPay
-title: Dunia
+wsId: 'DuniaPay'
+title: 'Dunia'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.duniapay.africa
+appId: 'com.duniapay.africa'
 appCountry: 
 released: '2019-10-02'
 updated: '2022-03-29'
@@ -14,24 +14,24 @@ stars: 4.7
 ratings: 
 reviews: 
 size: 
-website: https://www.duniapay.net
+website: 'https://www.duniapay.net'
 repository: 
 issue: 
-icon: com.duniapay.africa.png
+icon: 'com.duniapay.africa.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-04-19'
 signer: 
 reviewArchive: 
-twitter: dunia_pay
+twitter: 'dunia_pay'
 social:
-- https://www.linkedin.com/company/dunia-payment/
-- https://www.facebook.com/TeamDunia/
-- https://www.youtube.com/channel/UCPJXe02QbAg3906lfr4pXzw
+- 'https://www.linkedin.com/company/dunia-payment/'
+- 'https://www.facebook.com/TeamDunia/'
+- 'https://www.youtube.com/channel/UCPJXe02QbAg3906lfr4pXzw'
 redirect_from: 
-developerName: Dunia
+developerName: 'Dunia'
 features: 
 
 ---

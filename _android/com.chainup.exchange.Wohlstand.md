@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Wohlstand Crypto Exchange
+title: 'Wohlstand Crypto Exchange'
 altTitle: 
 authors: 
 users: 1000
-appId: com.chainup.exchange.Wohlstand
+appId: 'com.chainup.exchange.Wohlstand'
 appCountry: 
 released: '2022-05-31'
 updated: '2022-09-16'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://wohlstandcex.com
+website: 'https://wohlstandcex.com'
 repository: 
 issue: 
-icon: com.chainup.exchange.Wohlstand.jpg
+icon: 'com.chainup.exchange.Wohlstand.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Wohlstand Information Technology
+developerName: 'Wohlstand Information Technology'
 features: 
 
 ---

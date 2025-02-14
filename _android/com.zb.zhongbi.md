@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: PlantCoin - Earns bitcoin app
+title: 'PlantCoin - Earns bitcoin app'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.zb.zhongbi
+appId: 'com.zb.zhongbi'
 appCountry: 
 released: '2020-08-24'
 updated: '2021-03-05'
@@ -13,14 +13,14 @@ version: '1.1.4'
 stars: 4.7
 ratings: 104
 reviews: 100
-size: 11M
-website: https://plantcoin.com
+size: '11M'
+website: 'https://plantcoin.com'
 repository: 
 issue: 
-icon: com.zb.zhongbi.jpg
+icon: 'com.zb.zhongbi.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2021-11-11'
 signer: 

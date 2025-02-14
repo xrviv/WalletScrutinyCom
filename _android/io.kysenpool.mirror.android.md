@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Mirror Wallet
+title: 'Mirror Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50000
-appId: io.kysenpool.mirror.android
+appId: 'io.kysenpool.mirror.android'
 appCountry: 
 released: '2020-12-13'
 updated: '2021-08-13'
@@ -13,14 +13,14 @@ version: '1.2.1'
 stars: 4.4
 ratings: 119
 reviews: 44
-size: 33M
-website: https://www.kysenpool.io/en/
+size: '33M'
+website: 'https://www.kysenpool.io/en/'
 repository: 
 issue: 
-icon: io.kysenpool.mirror.android.png
+icon: 'io.kysenpool.mirror.android.png'
 bugbounty: 
-meta: removed
-verdict: nosendreceive
+meta: 'removed'
+verdict: 'nosendreceive'
 appHashes: 
 date: '2021-10-22'
 signer: 

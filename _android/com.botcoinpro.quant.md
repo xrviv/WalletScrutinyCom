@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: BotCoinPro
+title: 'BotCoinPro'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.botcoinpro.quant
+appId: 'com.botcoinpro.quant'
 appCountry: 
 released: '2021-06-05'
 updated: '2021-06-29'
@@ -14,22 +14,22 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.botcoinpro.com/app/#/home
+website: 'https://www.botcoinpro.com/app/#/home'
 repository: 
 issue: 
-icon: com.botcoinpro.quant.jpg
+icon: 'com.botcoinpro.quant.jpg'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2023-05-17'
 signer: 
 reviewArchive: 
 twitter: 
 social:
-- https://www.facebook.com/botcoinpro/
+- 'https://www.facebook.com/botcoinpro/'
 redirect_from: 
-developerName: Smart Tech Paradise
+developerName: 'Smart Tech Paradise'
 features: 
 
 ---

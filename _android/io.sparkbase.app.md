@@ -1,11 +1,11 @@
 ---
-wsId: sparkbaseCrypto
-title: Sparkbase Crypto Asset Manager
+wsId: 'sparkbaseCrypto'
+title: 'Sparkbase Crypto Asset Manager'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: io.sparkbase.app
+appId: 'io.sparkbase.app'
 appCountry: 
 released: 
 updated: '2023-03-31'
@@ -14,13 +14,13 @@ stars: 4.3
 ratings: 
 reviews: 
 size: 
-website: https://www.sparkbase.io
+website: 'https://www.sparkbase.io'
 repository: 
 issue: 
-icon: io.sparkbase.app.jpg
+icon: 'io.sparkbase.app.jpg'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-10-28'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Sparkbase AG
+developerName: 'Sparkbase AG'
 features: 
 
 ---

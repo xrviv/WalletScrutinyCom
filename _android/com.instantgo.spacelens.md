@@ -1,11 +1,11 @@
 ---
-wsId: spacelensBlockchain
+wsId: 'spacelensBlockchain'
 title: 'Spacelens: Blockchain Commerce'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.instantgo.spacelens
+appId: 'com.instantgo.spacelens'
 appCountry: 
 released: '2021-12-04'
 updated: '2022-07-08'
@@ -14,23 +14,23 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://spacelens.com
+website: 'https://spacelens.com'
 repository: 
 issue: 
-icon: com.instantgo.spacelens.jpg
+icon: 'com.instantgo.spacelens.jpg'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-04-26'
 signer: 
 reviewArchive: 
-twitter: thespacelens
+twitter: 'thespacelens'
 social:
-- https://t.me/spacelens
-- https://www.facebook.com/SpaceLens
+- 'https://t.me/spacelens'
+- 'https://www.facebook.com/SpaceLens'
 redirect_from: 
-developerName: Madrid Ventures SL
+developerName: 'Madrid Ventures SL'
 features: 
 
 ---

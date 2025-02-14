@@ -1,26 +1,25 @@
 ---
 wsId: 
-title: Beehive Multi-Coin Wallet
+title: 'Beehive Multi-Coin Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.beehive.beehivemulti_coinwallet
+appId: 'com.beehive.beehivemulti_coinwallet'
 appCountry: 
 released: '2021-09-13'
-updated: '2021-12-01'
+updated: 2021-12-01
 version: '1.1'
 stars: 2.7
 ratings: 
 reviews: 9
-size: 
-website: https://beehivewallet.link
+website: 'https://beehivewallet.link'
 repository: 
 issue: 
-icon: com.beehive.beehivemulti_coinwallet.png
+icon: 'com.beehive.beehivemulti_coinwallet.png'
 bugbounty: 
-meta: obsolete
-verdict: nobtc
+meta: 'obsolete'
+verdict: 'nobtc'
 appHashes: 
 date: '2023-11-25'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Beehive Wallet
+developerName: 'Beehive Wallet'
 features: 
 
 ---

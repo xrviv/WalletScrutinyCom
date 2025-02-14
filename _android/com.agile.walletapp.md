@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Crypto Wallet
+title: 'Crypto Wallet'
 altTitle: 
 authors: 
 users: 500
-appId: com.agile.walletapp
+appId: 'com.agile.walletapp'
 appCountry: 
 released: '2019-06-06'
 updated: '2019-06-06'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.agileinfoways.com
+website: 'https://www.agileinfoways.com'
 repository: 
 issue: 
-icon: com.agile.walletapp.png
+icon: 'com.agile.walletapp.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Agile Infoways Pvt. Ltd.
+developerName: 'Agile Infoways Pvt. Ltd.'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Sole Wallet
+title: 'Sole Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: io.solewallet.bankwallet
+appId: 'io.solewallet.bankwallet'
 appCountry: 
 released: '2022-08-31'
 updated: '2023-01-18'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: io.solewallet.bankwallet.png
+icon: 'io.solewallet.bankwallet.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Blocktech Brew
+developerName: 'Blocktech Brew'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Investing&Trading
+title: 'Investing&Trading'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 100000
-appId: com.ittrendex.liteforex
+appId: 'com.ittrendex.liteforex'
 appCountry: 
 released: '2017-10-23'
 updated: '2022-05-26'
@@ -14,21 +14,21 @@ stars: 3.9
 ratings: 1060
 reviews: 16
 size: 
-website: https://www.liteforex.com
+website: 'https://www.liteforex.com'
 repository: 
 issue: 
-icon: com.ittrendex.liteforex.png
+icon: 'com.ittrendex.liteforex.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2023-01-02'
 signer: 
 reviewArchive: 
-twitter: litefinanceeng
+twitter: 'litefinanceeng'
 social:
-- https://www.linkedin.com/company/litefinance-official
-- https://www.facebook.com/LiteFinancebroker
+- 'https://www.linkedin.com/company/litefinance-official'
+- 'https://www.facebook.com/LiteFinancebroker'
 redirect_from: 
 developerName: 
 features: 

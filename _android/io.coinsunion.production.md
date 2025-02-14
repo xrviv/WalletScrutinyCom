@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Coins Union
+title: 'Coins Union'
 altTitle: 
 authors: 
 users: 50
-appId: io.coinsunion.production
+appId: 'io.coinsunion.production'
 appCountry: 
 released: '2021-10-20'
 updated: '2022-01-18'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: io.coinsunion.production.png
+icon: 'io.coinsunion.production.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-03-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Coins Union
+developerName: 'Coins Union'
 features: 
 
 ---

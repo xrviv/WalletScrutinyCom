@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: TurinWallet
+title: 'TurinWallet'
 altTitle: 
 authors: 
 users: 500
-appId: com.turinlabs.wallet
+appId: 'com.turinlabs.wallet'
 appCountry: 
 released: '2022-09-14'
 updated: '2023-03-06'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.turinlabs.com/turinwallet
+website: 'https://www.turinlabs.com/turinwallet'
 repository: 
 issue: 
-icon: com.turinlabs.wallet.png
+icon: 'com.turinlabs.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-11-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: TurinLabs
+developerName: 'TurinLabs'
 features: 
 
 ---

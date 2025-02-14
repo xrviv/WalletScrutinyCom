@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: iorys
+title: 'iorys'
 altTitle: 
 authors: 
 users: 100
-appId: com.iorys
+appId: 'com.iorys'
 appCountry: 
 released: '2021-06-21'
 updated: '2024-09-10'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.iorys.png
+icon: 'com.iorys.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-12-31'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Iorys Ltd
+developerName: 'Iorys Ltd'
 features: 
 
 ---

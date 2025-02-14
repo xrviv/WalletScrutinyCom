@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: 24CFD - Online Trading Platfor
+title: '24CFD - Online Trading Platfor'
 altTitle: 
 authors: 
 users: 500
-appId: com.twentyfourcfd
+appId: 'com.twentyfourcfd'
 appCountry: 
 released: '2019-09-25'
 updated: '2019-09-25'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.24cfd.com
+website: 'https://www.24cfd.com'
 repository: 
 issue: 
-icon: com.twentyfourcfd.png
+icon: 'com.twentyfourcfd.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CITFRIX
+developerName: 'CITFRIX'
 features: 
 
 ---

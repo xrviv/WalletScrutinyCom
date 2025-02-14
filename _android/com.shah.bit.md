@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: ShahBiT
+title: 'ShahBiT'
 altTitle: 
 authors: 
 users: 100
-appId: com.shah.bit
+appId: 'com.shah.bit'
 appCountry: 
 released: '2022-08-17'
 updated: '2022-08-25'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.shah.bit.png
+icon: 'com.shah.bit.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-12-31'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Shah of crypto
+developerName: 'Shah of crypto'
 features: 
 
 ---

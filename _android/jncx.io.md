@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: JNCX:Zero-Fee Bitcoin Exchange
+title: 'JNCX:Zero-Fee Bitcoin Exchange'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: jncx.io
+appId: 'jncx.io'
 appCountry: 
 released: '2022-05-24'
 updated: '2022-09-01'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: jncx.io.png
+icon: 'jncx.io.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-07-28'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: JNC FINTECH
+developerName: 'JNC FINTECH'
 features: 
 
 ---

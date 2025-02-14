@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Fast Local Trade
+title: 'Fast Local Trade'
 altTitle: 
 authors: 
 users: 100
-appId: com.fastlocaltrade.fastlocaltrade
+appId: 'com.fastlocaltrade.fastlocaltrade'
 appCountry: 
 released: '2019-05-11'
 updated: '2019-12-06'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.fastlocaltrade.fastlocaltrade.png
+icon: 'com.fastlocaltrade.fastlocaltrade.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: FLT
+developerName: 'FLT'
 features: 
 
 ---

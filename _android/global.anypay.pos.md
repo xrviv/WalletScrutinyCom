@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Anypay®
+title: 'Anypay®'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: global.anypay.pos
+appId: 'global.anypay.pos'
 appCountry: 
 released: '2018-11-08'
 updated: '2023-08-30'
@@ -14,13 +14,13 @@ stars: 4.5
 ratings: 
 reviews: 16
 size: 
-website: https://anypayx.com
+website: 'https://anypayx.com'
 repository: 
 issue: 
-icon: global.anypay.pos.png
+icon: 'global.anypay.pos.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-11-29'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Anypay Inc.
+developerName: 'Anypay Inc.'
 features: 
 
 ---

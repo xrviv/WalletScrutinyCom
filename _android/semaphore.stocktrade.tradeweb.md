@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: 증권통 가상화폐(코인원)
+title: '증권통 가상화폐(코인원)'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: semaphore.stocktrade.tradeweb
+appId: 'semaphore.stocktrade.tradeweb'
 appCountry: 
 released: '2018-01-22'
 updated: '2020-08-28'
@@ -14,13 +14,13 @@ stars: 3.8
 ratings: 
 reviews: 
 size: 
-website: http://stocktong.io
+website: 'http://stocktong.io'
 repository: 
 issue: 
-icon: semaphore.stocktrade.tradeweb.png
+icon: 'semaphore.stocktrade.tradeweb.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-11-12'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Tomato Group
+developerName: 'Tomato Group'
 features: 
 
 ---

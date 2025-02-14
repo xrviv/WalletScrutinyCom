@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Invest On Bitcoin
+title: 'Invest On Bitcoin'
 altTitle: 
 authors: 
 users: 0
-appId: org.cryptotreasures.invest.on.bitcoin1
+appId: 'org.cryptotreasures.invest.on.bitcoin1'
 appCountry: 
 released: '2021-06-24'
 updated: '2021-06-24'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 2.4M
+size: '2.4M'
 website: 
 repository: 
 issue: 
-icon: org.cryptotreasures.invest.on.bitcoin1.png
+icon: 'org.cryptotreasures.invest.on.bitcoin1.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-01'
 signer: 

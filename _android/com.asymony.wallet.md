@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Asimony - Safe Crypto Wallet
+title: 'Asimony - Safe Crypto Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.asymony.wallet
+appId: 'com.asymony.wallet'
 appCountry: 
 released: 
 updated: '2022-09-01'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.asymony.wallet.png
+icon: 'com.asymony.wallet.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2024-10-28'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Ehijihu
+developerName: 'Ehijihu'
 features: 
 
 ---

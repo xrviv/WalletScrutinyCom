@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: PayUs POS
+title: 'PayUs POS'
 altTitle: 
 authors: 
 users: 100
-appId: com.worldex.payus
+appId: 'com.worldex.payus'
 appCountry: 
 released: '2019-02-01'
 updated: '2019-02-05'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://payus.io/
+website: 'https://payus.io/'
 repository: 
 issue: 
-icon: com.worldex.payus.png
+icon: 'com.worldex.payus.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Worldex Inc USA
+developerName: 'Worldex Inc USA'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Peer2BTC
+title: 'Peer2BTC'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.mlm.application
+appId: 'com.mlm.application'
 appCountry: 
 released: '2021-03-25'
 updated: '2022-04-20'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://peer2btc.com/
+website: 'http://peer2btc.com/'
 repository: 
 issue: 
-icon: com.mlm.application.png
+icon: 'com.mlm.application.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: SR Corporation
+developerName: 'SR Corporation'
 features: 
 
 ---

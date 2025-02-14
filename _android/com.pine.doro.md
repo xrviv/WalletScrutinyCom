@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Pine App
+title: 'Pine App'
 altTitle: 
 authors: 
 users: 1000
-appId: com.pine.doro
+appId: 'com.pine.doro'
 appCountry: 
 released: '2021-04-10'
 updated: '2021-05-05'
@@ -12,14 +12,14 @@ version: '1.1'
 stars: 3.2
 ratings: 40
 reviews: 34
-size: 10M
+size: '10M'
 website: 
 repository: 
 issue: 
-icon: com.pine.doro.jpg
+icon: 'com.pine.doro.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2021-09-16'
 signer: 

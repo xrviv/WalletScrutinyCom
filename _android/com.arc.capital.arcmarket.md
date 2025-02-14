@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Arcmarket
+title: 'Arcmarket'
 altTitle: 
 authors: 
 users: 500
-appId: com.arc.capital.arcmarket
+appId: 'com.arc.capital.arcmarket'
 appCountry: 
 released: '2021-09-24'
 updated: '2021-09-24'
@@ -13,13 +13,13 @@ stars: 4.4
 ratings: 
 reviews: 
 size: 
-website: https://arcmarket.capital
+website: 'https://arcmarket.capital'
 repository: 
 issue: 
-icon: com.arc.capital.arcmarket.png
+icon: 'com.arc.capital.arcmarket.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: ARC Market Capital
+developerName: 'ARC Market Capital'
 features: 
 
 ---

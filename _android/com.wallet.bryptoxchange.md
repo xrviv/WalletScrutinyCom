@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Brypto Exchange
+title: 'Brypto Exchange'
 altTitle: 
 authors: 
 users: 50
-appId: com.wallet.bryptoxchange
+appId: 'com.wallet.bryptoxchange'
 appCountry: 
 released: '2022-11-01'
 updated: '2023-02-01'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bryptoxchange.com/
+website: 'https://bryptoxchange.com/'
 repository: 
 issue: 
-icon: com.wallet.bryptoxchange.png
+icon: 'com.wallet.bryptoxchange.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Brypto Holdings
+developerName: 'Brypto Holdings'
 features: 
 
 ---

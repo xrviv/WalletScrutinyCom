@@ -4,7 +4,7 @@ title: 'BITDD: Bitcoin Crypto Exchange'
 altTitle: 
 authors: 
 users: 100
-appId: com.fmdc.webview
+appId: 'com.fmdc.webview'
 appCountry: 
 released: '2022-10-28'
 updated: '2022-11-08'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.fmdc.webview.png
+icon: 'com.fmdc.webview.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: FMDC App
+developerName: 'FMDC App'
 features: 
 
 ---

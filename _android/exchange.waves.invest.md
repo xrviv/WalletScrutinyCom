@@ -1,11 +1,11 @@
 ---
-wsId: wxInvest
-title: WX Invest
+wsId: 'wxInvest'
+title: 'WX Invest'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: exchange.waves.invest
+appId: 'exchange.waves.invest'
 appCountry: 
 released: '2021-09-11'
 updated: '2022-12-19'
@@ -14,22 +14,22 @@ stars: 4.4
 ratings: 
 reviews: 5
 size: 
-website: https://waves.exchange/investments
+website: 'https://waves.exchange/investments'
 repository: 
 issue: 
-icon: exchange.waves.invest.png
+icon: 'exchange.waves.invest.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2023-12-19'
 signer: 
 reviewArchive: 
-twitter: WXNetwork
+twitter: 'WXNetwork'
 social:
-- https://www.facebook.com/WavesExchange-110844914984722
+- 'https://www.facebook.com/WavesExchange-110844914984722'
 redirect_from: 
-developerName: WX Development LTD.
+developerName: 'WX Development LTD.'
 features: 
 
 ---

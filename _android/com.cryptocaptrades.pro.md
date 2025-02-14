@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: CryptoCapTrades
+title: 'CryptoCapTrades'
 altTitle: 
 authors: 
 users: 50
-appId: com.cryptocaptrades.pro
+appId: 'com.cryptocaptrades.pro'
 appCountry: 
 released: '2021-07-23'
 updated: '2021-08-16'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.cryptocaptrades.pro.png
+icon: 'com.cryptocaptrades.pro.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-09-15'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Vuco World
+developerName: 'Vuco World'
 features: 
 
 ---

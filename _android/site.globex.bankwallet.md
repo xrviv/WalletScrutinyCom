@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Globex Wallet
+title: 'Globex Wallet'
 altTitle: 
 authors: 
 users: 500
-appId: site.globex.bankwallet
+appId: 'site.globex.bankwallet'
 appCountry: 
 released: '2019-06-28'
 updated: '2019-06-28'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://wallet.gex.exchange
+website: 'https://wallet.gex.exchange'
 repository: 
 issue: 
-icon: site.globex.bankwallet.png
+icon: 'site.globex.bankwallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Globex Ltd.
+developerName: 'Globex Ltd.'
 features: 
 
 ---

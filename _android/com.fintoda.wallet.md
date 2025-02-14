@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Fintoda Wallet
+title: 'Fintoda Wallet'
 altTitle: 
 authors: 
 users: 10
-appId: com.fintoda.wallet
+appId: 'com.fintoda.wallet'
 appCountry: 
 released: 
 updated: '2021-08-02'
@@ -12,14 +12,14 @@ version: 'Varies with device'
 stars: 
 ratings: 
 reviews: 
-size: Varies with device
+size: 'Varies with device'
 website: 
 repository: 
 issue: 
-icon: com.fintoda.wallet.png
+icon: 'com.fintoda.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-09-04'
 signer: 

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: ESCB Wallet
+title: 'ESCB Wallet'
 altTitle: 
 authors: 
 users: 10
-appId: com.idmid9e01m0afjvnmq1wu
+appId: 'com.idmid9e01m0afjvnmq1wu'
 appCountry: 
 released: '2018-06-09'
 updated: '2018-06-09'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://escrowblock.net
+website: 'https://escrowblock.net'
 repository: 
 issue: 
-icon: com.idmid9e01m0afjvnmq1wu.png
+icon: 'com.idmid9e01m0afjvnmq1wu.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Escb Foundation
+developerName: 'Escb Foundation'
 features: 
 
 ---

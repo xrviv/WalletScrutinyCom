@@ -1,25 +1,24 @@
 ---
 wsId: 
-title: Electroneum
+title: 'Electroneum'
 altTitle: 
 authors: 
 users: 1000000
-appId: com.electroneum.mobile
+appId: 'com.electroneum.mobile'
 appCountry: 
 released: '2017-12-13'
-updated: '2024-05-01'
+updated: 2024-05-01
 version: '5.6.0'
 stars: 2.8
 ratings: 58803
 reviews: 2066
-size: 
-website: http://electroneum.com
+website: 'http://electroneum.com'
 repository: 
 issue: 
-icon: com.electroneum.mobile.png
+icon: 'com.electroneum.mobile.png'
 bugbounty: 
-meta: ok
-verdict: nobtc
+meta: 'ok'
+verdict: 'nobtc'
 appHashes: 
 date: '2020-06-08'
 signer: 
@@ -27,9 +26,9 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from:
-- /com.electroneum.mobile/
-- /posts/com.electroneum.mobile/
-developerName: ETN-CWP
+- '/com.electroneum.mobile/'
+- '/posts/com.electroneum.mobile/'
+developerName: 'ETN-CWP'
 features: 
 
 ---

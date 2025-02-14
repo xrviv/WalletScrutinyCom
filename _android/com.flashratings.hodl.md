@@ -1,26 +1,25 @@
 ---
-wsId: HODLCryptoTracker
-title: HODL Real-Time Crypto Tracker
+wsId: 'HODLCryptoTracker'
+title: 'HODL Real-Time Crypto Tracker'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 100000
-appId: com.flashratings.hodl
+appId: 'com.flashratings.hodl'
 appCountry: 
 released: '2018-07-24'
-updated: '2023-09-16'
+updated: 2023-09-16
 version: '9.11'
 stars: 4.4
 ratings: 
 reviews: 478
-size: 
-website: http://www.hodlfinance.com
+website: 'http://www.hodlfinance.com'
 repository: 
 issue: 
-icon: com.flashratings.hodl.png
+icon: 'com.flashratings.hodl.png'
 bugbounty: 
-meta: stale
-verdict: nowallet
+meta: 'stale'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-09-11'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: HODL Media Inc.
+developerName: 'HODL Media Inc.'
 features: 
 
 ---

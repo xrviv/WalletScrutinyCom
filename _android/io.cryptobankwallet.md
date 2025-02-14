@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: CryptoBank
+title: 'CryptoBank'
 altTitle: 
 authors: 
 users: 1000
-appId: io.cryptobankwallet
+appId: 'io.cryptobankwallet'
 appCountry: 
 released: '2020-12-10'
 updated: '2020-12-10'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.gexpay.com
+website: 'http://www.gexpay.com'
 repository: 
 issue: 
-icon: io.cryptobankwallet.jpg
+icon: 'io.cryptobankwallet.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: GexPay
+developerName: 'GexPay'
 features: 
 
 ---

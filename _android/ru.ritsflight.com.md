@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Alpac Wallet
+title: 'Alpac Wallet'
 altTitle: 
 authors: 
 users: 100
-appId: ru.ritsflight.com
+appId: 'ru.ritsflight.com'
 appCountry: 
 released: '2022-01-09'
 updated: '2022-01-10'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://ritstoken.com
+website: 'http://ritstoken.com'
 repository: 
 issue: 
-icon: ru.ritsflight.com.png
+icon: 'ru.ritsflight.com.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

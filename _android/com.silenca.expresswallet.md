@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: ExpressWallet
+title: 'ExpressWallet'
 altTitle: 
 authors: 
 users: 500
-appId: com.silenca.expresswallet
+appId: 'com.silenca.expresswallet'
 appCountry: 
 released: '2020-05-14'
 updated: '2020-05-14'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.silenca.expresswallet.png
+icon: 'com.silenca.expresswallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-09-28'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Learn & Solve
+developerName: 'Learn & Solve'
 features: 
 
 ---

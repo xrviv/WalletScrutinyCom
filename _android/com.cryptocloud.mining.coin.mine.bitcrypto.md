@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Bitcrypto - BTC Cloud Mining
+title: 'Bitcrypto - BTC Cloud Mining'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50000
-appId: com.cryptocloud.mining.coin.mine.bitcrypto
+appId: 'com.cryptocloud.mining.coin.mine.bitcrypto'
 appCountry: 
 released: '2021-07-31'
 updated: '2021-11-02'
@@ -13,14 +13,14 @@ version: '1.2'
 stars: 3.2
 ratings: 4398
 reviews: 2958
-size: 12M
-website: https://bitcryptos.in/
+size: '12M'
+website: 'https://bitcryptos.in/'
 repository: 
 issue: 
-icon: com.cryptocloud.mining.coin.mine.bitcrypto.png
+icon: 'com.cryptocloud.mining.coin.mine.bitcrypto.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2021-11-16'
 signer: 

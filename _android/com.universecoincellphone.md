@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Universe Coin
+title: 'Universe Coin'
 altTitle: 
 authors: 
 users: 100
-appId: com.universecoincellphone
+appId: 'com.universecoincellphone'
 appCountry: 
 released: '2019-12-12'
 updated: '2020-08-10'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://universecoin.io
+website: 'https://universecoin.io'
 repository: 
 issue: 
-icon: com.universecoincellphone.png
+icon: 'com.universecoincellphone.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Lattitudemundi
+developerName: 'Lattitudemundi'
 features: 
 
 ---

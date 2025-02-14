@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Coinstec - Buy & sell Bitcoin,
+title: 'Coinstec - Buy & sell Bitcoin,'
 altTitle: 
 authors: 
 users: 500
-appId: com.pandats.coinstec
+appId: 'com.pandats.coinstec'
 appCountry: 
 released: '2017-12-24'
 updated: '2018-01-04'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.coinstec.com
+website: 'http://www.coinstec.com'
 repository: 
 issue: 
-icon: com.pandats.coinstec.png
+icon: 'com.pandats.coinstec.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-05-07'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Coinstec
+developerName: 'Coinstec'
 features: 
 
 ---

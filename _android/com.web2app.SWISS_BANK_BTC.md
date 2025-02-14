@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: SWISS BANK BTC
+title: 'SWISS BANK BTC'
 altTitle: 
 authors: 
 users: 500
-appId: com.web2app.SWISS_BANK_BTC
+appId: 'com.web2app.SWISS_BANK_BTC'
 appCountry: 
 released: '2020-11-27'
 updated: '2020-11-30'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.web2app.SWISS_BANK_BTC.jpg
+icon: 'com.web2app.SWISS_BANK_BTC.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

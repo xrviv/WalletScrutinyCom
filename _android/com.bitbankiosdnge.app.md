@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: 24BITBANK EXCHANGE
+title: '24BITBANK EXCHANGE'
 altTitle: 
 authors: 
 users: 100
-appId: com.bitbankiosdnge.app
+appId: 'com.bitbankiosdnge.app'
 appCountry: 
 released: '2021-09-30'
 updated: '2021-09-30'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://24bitbank.io/
+website: 'https://24bitbank.io/'
 repository: 
 issue: 
-icon: com.bitbankiosdnge.app.png
+icon: 'com.bitbankiosdnge.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: 24BITBANK
+developerName: '24BITBANK'
 features: 
 
 ---

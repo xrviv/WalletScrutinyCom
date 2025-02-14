@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Numus
+title: 'Numus'
 altTitle: 
 authors: 
 users: 10
-appId: games.fair.wallet
+appId: 'games.fair.wallet'
 appCountry: 
 released: '2019-12-12'
 updated: '2020-03-13'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: games.fair.wallet.png
+icon: 'games.fair.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Digital Rumors
+developerName: 'Digital Rumors'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Bybt
+title: 'Bybt'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.bybt.bybtapp
+appId: 'com.bybt.bybtapp'
 appCountry: 
 released: '2021-02-10'
 updated: '2021-10-29'
@@ -13,19 +13,19 @@ version: '1.0.1.7'
 stars: 4.4
 ratings: 111
 reviews: 49
-size: 5.6M
-website: https://www.bybt.com/
+size: '5.6M'
+website: 'https://www.bybt.com/'
 repository: 
 issue: 
-icon: com.bybt.bybtapp.jpg
+icon: 'com.bybt.bybtapp.jpg'
 bugbounty: 
-meta: removed
-verdict: fake
+meta: 'removed'
+verdict: 'fake'
 appHashes: 
 date: '2021-11-16'
 signer: 
 reviewArchive: 
-twitter: bybt_com
+twitter: 'bybt_com'
 social: 
 redirect_from: 
 developerName: 

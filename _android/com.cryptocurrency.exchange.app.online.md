@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Crypto Exchange - Trade Crypto
+title: 'Crypto Exchange - Trade Crypto'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.cryptocurrency.exchange.app.online
+appId: 'com.cryptocurrency.exchange.app.online'
 appCountry: 
 released: '2021-05-20'
 updated: '2021-05-20'
@@ -14,13 +14,13 @@ stars: 4
 ratings: 151
 reviews: 20
 size: 
-website: http://cryptocurrency-exchange.site
+website: 'http://cryptocurrency-exchange.site'
 repository: 
 issue: 
-icon: com.cryptocurrency.exchange.app.online.png
+icon: 'com.cryptocurrency.exchange.app.online.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Crypto Exchange App
+developerName: 'Crypto Exchange App'
 features: 
 
 ---

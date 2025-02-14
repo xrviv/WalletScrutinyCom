@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: iTrader-Earn more with traders
+title: 'iTrader-Earn more with traders'
 altTitle: 
 authors: 
 users: 50
-appId: com.itarder.myapp
+appId: 'com.itarder.myapp'
 appCountry: 
 released: '2022-05-27'
 updated: '2022-11-14'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://itrader.cc/
+website: 'https://itrader.cc/'
 repository: 
 issue: 
-icon: com.itarder.myapp.png
+icon: 'com.itarder.myapp.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-04'
 signer: 

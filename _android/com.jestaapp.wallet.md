@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Jesta wallet - Trade crypto
+title: 'Jesta wallet - Trade crypto'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.jestaapp.wallet
+appId: 'com.jestaapp.wallet'
 appCountry: 
 released: '2022-09-02'
 updated: '2022-09-02'
@@ -14,13 +14,13 @@ stars: 4.8
 ratings: 
 reviews: 60
 size: 
-website: https://burtar.com
+website: 'https://burtar.com'
 repository: 
 issue: 
-icon: com.jestaapp.wallet.png
+icon: 'com.jestaapp.wallet.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-07-18'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: GGTC GLOBAL
+developerName: 'GGTC GLOBAL'
 features: 
 
 ---

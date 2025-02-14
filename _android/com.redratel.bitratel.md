@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: 비트라텔 BitRatel
+title: '비트라텔 BitRatel'
 altTitle: 
 authors: 
 users: 10
-appId: com.redratel.bitratel
+appId: 'com.redratel.bitratel'
 appCountry: 
 released: '2019-09-10'
 updated: '2021-05-14'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://redratel.com
+website: 'https://redratel.com'
 repository: 
 issue: 
-icon: com.redratel.bitratel.png
+icon: 'com.redratel.bitratel.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: RedRatel
+developerName: 'RedRatel'
 features: 
 
 ---

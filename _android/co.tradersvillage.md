@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Traders Village - Trade Crypto
+title: 'Traders Village - Trade Crypto'
 altTitle: 
 authors: 
 users: 10
-appId: co.tradersvillage
+appId: 'co.tradersvillage'
 appCountry: 
 released: '2020-06-08'
 updated: '2020-06-08'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://tradersvillage.co
+website: 'https://tradersvillage.co'
 repository: 
 issue: 
-icon: co.tradersvillage.png
+icon: 'co.tradersvillage.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: tradersvillage.co
+developerName: 'tradersvillage.co'
 features: 
 
 ---

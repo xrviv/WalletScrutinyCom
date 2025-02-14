@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoin Binance Exchange And Cryptocurrency Ex.
+title: 'Bitcoin Binance Exchange And Cryptocurrency Ex.'
 altTitle: 
 authors: 
 users: 100
-appId: com.wBinanceBitcoinExchangeAndCryptocurrencyExchangeTrade_14058627
+appId: 'com.wBinanceBitcoinExchangeAndCryptocurrencyExchangeTrade_14058627'
 appCountry: 
 released: '2021-07-06'
 updated: '2021-07-06'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 11M
+size: '11M'
 website: 
 repository: 
 issue: 
-icon: com.wBinanceBitcoinExchangeAndCryptocurrencyExchangeTrade_14058627.jpg
+icon: 'com.wBinanceBitcoinExchangeAndCryptocurrencyExchangeTrade_14058627.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-22'
 signer: 

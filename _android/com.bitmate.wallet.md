@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BitMate
+title: 'BitMate'
 altTitle: 
 authors: 
 users: 1000
-appId: com.bitmate.wallet
+appId: 'com.bitmate.wallet'
 appCountry: 
 released: '2021-09-30'
 updated: '2021-10-13'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bitmate.io/
+website: 'https://bitmate.io/'
 repository: 
 issue: 
-icon: com.bitmate.wallet.png
+icon: 'com.bitmate.wallet.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-08-16'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bitmate
+developerName: 'Bitmate'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: WARP - Earn Bitcoin and Crypto
+title: 'WARP - Earn Bitcoin and Crypto'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.warp.app
+appId: 'com.warp.app'
 appCountry: 
 released: '2021-08-06'
 updated: '2022-04-01'
@@ -14,21 +14,21 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://warpdefi.io
+website: 'https://warpdefi.io'
 repository: 
 issue: 
-icon: com.warp.app.png
+icon: 'com.warp.app.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-05-07'
 signer: 
 reviewArchive: 
-twitter: WarpDefi
+twitter: 'WarpDefi'
 social: 
 redirect_from: 
-developerName: WARP DeFi
+developerName: 'WARP DeFi'
 features: 
 
 ---

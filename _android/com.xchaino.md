@@ -3,9 +3,9 @@ wsId:
 title: 'خرید بیت کوین و ارزدیجیتال: اک'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.xchaino
+appId: 'com.xchaino'
 appCountry: 
 released: '2021-09-22'
 updated: '2022-06-14'
@@ -14,23 +14,23 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://exchaino.com
+website: 'https://exchaino.com'
 repository: 
 issue: 
-icon: com.xchaino.png
+icon: 'com.xchaino.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2023-09-15'
 signer: 
 reviewArchive: 
-twitter: exchaino
+twitter: 'exchaino'
 social:
-- https://www.instagram.com/myexchaino
-- https://t.me/exchaino
+- 'https://www.instagram.com/myexchaino'
+- 'https://t.me/exchaino'
 redirect_from: 
-developerName: Bit24
+developerName: 'Bit24'
 features: 
 
 ---

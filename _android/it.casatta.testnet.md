@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Firma (testnet)
+title: 'Firma (testnet)'
 altTitle: 
 authors: 
 users: 10
-appId: it.casatta.testnet
+appId: 'it.casatta.testnet'
 appCountry: 
 released: '2020-05-17'
 updated: '2021-08-06'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: it.casatta.testnet.png
+icon: 'it.casatta.testnet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Riccardo Casatta
+developerName: 'Riccardo Casatta'
 features: 
 
 ---

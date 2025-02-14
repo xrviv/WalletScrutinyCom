@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Safecoin Wallet
+title: 'Safecoin Wallet'
 altTitle: 
 authors: 
 users: 1000
-appId: org.safecoin.safecoinwallet
+appId: 'org.safecoin.safecoinwallet'
 appCountry: 
 released: '2018-07-10'
 updated: '2019-03-18'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://safecoin.org
+website: 'https://safecoin.org'
 repository: 
 issue: 
-icon: org.safecoin.safecoinwallet.png
+icon: 'org.safecoin.safecoinwallet.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-30'
 signer: 

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: AIEVE
+title: 'AIEVE'
 altTitle: 
 authors: 
 users: 500
-appId: com.aievemobile
+appId: 'com.aievemobile'
 appCountry: 
 released: '2018-11-13'
 updated: '2019-05-25'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.aieve.io/
+website: 'https://www.aieve.io/'
 repository: 
 issue: 
-icon: com.aievemobile.png
+icon: 'com.aievemobile.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: AIEVE Ltd
+developerName: 'AIEVE Ltd'
 features: 
 
 ---

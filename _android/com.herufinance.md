@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Heru Finance
+title: 'Heru Finance'
 altTitle: 
 authors: 
 users: 100
-appId: com.herufinance
+appId: 'com.herufinance'
 appCountry: 
 released: '2022-08-03'
 updated: '2022-12-05'
@@ -13,13 +13,13 @@ stars: 5
 ratings: 
 reviews: 
 size: 
-website: https://heru.finance/
+website: 'https://heru.finance/'
 repository: 
 issue: 
-icon: com.herufinance.png
+icon: 'com.herufinance.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-30'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Tykhe Block Ventures LLC
+developerName: 'Tykhe Block Ventures LLC'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Forex Broker
+title: 'Forex Broker'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.bucdev.bestforexbroker
+appId: 'com.bucdev.bestforexbroker'
 appCountry: 
 released: '2018-04-17'
 updated: '2020-10-09'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.knightgames.co
+website: 'https://www.knightgames.co'
 repository: 
 issue: 
-icon: com.bucdev.bestforexbroker.png
+icon: 'com.bucdev.bestforexbroker.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2025-02-13'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: FinDev
+developerName: 'FinDev'
 features: 
 
 ---

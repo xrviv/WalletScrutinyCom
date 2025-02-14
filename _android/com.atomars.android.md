@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Atomars
+title: 'Atomars'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.atomars.android
+appId: 'com.atomars.android'
 appCountry: 
 released: '2019-07-01'
 updated: '2019-07-01'
@@ -14,24 +14,24 @@ stars: 2.2
 ratings: 
 reviews: 
 size: 
-website: https://atomars.com
+website: 'https://atomars.com'
 repository: 
 issue: 
-icon: com.atomars.android.png
+icon: 'com.atomars.android.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-09-08'
 signer: 
 reviewArchive: 
-twitter: AtomarsExchange
+twitter: 'AtomarsExchange'
 social:
-- https://t.me/AtomarsOfficial
-- https://www.facebook.com/AtomarsExchange
-- https://www.linkedin.com/company/atomars/
+- 'https://t.me/AtomarsOfficial'
+- 'https://www.facebook.com/AtomarsExchange'
+- 'https://www.linkedin.com/company/atomars/'
 redirect_from: 
-developerName: Atomars
+developerName: 'Atomars'
 features: 
 
 ---

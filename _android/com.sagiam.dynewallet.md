@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Dyne Wallet
+title: 'Dyne Wallet'
 altTitle: 
 authors: 
 users: 10
-appId: com.sagiam.dynewallet
+appId: 'com.sagiam.dynewallet'
 appCountry: 
 released: '2021-01-12'
 updated: '2021-01-12'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.sagiam.dynewallet.png
+icon: 'com.sagiam.dynewallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-09-15'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Dyne Coin
+developerName: 'Dyne Coin'
 features: 
 
 ---

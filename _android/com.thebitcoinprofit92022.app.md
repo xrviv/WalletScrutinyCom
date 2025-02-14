@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: The Bitcoin Profit App
+title: 'The Bitcoin Profit App'
 altTitle: 
 authors: 
 users: 50
-appId: com.thebitcoinprofit92022.app
+appId: 'com.thebitcoinprofit92022.app'
 appCountry: 
 released: '2022-07-25'
 updated: '2022-07-25'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.thebitcoinprofit92022.app.jpg
+icon: 'com.thebitcoinprofit92022.app.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: SHIVRAM
+developerName: 'SHIVRAM'
 features: 
 
 ---

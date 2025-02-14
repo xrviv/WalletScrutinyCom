@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Mnemonic Phrase Generator - Se
+title: 'Mnemonic Phrase Generator - Se'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.fourthwavestudios.joseph.mnemonic
+appId: 'com.fourthwavestudios.joseph.mnemonic'
 appCountry: 
 released: '2021-05-18'
 updated: '2021-05-18'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://fourthwavestudios.com
+website: 'http://fourthwavestudios.com'
 repository: 
 issue: 
-icon: com.fourthwavestudios.joseph.mnemonic.png
+icon: 'com.fourthwavestudios.joseph.mnemonic.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Fourth Wave
+developerName: 'Fourth Wave'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: gCryptoTrade - GDAX trading ap
+title: 'gCryptoTrade - GDAX trading ap'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.seanfreiburg.cryptotrader
+appId: 'com.seanfreiburg.cryptotrader'
 appCountry: 
 released: '2018-02-20'
 updated: '2018-03-15'
@@ -14,13 +14,13 @@ stars: 4
 ratings: 
 reviews: 6
 size: 
-website: http://gcryptolab.com
+website: 'http://gcryptolab.com'
 repository: 
 issue: 
-icon: com.seanfreiburg.cryptotrader.png
+icon: 'com.seanfreiburg.cryptotrader.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: gCrypto Lab
+developerName: 'gCrypto Lab'
 features: 
 
 ---

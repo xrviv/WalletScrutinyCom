@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Fido Wallet
+title: 'Fido Wallet'
 altTitle: 
 authors: 
 users: 500
-appId: com.fido.wallet
+appId: 'com.fido.wallet'
 appCountry: 
 released: '2022-03-01'
 updated: '2022-07-12'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.fido.wallet.png
+icon: 'com.fido.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: HubitCoinics:Buy & Sell Crypto
+title: 'HubitCoinics:Buy & Sell Crypto'
 altTitle: 
 authors: 
 users: 50
-appId: org.hubitcoinics.Hubitcoinics
+appId: 'org.hubitcoinics.Hubitcoinics'
 appCountry: 
 released: '2023-04-18'
 updated: '2023-05-02'
@@ -13,13 +13,13 @@ stars: 5
 ratings: 
 reviews: 
 size: 
-website: https://hubitcoinics.org
+website: 'https://hubitcoinics.org'
 repository: 
 issue: 
-icon: org.hubitcoinics.Hubitcoinics.png
+icon: 'org.hubitcoinics.Hubitcoinics.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-05-07'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CodeCraftPro, Inc.
+developerName: 'CodeCraftPro, Inc.'
 features: 
 
 ---

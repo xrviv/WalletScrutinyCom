@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: DEXFIN
+title: 'DEXFIN'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 100
-appId: com.dexfin.dexfin
+appId: 'com.dexfin.dexfin'
 appCountry: 
 released: '2021-05-24'
 updated: '2021-11-30'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.dexfin.com
+website: 'https://www.dexfin.com'
 repository: 
 issue: 
-icon: com.dexfin.dexfin.png
+icon: 'com.dexfin.dexfin.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: DEXFIN
+developerName: 'DEXFIN'
 features: 
 
 ---

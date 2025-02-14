@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Brick Wallet
+title: 'Brick Wallet'
 altTitle: 
 authors: 
 users: 50
-appId: com.brick.wallet
+appId: 'com.brick.wallet'
 appCountry: 
 released: '2019-11-26'
 updated: '2020-08-19'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://brick.global
+website: 'https://brick.global'
 repository: 
 issue: 
-icon: com.brick.wallet.png
+icon: 'com.brick.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

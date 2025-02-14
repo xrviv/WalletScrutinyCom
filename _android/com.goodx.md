@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: GoodX
+title: 'GoodX'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.goodx
+appId: 'com.goodx'
 appCountry: 
 released: 
 updated: '2019-03-23'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.goodx.png
+icon: 'com.goodx.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-25'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: GoodX Technologies LP
+developerName: 'GoodX Technologies LP'
 features: 
 
 ---

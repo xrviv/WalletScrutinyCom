@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: LocalBitcoin
+title: 'LocalBitcoin'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 1000
-appId: com.wLocalCrytoBTC_13166476
+appId: 'com.wLocalCrytoBTC_13166476'
 appCountry: 
 released: '2021-02-05'
 updated: '2021-08-05'
@@ -13,14 +13,14 @@ version: '1.0.26'
 stars: 3
 ratings: 43
 reviews: 30
-size: 9.5M
+size: '9.5M'
 website: 
 repository: 
 issue: 
-icon: com.wLocalCrytoBTC_13166476.png
+icon: 'com.wLocalCrytoBTC_13166476.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2021-09-16'
 signer: 

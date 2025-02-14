@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: AlyPay Ecommerce
+title: 'AlyPay Ecommerce'
 altTitle: 
 authors: 
 users: 100
-appId: com.alypay_ecommerce
+appId: 'com.alypay_ecommerce'
 appCountry: 
 released: '2021-01-24'
 updated: '2021-08-24'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.alypay_ecommerce.png
+icon: 'com.alypay_ecommerce.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: AlySystem
+developerName: 'AlySystem'
 features: 
 
 ---

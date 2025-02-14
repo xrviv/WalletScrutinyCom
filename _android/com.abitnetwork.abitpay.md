@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: ABiTPay
+title: 'ABiTPay'
 altTitle: 
 authors: 
 users: 5000
-appId: com.abitnetwork.abitpay
+appId: 'com.abitnetwork.abitpay'
 appCountry: 
 released: '2021-06-18'
 updated: '2021-10-09'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.abitnetwork.abitpay.png
+icon: 'com.abitnetwork.abitpay.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-04-20'
 signer: 

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Beonwise
+title: 'Beonwise'
 altTitle: 
 authors: 
 users: 100
-appId: com.beonwise.myapp
+appId: 'com.beonwise.myapp'
 appCountry: 
 released: '2022-05-03'
 updated: '2022-05-03'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.beonwise.myapp.png
+icon: 'com.beonwise.myapp.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

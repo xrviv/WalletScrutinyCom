@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: XYT
+title: 'XYT'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.xytwww
+appId: 'com.xytwww'
 appCountry: 
 released: '2021-02-25'
 updated: '2021-04-14'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.xyt.com
+website: 'https://www.xyt.com'
 repository: 
 issue: 
-icon: com.xytwww.png
+icon: 'com.xytwww.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-06-11'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: XYT Pro
+developerName: 'XYT Pro'
 features: 
 
 ---

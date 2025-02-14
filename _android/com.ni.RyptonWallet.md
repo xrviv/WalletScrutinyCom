@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Rhypton Wallet
+title: 'Rhypton Wallet'
 altTitle: 
 authors: 
 users: 500
-appId: com.ni.RyptonWallet
+appId: 'com.ni.RyptonWallet'
 appCountry: 
 released: '2020-04-13'
 updated: '2020-04-13'
@@ -13,13 +13,13 @@ stars: 3.7
 ratings: 
 reviews: 
 size: 
-website: https://rhypton.io
+website: 'https://rhypton.io'
 repository: 
 issue: 
-icon: com.ni.RyptonWallet.jpg
+icon: 'com.ni.RyptonWallet.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-26'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: DIGITAL INFO WORLD
+developerName: 'DIGITAL INFO WORLD'
 features: 
 
 ---

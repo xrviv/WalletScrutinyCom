@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: LetKnow - encrypted messenger
+title: 'LetKnow - encrypted messenger'
 altTitle: 
 authors: 
 users: 1000
-appId: news.letknow
+appId: 'news.letknow'
 appCountry: 
 released: '2018-04-27'
 updated: '2020-01-13'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://letknow.com
+website: 'http://letknow.com'
 repository: 
 issue: 
-icon: news.letknow.png
+icon: 'news.letknow.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

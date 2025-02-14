@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: WeiPay
+title: 'WeiPay'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50
-appId: com.chainsafe.weipay
+appId: 'com.chainsafe.weipay'
 appCountry: 
 released: 
 updated: '2019-02-18'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://chainsafe.io
-repository: https://github.com/ChainSafe/WeiPay
+website: 'http://chainsafe.io'
+repository: 'https://github.com/ChainSafe/WeiPay'
 issue: 
-icon: com.chainsafe.weipay.png
+icon: 'com.chainsafe.weipay.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: ChainSafe Systems
+developerName: 'ChainSafe Systems'
 features: 
 
 ---

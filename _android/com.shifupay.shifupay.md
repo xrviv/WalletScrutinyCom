@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Shifupay
+title: 'Shifupay'
 altTitle: 
 authors: 
 users: 100
-appId: com.shifupay.shifupay
+appId: 'com.shifupay.shifupay'
 appCountry: 
 released: '2022-08-24'
 updated: '2022-10-15'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://shifupay.net
+website: 'https://shifupay.net'
 repository: 
 issue: 
-icon: com.shifupay.shifupay.png
+icon: 'com.shifupay.shifupay.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Zaam Technologies
+developerName: 'Zaam Technologies'
 features: 
 
 ---

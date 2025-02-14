@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Paper Wallets Checker
+title: 'Paper Wallets Checker'
 altTitle: 
 authors: 
 users: 500
-appId: host.expo.rnpaperwalletchecker
+appId: 'host.expo.rnpaperwalletchecker'
 appCountry: 
 released: '2019-03-20'
 updated: '2019-03-21'
@@ -12,14 +12,14 @@ version: '1.0.0'
 stars: 3.4
 ratings: 5
 reviews: 4
-size: 15M
+size: '15M'
 website: 
 repository: 
 issue: 
-icon: host.expo.rnpaperwalletchecker.png
+icon: 'host.expo.rnpaperwalletchecker.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-11-10'
 signer: 

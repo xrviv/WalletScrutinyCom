@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BinO Trading
+title: 'BinO Trading'
 altTitle: 
 authors: 
 users: 50
-appId: com.bino.bino
+appId: 'com.bino.bino'
 appCountry: 
 released: '2021-08-21'
 updated: '2021-08-21'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://adastimes.com/
+website: 'http://adastimes.com/'
 repository: 
 issue: 
-icon: com.bino.bino.png
+icon: 'com.bino.bino.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BinoAI
+developerName: 'BinoAI'
 features: 
 
 ---

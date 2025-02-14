@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: MarketBtc
+title: 'MarketBtc'
 altTitle: 
 authors: 
 users: 10
-appId: com.cluzstudio.marketbtc
+appId: 'com.cluzstudio.marketbtc'
 appCountry: 
 released: '2020-03-02'
 updated: '2020-03-02'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://marketbtc.net
+website: 'https://marketbtc.net'
 repository: 
 issue: 
-icon: com.cluzstudio.marketbtc.png
+icon: 'com.cluzstudio.marketbtc.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

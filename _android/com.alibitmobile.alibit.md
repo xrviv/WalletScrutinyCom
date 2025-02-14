@@ -4,7 +4,7 @@ title: 'Alibit: First B2B Bitcoin Mark'
 altTitle: 
 authors: 
 users: 50
-appId: com.alibitmobile.alibit
+appId: 'com.alibitmobile.alibit'
 appCountry: 
 released: '2021-05-09'
 updated: '2021-05-09'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://alibit.tech/
+website: 'https://alibit.tech/'
 repository: 
 issue: 
-icon: com.alibitmobile.alibit.jpg
+icon: 'com.alibitmobile.alibit.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Alibit Mobile
+developerName: 'Alibit Mobile'
 features: 
 
 ---

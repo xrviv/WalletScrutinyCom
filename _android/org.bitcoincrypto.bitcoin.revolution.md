@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoin Revolution
+title: 'Bitcoin Revolution'
 altTitle: 
 authors: 
 users: 50
-appId: org.bitcoincrypto.bitcoin.revolution
+appId: 'org.bitcoincrypto.bitcoin.revolution'
 appCountry: 
 released: '2021-06-24'
 updated: '2021-06-24'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 2.4M
+size: '2.4M'
 website: 
 repository: 
 issue: 
-icon: org.bitcoincrypto.bitcoin.revolution.png
+icon: 'org.bitcoincrypto.bitcoin.revolution.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-09-23'
 signer: 

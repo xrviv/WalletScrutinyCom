@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Criptoclases for Android TV
+title: 'Criptoclases for Android TV'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.uscreen.videotrading
+appId: 'com.uscreen.videotrading'
 appCountry: 
 released: '2021-12-07'
 updated: '2024-11-12'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://app.criptoclases.com/
+website: 'https://app.criptoclases.com/'
 repository: 
 issue: 
-icon: com.uscreen.videotrading.png
+icon: 'com.uscreen.videotrading.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-12-15'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Criptoclases
+developerName: 'Criptoclases'
 features: 
 
 ---

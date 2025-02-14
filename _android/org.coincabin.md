@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Everstrike
+title: 'Everstrike'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: org.coincabin
+appId: 'org.coincabin'
 appCountry: 
 released: '2022-07-29'
 updated: '2023-11-17'
@@ -14,22 +14,22 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://everstrike.io
+website: 'https://everstrike.io'
 repository: 
 issue: 
-icon: org.coincabin.jpg
+icon: 'org.coincabin.jpg'
 bugbounty: 
-meta: stale
-verdict: nobtc
+meta: 'stale'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-11-12'
 signer: 
 reviewArchive: 
-twitter: everstrike_io
+twitter: 'everstrike_io'
 social:
-- https://t.me/everstrike_io
+- 'https://t.me/everstrike_io'
 redirect_from: 
-developerName: Everstrike
+developerName: 'Everstrike'
 features: 
 
 ---

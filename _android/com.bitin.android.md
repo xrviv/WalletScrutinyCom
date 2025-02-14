@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: BITIN קנה ומכור ביטקוין בביטין
+title: 'BITIN קנה ומכור ביטקוין בביטין'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.bitin.android
+appId: 'com.bitin.android'
 appCountry: 
 released: '2018-03-11'
 updated: '2022-02-11'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.BITIN.co.il
+website: 'https://www.BITIN.co.il'
 repository: 
 issue: 
-icon: com.bitin.android.png
+icon: 'com.bitin.android.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BITIN group
+developerName: 'BITIN group'
 features: 
 
 ---

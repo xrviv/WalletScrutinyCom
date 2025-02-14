@@ -4,7 +4,7 @@ title: 'Bitay: Trade Bitcoin & Crypto'
 altTitle: 
 authors: 
 users: 50
-appId: com.app.bitayindia
+appId: 'com.app.bitayindia'
 appCountry: 
 released: '2022-05-25'
 updated: '2022-05-25'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.bitay.co.in/
+website: 'https://www.bitay.co.in/'
 repository: 
 issue: 
-icon: com.app.bitayindia.png
+icon: 'com.app.bitayindia.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

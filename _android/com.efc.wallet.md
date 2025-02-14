@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: EFC Wallet
+title: 'EFC Wallet'
 altTitle: 
 authors: 
 users: 50
-appId: com.efc.wallet
+appId: 'com.efc.wallet'
 appCountry: 
 released: '2021-03-30'
 updated: '2021-04-05'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://minerglobal.org/
+website: 'https://minerglobal.org/'
 repository: 
 issue: 
-icon: com.efc.wallet.png
+icon: 'com.efc.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Yamada Shinichi
+developerName: 'Yamada Shinichi'
 features: 
 
 ---

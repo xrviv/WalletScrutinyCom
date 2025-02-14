@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: BitcoinCore for Android
+title: 'BitcoinCore for Android'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: org.lndroid.bitcoincore
+appId: 'org.lndroid.bitcoincore'
 appCountry: 
 released: '2020-07-02'
 updated: '2020-07-08'
@@ -15,12 +15,12 @@ ratings: 17
 reviews: 3
 size: 
 website: 
-repository: https://github.com/lndroid/BitcoinCoreAndroid
+repository: 'https://github.com/lndroid/BitcoinCoreAndroid'
 issue: 
-icon: org.lndroid.bitcoincore.png
+icon: 'org.lndroid.bitcoincore.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: InboxFee
+developerName: 'InboxFee'
 features: 
 
 ---

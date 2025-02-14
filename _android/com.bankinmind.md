@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BankInMind — BIM Wallet
+title: 'BankInMind — BIM Wallet'
 altTitle: 
 authors: 
 users: 100
-appId: com.bankinmind
+appId: 'com.bankinmind'
 appCountry: 
 released: '2022-06-16'
 updated: '2023-05-01'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bankinmind.com/
+website: 'https://bankinmind.com/'
 repository: 
 issue: 
-icon: com.bankinmind.png
+icon: 'com.bankinmind.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BIM GROUP L.L.C-FZ
+developerName: 'BIM GROUP L.L.C-FZ'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Genbit
+title: 'Genbit'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: br.com.treepart.genbit
+appId: 'br.com.treepart.genbit'
 appCountry: 
 released: '2019-11-10'
 updated: '2019-11-16'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.genbit.com.br/
+website: 'https://www.genbit.com.br/'
 repository: 
 issue: 
-icon: br.com.treepart.genbit.jpg
+icon: 'br.com.treepart.genbit.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-04-19'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: TreePart HDN
+developerName: 'TreePart HDN'
 features: 
 
 ---

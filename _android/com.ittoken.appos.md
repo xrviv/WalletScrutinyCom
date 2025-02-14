@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: itToken
+title: 'itToken'
 altTitle: 
 authors: 
 users: 10
-appId: com.ittoken.appos
+appId: 'com.ittoken.appos'
 appCountry: 
 released: '2022-05-10'
 updated: '2022-05-10'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.ittoken.appos.jpg
+icon: 'com.ittoken.appos.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: it token
+developerName: 'it token'
 features: 
 
 ---

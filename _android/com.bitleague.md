@@ -1,12 +1,12 @@
 ---
-wsId: BitLeague
-title: BitLeague
+wsId: 'BitLeague'
+title: 'BitLeague'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.bitleague
-appCountry: us
+appId: 'com.bitleague'
+appCountry: 'us'
 released: '2019-05-06'
 updated: '2021-05-14'
 version: '2.15.2'
@@ -14,23 +14,23 @@ stars: 4.5
 ratings: 246
 reviews: 132
 size: 
-website: https://www.bitleague.com
+website: 'https://www.bitleague.com'
 repository: 
 issue: 
-icon: com.bitleague.png
+icon: 'com.bitleague.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-05-07'
 signer: 
 reviewArchive: 
-twitter: BitLeague_Group
+twitter: 'BitLeague_Group'
 social:
-- https://www.linkedin.com/company/bitleaguegroup
-- https://www.facebook.com/bitleaguegroup
+- 'https://www.linkedin.com/company/bitleaguegroup'
+- 'https://www.facebook.com/bitleaguegroup'
 redirect_from: 
-developerName: BITLEAGUE LLC
+developerName: 'BITLEAGUE LLC'
 features: 
 
 ---

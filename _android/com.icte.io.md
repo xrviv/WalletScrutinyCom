@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: ICTE Wallet
+title: 'ICTE Wallet'
 altTitle: 
 authors: 
 users: 50
-appId: com.icte.io
+appId: 'com.icte.io'
 appCountry: 
 released: 
 updated: '2021-04-27'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://icte.io
+website: 'https://icte.io'
 repository: 
 issue: 
-icon: com.icte.io.jpg
+icon: 'com.icte.io.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: ICTE
+developerName: 'ICTE'
 features: 
 
 ---

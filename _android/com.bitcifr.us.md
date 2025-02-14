@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BitCIFR
+title: 'BitCIFR'
 altTitle: 
 authors: 
 users: 10
-appId: com.bitcifr.us
+appId: 'com.bitcifr.us'
 appCountry: 
 released: '2023-04-10'
 updated: '2023-04-10'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.bitcifr.us.png
+icon: 'com.bitcifr.us.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Everett Michael Jr Lucas-jones
+developerName: 'Everett Michael Jr Lucas-jones'
 features: 
 
 ---

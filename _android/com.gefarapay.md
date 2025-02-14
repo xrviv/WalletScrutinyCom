@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Hashbon
+title: 'Hashbon'
 altTitle: 
 authors: 
 users: 1000
-appId: com.gefarapay
+appId: 'com.gefarapay'
 appCountry: 
 released: '2018-08-02'
 updated: '2021-03-03'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://pay4y.com/
+website: 'http://pay4y.com/'
 repository: 
 issue: 
-icon: com.gefarapay.png
+icon: 'com.gefarapay.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

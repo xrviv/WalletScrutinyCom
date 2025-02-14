@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Severus
+title: 'Severus'
 altTitle: 
 authors: 
 users: 1000
-appId: app.foxwallet.my
+appId: 'app.foxwallet.my'
 appCountry: 
 released: '2022-04-10'
 updated: '2022-09-05'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://severus.finance
+website: 'https://severus.finance'
 repository: 
 issue: 
-icon: app.foxwallet.my.png
+icon: 'app.foxwallet.my.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

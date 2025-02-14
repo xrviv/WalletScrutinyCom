@@ -1,11 +1,11 @@
 ---
-wsId: traderWagon
-title: TraderWagon
+wsId: 'traderWagon'
+title: 'TraderWagon'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.traderwagon.android
+appId: 'com.traderwagon.android'
 appCountry: 
 released: '2022-05-24'
 updated: '2023-10-29'
@@ -14,21 +14,21 @@ stars: 4.6
 ratings: 
 reviews: 14
 size: 
-website: https://www.traderwagon.com/
+website: 'https://www.traderwagon.com/'
 repository: 
 issue: 
-icon: com.traderwagon.android.png
+icon: 'com.traderwagon.android.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-03-02'
 signer: 
 reviewArchive: 
-twitter: traderwagon
+twitter: 'traderwagon'
 social: 
 redirect_from: 
-developerName: TraderWagon Ltd.
+developerName: 'TraderWagon Ltd.'
 features: 
 
 ---

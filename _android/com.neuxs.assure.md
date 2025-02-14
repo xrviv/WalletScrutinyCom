@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Assure-BTC&ETH Wallet
+title: 'Assure-BTC&ETH Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50000
-appId: com.neuxs.assure
+appId: 'com.neuxs.assure'
 appCountry: 
 released: '2022-01-27'
 updated: '2023-02-06'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.neuxs.assure.png
+icon: 'com.neuxs.assure.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-03-21'
 signer: 

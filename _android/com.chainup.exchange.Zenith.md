@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Fuzionx
+title: 'Fuzionx'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.chainup.exchange.Zenith
+appId: 'com.chainup.exchange.Zenith'
 appCountry: 
 released: '2022-03-06'
 updated: '2022-11-19'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://fuzionx.io
+website: 'https://fuzionx.io'
 repository: 
 issue: 
-icon: com.chainup.exchange.Zenith.jpg
+icon: 'com.chainup.exchange.Zenith.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-04-21'
 signer: 

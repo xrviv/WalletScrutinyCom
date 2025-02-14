@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Klickl Wallet
+title: 'Klickl Wallet'
 altTitle: 
 authors: 
 users: 100
-appId: com.idcg.idcw.dz
+appId: 'com.idcg.idcw.dz'
 appCountry: 
 released: '2019-03-25'
 updated: '2024-05-15'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.proof.la/
+website: 'https://www.proof.la/'
 repository: 
 issue: 
-icon: com.idcg.idcw.dz.png
+icon: 'com.idcg.idcw.dz.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Klickl Global LLC
+developerName: 'Klickl Global LLC'
 features: 
 
 ---

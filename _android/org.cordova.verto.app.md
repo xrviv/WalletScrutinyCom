@@ -3,9 +3,9 @@ wsId:
 title: 'Verto: Bitcoin VTX EOS ETH Wal'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: org.cordova.verto.app
+appId: 'org.cordova.verto.app'
 appCountry: 
 released: 
 updated: '2019-12-13'
@@ -14,13 +14,13 @@ stars: 3.7
 ratings: 
 reviews: 
 size: 
-website: https://volentix.io/verto
+website: 'https://volentix.io/verto'
 repository: 
 issue: 
-icon: org.cordova.verto.app.png
+icon: 'org.cordova.verto.app.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-12-04'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Volentix Labs
+developerName: 'Volentix Labs'
 features: 
 
 ---

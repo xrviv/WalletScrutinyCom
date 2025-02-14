@@ -4,7 +4,7 @@ title: 'Breezcoins: Cryptocurrency & I'
 altTitle: 
 authors: 
 users: 50
-appId: com.plentahub.breezcoins_android
+appId: 'com.plentahub.breezcoins_android'
 appCountry: 
 released: '2021-04-06'
 updated: '2021-07-04'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.plentahub.breezcoins_android.png
+icon: 'com.plentahub.breezcoins_android.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Plenta Studio
+developerName: 'Plenta Studio'
 features: 
 
 ---

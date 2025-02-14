@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Berry Wallet - Store Crypto
+title: 'Berry Wallet - Store Crypto'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.berrywallet.wallet
+appId: 'com.berrywallet.wallet'
 appCountry: 
 released: '2022-11-10'
 updated: '2022-12-12'
@@ -14,22 +14,22 @@ stars: 4
 ratings: 
 reviews: 8
 size: 
-website: https://wallet.berrychain.io
+website: 'https://wallet.berrychain.io'
 repository: 
 issue: 
-icon: com.berrywallet.wallet.png
+icon: 'com.berrywallet.wallet.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2024-03-02'
 signer: 
 reviewArchive: 
-twitter: BerryChain
+twitter: 'BerryChain'
 social:
-- https://www.facebook.com/berrychain.official
+- 'https://www.facebook.com/berrychain.official'
 redirect_from: 
-developerName: Ahmad soft
+developerName: 'Ahmad soft'
 features: 
 
 ---

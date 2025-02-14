@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Five Star Exchange
+title: 'Five Star Exchange'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: skill.techespo.fivestarexchange
+appId: 'skill.techespo.fivestarexchange'
 appCountry: 
 released: '2020-08-26'
 updated: '2020-08-27'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: skill.techespo.fivestarexchange.png
+icon: 'skill.techespo.fivestarexchange.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-05-18'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Pingulkars Technology Solutions Private Limited
+developerName: 'Pingulkars Technology Solutions Private Limited'
 features: 
 
 ---

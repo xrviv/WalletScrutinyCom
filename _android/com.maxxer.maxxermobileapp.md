@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: maxxer
+title: 'maxxer'
 altTitle: 
 authors: 
 users: 500
-appId: com.maxxer.maxxermobileapp
+appId: 'com.maxxer.maxxermobileapp'
 appCountry: 
 released: '2022-07-09'
 updated: '2022-12-06'
@@ -13,13 +13,13 @@ stars: 3
 ratings: 
 reviews: 
 size: 
-website: https://www.maxxer.com
+website: 'https://www.maxxer.com'
 repository: 
 issue: 
-icon: com.maxxer.maxxermobileapp.jpg
+icon: 'com.maxxer.maxxermobileapp.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: DXXR Holding BV
+developerName: 'DXXR Holding BV'
 features: 
 
 ---

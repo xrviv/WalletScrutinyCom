@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: SafeWallet - Buy Bitcoin/ETH/USDT, Crypto Wallet
+title: 'SafeWallet - Buy Bitcoin/ETH/USDT, Crypto Wallet'
 altTitle: 
 authors: 
 users: 100000
-appId: com.cmcm.blockchain.bitcoin.ethereum.safewallet
+appId: 'com.cmcm.blockchain.bitcoin.ethereum.safewallet'
 appCountry: 
 released: '2018-01-31'
 updated: '2019-05-30'
@@ -12,14 +12,14 @@ version: '3.2.5'
 stars: 4.5
 ratings: 3131
 reviews: 1214
-size: 13M
-website: https://safewallet.cmcmbc.com
+size: '13M'
+website: 'https://safewallet.cmcmbc.com'
 repository: 
 issue: 
-icon: com.cmcm.blockchain.bitcoin.ethereum.safewallet.png
+icon: 'com.cmcm.blockchain.bitcoin.ethereum.safewallet.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2020-03-20'
 signer: 
@@ -27,8 +27,8 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from:
-- /com.cmcm.blockchain.bitcoin.ethereum.safewallet/
-- /posts/com.cmcm.blockchain.bitcoin.ethereum.safewallet/
+- '/com.cmcm.blockchain.bitcoin.ethereum.safewallet/'
+- '/posts/com.cmcm.blockchain.bitcoin.ethereum.safewallet/'
 developerName: 
 features: 
 

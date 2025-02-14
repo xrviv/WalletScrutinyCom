@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: eFXGO! by EuropeFX
+title: 'eFXGO! by EuropeFX'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.europefx.app
+appId: 'com.europefx.app'
 appCountry: 
 released: 
 updated: '2021-09-14'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://europefx.com
+website: 'https://europefx.com'
 repository: 
 issue: 
-icon: com.europefx.app.png
+icon: 'com.europefx.app.png'
 bugbounty: 
-meta: defunct
-verdict: nosendreceive
+meta: 'defunct'
+verdict: 'nosendreceive'
 appHashes: 
 date: '2023-08-02'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Technologies maxiflex
+developerName: 'Technologies maxiflex'
 features: 
 
 ---

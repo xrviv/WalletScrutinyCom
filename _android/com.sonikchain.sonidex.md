@@ -1,25 +1,24 @@
 ---
 wsId: 
-title: SoniDEX
+title: 'SoniDEX'
 altTitle: 
 authors: 
 users: 10
-appId: com.sonikchain.sonidex
+appId: 'com.sonikchain.sonidex'
 appCountry: 
 released: '2022-01-27'
-updated: '2022-01-27'
+updated: 2022-01-27
 version: '1.0.0'
 stars: 
 ratings: 
 reviews: 
-size: 
-website: https://sonidex.sonikchain.com
+website: 'https://sonidex.sonikchain.com'
 repository: 
 issue: 
-icon: com.sonikchain.sonidex.png
+icon: 'com.sonikchain.sonidex.png'
 bugbounty: 
-meta: obsolete
-verdict: fewusers
+meta: 'obsolete'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-01-19'
 signer: 
@@ -27,7 +26,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Francesco - Sonikchain Team
+developerName: 'Francesco - Sonikchain Team'
 features: 
 
 ---

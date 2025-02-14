@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Adara Bitcoin & Crypto Trading
+title: 'Adara Bitcoin & Crypto Trading'
 altTitle: 
 authors: 
 users: 1000
-appId: io.adara.client
+appId: 'io.adara.client'
 appCountry: 
 released: '2019-11-25'
 updated: '2020-02-05'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://adara.io/
+website: 'https://adara.io/'
 repository: 
 issue: 
-icon: io.adara.client.png
+icon: 'io.adara.client.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-09-28'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Adara
+developerName: 'Adara'
 features: 
 
 ---

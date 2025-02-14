@@ -4,7 +4,7 @@ title: 'Cryptorobotics: Crypto Trading'
 altTitle: 
 authors: 
 users: 1000
-appId: net.cryptorobotics.app
+appId: 'net.cryptorobotics.app'
 appCountry: 
 released: '2019-10-07'
 updated: '2019-10-07'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://cryptorobotics.co
+website: 'https://cryptorobotics.co'
 repository: 
 issue: 
-icon: net.cryptorobotics.app.png
+icon: 'net.cryptorobotics.app.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-04-26'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CryptoRobotics Limited
+developerName: 'CryptoRobotics Limited'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BHEXSG
+title: 'BHEXSG'
 altTitle: 
 authors: 
 users: 50
-appId: sg.bhex.app
+appId: 'sg.bhex.app'
 appCountry: 
 released: 
 updated: '2023-02-09'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.bhex.sg
+website: 'http://www.bhex.sg'
 repository: 
 issue: 
-icon: sg.bhex.app.png
+icon: 'sg.bhex.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: bhexsg-developer
+developerName: 'bhexsg-developer'
 features: 
 
 ---

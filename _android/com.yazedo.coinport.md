@@ -3,9 +3,9 @@ wsId:
 title: 'CoinPort: Buy and Sell Bitcoin'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.yazedo.coinport
+appId: 'com.yazedo.coinport'
 appCountry: 
 released: '2018-03-04'
 updated: '2021-03-12'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.yazedo.coinport.png
+icon: 'com.yazedo.coinport.png'
 bugbounty: 
-meta: defunct
-verdict: nowallet
+meta: 'defunct'
+verdict: 'nowallet'
 appHashes: 
 date: '2023-06-11'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Yazedo
+developerName: 'Yazedo'
 features: 
 
 ---

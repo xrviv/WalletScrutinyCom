@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Swiitex
+title: 'Swiitex'
 altTitle: 
 authors: 
 users: 5
-appId: ng.com.wmc.swiitex
+appId: 'ng.com.wmc.swiitex'
 appCountry: 
 released: '2021-10-26'
 updated: '2023-01-04'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://swiitex.com
+website: 'https://swiitex.com'
 repository: 
 issue: 
-icon: ng.com.wmc.swiitex.png
+icon: 'ng.com.wmc.swiitex.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Sweetwave Ltd
+developerName: 'Sweetwave Ltd'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoin Wallet Dark
+title: 'Bitcoin Wallet Dark'
 altTitle: 
 authors: 
 users: 50
-appId: bit.consortium.wallet
+appId: 'bit.consortium.wallet'
 appCountry: 
 released: '2021-08-10'
 updated: '2021-08-10'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: bit.consortium.wallet.png
+icon: 'bit.consortium.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-30'
 signer: 

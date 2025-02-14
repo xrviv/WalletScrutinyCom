@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Pocket Exchange
+title: 'Pocket Exchange'
 altTitle: 
 authors: 
 users: 50
-appId: io.pocketex
+appId: 'io.pocketex'
 appCountry: 
 released: '2022-05-18'
 updated: '2023-08-25'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://pocketexchange.io
+website: 'https://pocketexchange.io'
 repository: 
 issue: 
-icon: io.pocketex.png
+icon: 'io.pocketex.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2025-01-15'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Hilotech
+developerName: 'Hilotech'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BitOption
+title: 'BitOption'
 altTitle: 
 authors: 
 users: 1000
-appId: com.app.bitoption
+appId: 'com.app.bitoption'
 appCountry: 
 released: '2020-08-19'
 updated: '2020-09-09'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.bitoption.app/client/
+website: 'https://www.bitoption.app/client/'
 repository: 
 issue: 
-icon: com.app.bitoption.png
+icon: 'com.app.bitoption.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

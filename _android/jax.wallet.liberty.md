@@ -3,9 +3,9 @@ wsId:
 title: 'Ja­xx Lib­erty: Crypto Wallet'
 altTitle: '(Fake) Jaxx Lib­erty: Crypto Wallet'
 authors:
-- leo
+- 'leo'
 users: 500
-appId: jax.wallet.liberty
+appId: 'jax.wallet.liberty'
 appCountry: 
 released: '2021-08-30'
 updated: '2021-08-31'
@@ -13,14 +13,14 @@ version: '12.003'
 stars: 
 ratings: 
 reviews: 
-size: 9.3M
+size: '9.3M'
 website: 
 repository: 
 issue: 
-icon: jax.wallet.liberty.png
+icon: 'jax.wallet.liberty.png'
 bugbounty: 
-meta: removed
-verdict: fake
+meta: 'removed'
+verdict: 'fake'
 appHashes: 
 date: '2021-10-22'
 signer: 

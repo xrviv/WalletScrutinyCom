@@ -1,11 +1,11 @@
 ---
-wsId: arbismartWallet
-title: ArbiSmart
+wsId: 'arbismartWallet'
+title: 'ArbiSmart'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.arbismart.hotwallets
+appId: 'com.arbismart.hotwallets'
 appCountry: 
 released: 
 updated: '2024-06-18'
@@ -17,18 +17,18 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.arbismart.hotwallets.jpg
+icon: 'com.arbismart.hotwallets.jpg'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-11-29'
 signer: 
 reviewArchive: 
-twitter: arbismart
+twitter: 'arbismart'
 social: 
 redirect_from: 
-developerName: Arbismart
+developerName: 'Arbismart'
 features: 
 
 ---

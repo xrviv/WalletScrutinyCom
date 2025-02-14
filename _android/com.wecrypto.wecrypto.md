@@ -4,7 +4,7 @@ title: 'WeCrypto: The Future of Digita'
 altTitle: 
 authors: 
 users: 500
-appId: com.wecrypto.wecrypto
+appId: 'com.wecrypto.wecrypto'
 appCountry: 
 released: '2018-01-12'
 updated: '2018-01-12'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://wecrypto.net
+website: 'http://wecrypto.net'
 repository: 
 issue: 
-icon: com.wecrypto.wecrypto.png
+icon: 'com.wecrypto.wecrypto.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: AndSocialREW Gaming and Publishing
+developerName: 'AndSocialREW Gaming and Publishing'
 features: 
 
 ---

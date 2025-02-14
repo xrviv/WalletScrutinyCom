@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: CryptonX
+title: 'CryptonX'
 altTitle: 
 authors: 
 users: 100
-appId: my.service.cryptonx
+appId: 'my.service.cryptonx'
 appCountry: 
 released: '2021-09-28'
 updated: '2021-09-28'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: my.service.cryptonx.png
+icon: 'my.service.cryptonx.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CryptonX - Wallet
+developerName: 'CryptonX - Wallet'
 features: 
 
 ---

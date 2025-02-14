@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Syarpa
+title: 'Syarpa'
 altTitle: 
 authors: 
 users: 100
-appId: com.syarpa.app
+appId: 'com.syarpa.app'
 appCountry: 
 released: '2022-09-30'
 updated: '2024-09-11'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://syarpa.com/
+website: 'https://syarpa.com/'
 repository: 
 issue: 
-icon: com.syarpa.app.png
+icon: 'com.syarpa.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2025-02-13'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: SYARPA LIMITED
+developerName: 'SYARPA LIMITED'
 features: 
 
 ---

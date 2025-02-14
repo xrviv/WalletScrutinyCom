@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: CMBCWALLET
+title: 'CMBCWALLET'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.cmbcwallet.uk
+appId: 'com.cmbcwallet.uk'
 appCountry: 
 released: '2019-06-10'
 updated: '2019-07-02'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.cmbcwallet.uk
+website: 'https://www.cmbcwallet.uk'
 repository: 
 issue: 
-icon: com.cmbcwallet.uk.png
+icon: 'com.cmbcwallet.uk.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-17'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: FFFEX
+developerName: 'FFFEX'
 features: 
 
 ---

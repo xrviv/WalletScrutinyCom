@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BitCion HuBs
+title: 'BitCion HuBs'
 altTitle: 
 authors: 
 users: 10
-appId: com.youngphubs.app
+appId: 'com.youngphubs.app'
 appCountry: 
 released: '2019-10-06'
 updated: '2019-10-06'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://bitcoin-hubs.com
+website: 'http://bitcoin-hubs.com'
 repository: 
 issue: 
-icon: com.youngphubs.app.png
+icon: 'com.youngphubs.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Coin Hub CryptoCurrency
+developerName: 'Coin Hub CryptoCurrency'
 features: 
 
 ---

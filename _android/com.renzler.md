@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Renzler - Crypto App & Bot
+title: 'Renzler - Crypto App & Bot'
 altTitle: 
 authors: 
 users: 100
-appId: com.renzler
+appId: 'com.renzler'
 appCountry: 
 released: 
 updated: '2022-08-22'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://renzler.one
+website: 'https://renzler.one'
 repository: 
 issue: 
-icon: com.renzler.png
+icon: 'com.renzler.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-05-30'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Peter Renz
+developerName: 'Peter Renz'
 features: 
 
 ---

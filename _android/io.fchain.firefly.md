@@ -1,11 +1,11 @@
 ---
-wsId: fireflywalletpro
-title: Firefly Wallet Pro
+wsId: 'fireflywalletpro'
+title: 'Firefly Wallet Pro'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: io.fchain.firefly
+appId: 'io.fchain.firefly'
 appCountry: 
 released: '2019-05-08'
 updated: '2022-02-10'
@@ -14,13 +14,13 @@ stars: 3.9
 ratings: 
 reviews: 4
 size: 
-website: https://wallet.fchain.io
-repository: https://github.com/fchainio/firefly#readme
+website: 'https://wallet.fchain.io'
+repository: 'https://github.com/fchainio/firefly#readme'
 issue: 
-icon: io.fchain.firefly.png
+icon: 'io.fchain.firefly.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2024-11-04'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Firefly Services
+developerName: 'Firefly Services'
 features: 
 
 ---

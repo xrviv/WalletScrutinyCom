@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Beldex
+title: 'Beldex'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.beldex
+appId: 'com.beldex'
 appCountry: 
 released: 
 updated: '2021-04-14'
@@ -13,22 +13,22 @@ version: 'Varies with device'
 stars: 
 ratings: 
 reviews: 
-size: Varies with device
-website: https://www.beldex.io/
+size: 'Varies with device'
+website: 'https://www.beldex.io/'
 repository: 
 issue: 
-icon: com.beldex.png
+icon: 'com.beldex.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2021-11-26'
 signer: 
 reviewArchive: 
-twitter: beldexcoin
+twitter: 'beldexcoin'
 social:
-- https://www.linkedin.com/company/beldex-coin
-- https://www.facebook.com/beldexofficial
+- 'https://www.linkedin.com/company/beldex-coin'
+- 'https://www.facebook.com/beldexofficial'
 redirect_from: 
 developerName: 
 features: 

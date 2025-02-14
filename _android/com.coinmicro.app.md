@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: CoinMicro
+title: 'CoinMicro'
 altTitle: 
 authors: 
 users: 100
-appId: com.coinmicro.app
+appId: 'com.coinmicro.app'
 appCountry: 
 released: '2022-07-12'
 updated: '2022-10-21'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.coinmicro.app.png
+icon: 'com.coinmicro.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CoinMicro
+developerName: 'CoinMicro'
 features: 
 
 ---

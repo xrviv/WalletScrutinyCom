@@ -1,12 +1,12 @@
 ---
-wsId: ftxus
+wsId: 'ftxus'
 title: 'FTX.US Pro: Trade Crypto'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 100000
-appId: com.ftxmobile.ftxus
-appCountry: us
+appId: 'com.ftxmobile.ftxus'
+appCountry: 'us'
 released: '2020-05-18'
 updated: '2022-10-14'
 version: '2.0.8'
@@ -14,20 +14,20 @@ stars: 3.4
 ratings: 542
 reviews: 639
 size: 
-website: https://ftx.us/
+website: 'https://ftx.us/'
 repository: 
 issue: 
-icon: com.ftxmobile.ftxus.png
+icon: 'com.ftxmobile.ftxus.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2023-03-21'
 signer: 
 reviewArchive: 
-twitter: ftx_us
+twitter: 'ftx_us'
 social:
-- https://www.facebook.com/FTXUS
+- 'https://www.facebook.com/FTXUS'
 redirect_from: 
 developerName: 
 features: 

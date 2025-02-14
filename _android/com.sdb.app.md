@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: SDB-Buy Bitcoin,BTC,ETH&Crypto
+title: 'SDB-Buy Bitcoin,BTC,ETH&Crypto'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.sdb.app
+appId: 'com.sdb.app'
 appCountry: 
 released: '2022-12-07'
 updated: '2023-03-28'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.sdb.app.png
+icon: 'com.sdb.app.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-10-19'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CLARK DERICK EUGENE
+developerName: 'CLARK DERICK EUGENE'
 features: 
 
 ---

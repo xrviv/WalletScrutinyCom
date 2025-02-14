@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Tale Wallet - A Crypto Wallet
+title: 'Tale Wallet - A Crypto Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.talewallet
+appId: 'com.talewallet'
 appCountry: 
 released: '2023-04-07'
 updated: '2024-05-05'
@@ -14,24 +14,24 @@ stars: 3.3
 ratings: 
 reviews: 
 size: 
-website: https://talewallet.com
+website: 'https://talewallet.com'
 repository: 
 issue: 
-icon: com.talewallet.png
+icon: 'com.talewallet.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-11-12'
 signer: 
 reviewArchive: 
-twitter: TaleWallet
+twitter: 'TaleWallet'
 social:
-- https://www.linkedin.com/company/nexttales
-- https://www.instagram.com/onnftverse
-- https://discord.com/invite/tbs47P7gDW
+- 'https://www.linkedin.com/company/nexttales'
+- 'https://www.instagram.com/onnftverse'
+- 'https://discord.com/invite/tbs47P7gDW'
 redirect_from: 
-developerName: Tale Wallet
+developerName: 'Tale Wallet'
 features: 
 
 ---

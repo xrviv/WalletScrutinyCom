@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: BitForex
+title: 'BitForex'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 100000
-appId: com.bitforex.bitforex
+appId: 'com.bitforex.bitforex'
 appCountry: 
 released: '2022-03-17'
 updated: '2023-10-25'
@@ -14,13 +14,13 @@ stars: 2.5
 ratings: 
 reviews: 44
 size: 
-website: https://www.bitforex.com
+website: 'https://www.bitforex.com'
 repository: 
 issue: 
-icon: com.bitforex.bitforex.png
+icon: 'com.bitforex.bitforex.png'
 bugbounty: 
-meta: stale
-verdict: custodial
+meta: 'stale'
+verdict: 'custodial'
 appHashes: 
 date: '2024-10-19'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BITFOREX LTD.
+developerName: 'BITFOREX LTD.'
 features: 
 
 ---

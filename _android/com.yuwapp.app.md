@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: YUW!
+title: 'YUW!'
 altTitle: 
 authors: 
 users: 50
-appId: com.yuwapp.app
+appId: 'com.yuwapp.app'
 appCountry: 
 released: '2022-07-02'
 updated: '2022-07-28'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://yuwapp.com/
+website: 'https://yuwapp.com/'
 repository: 
 issue: 
-icon: com.yuwapp.app.jpg
+icon: 'com.yuwapp.app.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-05-18'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: YUB!
+developerName: 'YUB!'
 features: 
 
 ---

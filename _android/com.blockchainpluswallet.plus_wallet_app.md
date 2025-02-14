@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Blockchain Plus Wallet
+title: 'Blockchain Plus Wallet'
 altTitle: 
 authors: 
 users: 10000
-appId: com.blockchainpluswallet.plus_wallet_app
+appId: 'com.blockchainpluswallet.plus_wallet_app'
 appCountry: 
 released: 
 updated: '2020-12-30'
@@ -12,14 +12,14 @@ version: '3.0.1'
 stars: 3.6
 ratings: 189
 reviews: 145
-size: 13M
+size: '13M'
 website: 
 repository: 
 issue: 
-icon: com.blockchainpluswallet.plus_wallet_app.jpg
+icon: 'com.blockchainpluswallet.plus_wallet_app.jpg'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2021-06-11'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from:
-- /com.blockchainpluswallet.plus_wallet_app/
+- '/com.blockchainpluswallet.plus_wallet_app/'
 developerName: 
 features: 
 

@@ -1,26 +1,25 @@
 ---
-wsId: talkPlus
-title: T+ Wallet-Essential Crypto Hub
+wsId: 'talkPlus'
+title: 'T+ Wallet-Essential Crypto Hub'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: org.talkapp
+appId: 'org.talkapp'
 appCountry: 
 released: '2021-01-05'
-updated: '2025-01-29'
+updated: 2025-01-29
 version: '2.29.2'
 stars: 3.3
 ratings: 
 reviews: 
-size: 
-website: https://talkapp.org
+website: 'https://talkapp.org'
 repository: 
 issue: 
-icon: org.talkapp.png
+icon: 'org.talkapp.png'
 bugbounty: 
-meta: ok
-verdict: nosource
+meta: 'ok'
+verdict: 'nosource'
 appHashes: 
 date: '2024-07-22'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bull.B Technology Limited
+developerName: 'Bull.B Technology Limited'
 features: 
 
 ---

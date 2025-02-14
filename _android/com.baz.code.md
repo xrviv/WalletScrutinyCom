@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BAZ
+title: 'BAZ'
 altTitle: 
 authors: 
 users: 10000
-appId: com.baz.code
+appId: 'com.baz.code'
 appCountry: 
 released: '2022-06-23'
 updated: '2022-09-28'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.baz.code.png
+icon: 'com.baz.code.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: bitcoinyouth
+developerName: 'bitcoinyouth'
 features: 
 
 ---

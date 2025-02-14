@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Binexus  Wallet
+title: 'Binexus  Wallet'
 altTitle: 
 authors: 
 users: 50
-appId: com.binexus.wallet
+appId: 'com.binexus.wallet'
 appCountry: 
 released: '2018-03-28'
 updated: '2018-03-29'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.binexus.co
+website: 'http://www.binexus.co'
 repository: 
 issue: 
-icon: com.binexus.wallet.png
+icon: 'com.binexus.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-05-07'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Binexus
+developerName: 'Binexus'
 features: 
 
 ---

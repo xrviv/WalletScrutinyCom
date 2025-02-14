@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Lndroid.Messenger Testnet
+title: 'Lndroid.Messenger Testnet'
 altTitle: 
 authors: 
 users: 10
-appId: org.lndroid.messenger.testnet
+appId: 'org.lndroid.messenger.testnet'
 appCountry: 
 released: '2020-03-23'
 updated: '2020-03-23'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://lndroid.org
+website: 'https://lndroid.org'
 repository: 
 issue: 
-icon: org.lndroid.messenger.testnet.png
+icon: 'org.lndroid.messenger.testnet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-11-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Artur Briugeman
+developerName: 'Artur Briugeman'
 features: 
 
 ---

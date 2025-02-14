@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: SecuX SPay
+title: 'SecuX SPay'
 altTitle: 
 authors: 
 users: 100
-appId: com.secuxtech.secuxspay
+appId: 'com.secuxtech.secuxspay'
 appCountry: 
 released: '2020-11-07'
 updated: '2022-01-12'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.secuxtech.com
+website: 'http://www.secuxtech.com'
 repository: 
 issue: 
-icon: com.secuxtech.secuxspay.png
+icon: 'com.secuxtech.secuxspay.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Cryptodot - Earn Cryptocoins
+title: 'Cryptodot - Earn Cryptocoins'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.anyjson.earn.freecryptofacute
+appId: 'com.anyjson.earn.freecryptofacute'
 appCountry: 
 released: '2021-05-16'
 updated: '2022-09-28'
@@ -14,13 +14,13 @@ stars: 3.3
 ratings: 
 reviews: 6
 size: 
-website: https://www.teamanyjson.com
+website: 'https://www.teamanyjson.com'
 repository: 
 issue: 
-icon: com.anyjson.earn.freecryptofacute.png
+icon: 'com.anyjson.earn.freecryptofacute.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2023-11-02'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Team Anyjson
+developerName: 'Team Anyjson'
 features: 
 
 ---

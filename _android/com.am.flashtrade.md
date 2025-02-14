@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: FLASHTRADE
+title: 'FLASHTRADE'
 altTitle: 
 authors: 
 users: 100
-appId: com.am.flashtrade
+appId: 'com.am.flashtrade'
 appCountry: 
 released: '2020-10-13'
 updated: '2020-10-13'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.flashtrade.club/
+website: 'https://www.flashtrade.club/'
 repository: 
 issue: 
-icon: com.am.flashtrade.png
+icon: 'com.am.flashtrade.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

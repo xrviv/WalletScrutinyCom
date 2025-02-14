@@ -1,11 +1,11 @@
 ---
-wsId: nekoWallet
-title: Neko Wallet
+wsId: 'nekoWallet'
+title: 'Neko Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: io.nekoinvest.wallet
+appId: 'io.nekoinvest.wallet'
 appCountry: 
 released: '2021-09-23'
 updated: '2023-01-13'
@@ -17,19 +17,19 @@ size:
 website: 
 repository: 
 issue: 
-icon: io.nekoinvest.wallet.png
+icon: 'io.nekoinvest.wallet.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 
 social:
-- https://nekoinvest.io
+- 'https://nekoinvest.io'
 redirect_from: 
-developerName: NekoGlobal
+developerName: 'NekoGlobal'
 features: 
 
 ---

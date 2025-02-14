@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: InvestPal- Social Investing
+title: 'InvestPal- Social Investing'
 altTitle: 
 authors: 
 users: 100
-appId: com.investpal_social_trading
+appId: 'com.investpal_social_trading'
 appCountry: 
 released: '2021-04-06'
 updated: '2021-04-14'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://investpal.io
+website: 'https://investpal.io'
 repository: 
 issue: 
-icon: com.investpal_social_trading.png
+icon: 'com.investpal_social_trading.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: InvestPal FinTech
+developerName: 'InvestPal FinTech'
 features: 
 
 ---

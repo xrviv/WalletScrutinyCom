@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: CoinFloww
+title: 'CoinFloww'
 altTitle: 
 authors: 
 users: 5
-appId: com.chainup.exchange.coinfloww
+appId: 'com.chainup.exchange.coinfloww'
 appCountry: 
 released: '2022-08-18'
 updated: '2022-09-18'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://coinfloww.com
+website: 'https://coinfloww.com'
 repository: 
 issue: 
-icon: com.chainup.exchange.coinfloww.jpg
+icon: 'com.chainup.exchange.coinfloww.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-10-16'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CoinFloww Technologies
+developerName: 'CoinFloww Technologies'
 features: 
 
 ---

@@ -1,12 +1,12 @@
 ---
-wsId: ZamZam
-title: Zamzam - money transfers
+wsId: 'ZamZam'
+title: 'Zamzam - money transfers'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50000
-appId: ru.zamzamwallet
-appCountry: ru
+appId: 'ru.zamzamwallet'
+appCountry: 'ru'
 released: '2020-06-26'
 updated: '2023-05-27'
 version: '2.8.92'
@@ -14,13 +14,13 @@ stars: 3.6
 ratings: 139
 reviews: 249
 size: 
-website: https://zam.me/
+website: 'https://zam.me/'
 repository: 
 issue: 
-icon: ru.zamzamwallet.png
+icon: 'ru.zamzamwallet.png'
 bugbounty: 
-meta: stale
-verdict: nowallet
+meta: 'stale'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-05-24'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Zamzam Tech
+developerName: 'Zamzam Tech'
 features: 
 
 ---

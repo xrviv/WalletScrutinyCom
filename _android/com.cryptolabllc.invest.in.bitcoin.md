@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Invest In Bitcoin
+title: 'Invest In Bitcoin'
 altTitle: 
 authors: 
 users: 1
-appId: com.cryptolabllc.invest.in.bitcoin
+appId: 'com.cryptolabllc.invest.in.bitcoin'
 appCountry: 
 released: '2021-06-18'
 updated: '2021-06-18'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 3.3M
+size: '3.3M'
 website: 
 repository: 
 issue: 
-icon: com.cryptolabllc.invest.in.bitcoin.jpg
+icon: 'com.cryptolabllc.invest.in.bitcoin.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-01'
 signer: 

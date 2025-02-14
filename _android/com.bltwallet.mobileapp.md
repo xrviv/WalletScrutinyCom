@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BLT Wallet
+title: 'BLT Wallet'
 altTitle: 
 authors: 
 users: 1000
-appId: com.bltwallet.mobileapp
+appId: 'com.bltwallet.mobileapp'
 appCountry: 
 released: '2021-12-24'
 updated: '2022-02-01'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bitlivenow.com/
+website: 'https://bitlivenow.com/'
 repository: 
 issue: 
-icon: com.bltwallet.mobileapp.png
+icon: 'com.bltwallet.mobileapp.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-30'
 signer: 

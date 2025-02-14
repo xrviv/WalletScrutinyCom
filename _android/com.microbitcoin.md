@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: MBC Wallet - MicroBitcoin Wall
+title: 'MBC Wallet - MicroBitcoin Wall'
 altTitle: 
 authors: 
 users: 5000
-appId: com.microbitcoin
+appId: 'com.microbitcoin'
 appCountry: 
 released: '2018-10-30'
 updated: '2020-01-23'
@@ -13,23 +13,23 @@ stars: 3
 ratings: 76
 reviews: 7
 size: 
-website: https://microbitcoin.org/
+website: 'https://microbitcoin.org/'
 repository: 
 issue: 
-icon: com.microbitcoin.png
+icon: 'com.microbitcoin.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-11-07'
 signer: 
 reviewArchive: 
-twitter: MicroBitcoinOrg
+twitter: 'MicroBitcoinOrg'
 social: 
 redirect_from:
-- /com.microbitcoin/
-- /posts/com.microbitcoin/
-developerName: MicroBitcoin
+- '/com.microbitcoin/'
+- '/posts/com.microbitcoin/'
+developerName: 'MicroBitcoin'
 features: 
 
 ---

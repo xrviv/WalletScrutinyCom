@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: NNN-Trade Crypto,BTC,ETH,Defi
+title: 'NNN-Trade Crypto,BTC,ETH,Defi'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.currency.nnn
+appId: 'com.currency.nnn'
 appCountry: 
 released: '2022-05-15'
 updated: '2022-04-25'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://nnn.am
+website: 'https://nnn.am'
 repository: 
 issue: 
-icon: com.currency.nnn.png
+icon: 'com.currency.nnn.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-03-31'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: nanaya
+developerName: 'nanaya'
 features: 
 
 ---

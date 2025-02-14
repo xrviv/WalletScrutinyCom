@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Photon-Wallet
+title: 'Photon-Wallet'
 altTitle: 
 authors: 
 users: 100
-appId: com.photonwallet
+appId: 'com.photonwallet'
 appCountry: 
 released: '2018-06-22'
 updated: '2018-06-22'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.photonwallet.png
+icon: 'com.photonwallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Transpire IT service PVT LTD
+developerName: 'Transpire IT service PVT LTD'
 features: 
 
 ---

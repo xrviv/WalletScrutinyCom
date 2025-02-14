@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Pay Caesar
+title: 'Pay Caesar'
 altTitle: 
 authors: 
 users: 50
-appId: app.paycaesar.mobilewallet
+appId: 'app.paycaesar.mobilewallet'
 appCountry: 
 released: '2020-09-08'
 updated: '2021-07-07'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://aurilia.io/
+website: 'https://aurilia.io/'
 repository: 
 issue: 
-icon: app.paycaesar.mobilewallet.png
+icon: 'app.paycaesar.mobilewallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Pay Caesar Limited
+developerName: 'Pay Caesar Limited'
 features: 
 
 ---

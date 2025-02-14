@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Hovii Exchange (Lite)
+title: 'Hovii Exchange (Lite)'
 altTitle: 
 authors: 
 users: 10
-appId: com.arexsofts.hovii
+appId: 'com.arexsofts.hovii'
 appCountry: 
 released: '2022-04-22'
 updated: '2022-04-22'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.arexsofts.hovii.png
+icon: 'com.arexsofts.hovii.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

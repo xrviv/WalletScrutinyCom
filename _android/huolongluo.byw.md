@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: CoinW
+title: 'CoinW'
 altTitle: 
 authors: 
 users: 100000
-appId: huolongluo.byw
+appId: 'huolongluo.byw'
 appCountry: 
 released: '2021-10-24'
 updated: '2022-10-14'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: huolongluo.byw.png
+icon: 'huolongluo.byw.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

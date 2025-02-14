@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Gebo KEI
+title: 'Gebo KEI'
 altTitle: 
 authors: 
 users: 10
-appId: com.zoid.geboapp
+appId: 'com.zoid.geboapp'
 appCountry: 
 released: '2021-05-12'
 updated: '2021-05-12'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://gebo.io/
+website: 'https://gebo.io/'
 repository: 
 issue: 
-icon: com.zoid.geboapp.jpg
+icon: 'com.zoid.geboapp.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-26'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: ITBS LLC
+developerName: 'ITBS LLC'
 features: 
 
 ---

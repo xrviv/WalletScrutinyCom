@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: USDT Option
+title: 'USDT Option'
 altTitle: 
 authors: 
 users: 100000
-appId: com.usdtoption.www
+appId: 'com.usdtoption.www'
 appCountry: 
 released: '2020-05-10'
 updated: '2020-05-10'
@@ -13,13 +13,13 @@ stars: 3.3
 ratings: 
 reviews: 14
 size: 
-website: https://www.usdtoption.com
+website: 'https://www.usdtoption.com'
 repository: 
 issue: 
-icon: com.usdtoption.www.png
+icon: 'com.usdtoption.www.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-06-21'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: USDT OPTION
+developerName: 'USDT OPTION'
 features: 
 
 ---

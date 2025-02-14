@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: SSOK WALLET (쏙 월렛)
+title: 'SSOK WALLET (쏙 월렛)'
 altTitle: 
 authors: 
 users: 100
-appId: io.ssok
+appId: 'io.ssok'
 appCountry: 
 released: '2021-08-02'
 updated: '2021-08-23'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://ssok.info/
+website: 'http://ssok.info/'
 repository: 
 issue: 
-icon: io.ssok.png
+icon: 'io.ssok.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: ANC Holdings
+developerName: 'ANC Holdings'
 features: 
 
 ---

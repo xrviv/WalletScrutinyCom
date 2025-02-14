@@ -3,9 +3,9 @@ wsId:
 title: 'FarhadMarket - Cryptocurrency '
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.farhadmarket.app
+appId: 'com.farhadmarket.app'
 appCountry: 
 released: '2019-07-08'
 updated: '2021-12-05'
@@ -14,13 +14,13 @@ stars: 3.9
 ratings: 1035
 reviews: 14
 size: 
-website: https://farhadmarket.com/
+website: 'https://farhadmarket.com/'
 repository: 
 issue: 
-icon: com.farhadmarket.app.png
+icon: 'com.farhadmarket.app.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Exbito
+developerName: 'Exbito'
 features: 
 
 ---

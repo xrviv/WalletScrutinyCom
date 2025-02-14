@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Online Wallet
+title: 'Online Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.wallet.online
+appId: 'com.wallet.online'
 appCountry: 
 released: '2019-11-08'
 updated: '2021-04-22'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.wallet.online.jpg
+icon: 'com.wallet.online.jpg'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2023-03-21'
 signer: 

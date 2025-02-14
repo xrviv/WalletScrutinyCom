@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: AwalBit
+title: 'AwalBit'
 altTitle: 
 authors: 
 users: 100
-appId: com.awalbit
+appId: 'com.awalbit'
 appCountry: 
 released: '2022-02-26'
 updated: '2022-09-11'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.awalbit.png
+icon: 'com.awalbit.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: AwalBit
+developerName: 'AwalBit'
 features: 
 
 ---

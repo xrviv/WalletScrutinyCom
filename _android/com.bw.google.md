@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: BW Exchange
+title: 'BW Exchange'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.bw.google
+appId: 'com.bw.google'
 appCountry: 
 released: '2021-07-26'
 updated: '2021-08-16'
@@ -14,13 +14,13 @@ stars: 3.1
 ratings: 
 reviews: 4
 size: 
-website: https://www.bwex.vip/
+website: 'https://www.bwex.vip/'
 repository: 
 issue: 
-icon: com.bw.google.jpg
+icon: 'com.bw.google.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-04-21'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: bwexchange
+developerName: 'bwexchange'
 features: 
 
 ---

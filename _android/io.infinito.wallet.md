@@ -1,11 +1,11 @@
 ---
-wsId: InfinitoWallet
-title: Infinito Wallet - Crypto Walle
+wsId: 'InfinitoWallet'
+title: 'Infinito Wallet - Crypto Walle'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 100000
-appId: io.infinito.wallet
+appId: 'io.infinito.wallet'
 appCountry: 
 released: '2017-11-15'
 updated: '2022-09-06'
@@ -14,25 +14,25 @@ stars: 3.7
 ratings: 2198
 reviews: 111
 size: 
-website: https://www.infinitowallet.io
+website: 'https://www.infinitowallet.io'
 repository: 
 issue: 
-icon: io.infinito.wallet.png
+icon: 'io.infinito.wallet.png'
 bugbounty: 
-meta: obsolete
-verdict: nosource
+meta: 'obsolete'
+verdict: 'nosource'
 appHashes: 
 date: '2024-08-26'
 signer: 
 reviewArchive: 
-twitter: Infinito_Ltd
+twitter: 'Infinito_Ltd'
 social:
-- https://www.linkedin.com/company/infinitoservices
-- https://www.facebook.com/InfinitoWallet
+- 'https://www.linkedin.com/company/infinitoservices'
+- 'https://www.facebook.com/InfinitoWallet'
 redirect_from:
-- /io.infinito.wallet/
-- /posts/io.infinito.wallet/
-developerName: INFINITO SOLUTIONS PTE. LTD.
+- '/io.infinito.wallet/'
+- '/posts/io.infinito.wallet/'
+developerName: 'INFINITO SOLUTIONS PTE. LTD.'
 features: 
 
 ---

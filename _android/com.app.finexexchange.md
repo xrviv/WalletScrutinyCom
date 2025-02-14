@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Finex
+title: 'Finex'
 altTitle: 
 authors: 
 users: 5000
-appId: com.app.finexexchange
+appId: 'com.app.finexexchange'
 appCountry: 
 released: '2022-07-18'
 updated: '2022-11-30'
@@ -13,13 +13,13 @@ stars: 4
 ratings: 
 reviews: 
 size: 
-website: https://finexchanges.com
+website: 'https://finexchanges.com'
 repository: 
 issue: 
-icon: com.app.finexexchange.png
+icon: 'com.app.finexexchange.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-12-23'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Finex Exchange
+developerName: 'Finex Exchange'
 features: 
 
 ---

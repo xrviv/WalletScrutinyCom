@@ -1,26 +1,25 @@
 ---
-wsId: BuyCoinsPro
+wsId: 'BuyCoinsPro'
 title: 'Buycoins Pro: Trade BTC & USDT'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: africa.buycoins.buycoinsx.pro
-appCountry: us
+appId: 'africa.buycoins.buycoinsx.pro'
+appCountry: 'us'
 released: '2021-04-16'
-updated: '2023-09-19'
+updated: 2023-09-19
 version: '1.1.96'
 stars: 3.9
 ratings: 102
 reviews: 3
-size: 
-website: https://pro.buycoins.africa
+website: 'https://pro.buycoins.africa'
 repository: 
 issue: 
-icon: africa.buycoins.buycoinsx.pro.png
+icon: 'africa.buycoins.buycoinsx.pro.png'
 bugbounty: 
-meta: stale
-verdict: custodial
+meta: 'stale'
+verdict: 'custodial'
 appHashes: 
 date: '2024-09-14'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bitkoin Africa Inc
+developerName: 'Bitkoin Africa Inc'
 features: 
 
 ---

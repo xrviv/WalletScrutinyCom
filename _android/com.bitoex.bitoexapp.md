@@ -1,11 +1,11 @@
 ---
-wsId: bitoEXOld
-title: BitoEX幣託-虛擬通貨錢包
+wsId: 'bitoEXOld'
+title: 'BitoEX幣託-虛擬通貨錢包'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.bitoex.bitoexapp
+appId: 'com.bitoex.bitoexapp'
 appCountry: 
 released: '2019-11-18'
 updated: '2019-11-19'
@@ -14,22 +14,22 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.bitoex.com/?locale=en
+website: 'https://www.bitoex.com/?locale=en'
 repository: 
 issue: 
-icon: com.bitoex.bitoexapp.png
+icon: 'com.bitoex.bitoexapp.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-09-15'
 signer: 
 reviewArchive: 
-twitter: BitoEX_Official
+twitter: 'BitoEX_Official'
 social:
-- https://www.facebook.com/bitoex
+- 'https://www.facebook.com/bitoex'
 redirect_from: 
-developerName: BITOEX TECHNOLOGY LIMITED TAIWAN BRANCH
+developerName: 'BITOEX TECHNOLOGY LIMITED TAIWAN BRANCH'
 features: 
 
 ---

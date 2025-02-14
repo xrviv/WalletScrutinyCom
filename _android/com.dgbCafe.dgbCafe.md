@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: DigiCafe - Mobile DigiByte Poi
+title: 'DigiCafe - Mobile DigiByte Poi'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.dgbCafe.dgbCafe
+appId: 'com.dgbCafe.dgbCafe'
 appCountry: 
 released: '2018-11-16'
 updated: '2022-03-15'
@@ -14,13 +14,13 @@ stars: 4.9
 ratings: 28
 reviews: 6
 size: 
-website: https://www.digibytecafe.com
+website: 'https://www.digibytecafe.com'
 repository: 
 issue: 
-icon: com.dgbCafe.dgbCafe.png
+icon: 'com.dgbCafe.dgbCafe.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-04-26'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: DIGITIDE, LLC
+developerName: 'DIGITIDE, LLC'
 features: 
 
 ---

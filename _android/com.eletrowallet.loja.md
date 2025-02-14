@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: EletroWallet
+title: 'EletroWallet'
 altTitle: 
 authors: 
 users: 100
-appId: com.eletrowallet.loja
+appId: 'com.eletrowallet.loja'
 appCountry: 
 released: '2019-09-06'
 updated: '2019-08-20'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://eletrowallet.com
+website: 'https://eletrowallet.com'
 repository: 
 issue: 
-icon: com.eletrowallet.loja.png
+icon: 'com.eletrowallet.loja.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: EletroPay
+developerName: 'EletroPay'
 features: 
 
 ---

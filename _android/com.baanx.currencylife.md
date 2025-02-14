@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Currency Life
+title: 'Currency Life'
 altTitle: 
 authors: 
 users: 50
-appId: com.baanx.currencylife
+appId: 'com.baanx.currencylife'
 appCountry: 
 released: '2020-02-06'
 updated: '2021-02-26'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.currencylifecard.com/
+website: 'https://www.currencylifecard.com/'
 repository: 
 issue: 
-icon: com.baanx.currencylife.png
+icon: 'com.baanx.currencylife.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

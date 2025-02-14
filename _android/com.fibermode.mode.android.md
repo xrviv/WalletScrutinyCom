@@ -1,12 +1,12 @@
 ---
-wsId: fibermode
+wsId: 'fibermode'
 title: 'Mode: Buy, Earn & Grow Crypto'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50000
-appId: com.fibermode.mode.android
-appCountry: gb
+appId: 'com.fibermode.mode.android'
+appCountry: 'gb'
 released: '2021-02-11'
 updated: '2023-01-26'
 version: '3.0.9'
@@ -14,23 +14,23 @@ stars: 3.4
 ratings: 372
 reviews: 187
 size: 
-website: https://www.modeapp.com
+website: 'https://www.modeapp.com'
 repository: 
 issue: 
-icon: com.fibermode.mode.android.png
+icon: 'com.fibermode.mode.android.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2023-04-16'
 signer: 
 reviewArchive: 
-twitter: modeapp_
+twitter: 'modeapp_'
 social:
-- https://www.linkedin.com/company/modeapp-com
-- https://www.facebook.com/themodeapp
+- 'https://www.linkedin.com/company/modeapp-com'
+- 'https://www.facebook.com/themodeapp'
 redirect_from: 
-developerName: Fibermode Limited
+developerName: 'Fibermode Limited'
 features: 
 
 ---

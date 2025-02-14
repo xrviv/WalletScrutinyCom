@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Chainblock
+title: 'Chainblock'
 altTitle: 
 authors: 
 users: 50
-appId: com.stss.chainblock
+appId: 'com.stss.chainblock'
 appCountry: 
 released: '2020-01-21'
 updated: '2020-01-21'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.stss.chainblock.jpg
+icon: 'com.stss.chainblock.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Chainblock
+developerName: 'Chainblock'
 features: 
 
 ---

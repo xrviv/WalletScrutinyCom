@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Bit Alpha
+title: 'Bit Alpha'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: mob.bit.alpha82102
+appId: 'mob.bit.alpha82102'
 appCountry: 
 released: '2022-08-19'
 updated: '2022-08-19'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: mob.bit.alpha82102.png
+icon: 'mob.bit.alpha82102.png'
 bugbounty: 
-meta: removed
-verdict: nosendreceive
+meta: 'removed'
+verdict: 'nosendreceive'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: NADIM BHUTTA
+developerName: 'NADIM BHUTTA'
 features: 
 
 ---

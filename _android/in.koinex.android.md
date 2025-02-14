@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Koinex - India's largest digit
+title: 'Koinex - India''s largest digit'
 altTitle: 
 authors: 
 users: 100000
-appId: in.koinex.android
+appId: 'in.koinex.android'
 appCountry: 
 released: '2018-02-11'
 updated: '2019-02-13'
@@ -13,13 +13,13 @@ stars: 2.1
 ratings: 3700
 reviews: 9
 size: 
-website: https://koinex.in
+website: 'https://koinex.in'
 repository: 
 issue: 
-icon: in.koinex.android.png
+icon: 'in.koinex.android.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-05-07'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Discidium Internet Labs Pvt. Ltd.
+developerName: 'Discidium Internet Labs Pvt. Ltd.'
 features: 
 
 ---

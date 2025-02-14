@@ -1,26 +1,25 @@
 ---
-wsId: StockMaster
+wsId: 'StockMaster'
 title: 'Stock Master: Investing Stocks'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 100000
-appId: com.astontek.stock
-appCountry: us
+appId: 'com.astontek.stock'
+appCountry: 'us'
 released: '2020-03-16'
-updated: '2025-02-08'
+updated: 2025-02-08
 version: '7.45'
 stars: 4.7
 ratings: 2711
-reviews: 1025
-size: 
-website: https://finabase.io
+reviews: 1026
+website: 'https://finabase.io'
 repository: 
 issue: 
-icon: com.astontek.stock.png
+icon: 'com.astontek.stock.png'
 bugbounty: 
-meta: ok
-verdict: nowallet
+meta: 'ok'
+verdict: 'nowallet'
 appHashes: 
 date: '2021-10-10'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Apponance, Inc.
+developerName: 'Apponance, Inc.'
 features: 
 
 ---

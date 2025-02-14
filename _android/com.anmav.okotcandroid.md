@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: OKOTC
+title: 'OKOTC'
 altTitle: 
 authors: 
 users: 10
-appId: com.anmav.okotcandroid
+appId: 'com.anmav.okotcandroid'
 appCountry: 
 released: '2019-11-08'
 updated: '2019-12-09'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://okotc.io/
+website: 'https://okotc.io/'
 repository: 
 issue: 
-icon: com.anmav.okotcandroid.jpg
+icon: 'com.anmav.okotcandroid.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

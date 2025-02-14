@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Omni Web3 Wallet
+title: 'Omni Web3 Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: fi.steakwallet.app
+appId: 'fi.steakwallet.app'
 appCountry: 
 released: '2021-07-07'
 updated: '2023-12-19'
@@ -14,13 +14,13 @@ stars: 4
 ratings: 
 reviews: 25
 size: 
-website: https://steakwallet.fi
+website: 'https://steakwallet.fi'
 repository: 
 issue: 
-icon: fi.steakwallet.app.png
+icon: 'fi.steakwallet.app.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-07-10'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Steakwallet
+developerName: 'Steakwallet'
 features: 
 
 ---

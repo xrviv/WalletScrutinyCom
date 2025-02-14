@@ -1,25 +1,24 @@
 ---
 wsId: 
-title: DexTrade
+title: 'DexTrade'
 altTitle: 
 authors: 
 users: 500
-appId: org.dextrade.wallet
+appId: 'org.dextrade.wallet'
 appCountry: 
 released: '2022-08-22'
-updated: '2025-01-23'
+updated: 2025-01-23
 version: '1.94.0'
 stars: 5
 ratings: 
 reviews: 
-size: 
-website: https://dextrade.com/
+website: 'https://dextrade.com/'
 repository: 
 issue: 
-icon: org.dextrade.wallet.png
+icon: 'org.dextrade.wallet.png'
 bugbounty: 
-meta: ok
-verdict: fewusers
+meta: 'ok'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-06-03'
 signer: 
@@ -27,7 +26,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Dextrade Technologies LTD
+developerName: 'Dextrade Technologies LTD'
 features: 
 
 ---

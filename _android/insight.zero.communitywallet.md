@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Zero Mobile Wallet
+title: 'Zero Mobile Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: insight.zero.communitywallet
+appId: 'insight.zero.communitywallet'
 appCountry: 
 released: '2018-07-09'
 updated: '2019-01-01'
@@ -14,13 +14,13 @@ stars: 4.6
 ratings: 67
 reviews: 7
 size: 
-website: https://zerocurrency.io/
+website: 'https://zerocurrency.io/'
 repository: 
 issue: 
-icon: insight.zero.communitywallet.png
+icon: 'insight.zero.communitywallet.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Zero Currency
+developerName: 'Zero Currency'
 features: 
 
 ---

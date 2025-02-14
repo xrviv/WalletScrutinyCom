@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Laxya - Crypto Trading Bot
+title: 'Laxya - Crypto Trading Bot'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: io.laxya.laxya
+appId: 'io.laxya.laxya'
 appCountry: 
 released: '2022-01-20'
 updated: '2023-08-23'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://laxya.io
+website: 'https://laxya.io'
 repository: 
 issue: 
-icon: io.laxya.laxya.png
+icon: 'io.laxya.laxya.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-09-25'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Laxya
+developerName: 'Laxya'
 features: 
 
 ---

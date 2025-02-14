@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Dashwallet
+title: 'Dashwallet'
 altTitle: 
 authors: 
 users: 50
-appId: prince.darlington.DashWallet
+appId: 'prince.darlington.DashWallet'
 appCountry: 
 released: '2020-10-06'
 updated: '2020-10-06'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://dashwallet.com
+website: 'https://dashwallet.com'
 repository: 
 issue: 
-icon: prince.darlington.DashWallet.png
+icon: 'prince.darlington.DashWallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

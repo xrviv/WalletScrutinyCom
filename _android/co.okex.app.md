@@ -1,26 +1,25 @@
 ---
 wsId: 
-title: اوکی اکسچنج، خرید ارز دیجیتال
+title: 'اوکی اکسچنج، خرید ارز دیجیتال'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 500000
-appId: co.okex.app
+appId: 'co.okex.app'
 appCountry: 
 released: '2019-09-11'
-updated: '2025-01-12'
+updated: 2025-01-12
 version: '7.2.9'
-stars: 4.5
+stars: 4.6
 ratings: 7353
 reviews: 372
-size: 
-website: https://ok-ex.co
+website: 'https://ok-ex.co'
 repository: 
 issue: 
-icon: co.okex.app.png
+icon: 'co.okex.app.png'
 bugbounty: 
-meta: ok
-verdict: custodial
+meta: 'ok'
+verdict: 'custodial'
 appHashes: []
 date: '2021-10-01'
 signer: 
@@ -28,8 +27,8 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from:
-- /co.okex.app/
-developerName: Technical team
+- '/co.okex.app/'
+developerName: 'Technical team'
 features: 
 
 ---

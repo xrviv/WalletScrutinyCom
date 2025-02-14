@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: NulPay - Agents
+title: 'NulPay - Agents'
 altTitle: 
 authors: 
 users: 10
-appId: nulpay.agent
+appId: 'nulpay.agent'
 appCountry: 
 released: '2022-09-02'
 updated: '2022-09-02'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://nulpay.com
+website: 'https://nulpay.com'
 repository: 
 issue: 
-icon: nulpay.agent.jpg
+icon: 'nulpay.agent.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Nulpay
+developerName: 'Nulpay'
 features: 
 
 ---

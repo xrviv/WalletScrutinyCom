@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BitcoinAddition
+title: 'BitcoinAddition'
 altTitle: 
 authors: 
 users: 500
-appId: com.peiko.mobile.bitcoinaddition
+appId: 'com.peiko.mobile.bitcoinaddition'
 appCountry: 
 released: '2021-05-21'
 updated: '2021-11-16'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.peiko.mobile.bitcoinaddition.jpg
+icon: 'com.peiko.mobile.bitcoinaddition.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-03-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: QUAN2UM
+developerName: 'QUAN2UM'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Treen Wallet
+title: 'Treen Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.app.treenwallet
+appId: 'com.app.treenwallet'
 appCountry: 
 released: '2021-07-01'
 updated: '2021-08-09'
@@ -14,13 +14,13 @@ stars: 3.3
 ratings: 
 reviews: 2
 size: 
-website: https://treenwallet.com
+website: 'https://treenwallet.com'
 repository: 
 issue: 
-icon: com.app.treenwallet.png
+icon: 'com.app.treenwallet.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: E-wallet
+developerName: 'E-wallet'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Hodler
+title: 'Hodler'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 0
-appId: org.yancaitech.hodler
+appId: 'org.yancaitech.hodler'
 appCountry: 
 released: '2020-06-01'
 updated: '2020-06-08'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://github.com/yancaitech
-repository: https://github.com/yancaitech/hodler-wallet
+website: 'https://github.com/yancaitech'
+repository: 'https://github.com/yancaitech/hodler-wallet'
 issue: 
-icon: org.yancaitech.hodler.png
+icon: 'org.yancaitech.hodler.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

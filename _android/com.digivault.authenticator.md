@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Digivault Authenticator
+title: 'Digivault Authenticator'
 altTitle: 
 authors: 
 users: 100
-appId: com.digivault.authenticator
+appId: 'com.digivault.authenticator'
 appCountry: 
 released: '2021-07-28'
 updated: '2023-10-19'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.digivault.com
+website: 'https://www.digivault.com'
 repository: 
 issue: 
-icon: com.digivault.authenticator.png
+icon: 'com.digivault.authenticator.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-08-07'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Digivault Limited
+developerName: 'Digivault Limited'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: OKEx Information
+title: 'OKEx Information'
 altTitle: 
 authors: 
 users: 10000
-appId: com.okinc.info
+appId: 'com.okinc.info'
 appCountry: 
 released: '2020-05-25'
 updated: '2020-07-05'
@@ -12,14 +12,14 @@ version: '1.9.18'
 stars: 
 ratings: 
 reviews: 
-size: 76M
+size: '76M'
 website: 
 repository: 
 issue: 
-icon: com.okinc.info.jpg
+icon: 'com.okinc.info.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2022-04-25'
 signer: 

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Eyewallet Crypto
+title: 'Eyewallet Crypto'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.eyewallet.io
+appId: 'com.eyewallet.io'
 appCountry: 
 released: '2019-07-26'
 updated: '2020-07-02'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://eyewallet.com
+website: 'https://eyewallet.com'
 repository: 
 issue: 
-icon: com.eyewallet.io.jpg
+icon: 'com.eyewallet.io.jpg'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-25'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Eyeline Asociados S A
+developerName: 'Eyeline Asociados S A'
 features: 
 
 ---

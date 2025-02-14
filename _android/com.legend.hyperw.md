@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: HyperW
+title: 'HyperW'
 altTitle: 
 authors: 
 users: 5000
-appId: com.legend.hyperw
+appId: 'com.legend.hyperw'
 appCountry: 
 released: 
 updated: '2021-12-29'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://hyperw.com
+website: 'http://hyperw.com'
 repository: 
 issue: 
-icon: com.legend.hyperw.png
+icon: 'com.legend.hyperw.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

@@ -4,7 +4,7 @@ title: 'TIGR: Copy trading on Binance'
 altTitle: 
 authors: 
 users: 1000
-appId: trade.tiger.copytrading
+appId: 'trade.tiger.copytrading'
 appCountry: 
 released: 
 updated: '2022-08-09'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://copy.tiger.trade
+website: 'https://copy.tiger.trade'
 repository: 
 issue: 
-icon: trade.tiger.copytrading.png
+icon: 'trade.tiger.copytrading.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-03-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Tiger.Trade
+developerName: 'Tiger.Trade'
 features: 
 
 ---

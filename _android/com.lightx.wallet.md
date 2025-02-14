@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: LightX - Bitcoin & Lightning
+title: 'LightX - Bitcoin & Lightning'
 altTitle: 
 authors: 
 users: 500
-appId: com.lightx.wallet
+appId: 'com.lightx.wallet'
 appCountry: 
 released: '2023-02-11'
 updated: '2023-03-26'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://lightxwallet.io
+website: 'https://lightxwallet.io'
 repository: 
 issue: 
-icon: com.lightx.wallet.png
+icon: 'com.lightx.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-05-18'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BTC Defi
+developerName: 'BTC Defi'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitfinix Cryptocurrency Wallet
+title: 'Bitfinix Cryptocurrency Wallet'
 altTitle: 
 authors: 
 users: 500
-appId: com.bit.finx
+appId: 'com.bit.finx'
 appCountry: 
 released: '2022-01-19'
 updated: '2022-02-17'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://bitfinix.tech/
+website: 'http://bitfinix.tech/'
 repository: 
 issue: 
-icon: com.bit.finx.jpg
+icon: 'com.bit.finx.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bitfinix
+developerName: 'Bitfinix'
 features: 
 
 ---

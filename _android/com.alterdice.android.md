@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Alterdice
+title: 'Alterdice'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.alterdice.android
+appId: 'com.alterdice.android'
 appCountry: 
 released: '2018-09-24'
 updated: '2018-11-22'
@@ -14,25 +14,25 @@ stars: 2.6
 ratings: 
 reviews: 
 size: 
-website: https://alterdice.com
+website: 'https://alterdice.com'
 repository: 
 issue: 
-icon: com.alterdice.android.png
+icon: 'com.alterdice.android.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-09-10'
 signer: 
 reviewArchive: 
-twitter: alterdicecom
+twitter: 'alterdicecom'
 social:
-- https://t.me/alterdice_channel_eng
-- https://www.facebook.com/profile.php?id=100083387708481
-- https://www.instagram.com/alterdice_
-- https://www.linkedin.com/company/alterdice/about/
+- 'https://t.me/alterdice_channel_eng'
+- 'https://www.facebook.com/profile.php?id=100083387708481'
+- 'https://www.instagram.com/alterdice_'
+- 'https://www.linkedin.com/company/alterdice/about/'
 redirect_from: 
-developerName: Alterdice Developers
+developerName: 'Alterdice Developers'
 features: 
 
 ---

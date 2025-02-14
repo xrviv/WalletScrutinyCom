@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoin Invest App
+title: 'Bitcoin Invest App'
 altTitle: 
 authors: 
 users: 1
-appId: net.hodlercrypto.bitcoin.invest
+appId: 'net.hodlercrypto.bitcoin.invest'
 appCountry: 
 released: '2021-06-18'
 updated: '2021-06-18'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 3.4M
+size: '3.4M'
 website: 
 repository: 
 issue: 
-icon: net.hodlercrypto.bitcoin.invest.jpg
+icon: 'net.hodlercrypto.bitcoin.invest.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-01'
 signer: 

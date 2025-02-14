@@ -4,7 +4,7 @@ title: 'Shiftr: Crypto & Bitcoin Wallet - Earn Interests'
 altTitle: 
 authors: 
 users: 50
-appId: com.fiber.fiberwallet
+appId: 'com.fiber.fiberwallet'
 appCountry: 
 released: '2021-04-20'
 updated: '2021-04-27'
@@ -12,14 +12,14 @@ version: '1.1.85'
 stars: 
 ratings: 
 reviews: 
-size: 42M
-website: https://app.wirewallet.org/
+size: '42M'
+website: 'https://app.wirewallet.org/'
 repository: 
 issue: 
-icon: com.fiber.fiberwallet.png
+icon: 'com.fiber.fiberwallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2022-05-31'
 signer: 

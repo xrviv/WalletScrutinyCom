@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: CS9
+title: 'CS9'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.csesg.cs9
+appId: 'com.csesg.cs9'
 appCountry: 
 released: '2020-09-28'
 updated: '2021-07-28'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://cs9.io
+website: 'https://cs9.io'
 repository: 
 issue: 
-icon: com.csesg.cs9.png
+icon: 'com.csesg.cs9.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CSE
+developerName: 'CSE'
 features: 
 
 ---

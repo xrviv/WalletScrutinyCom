@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Alexchanger
+title: 'Alexchanger'
 altTitle: 
 authors: 
 users: 10000
-appId: com.alexchanger.alexchanger
+appId: 'com.alexchanger.alexchanger'
 appCountry: 
 released: '2020-06-12'
 updated: '2020-06-12'
@@ -13,13 +13,13 @@ stars: 4.4
 ratings: 271
 reviews: 26
 size: 
-website: https://alexchanger.com/
+website: 'https://alexchanger.com/'
 repository: 
 issue: 
-icon: com.alexchanger.alexchanger.png
+icon: 'com.alexchanger.alexchanger.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Tahwiil
+developerName: 'Tahwiil'
 features: 
 
 ---

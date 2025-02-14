@@ -1,11 +1,11 @@
 ---
-wsId: Xapa
+wsId: 'Xapa'
 title: 'Xapa Wallet - BTC, ETH, DOGE, '
 altTitle: 
 authors:
-- kiwilamb
+- 'kiwilamb'
 users: 10000
-appId: com.cwallet
+appId: 'com.cwallet'
 appCountry: 
 released: '2019-06-28'
 updated: '2021-07-24'
@@ -14,22 +14,22 @@ stars: 3.1
 ratings: 120
 reviews: 6
 size: 
-website: https://xapawallet.com
+website: 'https://xapawallet.com'
 repository: 
 issue: 
-icon: com.cwallet.png
+icon: 'com.cwallet.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-11-25'
 signer: 
 reviewArchive: 
-twitter: WalletXapa
+twitter: 'WalletXapa'
 social:
-- https://www.facebook.com/walletxapa
+- 'https://www.facebook.com/walletxapa'
 redirect_from: 
-developerName: Cryptocurrency Wallet Development Team
+developerName: 'Cryptocurrency Wallet Development Team'
 features: 
 
 ---

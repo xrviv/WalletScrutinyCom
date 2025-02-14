@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Blockchain Wallet
+title: 'Blockchain Wallet'
 altTitle: 
 authors: 
 users: 50000
-appId: com.andreys.blockchainwallet
+appId: 'com.andreys.blockchainwallet'
 appCountry: 
 released: 
 updated: '2020-08-30'
@@ -12,14 +12,14 @@ version: '21'
 stars: 4.6
 ratings: 1374
 reviews: 362
-size: 12M
+size: '12M'
 website: 
 repository: 
 issue: 
-icon: com.andreys.blockchainwallet.png
+icon: 'com.andreys.blockchainwallet.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2021-02-17'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from:
-- /com.andreys.blockchainwallet/
+- '/com.andreys.blockchainwallet/'
 developerName: 
 features: 
 

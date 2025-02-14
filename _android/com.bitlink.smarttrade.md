@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: bitlink
+title: 'bitlink'
 altTitle: 
 authors: 
 users: 500
-appId: com.bitlink.smarttrade
+appId: 'com.bitlink.smarttrade'
 appCountry: 
 released: '2021-05-04'
 updated: '2021-05-05'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.bitlink.pro
+website: 'https://www.bitlink.pro'
 repository: 
 issue: 
-icon: com.bitlink.smarttrade.png
+icon: 'com.bitlink.smarttrade.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-03-21'
 signer: 

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: 24 Wallet
+title: '24 Wallet'
 altTitle: 
 authors: 
 users: 10
-appId: com.iccbank.wallet
+appId: 'com.iccbank.wallet'
 appCountry: 
 released: '2021-01-29'
 updated: '2021-01-29'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.iccbank.wallet.png
+icon: 'com.iccbank.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: DSSJDEV
+developerName: 'DSSJDEV'
 features: 
 
 ---

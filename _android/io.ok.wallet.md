@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: OK钱包—比特币钱包OKCoin bitcoin walle
+title: 'OK钱包—比特币钱包OKCoin bitcoin walle'
 altTitle: 
 authors: 
 users: 500
-appId: io.ok.wallet
+appId: 'io.ok.wallet'
 appCountry: 
 released: '2021-04-10'
 updated: '2021-04-13'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: io.ok.wallet.png
+icon: 'io.ok.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: laowang
+developerName: 'laowang'
 features: 
 
 ---

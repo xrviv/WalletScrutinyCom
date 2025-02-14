@@ -1,12 +1,12 @@
 ---
-wsId: GenesisVision
-title: Genesis Vision
+wsId: 'GenesisVision'
+title: 'Genesis Vision'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: vision.genesis.clientapp.investor
-appCountry: us
+appId: 'vision.genesis.clientapp.investor'
+appCountry: 'us'
 released: '2018-02-15'
 updated: '2022-03-16'
 version: '2.7.7'
@@ -14,24 +14,24 @@ stars: 4.8
 ratings: 369
 reviews: 25
 size: 
-website: https://genesis.vision
-repository: https://github.com/GenesisVision/android-client
+website: 'https://genesis.vision'
+repository: 'https://github.com/GenesisVision/android-client'
 issue: 
-icon: vision.genesis.clientapp.investor.png
+icon: 'vision.genesis.clientapp.investor.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-07-05'
 signer: 
 reviewArchive: 
-twitter: genesis_vision
+twitter: 'genesis_vision'
 social:
-- https://www.linkedin.com/company/genesis-vision
-- https://www.facebook.com/GenesisVisionProject
-- https://www.reddit.com/r/genesisvision
+- 'https://www.linkedin.com/company/genesis-vision'
+- 'https://www.facebook.com/GenesisVisionProject'
+- 'https://www.reddit.com/r/genesisvision'
 redirect_from: 
-developerName: Genesis Vision
+developerName: 'Genesis Vision'
 features: 
 
 ---

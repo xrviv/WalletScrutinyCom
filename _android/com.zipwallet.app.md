@@ -1,12 +1,12 @@
 ---
-wsId: zipwalletpay
-title: Zipwallet-Buy Btc with Paypal
+wsId: 'zipwalletpay'
+title: 'Zipwallet-Buy Btc with Paypal'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50000
-appId: com.zipwallet.app
-appCountry: us
+appId: 'com.zipwallet.app'
+appCountry: 'us'
 released: '2018-01-30'
 updated: '2022-10-01'
 version: '10.0.0.0'
@@ -14,13 +14,13 @@ stars: 4
 ratings: 621
 reviews: 13
 size: 
-website: https://zipwalletpay.com
+website: 'https://zipwalletpay.com'
 repository: 
 issue: 
-icon: com.zipwallet.app.png
+icon: 'com.zipwallet.app.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2023-01-02'
 signer: 

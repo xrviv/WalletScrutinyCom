@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Crpyto Express Exchange
+title: 'Crpyto Express Exchange'
 altTitle: 
 authors: 
 users: 10
-appId: com.cryptoexpress.apptrading
+appId: 'com.cryptoexpress.apptrading'
 appCountry: 
 released: '2022-05-10'
 updated: '2022-05-10'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.cryptoxpress.io/
+website: 'https://www.cryptoxpress.io/'
 repository: 
 issue: 
-icon: com.cryptoexpress.apptrading.png
+icon: 'com.cryptoexpress.apptrading.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bitenium Exchange LLC
+developerName: 'Bitenium Exchange LLC'
 features: 
 
 ---

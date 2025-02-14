@@ -4,7 +4,7 @@ title: 'Distwallet: DEX Wallet'
 altTitle: 
 authors: 
 users: 10
-appId: com.distwallet.app
+appId: 'com.distwallet.app'
 appCountry: 
 released: '2023-02-01'
 updated: '2023-02-01'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://distwallet.com
+website: 'https://distwallet.com'
 repository: 
 issue: 
-icon: com.distwallet.app.png
+icon: 'com.distwallet.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: PROYA INT.
+developerName: 'PROYA INT.'
 features: 
 
 ---

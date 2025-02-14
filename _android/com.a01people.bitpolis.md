@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BitPolis
+title: 'BitPolis'
 altTitle: 
 authors: 
 users: 10
-appId: com.a01people.bitpolis
+appId: 'com.a01people.bitpolis'
 appCountry: 
 released: '2019-10-31'
 updated: '2020-05-19'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bitpolis.io/
+website: 'https://bitpolis.io/'
 repository: 
 issue: 
-icon: com.a01people.bitpolis.png
+icon: 'com.a01people.bitpolis.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Arca Investments, a.s.
+developerName: 'Arca Investments, a.s.'
 features: 
 
 ---

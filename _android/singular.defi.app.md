@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Singular App–Invest in Crypto
+title: 'Singular App–Invest in Crypto'
 altTitle: 
 authors: 
 users: 500
-appId: singular.defi.app
+appId: 'singular.defi.app'
 appCountry: 
 released: '2021-11-25'
 updated: '2024-02-07'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: singular.defi.app.png
+icon: 'singular.defi.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2025-02-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Singular Capital
+developerName: 'Singular Capital'
 features: 
 
 ---

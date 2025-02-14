@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitlish - crypto wallet
+title: 'Bitlish - crypto wallet'
 altTitle: 
 authors: 
 users: 10000
-appId: com.bitlish.bitlish
+appId: 'com.bitlish.bitlish'
 appCountry: 
 released: '2017-07-11'
 updated: '2020-01-20'
@@ -12,25 +12,25 @@ version: '2.0.10'
 stars: 4
 ratings: 225
 reviews: 177
-size: 53M
-website: https://bitlish.com
+size: '53M'
+website: 'https://bitlish.com'
 repository: 
 issue: 
-icon: com.bitlish.bitlish.png
+icon: 'com.bitlish.bitlish.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2020-03-20'
 signer: 
 reviewArchive: 
-twitter: bitlish_com
+twitter: 'bitlish_com'
 social:
-- https://www.linkedin.com/company/bitlish
-- https://www.facebook.com/bitlish.english
+- 'https://www.linkedin.com/company/bitlish'
+- 'https://www.facebook.com/bitlish.english'
 redirect_from:
-- /com.bitlish.bitlish/
-- /posts/com.bitlish.bitlish/
+- '/com.bitlish.bitlish/'
+- '/posts/com.bitlish.bitlish/'
 developerName: 
 features: 
 

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Future Trade Link
+title: 'Future Trade Link'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.futuretradelink
+appId: 'com.futuretradelink'
 appCountry: 
 released: '2021-07-19'
 updated: '2021-08-03'
@@ -14,13 +14,13 @@ stars:
 ratings: 24
 reviews: 
 size: 
-website: https://futuretradelink.com/
+website: 'https://futuretradelink.com/'
 repository: 
 issue: 
-icon: com.futuretradelink.png
+icon: 'com.futuretradelink.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2021-11-10'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Future Trade Link
+developerName: 'Future Trade Link'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: ForumPay
+title: 'ForumPay'
 altTitle: 
 authors: 
 users: 100
-appId: com.forumpay
+appId: 'com.forumpay'
 appCountry: 
 released: '2020-11-27'
 updated: '2020-11-27'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://forumpay.com/
+website: 'https://forumpay.com/'
 repository: 
 issue: 
-icon: com.forumpay.png
+icon: 'com.forumpay.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: ForumPay
+developerName: 'ForumPay'
 features: 
 
 ---

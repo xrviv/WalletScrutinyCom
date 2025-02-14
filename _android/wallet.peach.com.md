@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Peach Wallet
+title: 'Peach Wallet'
 altTitle: 
 authors: 
 users: 100
-appId: wallet.peach.com
+appId: 'wallet.peach.com'
 appCountry: 
 released: '2022-04-09'
 updated: '2022-06-06'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://peachwallet.com
+website: 'https://peachwallet.com'
 repository: 
 issue: 
-icon: wallet.peach.com.png
+icon: 'wallet.peach.com.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: décript
+developerName: 'décript'
 features: 
 
 ---

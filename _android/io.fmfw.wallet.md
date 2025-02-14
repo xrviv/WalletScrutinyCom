@@ -4,7 +4,7 @@ title: 'FMFW.io Wallet: Buy Bitcoin'
 altTitle: 
 authors: 
 users: 1000
-appId: io.fmfw.wallet
+appId: 'io.fmfw.wallet'
 appCountry: 
 released: 
 updated: '2023-02-23'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://fmfw.io
+website: 'https://fmfw.io'
 repository: 
 issue: 
-icon: io.fmfw.wallet.png
+icon: 'io.fmfw.wallet.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-03-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: FMFW.io
+developerName: 'FMFW.io'
 features: 
 
 ---

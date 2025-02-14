@@ -1,11 +1,11 @@
 ---
-wsId: xMetaExchange
-title: X-Meta Exchange
+wsId: 'xMetaExchange'
+title: 'X-Meta Exchange'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.cloud.xmeta
+appId: 'com.cloud.xmeta'
 appCountry: 
 released: '2022-02-14'
 updated: '2022-12-19'
@@ -14,23 +14,23 @@ stars: 4.7
 ratings: 
 reviews: 8
 size: 
-website: https://x-meta.com
+website: 'https://x-meta.com'
 repository: 
 issue: 
-icon: com.cloud.xmeta.png
+icon: 'com.cloud.xmeta.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-12-08'
 signer: 
 reviewArchive: 
-twitter: XMetaOfficial
+twitter: 'XMetaOfficial'
 social:
-- https://www.facebook.com/xmetaofficial
-- https://t.me/xmetaofficialgroup
+- 'https://www.facebook.com/xmetaofficial'
+- 'https://t.me/xmetaofficialgroup'
 redirect_from: 
-developerName: x-meta
+developerName: 'x-meta'
 features: 
 
 ---

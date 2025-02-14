@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Payterminal
+title: 'Payterminal'
 altTitle: 
 authors: 
 users: 100
-appId: com.payterminal.payterminal
+appId: 'com.payterminal.payterminal'
 appCountry: 
 released: '2022-09-06'
 updated: '2022-09-06'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://payterminal.ng/
+website: 'https://payterminal.ng/'
 repository: 
 issue: 
-icon: com.payterminal.payterminal.jpg
+icon: 'com.payterminal.payterminal.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Strongbox Tech
+developerName: 'Strongbox Tech'
 features: 
 
 ---

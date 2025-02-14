@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Rightmoney
+title: 'Rightmoney'
 altTitle: 
 authors: 
 users: 10
-appId: com.rightmoney
+appId: 'com.rightmoney'
 appCountry: 
 released: '2022-07-15'
 updated: '2022-09-30'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.rightmoney.png
+icon: 'com.rightmoney.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Omnilucid Pvt Ltd
+developerName: 'Omnilucid Pvt Ltd'
 features: 
 
 ---

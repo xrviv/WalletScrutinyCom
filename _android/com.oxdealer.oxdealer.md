@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: 0xdealer
+title: '0xdealer'
 altTitle: 
 authors: 
 users: 1
-appId: com.oxdealer.oxdealer
+appId: 'com.oxdealer.oxdealer'
 appCountry: 
 released: '2020-06-20'
 updated: '2020-06-20'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://0xdealer.com
+website: 'https://0xdealer.com'
 repository: 
 issue: 
-icon: com.oxdealer.oxdealer.png
+icon: 'com.oxdealer.oxdealer.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: 0xdealer
+developerName: '0xdealer'
 features: 
 
 ---

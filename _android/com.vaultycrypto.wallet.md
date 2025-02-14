@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Vaulty Wallet for you
+title: 'Vaulty Wallet for you'
 altTitle: 
 authors: 
 users: 10
-appId: com.vaultycrypto.wallet
+appId: 'com.vaultycrypto.wallet'
 appCountry: 
 released: '2022-08-10'
 updated: '2022-08-10'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.vaulty.pro
+website: 'http://www.vaulty.pro'
 repository: 
 issue: 
-icon: com.vaultycrypto.wallet.png
+icon: 'com.vaultycrypto.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-09-16'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CoinArmy
+developerName: 'CoinArmy'
 features: 
 
 ---

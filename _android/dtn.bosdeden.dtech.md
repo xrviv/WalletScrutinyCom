@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BostDeden - Cryptocurrency BOT
+title: 'BostDeden - Cryptocurrency BOT'
 altTitle: 
 authors: 
 users: 100
-appId: dtn.bosdeden.dtech
+appId: 'dtn.bosdeden.dtech'
 appCountry: 
 released: '2021-03-05'
 updated: '2021-03-05'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://bisnis188.tech/
+website: 'http://bisnis188.tech/'
 repository: 
 issue: 
-icon: dtn.bosdeden.dtech.png
+icon: 'dtn.bosdeden.dtech.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: DGR
+developerName: 'DGR'
 features: 
 
 ---

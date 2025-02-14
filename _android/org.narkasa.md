@@ -1,11 +1,11 @@
 ---
-wsId: narkasaExchange
-title: Narkasa
+wsId: 'narkasaExchange'
+title: 'Narkasa'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: org.narkasa
+appId: 'org.narkasa'
 appCountry: 
 released: '2020-10-30'
 updated: '2021-04-11'
@@ -14,24 +14,24 @@ stars: 3.5
 ratings: 
 reviews: 
 size: 
-website: https://narkasa.com
+website: 'https://narkasa.com'
 repository: 
 issue: 
-icon: org.narkasa.jpg
+icon: 'org.narkasa.jpg'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-04-03'
 signer: 
 reviewArchive: 
-twitter: narkasacom
+twitter: 'narkasacom'
 social:
-- https://www.facebook.com/narkasacom
-- https://www.instagram.com/narkasacom
-- https://www.youtube.com/channel/UCJmXTDyPjz72ipUuIEQow9w
+- 'https://www.facebook.com/narkasacom'
+- 'https://www.instagram.com/narkasacom'
+- 'https://www.youtube.com/channel/UCJmXTDyPjz72ipUuIEQow9w'
 redirect_from: 
-developerName: NARKASA
+developerName: 'NARKASA'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Dormant Bitcoin Explorer
+title: 'Dormant Bitcoin Explorer'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.maarcodev.dormantbitcoinexplorer
+appId: 'com.maarcodev.dormantbitcoinexplorer'
 appCountry: 
 released: '2021-10-17'
 updated: '2023-01-06'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.maarcodev.dormantbitcoinexplorer.png
+icon: 'com.maarcodev.dormantbitcoinexplorer.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-09'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: MaarcoDev
+developerName: 'MaarcoDev'
 features: 
 
 ---

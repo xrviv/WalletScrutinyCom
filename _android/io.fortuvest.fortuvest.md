@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Fortuvest
+title: 'Fortuvest'
 altTitle: 
 authors: 
 users: 100
-appId: io.fortuvest.fortuvest
+appId: 'io.fortuvest.fortuvest'
 appCountry: 
 released: '2020-03-27'
 updated: '2020-03-27'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.fortuvest.io
+website: 'https://www.fortuvest.io'
 repository: 
 issue: 
-icon: io.fortuvest.fortuvest.png
+icon: 'io.fortuvest.fortuvest.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Fortuvest Developer
+developerName: 'Fortuvest Developer'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Royal Q Automated Trading App
+title: 'Royal Q Automated Trading App'
 altTitle: 
 authors: 
 users: 1000
-appId: com.royalqregistration.app
+appId: 'com.royalqregistration.app'
 appCountry: 
 released: '2021-11-22'
 updated: '2021-12-27'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.royalqregistration.app.png
+icon: 'com.royalqregistration.app.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Infinit Tech
+developerName: 'Infinit Tech'
 features: 
 
 ---

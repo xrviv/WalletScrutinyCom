@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoin Invest
+title: 'Bitcoin Invest'
 altTitle: 
 authors: 
 users: 1
-appId: org.bitcoincrypto.bitcoin.invest
+appId: 'org.bitcoincrypto.bitcoin.invest'
 appCountry: 
 released: '2021-06-24'
 updated: '2021-06-24'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 2.4M
+size: '2.4M'
 website: 
 repository: 
 issue: 
-icon: org.bitcoincrypto.bitcoin.invest.png
+icon: 'org.bitcoincrypto.bitcoin.invest.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-01'
 signer: 

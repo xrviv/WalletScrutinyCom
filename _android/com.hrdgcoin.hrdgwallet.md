@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: HRDG Wallet
+title: 'HRDG Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.hrdgcoin.hrdgwallet
+appId: 'com.hrdgcoin.hrdgwallet'
 appCountry: 
 released: '2021-07-09'
 updated: '2022-07-28'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.hrdgcoin.hrdgwallet.png
+icon: 'com.hrdgcoin.hrdgwallet.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2024-10-08'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: TabiPay
+developerName: 'TabiPay'
 features: 
 
 ---

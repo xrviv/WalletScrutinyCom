@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Mond
+title: 'Mond'
 altTitle: 
 authors: 
 users: 10
-appId: mond.vision
+appId: 'mond.vision'
 appCountry: 
 released: '2022-03-03'
 updated: '2022-03-24'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://mond.vision
+website: 'http://mond.vision'
 repository: 
 issue: 
-icon: mond.vision.png
+icon: 'mond.vision.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: BitAnex Wallet
+title: 'BitAnex Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: org.bitanex.bitanex
+appId: 'org.bitanex.bitanex'
 appCountry: 
 released: '2017-03-17'
 updated: '2019-04-27'
@@ -14,13 +14,13 @@ stars: 4.1
 ratings: 
 reviews: 6
 size: 
-website: http://bitanex.com
+website: 'http://bitanex.com'
 repository: 
 issue: 
-icon: org.bitanex.bitanex.png
+icon: 'org.bitanex.bitanex.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BitAnex
+developerName: 'BitAnex'
 features: 
 
 ---

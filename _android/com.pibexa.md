@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Pibexa
+title: 'Pibexa'
 altTitle: 
 authors: 
 users: 100
-appId: com.pibexa
+appId: 'com.pibexa'
 appCountry: 
 released: 
 updated: '2020-08-26'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://pibexa.com/
+website: 'https://pibexa.com/'
 repository: 
 issue: 
-icon: com.pibexa.png
+icon: 'com.pibexa.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Pibexa
+developerName: 'Pibexa'
 features: 
 
 ---

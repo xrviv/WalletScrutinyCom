@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: FastBit (Fiat/Crypto black mar
+title: 'FastBit (Fiat/Crypto black mar'
 altTitle: 
 authors: 
 users: 500
-appId: com.codepoint.fastbit
+appId: 'com.codepoint.fastbit'
 appCountry: 
 released: '2020-09-13'
 updated: '2021-11-24'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://fastbitng.com
+website: 'https://fastbitng.com'
 repository: 
 issue: 
-icon: com.codepoint.fastbit.png
+icon: 'com.codepoint.fastbit.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Fintava
+developerName: 'Fintava'
 features: 
 
 ---

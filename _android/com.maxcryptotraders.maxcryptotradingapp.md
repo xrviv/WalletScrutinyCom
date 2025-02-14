@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Max Crypto Trading
+title: 'Max Crypto Trading'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.maxcryptotraders.maxcryptotradingapp
+appId: 'com.maxcryptotraders.maxcryptotradingapp'
 appCountry: 
 released: '2022-06-06'
 updated: '2022-06-06'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://maxcryptotraders.com/
+website: 'https://maxcryptotraders.com/'
 repository: 
 issue: 
-icon: com.maxcryptotraders.maxcryptotradingapp.png
+icon: 'com.maxcryptotraders.maxcryptotradingapp.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-08-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Max Crypto Traders
+developerName: 'Max Crypto Traders'
 features: 
 
 ---

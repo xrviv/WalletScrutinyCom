@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: EMX
+title: 'EMX'
 altTitle: 
 authors: 
 users: 100
-appId: com.evermarkets.emx
+appId: 'com.evermarkets.emx'
 appCountry: 
 released: 
 updated: '2020-04-08'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.emx.com
+website: 'https://www.emx.com'
 repository: 
 issue: 
-icon: com.evermarkets.emx.png
+icon: 'com.evermarkets.emx.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: EverMarkets
+developerName: 'EverMarkets'
 features: 
 
 ---

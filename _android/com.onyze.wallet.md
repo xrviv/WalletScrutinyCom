@@ -4,7 +4,7 @@ title: 'Onyze Wallet: Full Security fo'
 altTitle: 
 authors: 
 users: 500
-appId: com.onyze.wallet
+appId: 'com.onyze.wallet'
 appCountry: 
 released: 
 updated: '2020-07-14'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://onyze.com/
+website: 'https://onyze.com/'
 repository: 
 issue: 
-icon: com.onyze.wallet.png
+icon: 'com.onyze.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Onyze
+developerName: 'Onyze'
 features: 
 
 ---

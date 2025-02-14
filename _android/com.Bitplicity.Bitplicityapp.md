@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitplicity Bitcoin Wallet - Bu
+title: 'Bitplicity Bitcoin Wallet - Bu'
 altTitle: 
 authors: 
 users: 500
-appId: com.Bitplicity.Bitplicityapp
+appId: 'com.Bitplicity.Bitplicityapp'
 appCountry: 
 released: '2020-06-06'
 updated: '2020-06-19'
@@ -13,13 +13,13 @@ stars: 4.2
 ratings: 
 reviews: 
 size: 
-website: https://Bitplicity.com
+website: 'https://Bitplicity.com'
 repository: 
 issue: 
-icon: com.Bitplicity.Bitplicityapp.png
+icon: 'com.Bitplicity.Bitplicityapp.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bitplicity
+developerName: 'Bitplicity'
 features: 
 
 ---

@@ -3,9 +3,9 @@ wsId:
 title: 'Rust: Bitcoin Wallet - BTC'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 5000
-appId: com.rust.bitcoinwallet
+appId: 'com.rust.bitcoinwallet'
 appCountry: 
 released: '2023-04-15'
 updated: '2023-05-15'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://altrafinance.io/
+website: 'https://altrafinance.io/'
 repository: 
 issue: 
-icon: com.rust.bitcoinwallet.png
+icon: 'com.rust.bitcoinwallet.png'
 bugbounty: 
-meta: removed
-verdict: obfuscated
+meta: 'removed'
+verdict: 'obfuscated'
 appHashes: 
 date: '2023-06-21'
 signer: 

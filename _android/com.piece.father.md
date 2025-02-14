@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Crypto Net
+title: 'Crypto Net'
 altTitle: 
 authors: 
 users: 5000
-appId: com.piece.father
+appId: 'com.piece.father'
 appCountry: 
 released: '2022-03-31'
 updated: '2022-03-31'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.piece.father.png
+icon: 'com.piece.father.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: pontv015
+developerName: 'pontv015'
 features: 
 
 ---

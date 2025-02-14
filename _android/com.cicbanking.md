@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: CICBANKING
+title: 'CICBANKING'
 altTitle: 
 authors: 
 users: 100
-appId: com.cicbanking
+appId: 'com.cicbanking'
 appCountry: 
 released: '2019-10-22'
 updated: '2019-11-21'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://cicbanking.com
+website: 'https://cicbanking.com'
 repository: 
 issue: 
-icon: com.cicbanking.png
+icon: 'com.cicbanking.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-06-21'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Powers Koltrepum
+developerName: 'Powers Koltrepum'
 features: 
 
 ---

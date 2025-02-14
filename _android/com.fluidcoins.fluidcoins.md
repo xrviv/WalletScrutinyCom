@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Fluidcoins
+title: 'Fluidcoins'
 altTitle: 
 authors: 
 users: 100
-appId: com.fluidcoins.fluidcoins
+appId: 'com.fluidcoins.fluidcoins'
 appCountry: 
 released: '2020-11-14'
 updated: '2021-06-16'
@@ -12,14 +12,14 @@ version: '0.7.8'
 stars: 
 ratings: 
 reviews: 
-size: 9.4M
+size: '9.4M'
 website: 
 repository: 
 issue: 
-icon: com.fluidcoins.fluidcoins.png
+icon: 'com.fluidcoins.fluidcoins.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-11-26'
 signer: 

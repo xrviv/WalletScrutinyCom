@@ -4,7 +4,7 @@ title: 'BITBLINX - Bitcoin Exchange & '
 altTitle: 
 authors: 
 users: 10000
-appId: com.bitblinx.exchange
+appId: 'com.bitblinx.exchange'
 appCountry: 
 released: '2019-11-16'
 updated: '2020-05-01'
@@ -13,13 +13,13 @@ stars: 3.4
 ratings: 220
 reviews: 5
 size: 
-website: https://bitblinx.com
+website: 'https://bitblinx.com'
 repository: 
 issue: 
-icon: com.bitblinx.exchange.png
+icon: 'com.bitblinx.exchange.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BitBlinx
+developerName: 'BitBlinx'
 features: 
 
 ---

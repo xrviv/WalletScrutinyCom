@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Trio Ace Global
+title: 'Trio Ace Global'
 altTitle: 
 authors: 
 users: 10
-appId: com.trioace.global
+appId: 'com.trioace.global'
 appCountry: 
 released: '2022-01-02'
 updated: '2022-01-03'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.trioace.global.png
+icon: 'com.trioace.global.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Trio Ace Global
+developerName: 'Trio Ace Global'
 features: 
 
 ---

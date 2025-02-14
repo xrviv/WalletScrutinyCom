@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Changella - Buy & Sell Crypto
+title: 'Changella - Buy & Sell Crypto'
 altTitle: 
 authors: 
 users: 10
-appId: changella.changella
+appId: 'changella.changella'
 appCountry: 
 released: '2022-06-08'
 updated: '2023-08-20'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://changella.com
+website: 'https://changella.com'
 repository: 
 issue: 
-icon: changella.changella.png
+icon: 'changella.changella.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-11-29'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Changella
+developerName: 'Changella'
 features: 
 
 ---

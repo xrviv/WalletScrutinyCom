@@ -1,11 +1,11 @@
 ---
-wsId: dowallet
+wsId: 'dowallet'
 title: 'DoWallet: Bitcoin Wallet. A Se'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 50000
-appId: com.dowallet
+appId: 'com.dowallet'
 appCountry: 
 released: '2019-01-01'
 updated: '2022-11-22'
@@ -14,13 +14,13 @@ stars: 4
 ratings: 883
 reviews: 88
 size: 
-website: https://www.dowallet.app/
+website: 'https://www.dowallet.app/'
 repository: 
 issue: 
-icon: com.dowallet.png
+icon: 'com.dowallet.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2024-10-03'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Wallex, Inc.
+developerName: 'Wallex, Inc.'
 features: 
 
 ---

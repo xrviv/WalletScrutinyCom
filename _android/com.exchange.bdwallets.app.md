@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BD Wallets - Money Exchanger
+title: 'BD Wallets - Money Exchanger'
 altTitle: 
 authors: 
 users: 500
-appId: com.exchange.bdwallets.app
+appId: 'com.exchange.bdwallets.app'
 appCountry: 
 released: '2021-12-29'
 updated: '2022-01-08'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.bdwallets.com/
+website: 'https://www.bdwallets.com/'
 repository: 
 issue: 
-icon: com.exchange.bdwallets.app.png
+icon: 'com.exchange.bdwallets.app.png'
 bugbounty: 
-meta: defunct
-verdict: fewusers
+meta: 'defunct'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BD Wallets
+developerName: 'BD Wallets'
 features: 
 
 ---

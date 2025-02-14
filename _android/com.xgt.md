@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: GXT
+title: 'GXT'
 altTitle: 
 authors: 
 users: 500
-appId: com.xgt
+appId: 'com.xgt'
 appCountry: 
 released: '2020-01-16'
 updated: '2020-01-17'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://gxt.global
+website: 'https://gxt.global'
 repository: 
 issue: 
-icon: com.xgt.png
+icon: 'com.xgt.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: gxt.global
+developerName: 'gxt.global'
 features: 
 
 ---

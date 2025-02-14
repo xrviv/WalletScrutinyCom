@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: ACDX App
+title: 'ACDX App'
 altTitle: 
 authors: 
 users: 100
-appId: com.acdxapp
+appId: 'com.acdxapp'
 appCountry: 
 released: 
 updated: '2021-10-26'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.acdxapp.png
+icon: 'com.acdxapp.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: ACDX Team
+developerName: 'ACDX Team'
 features: 
 
 ---

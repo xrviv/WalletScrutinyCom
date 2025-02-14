@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: XCHANGE-COINS Cryptocurrency Exchange
+title: 'XCHANGE-COINS Cryptocurrency Exchange'
 altTitle: 
 authors: 
 users: 50
-appId: xchange_coins.com
+appId: 'xchange_coins.com'
 appCountry: 
 released: '2021-03-26'
 updated: '2021-03-26'
@@ -12,14 +12,14 @@ version: '5.84.10'
 stars: 
 ratings: 
 reviews: 
-size: 9.5M
-website: https://www.xchange-coins.com
+size: '9.5M'
+website: 'https://www.xchange-coins.com'
 repository: 
 issue: 
-icon: xchange_coins.com.png
+icon: 'xchange_coins.com.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2022-04-07'
 signer: 

@@ -3,9 +3,9 @@ wsId:
 title: 'Lunar: Crypto & DeFi Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.luna.wallet
+appId: 'com.luna.wallet'
 appCountry: 
 released: '2022-04-06'
 updated: '2022-07-01'
@@ -14,13 +14,13 @@ stars: 5
 ratings: 
 reviews: 1
 size: 
-website: https://lunawallet.ae
+website: 'https://lunawallet.ae'
 repository: 
 issue: 
-icon: com.luna.wallet.png
+icon: 'com.luna.wallet.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CHAIN SENSE LTD
+developerName: 'CHAIN SENSE LTD'
 features: 
 
 ---

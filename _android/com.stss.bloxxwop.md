@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BloxXwop
+title: 'BloxXwop'
 altTitle: 
 authors: 
 users: 10
-appId: com.stss.bloxxwop
+appId: 'com.stss.bloxxwop'
 appCountry: 
 released: '2021-05-10'
 updated: '2021-05-10'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.stss.bloxxwop.png
+icon: 'com.stss.bloxxwop.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

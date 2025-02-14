@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Crypton Digital
+title: 'Crypton Digital'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: cz.hundredspires.crypton
+appId: 'cz.hundredspires.crypton'
 appCountry: 
 released: '2021-09-02'
 updated: '2022-05-11'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://crypton.digital
+website: 'https://crypton.digital'
 repository: 
 issue: 
-icon: cz.hundredspires.crypton.png
+icon: 'cz.hundredspires.crypton.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: WEXO
+developerName: 'WEXO'
 features: 
 
 ---

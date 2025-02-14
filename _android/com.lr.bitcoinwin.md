@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoinwin
+title: 'Bitcoinwin'
 altTitle: 
 authors: 
 users: 500
-appId: com.lr.bitcoinwin
+appId: 'com.lr.bitcoinwin'
 appCountry: 
 released: '2020-06-27'
 updated: '2023-05-18'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.bitcoinwin.io
+website: 'https://www.bitcoinwin.io'
 repository: 
 issue: 
-icon: com.lr.bitcoinwin.png
+icon: 'com.lr.bitcoinwin.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bitcoinwin
+developerName: 'Bitcoinwin'
 features: 
 
 ---

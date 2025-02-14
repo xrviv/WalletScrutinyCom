@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: go9tro wallet
+title: 'go9tro wallet'
 altTitle: 
 authors: 
 users: 100
-appId: com.Go9tro.newwallet
+appId: 'com.Go9tro.newwallet'
 appCountry: 
 released: '2020-10-24'
 updated: '2020-10-24'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.Go9tro.newwallet.png
+icon: 'com.Go9tro.newwallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

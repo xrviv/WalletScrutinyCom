@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: PrestoPay Business
+title: 'PrestoPay Business'
 altTitle: 
 authors: 
 users: 10
-appId: prestopaybusiness.eu
+appId: 'prestopaybusiness.eu'
 appCountry: 
 released: '2021-03-23'
 updated: '2022-12-15'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://prestopayments.eu/
+website: 'https://prestopayments.eu/'
 repository: 
 issue: 
-icon: prestopaybusiness.eu.jpg
+icon: 'prestopaybusiness.eu.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-03-21'
 signer: 

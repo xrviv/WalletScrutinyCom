@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: RenrenBit
+title: 'RenrenBit'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 500
-appId: com.dcash.wallet
+appId: 'com.dcash.wallet'
 appCountry: 
 released: 
 updated: '2020-07-27'
@@ -13,14 +13,14 @@ version: '1.7.6'
 stars: 5
 ratings: 5
 reviews: 2
-size: 33M
+size: '33M'
 website: 
 repository: 
 issue: 
-icon: com.dcash.wallet.png
+icon: 'com.dcash.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-03-04'
 signer: 

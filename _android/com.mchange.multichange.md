@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Multichange – купить Bitcoin и продать за рубли
+title: 'Multichange – купить Bitcoin и продать за рубли'
 altTitle: 
 authors: 
 users: 500
-appId: com.mchange.multichange
+appId: 'com.mchange.multichange'
 appCountry: 
 released: '2020-08-10'
 updated: '2020-08-10'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 3.9
 ratings: 10
 reviews: 5
-size: 1.4M
+size: '1.4M'
 website: 
 repository: 
 issue: 
-icon: com.mchange.multichange.png
+icon: 'com.mchange.multichange.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2022-01-15'
 signer: 

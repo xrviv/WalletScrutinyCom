@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: banq
+title: 'banq'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.banqreactnative
+appId: 'com.banqreactnative'
 appCountry: 
 released: '2020-03-13'
 updated: '2021-12-10'
@@ -14,13 +14,13 @@ stars: 2.7
 ratings: 
 reviews: 6
 size: 
-website: https://banq.com
+website: 'https://banq.com'
 repository: 
 issue: 
-icon: com.banqreactnative.png
+icon: 'com.banqreactnative.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Banq, Inc.
+developerName: 'Banq, Inc.'
 features: 
 
 ---

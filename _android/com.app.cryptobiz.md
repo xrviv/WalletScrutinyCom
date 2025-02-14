@@ -3,9 +3,9 @@ wsId:
 title: 'Cryptobiz: BTC, Crypto Trading'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 100000
-appId: com.app.cryptobiz
+appId: 'com.app.cryptobiz'
 appCountry: 
 released: '2021-10-26'
 updated: '2022-12-19'
@@ -14,13 +14,13 @@ stars: 4.4
 ratings: 
 reviews: 33
 size: 
-website: https://cryptobiz.exchange/
+website: 'https://cryptobiz.exchange/'
 repository: 
 issue: 
-icon: com.app.cryptobiz.png
+icon: 'com.app.cryptobiz.png'
 bugbounty: 
-meta: defunct
-verdict: custodial
+meta: 'defunct'
+verdict: 'custodial'
 appHashes: 
 date: '2023-06-30'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Cryptobiz Exchange
+developerName: 'Cryptobiz Exchange'
 features: 
 
 ---

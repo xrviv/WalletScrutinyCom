@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: 192Trade
+title: '192Trade'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.mify.trading
+appId: 'com.mify.trading'
 appCountry: 
 released: '2020-11-18'
 updated: '2020-11-19'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.192trade.biz/
+website: 'https://www.192trade.biz/'
 repository: 
 issue: 
-icon: com.mify.trading.jpg
+icon: 'com.mify.trading.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-30'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: 192Trade
+developerName: '192Trade'
 features: 
 
 ---

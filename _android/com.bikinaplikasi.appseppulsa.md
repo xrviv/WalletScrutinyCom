@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Seppulsa
+title: 'Seppulsa'
 altTitle: 
 authors: 
 users: 5000
-appId: com.bikinaplikasi.appseppulsa
+appId: 'com.bikinaplikasi.appseppulsa'
 appCountry: 
 released: '2020-07-06'
 updated: '2020-09-15'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://seppulsa.com
+website: 'https://seppulsa.com'
 repository: 
 issue: 
-icon: com.bikinaplikasi.appseppulsa.png
+icon: 'com.bikinaplikasi.appseppulsa.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-04-20'
 signer: 

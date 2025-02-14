@@ -3,24 +3,23 @@ wsId:
 title: 'Ant Network: Phone Based'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 100000
-appId: com.creativeoffice.ripcoin
+appId: 'com.creativeoffice.ripcoin'
 appCountry: 
 released: '2021-02-25'
-updated: '2025-02-05'
+updated: 2025-02-05
 version: '33200'
 stars: 3.4
 ratings: 
 reviews: 227
-size: 
-website: https://antcoin.antf.online/
+website: 'https://antcoin.antf.online/'
 repository: 
 issue: 
-icon: com.creativeoffice.ripcoin.png
+icon: 'com.creativeoffice.ripcoin.png'
 bugbounty: 
-meta: ok
-verdict: nobtc
+meta: 'ok'
+verdict: 'nobtc'
 appHashes: 
 date: '2023-02-08'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Creative Office
+developerName: 'Creative Office'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Padawan Wallet
+title: 'Padawan Wallet'
 altTitle: 
 authors: 
 users: 500
-appId: com.goldenraven.padawanwallet
+appId: 'com.goldenraven.padawanwallet'
 appCountry: 
 released: 
 updated: '2024-10-28'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://github.com/thunderbiscuit/padawan-wallet
+website: 'https://github.com/thunderbiscuit/padawan-wallet'
 repository: 
 issue: 
-icon: com.goldenraven.padawanwallet.png
+icon: 'com.goldenraven.padawanwallet.png'
 bugbounty: 
-meta: ok
-verdict: fewusers
+meta: 'ok'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-06-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: GoldenRaven
+developerName: 'GoldenRaven'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Bitcoin Key Hunter
+title: 'Bitcoin Key Hunter'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.quickben22.bitcoinlotto
+appId: 'com.quickben22.bitcoinlotto'
 appCountry: 
 released: '2018-03-29'
 updated: '2018-04-24'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.quickben22.bitcoinlotto.png
+icon: 'com.quickben22.bitcoinlotto.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: quickben22
+developerName: 'quickben22'
 features: 
 
 ---

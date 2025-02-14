@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Exchangernet-old
+title: 'Exchangernet-old'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: www.echangerbd.com
+appId: 'www.echangerbd.com'
 appCountry: 
 released: '2020-03-21'
 updated: '2020-04-23'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.echangerbd.com/
+website: 'http://www.echangerbd.com/'
 repository: 
 issue: 
-icon: www.echangerbd.com.png
+icon: 'www.echangerbd.com.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-04-19'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Exchangernet.com
+developerName: 'Exchangernet.com'
 features: 
 
 ---

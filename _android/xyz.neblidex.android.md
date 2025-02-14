@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: NebliDex
+title: 'NebliDex'
 altTitle: 
 authors: 
 users: 100
-appId: xyz.neblidex.android
+appId: 'xyz.neblidex.android'
 appCountry: 
 released: '2019-09-29'
 updated: '2020-05-14'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.neblidex.xyz
+website: 'https://www.neblidex.xyz'
 repository: 
 issue: 
-icon: xyz.neblidex.android.png
+icon: 'xyz.neblidex.android.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: NebliDex Team
+developerName: 'NebliDex Team'
 features: 
 
 ---

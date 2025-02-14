@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Krypterz
+title: 'Krypterz'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.app.exchangejl
+appId: 'com.app.exchangejl'
 appCountry: 
 released: '2022-03-29'
 updated: '2023-05-22'
@@ -14,24 +14,24 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.krypterz.com
+website: 'https://www.krypterz.com'
 repository: 
 issue: 
-icon: com.app.exchangejl.jpg
+icon: 'com.app.exchangejl.jpg'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-08-30'
 signer: 
 reviewArchive: 
-twitter: Krypterzxchange
+twitter: 'Krypterzxchange'
 social:
-- https://www.facebook.com/Krypterz-101716118890363
-- https://www.linkedin.com/company/krypterz
-- mailto:info@krypterz.com
+- 'https://www.facebook.com/Krypterz-101716118890363'
+- 'https://www.linkedin.com/company/krypterz'
+- 'mailto:info@krypterz.com'
 redirect_from: 
-developerName: Krypterz Exchange
+developerName: 'Krypterz Exchange'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Banco Bitcoin
+title: 'Banco Bitcoin'
 altTitle: 
 authors: 
 users: 500
-appId: appinventor.ai_suporte.bancobitcoin
+appId: 'appinventor.ai_suporte.bancobitcoin'
 appCountry: 
 released: '2020-12-18'
 updated: '2020-12-18'
@@ -13,13 +13,13 @@ stars: 3.9
 ratings: 
 reviews: 
 size: 
-website: https://bancobitcoin.net
+website: 'https://bancobitcoin.net'
 repository: 
 issue: 
-icon: appinventor.ai_suporte.bancobitcoin.png
+icon: 'appinventor.ai_suporte.bancobitcoin.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Devtech Development Ltd
+developerName: 'Devtech Development Ltd'
 features: 
 
 ---

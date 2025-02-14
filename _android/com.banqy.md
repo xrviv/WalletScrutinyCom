@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: banqy - Bitcoin, Ethereum, and
+title: 'banqy - Bitcoin, Ethereum, and'
 altTitle: 
 authors: 
 users: 10
-appId: com.banqy
+appId: 'com.banqy'
 appCountry: 
 released: '2020-03-20'
 updated: '2020-03-20'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.banqy.png
+icon: 'com.banqy.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-03-21'
 signer: 

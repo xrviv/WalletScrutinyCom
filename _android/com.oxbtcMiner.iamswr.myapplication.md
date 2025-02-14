@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: OXBTC-Mine Bitcoin ,Ethereum & more
+title: 'OXBTC-Mine Bitcoin ,Ethereum & more'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.oxbtcMiner.iamswr.myapplication
+appId: 'com.oxbtcMiner.iamswr.myapplication'
 appCountry: 
 released: '2021-06-11'
 updated: '2021-06-11'
@@ -13,14 +13,14 @@ version: '8.0.0'
 stars: 3.3
 ratings: 28
 reviews: 18
-size: 2.3M
+size: '2.3M'
 website: 
 repository: 
 issue: 
-icon: com.oxbtcMiner.iamswr.myapplication.jpg
+icon: 'com.oxbtcMiner.iamswr.myapplication.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2021-11-10'
 signer: 

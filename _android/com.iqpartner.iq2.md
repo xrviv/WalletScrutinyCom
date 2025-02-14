@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: All About IQ Option
+title: 'All About IQ Option'
 altTitle: 
 authors: 
 users: 100
-appId: com.iqpartner.iq2
+appId: 'com.iqpartner.iq2'
 appCountry: 
 released: 
 updated: '2022-12-19'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.iqpartner.iq2.jpg
+icon: 'com.iqpartner.iq2.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: F1Developers
+developerName: 'F1Developers'
 features: 
 
 ---

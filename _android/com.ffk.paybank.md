@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: PayBank
+title: 'PayBank'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.ffk.paybank
+appId: 'com.ffk.paybank'
 appCountry: 
 released: '2019-09-19'
 updated: '2023-06-21'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.paybank.com
+website: 'https://www.paybank.com'
 repository: 
 issue: 
-icon: com.ffk.paybank.png
+icon: 'com.ffk.paybank.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2023-11-02'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: UAB Livil Pay
+developerName: 'UAB Livil Pay'
 features: 
 
 ---

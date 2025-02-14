@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Invest In Cryptocurrency
+title: 'Invest In Cryptocurrency'
 altTitle: 
 authors: 
 users: 0
-appId: net.bitcoinforall.invest.in.cryptocurrency
+appId: 'net.bitcoinforall.invest.in.cryptocurrency'
 appCountry: 
 released: '2021-06-17'
 updated: '2021-06-17'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 3.4M
+size: '3.4M'
 website: 
 repository: 
 issue: 
-icon: net.bitcoinforall.invest.in.cryptocurrency.jpg
+icon: 'net.bitcoinforall.invest.in.cryptocurrency.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-01'
 signer: 

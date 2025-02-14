@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: WhiteBIT U (Beta)
+title: 'WhiteBIT U (Beta)'
 altTitle: 
 authors: 
 users: 1000
-appId: com.whitebit.whitebitu
+appId: 'com.whitebit.whitebitu'
 appCountry: 
 released: '2023-04-06'
 updated: '2023-06-23'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://whitebit.com/
+website: 'https://whitebit.com/'
 repository: 
 issue: 
-icon: com.whitebit.whitebitu.png
+icon: 'com.whitebit.whitebitu.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: WhiteBit
+developerName: 'WhiteBit'
 features: 
 
 ---

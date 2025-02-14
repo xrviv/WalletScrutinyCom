@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Ewallet
+title: 'Ewallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50000
-appId: com.ding.ewalletexchange
+appId: 'com.ding.ewalletexchange'
 appCountry: 
 released: '2022-04-11'
 updated: '2023-08-20'
@@ -17,19 +17,19 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.ding.ewalletexchange.png
+icon: 'com.ding.ewalletexchange.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-02-05'
 signer: 
 reviewArchive: 
 twitter: 
 social:
-- https://dingcoin.org
+- 'https://dingcoin.org'
 redirect_from: 
-developerName: B2B Tech
+developerName: 'B2B Tech'
 features: 
 
 ---

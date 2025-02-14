@@ -1,11 +1,11 @@
 ---
-wsId: liteWallet
-title: lite Wallet
+wsId: 'liteWallet'
+title: 'lite Wallet'
 altTitle: 
 authors:
-- bit-aloo
+- 'bit-aloo'
 users: 
-appId: com.litewallet.app
+appId: 'com.litewallet.app'
 appCountry: 
 released: '2022-03-29'
 updated: '2022-06-28'
@@ -15,12 +15,12 @@ ratings:
 reviews: 
 size: 
 website: 
-repository: https://github.com/META-1-Official/litewallet-native
+repository: 'https://github.com/META-1-Official/litewallet-native'
 issue: 
-icon: com.litewallet.app.png
+icon: 'com.litewallet.app.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2024-07-19'
 signer: 

@@ -4,7 +4,7 @@ title: 'Bitfairex: Digital Assets Mark'
 altTitle: 
 authors: 
 users: 100
-appId: com.bitfairex
+appId: 'com.bitfairex'
 appCountry: 
 released: '2020-12-27'
 updated: '2021-03-25'
@@ -13,13 +13,13 @@ stars: 4.7
 ratings: 
 reviews: 
 size: 
-website: https://bitfairex.com
+website: 'https://bitfairex.com'
 repository: 
 issue: 
-icon: com.bitfairex.png
+icon: 'com.bitfairex.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bitfairex
+developerName: 'Bitfairex'
 features: 
 
 ---

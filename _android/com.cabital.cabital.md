@@ -3,9 +3,9 @@ wsId:
 title: 'Cabital: Crypto for all'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.cabital.cabital
+appId: 'com.cabital.cabital'
 appCountry: 
 released: '2021-06-07'
 updated: '2022-06-23'
@@ -14,21 +14,21 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.cabital.com
+website: 'https://www.cabital.com'
 repository: 
 issue: 
-icon: com.cabital.cabital.png
+icon: 'com.cabital.cabital.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2023-01-02'
 signer: 
 reviewArchive: 
-twitter: cabitalglobal
+twitter: 'cabitalglobal'
 social:
-- https://www.linkedin.com/company/cabital
-- https://www.facebook.com/CabitalGlobal
+- 'https://www.linkedin.com/company/cabital'
+- 'https://www.facebook.com/CabitalGlobal'
 redirect_from: 
 developerName: 
 features: 

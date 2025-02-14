@@ -1,25 +1,24 @@
 ---
 wsId: 
-title: Sezame Wallet
+title: 'Sezame Wallet'
 altTitle: 
 authors: 
 users: 100
-appId: org.maze2.sezamewallet
+appId: 'org.maze2.sezamewallet'
 appCountry: 
 released: '2022-03-31'
-updated: '2024-11-22'
+updated: 2024-11-22
 version: '0.15.5'
 stars: 
 ratings: 
 reviews: 
-size: 
-website: https://sezame.app
+website: 'https://sezame.app'
 repository: 
 issue: 
-icon: org.maze2.sezamewallet.png
+icon: 'org.maze2.sezamewallet.png'
 bugbounty: 
-meta: ok
-verdict: fewusers
+meta: 'ok'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-11-23'
 signer: 
@@ -27,7 +26,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Maze 2 Techs
+developerName: 'Maze 2 Techs'
 features: 
 
 ---

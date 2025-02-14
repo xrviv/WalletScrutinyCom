@@ -1,11 +1,11 @@
 ---
-wsId: vidalive
-title: Vida - Paywall Your Phone
+wsId: 'vidalive'
+title: 'Vida - Paywall Your Phone'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.vida.live.android
+appId: 'com.vida.live.android'
 appCountry: 
 released: '2022-03-09'
 updated: '2023-12-07'
@@ -14,13 +14,13 @@ stars: 2.8
 ratings: 
 reviews: 46
 size: 
-website: https://vida.io
+website: 'https://vida.io'
 repository: 
 issue: 
-icon: com.vida.live.android.png
+icon: 'com.vida.live.android.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: VIDA.live
+developerName: 'VIDA.live'
 features: 
 
 ---

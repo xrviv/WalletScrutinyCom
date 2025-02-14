@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: GainBOT
+title: 'GainBOT'
 altTitle: 
 authors: 
 users: 1000
-appId: com.primebot.app
+appId: 'com.primebot.app'
 appCountry: 
 released: '2022-05-27'
 updated: '2022-05-27'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://ugainindia.com
+website: 'https://ugainindia.com'
 repository: 
 issue: 
-icon: com.primebot.app.png
+icon: 'com.primebot.app.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: GainBOT
+developerName: 'GainBOT'
 features: 
 
 ---

@@ -1,26 +1,25 @@
 ---
-wsId: tapngo
+wsId: 'tapngo'
 title: "Tap - Mobile Finance\_"
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 100000
-appId: com.tapngo.tap
-appCountry: gb
+appId: 'com.tapngo.tap'
+appCountry: 'gb'
 released: '2019-12-19'
-updated: '2025-01-30'
+updated: 2025-01-30
 version: '3.4.2'
 stars: 4.5
 ratings: 1735
 reviews: 298
-size: 
-website: https://www.withtap.com
+website: 'https://www.withtap.com'
 repository: 
 issue: 
-icon: com.tapngo.tap.png
+icon: 'com.tapngo.tap.png'
 bugbounty: 
-meta: ok
-verdict: custodial
+meta: 'ok'
+verdict: 'custodial'
 appHashes: 
 date: '2021-09-11'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Tap Global Limited
+developerName: 'Tap Global Limited'
 features: 
 
 ---

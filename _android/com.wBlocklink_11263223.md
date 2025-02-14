@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BlockLink_Live
+title: 'BlockLink_Live'
 altTitle: 
 authors: 
 users: 100
-appId: com.wBlocklink_11263223
+appId: 'com.wBlocklink_11263223'
 appCountry: 
 released: '2020-08-26'
 updated: '2020-08-26'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.blocklink.live/
+website: 'https://www.blocklink.live/'
 repository: 
 issue: 
-icon: com.wBlocklink_11263223.png
+icon: 'com.wBlocklink_11263223.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-16'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Analysis
+developerName: 'Analysis'
 features: 
 
 ---

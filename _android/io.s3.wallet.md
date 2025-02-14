@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: S3 Wallet
+title: 'S3 Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: io.s3.wallet
+appId: 'io.s3.wallet'
 appCountry: 
 released: '2020-01-29'
 updated: '2021-02-20'
@@ -14,13 +14,13 @@ stars:
 ratings: 61
 reviews: 
 size: 
-website: https://s3wallet.io
+website: 'https://s3wallet.io'
 repository: 
 issue: 
-icon: io.s3.wallet.png
+icon: 'io.s3.wallet.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2021-11-15'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: S3 Global Technology Ltd
+developerName: 'S3 Global Technology Ltd'
 features: 
 
 ---

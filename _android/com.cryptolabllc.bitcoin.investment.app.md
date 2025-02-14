@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoin Investment App
+title: 'Bitcoin Investment App'
 altTitle: 
 authors: 
 users: 1
-appId: com.cryptolabllc.bitcoin.investment.app
+appId: 'com.cryptolabllc.bitcoin.investment.app'
 appCountry: 
 released: '2021-06-18'
 updated: '2021-06-18'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 3.4M
+size: '3.4M'
 website: 
 repository: 
 issue: 
-icon: com.cryptolabllc.bitcoin.investment.app.jpg
+icon: 'com.cryptolabllc.bitcoin.investment.app.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-01'
 signer: 

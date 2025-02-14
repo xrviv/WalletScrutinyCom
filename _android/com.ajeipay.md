@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: AjeiPay
+title: 'AjeiPay'
 altTitle: 
 authors: 
 users: 10
-appId: com.ajeipay
+appId: 'com.ajeipay'
 appCountry: 
 released: '2020-05-30'
 updated: '2021-10-09'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://ajeipay.com/
+website: 'https://ajeipay.com/'
 repository: 
 issue: 
-icon: com.ajeipay.png
+icon: 'com.ajeipay.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: AjeiPay
+developerName: 'AjeiPay'
 features: 
 
 ---

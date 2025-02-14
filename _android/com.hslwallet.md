@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: HSL Wallet
+title: 'HSL Wallet'
 altTitle: 
 authors: 
 users: 10
-appId: com.hslwallet
+appId: 'com.hslwallet'
 appCountry: 
 released: '2021-08-04'
 updated: '2024-07-29'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.hamilton-systems.io
+website: 'http://www.hamilton-systems.io'
 repository: 
 issue: 
-icon: com.hslwallet.png
+icon: 'com.hslwallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2025-01-09'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Hamilton Systems
+developerName: 'Hamilton Systems'
 features: 
 
 ---

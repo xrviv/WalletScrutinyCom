@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: GB Pro
+title: 'GB Pro'
 altTitle: 
 authors: 
 users: 100
-appId: com.gbotc
+appId: 'com.gbotc'
 appCountry: 
 released: '2021-07-19'
 updated: '2022-06-01'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://genesisblockhk.com/
+website: 'https://genesisblockhk.com/'
 repository: 
 issue: 
-icon: com.gbotc.png
+icon: 'com.gbotc.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

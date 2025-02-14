@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Nine
+title: 'Nine'
 altTitle: 
 authors: 
 users: 100
-appId: com.nine
+appId: 'com.nine'
 appCountry: 
 released: '2020-07-20'
 updated: '2020-10-08'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.nine.png
+icon: 'com.nine.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-16'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Nine Develpoer Team
+developerName: 'Nine Develpoer Team'
 features: 
 
 ---

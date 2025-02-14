@@ -1,11 +1,11 @@
 ---
-wsId: bobablocksWallet
-title: bobablocks - Multichain Wallet
+wsId: 'bobablocksWallet'
+title: 'bobablocks - Multichain Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: io.bumoon.boo
+appId: 'io.bumoon.boo'
 appCountry: 
 released: '2021-11-29'
 updated: '2022-10-10'
@@ -14,22 +14,22 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bobablocks.io
+website: 'https://bobablocks.io'
 repository: 
 issue: 
-icon: io.bumoon.boo.png
+icon: 'io.bumoon.boo.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-12-23'
 signer: 
 reviewArchive: 
-twitter: bobablocks
+twitter: 'bobablocks'
 social:
-- https://www.instagram.com/bobablocks.io
+- 'https://www.instagram.com/bobablocks.io'
 redirect_from: 
-developerName: Bumoonio
+developerName: 'Bumoonio'
 features: 
 
 ---

@@ -1,25 +1,24 @@
 ---
 wsId: 
-title: Heat Wallet
+title: 'Heat Wallet'
 altTitle: 
 authors: 
 users: 10
-appId: com.heatwallet.heat_app
+appId: 'com.heatwallet.heat_app'
 appCountry: 
 released: '2024-10-24'
-updated: '2025-02-07'
+updated: 2025-02-07
 version: '2.5.2'
 stars: 
 ratings: 
 reviews: 
-size: 
 website: 
 repository: 
 issue: 
-icon: com.heatwallet.heat_app.png
+icon: 'com.heatwallet.heat_app.png'
 bugbounty: 
-meta: ok
-verdict: fewusers
+meta: 'ok'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-03-01'
 signer: 
@@ -27,7 +26,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Tulipfox
+developerName: 'Tulipfox'
 features: 
 
 ---

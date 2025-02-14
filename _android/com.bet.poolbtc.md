@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: PoolBTC
+title: 'PoolBTC'
 altTitle: 
 authors: 
 users: 10
-appId: com.bet.poolbtc
+appId: 'com.bet.poolbtc'
 appCountry: 
 released: '2020-05-07'
 updated: '2020-05-07'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.bet.poolbtc.png
+icon: 'com.bet.poolbtc.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: POOLBTC CRYPTO LLC
+developerName: 'POOLBTC CRYPTO LLC'
 features: 
 
 ---

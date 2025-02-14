@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: ALBOS Wallet
+title: 'ALBOS Wallet'
 altTitle: 
 authors: 
 users: 500
-appId: io.albos.wallet
+appId: 'io.albos.wallet'
 appCountry: 
 released: '2019-07-01'
 updated: '2021-10-17'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.albos.io/
+website: 'http://www.albos.io/'
 repository: 
 issue: 
-icon: io.albos.wallet.png
+icon: 'io.albos.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: ALBOS AND MARE PARTNERS OÜ
+developerName: 'ALBOS AND MARE PARTNERS OÜ'
 features: 
 
 ---

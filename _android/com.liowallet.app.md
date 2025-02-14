@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Lio App
+title: 'Lio App'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.liowallet.app
+appId: 'com.liowallet.app'
 appCountry: 
 released: '2019-02-27'
 updated: '2021-06-24'
@@ -14,13 +14,13 @@ stars: 4.5
 ratings: 
 reviews: 
 size: 
-website: https://www.lio-coin.eu/
+website: 'https://www.lio-coin.eu/'
 repository: 
 issue: 
-icon: com.liowallet.app.png
+icon: 'com.liowallet.app.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2024-04-26'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: LIOCoin
+developerName: 'LIOCoin'
 features: 
 
 ---

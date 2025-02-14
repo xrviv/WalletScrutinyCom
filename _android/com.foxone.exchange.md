@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: F1EX
+title: 'F1EX'
 altTitle: 
 authors: 
 users: 50
-appId: com.foxone.exchange
+appId: 'com.foxone.exchange'
 appCountry: 
 released: '2019-03-18'
 updated: '2019-05-20'
@@ -12,14 +12,14 @@ version: '1.6.2'
 stars: 
 ratings: 
 reviews: 
-size: 8.4M
+size: '8.4M'
 website: 
 repository: 
 issue: 
-icon: com.foxone.exchange.png
+icon: 'com.foxone.exchange.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-15'
 signer: 

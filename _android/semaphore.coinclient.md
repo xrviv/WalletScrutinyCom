@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: 코인통
+title: '코인통'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: semaphore.coinclient
+appId: 'semaphore.coinclient'
 appCountry: 
 released: '2018-05-14'
 updated: '2022-11-03'
@@ -14,13 +14,13 @@ stars:
 ratings: 55
 reviews: 
 size: 
-website: http://cointong.io/
+website: 'http://cointong.io/'
 repository: 
 issue: 
-icon: semaphore.coinclient.png
+icon: 'semaphore.coinclient.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2021-08-01'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Tomato Group
+developerName: 'Tomato Group'
 features: 
 
 ---

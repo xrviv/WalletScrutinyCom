@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: ExxBank
+title: 'ExxBank'
 altTitle: 
 authors: 
 users: 5
-appId: com.equuslabs.sample
+appId: 'com.equuslabs.sample'
 appCountry: 
 released: '2020-07-04'
 updated: '2020-07-04'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://exxbank.com/
+website: 'https://exxbank.com/'
 repository: 
 issue: 
-icon: com.equuslabs.sample.png
+icon: 'com.equuslabs.sample.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: JDK Tecnologia
+developerName: 'JDK Tecnologia'
 features: 
 
 ---

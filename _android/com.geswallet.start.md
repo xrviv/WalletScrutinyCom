@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: GES Wallets
+title: 'GES Wallets'
 altTitle: 
 authors: 
 users: 100
-appId: com.geswallet.start
+appId: 'com.geswallet.start'
 appCountry: 
 released: '2020-04-14'
 updated: '2020-04-17'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://portaltest.gesgame.io/
+website: 'https://portaltest.gesgame.io/'
 repository: 
 issue: 
-icon: com.geswallet.start.png
+icon: 'com.geswallet.start.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Ges Ecosystem
+developerName: 'Ges Ecosystem'
 features: 
 
 ---

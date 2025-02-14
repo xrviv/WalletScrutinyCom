@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: GRX Trade
+title: 'GRX Trade'
 altTitle: 
 authors: 
 users: 100
-appId: com.grxtrade.app
+appId: 'com.grxtrade.app'
 appCountry: 
 released: '2020-02-14'
 updated: '2020-11-30'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.growdex.com/
+website: 'https://www.growdex.com/'
 repository: 
 issue: 
-icon: com.grxtrade.app.png
+icon: 'com.grxtrade.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Growdex
+developerName: 'Growdex'
 features: 
 
 ---

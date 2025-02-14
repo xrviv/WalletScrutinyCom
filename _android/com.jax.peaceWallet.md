@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Peace Wallet
+title: 'Peace Wallet'
 altTitle: 
 authors: 
 users: 100
-appId: com.jax.peaceWallet
+appId: 'com.jax.peaceWallet'
 appCountry: 
 released: '2022-03-14'
 updated: '2023-10-05'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://peacewallet.io/
+website: 'https://peacewallet.io/'
 repository: 
 issue: 
-icon: com.jax.peaceWallet.png
+icon: 'com.jax.peaceWallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-08-07'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: PeaceWallet
+developerName: 'PeaceWallet'
 features: 
 
 ---

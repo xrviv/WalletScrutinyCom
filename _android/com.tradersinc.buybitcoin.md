@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Buy Bitcoin & Other Cryptocurr
+title: 'Buy Bitcoin & Other Cryptocurr'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.tradersinc.buybitcoin
+appId: 'com.tradersinc.buybitcoin'
 appCountry: 
 released: '2017-06-26'
 updated: '2017-06-26'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.tradersinc.mobi
+website: 'http://www.tradersinc.mobi'
 repository: 
 issue: 
-icon: com.tradersinc.buybitcoin.png
+icon: 'com.tradersinc.buybitcoin.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-06-07'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Tradersinc
+developerName: 'Tradersinc'
 features: 
 
 ---

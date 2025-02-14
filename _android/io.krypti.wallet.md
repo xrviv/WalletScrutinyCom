@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Krypti Wallet
+title: 'Krypti Wallet'
 altTitle: 
 authors: 
 users: 50
-appId: io.krypti.wallet
+appId: 'io.krypti.wallet'
 appCountry: 
 released: '2019-05-17'
 updated: '2020-11-19'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://krypti.io/
+website: 'https://krypti.io/'
 repository: 
 issue: 
-icon: io.krypti.wallet.png
+icon: 'io.krypti.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-16'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Krypti
+developerName: 'Krypti'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: UZNEX - Crypto Exchange
+title: 'UZNEX - Crypto Exchange'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.uznex.app
+appId: 'com.uznex.app'
 appCountry: 
 released: '2020-04-28'
 updated: '2024-02-19'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://uznex.com
+website: 'https://uznex.com'
 repository: 
 issue: 
-icon: com.uznex.app.png
+icon: 'com.uznex.app.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-12-15'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: UZNEX
+developerName: 'UZNEX'
 features: 
 
 ---

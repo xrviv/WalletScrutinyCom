@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bupmart
+title: 'Bupmart'
 altTitle: 
 authors: 
 users: 50
-appId: com.plus.bumpt.app
+appId: 'com.plus.bumpt.app'
 appCountry: 
 released: '2022-12-01'
 updated: '2022-12-01'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.plus.bumpt.app.png
+icon: 'com.plus.bumpt.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-25'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BILAL  H BUTT
+developerName: 'BILAL  H BUTT'
 features: 
 
 ---

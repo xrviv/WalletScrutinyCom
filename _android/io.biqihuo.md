@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: HappyEX-数字货币杠杆交易平台
+title: 'HappyEX-数字货币杠杆交易平台'
 altTitle: 
 authors: 
 users: 1000
-appId: io.biqihuo
+appId: 'io.biqihuo'
 appCountry: 
 released: '2019-08-21'
 updated: '2019-08-21'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: io.biqihuo.png
+icon: 'io.biqihuo.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: HappyEX
+developerName: 'HappyEX'
 features: 
 
 ---

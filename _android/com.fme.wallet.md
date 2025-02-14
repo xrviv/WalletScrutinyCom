@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: FME Wallet
+title: 'FME Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.fme.wallet
+appId: 'com.fme.wallet'
 appCountry: 
 released: '2020-04-26'
 updated: '2020-06-22'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://wallet.fmetoken.io
+website: 'https://wallet.fmetoken.io'
 repository: 
 issue: 
-icon: com.fme.wallet.jpg
+icon: 'com.fme.wallet.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-25'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: fmetoken.io
+developerName: 'fmetoken.io'
 features: 
 
 ---

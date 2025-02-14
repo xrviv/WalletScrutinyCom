@@ -3,9 +3,9 @@ wsId:
 title: 'Pera: Crypto & Gift Cards'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.ewebmeta.ewebmeta
+appId: 'com.ewebmeta.ewebmeta'
 appCountry: 
 released: '2022-03-13'
 updated: '2023-07-06'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://pera.cx
+website: 'https://pera.cx'
 repository: 
 issue: 
-icon: com.ewebmeta.ewebmeta.png
+icon: 'com.ewebmeta.ewebmeta.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2023-08-25'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Pera Digital Services
+developerName: 'Pera Digital Services'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: SwappID
+title: 'SwappID'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50000
-appId: ee.swapp.idapp
+appId: 'ee.swapp.idapp'
 appCountry: 
 released: '2022-03-14'
 updated: '2022-03-17'
@@ -14,13 +14,13 @@ stars: 3.3
 ratings: 
 reviews: 7
 size: 
-website: https://swapp.ee
+website: 'https://swapp.ee'
 repository: 
 issue: 
-icon: ee.swapp.idapp.png
+icon: 'ee.swapp.idapp.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-07-31'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Marble Harp Technologies Inc
+developerName: 'Marble Harp Technologies Inc'
 features: 
 
 ---

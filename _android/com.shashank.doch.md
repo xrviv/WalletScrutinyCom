@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: DOCH
+title: 'DOCH'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.shashank.doch
+appId: 'com.shashank.doch'
 appCountry: 
 released: '2019-08-07'
 updated: '2020-08-11'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://dochcoin.com/
+website: 'https://dochcoin.com/'
 repository: 
 issue: 
-icon: com.shashank.doch.png
+icon: 'com.shashank.doch.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-06-02'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: DOCH LLC
+developerName: 'DOCH LLC'
 features: 
 
 ---

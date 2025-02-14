@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Xchange Monster
+title: 'Xchange Monster'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.xchangemonster
+appId: 'com.xchangemonster'
 appCountry: 
 released: '2022-05-04'
 updated: '2022-08-24'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://prod.xchangemonster.com/
+website: 'https://prod.xchangemonster.com/'
 repository: 
 issue: 
-icon: com.xchangemonster.png
+icon: 'com.xchangemonster.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-08-19'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: XchangeMonsterMobile
+developerName: 'XchangeMonsterMobile'
 features: 
 
 ---

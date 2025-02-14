@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Barong Xtrade
+title: 'Barong Xtrade'
 altTitle: 
 authors: 
 users: 10
-appId: com.barongxtrade.users
+appId: 'com.barongxtrade.users'
 appCountry: 
 released: '2022-10-28'
 updated: '2023-04-30'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://Barongxtrade.com
+website: 'http://Barongxtrade.com'
 repository: 
 issue: 
-icon: com.barongxtrade.users.png
+icon: 'com.barongxtrade.users.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-09-15'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BarongXtrade
+developerName: 'BarongXtrade'
 features: 
 
 ---

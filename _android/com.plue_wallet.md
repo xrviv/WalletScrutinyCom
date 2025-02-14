@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Plue Wallet
+title: 'Plue Wallet'
 altTitle: 
 authors: 
 users: 100
-appId: com.plue_wallet
+appId: 'com.plue_wallet'
 appCountry: 
 released: '2019-04-01'
 updated: '2021-08-04'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.plue.io
+website: 'http://www.plue.io'
 repository: 
 issue: 
-icon: com.plue_wallet.png
+icon: 'com.plue_wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Plue Wallet
+developerName: 'Plue Wallet'
 features: 
 
 ---

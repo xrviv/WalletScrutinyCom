@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Invest In Cryptocurrency
+title: 'Invest In Cryptocurrency'
 altTitle: 
 authors: 
 users: 0
-appId: org.bitrtuubonline.invest.in.cryptocurrency
+appId: 'org.bitrtuubonline.invest.in.cryptocurrency'
 appCountry: 
 released: '2021-07-17'
 updated: '2021-07-17'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 2.4M
+size: '2.4M'
 website: 
 repository: 
 issue: 
-icon: org.bitrtuubonline.invest.in.cryptocurrency.png
+icon: 'org.bitrtuubonline.invest.in.cryptocurrency.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-01'
 signer: 

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Smart Contract Arbitrage Bot
+title: 'Smart Contract Arbitrage Bot'
 altTitle: 
 authors: 
 users: 500
-appId: com.mahdi.app
+appId: 'com.mahdi.app'
 appCountry: 
 released: '2022-07-02'
 updated: '2022-11-06'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.mahdi.app.png
+icon: 'com.mahdi.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CSCAB
+developerName: 'CSCAB'
 features: 
 
 ---

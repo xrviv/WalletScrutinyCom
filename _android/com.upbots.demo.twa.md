@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: UpBots -  Invest & Trade Crypto Easily & Securely
+title: 'UpBots -  Invest & Trade Crypto Easily & Securely'
 altTitle: 
 authors: 
 users: 100
-appId: com.upbots.demo.twa
+appId: 'com.upbots.demo.twa'
 appCountry: 
 released: '2021-06-21'
 updated: '2021-06-21'
@@ -12,14 +12,14 @@ version: '1'
 stars: 5
 ratings: 5
 reviews: 3
-size: 542k
+size: '542k'
 website: 
 repository: 
 issue: 
-icon: com.upbots.demo.twa.png
+icon: 'com.upbots.demo.twa.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2022-01-15'
 signer: 

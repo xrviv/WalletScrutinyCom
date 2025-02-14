@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Ruyi Wallet
+title: 'Ruyi Wallet'
 altTitle: 
 authors: 
 users: 500
-appId: com.ruyiwallet.app
+appId: 'com.ruyiwallet.app'
 appCountry: 
 released: '2022-04-05'
 updated: '2022-07-22'
@@ -13,13 +13,13 @@ stars: 4.8
 ratings: 
 reviews: 4
 size: 
-website: https://www.ruyiwallet.com
+website: 'https://www.ruyiwallet.com'
 repository: 
 issue: 
-icon: com.ruyiwallet.app.png
+icon: 'com.ruyiwallet.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

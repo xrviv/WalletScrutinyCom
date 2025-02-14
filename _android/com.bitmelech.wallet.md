@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitmelech Crypto Wallet
+title: 'Bitmelech Crypto Wallet'
 altTitle: 
 authors: 
 users: 10
-appId: com.bitmelech.wallet
+appId: 'com.bitmelech.wallet'
 appCountry: 
 released: 
 updated: '2022-08-05'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bitmelech.com/
+website: 'https://bitmelech.com/'
 repository: 
 issue: 
-icon: com.bitmelech.wallet.png
+icon: 'com.bitmelech.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bitmelech
+developerName: 'Bitmelech'
 features: 
 
 ---

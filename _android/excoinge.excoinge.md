@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Excoinge
+title: 'Excoinge'
 altTitle: 
 authors: 
 users: 100
-appId: excoinge.excoinge
+appId: 'excoinge.excoinge'
 appCountry: 
 released: '2017-12-04'
 updated: '2018-05-13'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.excoinge.com/
+website: 'https://www.excoinge.com/'
 repository: 
 issue: 
-icon: excoinge.excoinge.png
+icon: 'excoinge.excoinge.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Excoinge Ecommerce
+developerName: 'Excoinge Ecommerce'
 features: 
 
 ---

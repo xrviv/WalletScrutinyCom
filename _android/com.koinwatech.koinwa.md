@@ -3,9 +3,9 @@ wsId:
 title: 'Koinwa: Buy, Sell, Loan Crypto'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.koinwatech.koinwa
+appId: 'com.koinwatech.koinwa'
 appCountry: 
 released: '2021-08-08'
 updated: '2024-02-24'
@@ -14,13 +14,13 @@ stars: 4.4
 ratings: 
 reviews: 
 size: 
-website: https://koinwa.com/
+website: 'https://koinwa.com/'
 repository: 
 issue: 
-icon: com.koinwatech.koinwa.png
+icon: 'com.koinwatech.koinwa.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-07-30'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: koinwa
+developerName: 'koinwa'
 features: 
 
 ---

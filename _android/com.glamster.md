@@ -1,26 +1,25 @@
 ---
-wsId: glamster
-title: Glamster | The Smart Messenger
+wsId: 'glamster'
+title: 'Glamster | The Smart Messenger'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.glamster
+appId: 'com.glamster'
 appCountry: 
 released: '2020-08-19'
-updated: '2023-06-28'
+updated: 2023-06-28
 version: '4.1.1'
 stars: 2.6
 ratings: 
 reviews: 6
-size: 
-website: https://glamster.me
+website: 'https://glamster.me'
 repository: 
 issue: 
-icon: com.glamster.png
+icon: 'com.glamster.png'
 bugbounty: 
-meta: stale
-verdict: nosource
+meta: 'stale'
+verdict: 'nosource'
 appHashes: 
 date: '2024-06-23'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Glamster
+developerName: 'Glamster'
 features: 
 
 ---

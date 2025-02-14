@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: HUOBI MY
+title: 'HUOBI MY'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.huobilbn.appstore
+appId: 'com.huobilbn.appstore'
 appCountry: 
 released: '2020-11-05'
 updated: '2020-11-17'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.huobilbn.com
+website: 'https://www.huobilbn.com'
 repository: 
 issue: 
-icon: com.huobilbn.appstore.png
+icon: 'com.huobilbn.appstore.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2022-12-17'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Huobi Labuan Limited
+developerName: 'Huobi Labuan Limited'
 features: 
 
 ---

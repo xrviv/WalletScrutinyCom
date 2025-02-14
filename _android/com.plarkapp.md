@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Plark
+title: 'Plark'
 altTitle: 
 authors: 
 users: 500
-appId: com.plarkapp
+appId: 'com.plarkapp'
 appCountry: 
 released: '2020-04-14'
 updated: '2022-04-06'
@@ -13,13 +13,13 @@ stars: 5
 ratings: 
 reviews: 
 size: 
-website: https://plark.io
+website: 'https://plark.io'
 repository: 
 issue: 
-icon: com.plarkapp.png
+icon: 'com.plarkapp.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: PLARK LTD
+developerName: 'PLARK LTD'
 features: 
 
 ---

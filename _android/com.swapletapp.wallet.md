@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Swaplet
+title: 'Swaplet'
 altTitle: 
 authors: 
 users: 10
-appId: com.swapletapp.wallet
+appId: 'com.swapletapp.wallet'
 appCountry: 
 released: '2019-09-01'
 updated: '2019-12-08'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.swapletapp.wallet.png
+icon: 'com.swapletapp.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-03-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Jevgenijs Pavlenko
+developerName: 'Jevgenijs Pavlenko'
 features: 
 
 ---

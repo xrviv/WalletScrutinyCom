@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: B4U Global
+title: 'B4U Global'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 100000
-appId: com.b4uglobal.app
+appId: 'com.b4uglobal.app'
 appCountry: 
 released: '2020-09-15'
 updated: '2021-04-12'
@@ -14,13 +14,13 @@ stars: 4.8
 ratings: 
 reviews: 
 size: 
-website: https://www.b4uglobal.com
+website: 'https://www.b4uglobal.com'
 repository: 
 issue: 
-icon: com.b4uglobal.app.png
+icon: 'com.b4uglobal.app.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-02-08'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: b4u global
+developerName: 'b4u global'
 features: 
 
 ---

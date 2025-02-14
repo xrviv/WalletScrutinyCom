@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: HomiEx Crypto Exchange
+title: 'HomiEx Crypto Exchange'
 altTitle: 
 authors: 
 users: 100
-appId: be.homiex.broker.android
+appId: 'be.homiex.broker.android'
 appCountry: 
 released: '2021-08-03'
 updated: '2021-08-04'
@@ -12,14 +12,14 @@ version: '4.1.2'
 stars: 
 ratings: 
 reviews: 
-size: 21M
+size: '21M'
 website: 
 repository: 
 issue: 
-icon: be.homiex.broker.android.png
+icon: 'be.homiex.broker.android.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-22'
 signer: 

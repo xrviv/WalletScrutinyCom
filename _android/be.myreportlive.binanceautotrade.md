@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Binance Auto Trade
+title: 'Binance Auto Trade'
 altTitle: 
 authors: 
 users: 100
-appId: be.myreportlive.binanceautotrade
+appId: 'be.myreportlive.binanceautotrade'
 appCountry: 
 released: '2021-05-30'
 updated: '2022-05-26'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://binanceautotrade.myreport-live.be
+website: 'http://binanceautotrade.myreport-live.be'
 repository: 
 issue: 
-icon: be.myreportlive.binanceautotrade.png
+icon: 'be.myreportlive.binanceautotrade.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

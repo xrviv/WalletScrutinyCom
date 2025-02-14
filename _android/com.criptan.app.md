@@ -1,26 +1,25 @@
 ---
-wsId: criptanWallet
-title: Criptan - Complement your bank
+wsId: 'criptanWallet'
+title: 'Criptan - Complement your bank'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50000
-appId: com.criptan.app
+appId: 'com.criptan.app'
 appCountry: 
 released: '2020-08-23'
-updated: '2024-12-12'
+updated: 2024-12-12
 version: '3.00.0'
 stars: 4.2
 ratings: 
 reviews: 
-size: 
-website: https://criptan.com
+website: 'https://criptan.com'
 repository: 
 issue: 
-icon: com.criptan.app.png
+icon: 'com.criptan.app.png'
 bugbounty: 
-meta: ok
-verdict: custodial
+meta: 'ok'
+verdict: 'custodial'
 appHashes: 
 date: '2023-12-14'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CRIPTAN
+developerName: 'CRIPTAN'
 features: 
 
 ---

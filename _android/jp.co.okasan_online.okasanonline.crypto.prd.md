@@ -1,11 +1,11 @@
 ---
-wsId: okasanCryptoCFD
-title: 暗号資産CFD‐ 岡三オンライン
+wsId: 'okasanCryptoCFD'
+title: '暗号資産CFD‐ 岡三オンライン'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: jp.co.okasan_online.okasanonline.crypto.prd
+appId: 'jp.co.okasan_online.okasanonline.crypto.prd'
 appCountry: 
 released: '2022-01-28'
 updated: '2024-02-21'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.okasan-online.co.jp/
+website: 'https://www.okasan-online.co.jp/'
 repository: 
 issue: 
-icon: jp.co.okasan_online.okasanonline.crypto.prd.png
+icon: 'jp.co.okasan_online.okasanonline.crypto.prd.png'
 bugbounty: 
-meta: removed
-verdict: nosendreceive
+meta: 'removed'
+verdict: 'nosendreceive'
 appHashes: 
 date: '2024-10-06'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: 岡三証券株式会社（岡三オンライン）
+developerName: '岡三証券株式会社（岡三オンライン）'
 features: 
 
 ---

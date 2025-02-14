@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Flyp.me - Crypto Exchange
+title: 'Flyp.me - Crypto Exchange'
 altTitle: 
 authors: 
 users: 1000
-appId: me.flyp.mobile
+appId: 'me.flyp.mobile'
 appCountry: 
 released: '2020-03-13'
 updated: '2020-10-09'
@@ -13,13 +13,13 @@ stars: 4.1
 ratings: 
 reviews: 
 size: 
-website: https://flyp.me
+website: 'https://flyp.me'
 repository: 
 issue: 
-icon: me.flyp.mobile.png
+icon: 'me.flyp.mobile.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-09-08'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: HolyTransaction Android
+developerName: 'HolyTransaction Android'
 features: 
 
 ---

@@ -1,26 +1,25 @@
 ---
-wsId: cashierestCrypto
-title: 캐셔레스트 공식앱(캐셔레스트,코인,디지털 자산,거래소)
+wsId: 'cashierestCrypto'
+title: '캐셔레스트 공식앱(캐셔레스트,코인,디지털 자산,거래소)'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50000
-appId: kr.co.newlinkcorp.cashierest
+appId: 'kr.co.newlinkcorp.cashierest'
 appCountry: 
 released: '2022-10-27'
-updated: '2023-10-18'
+updated: 2023-10-18
 version: '4.24.6'
 stars: 3.7
 ratings: 
 reviews: 
-size: 
-website: https://www.cashierest.com
+website: 'https://www.cashierest.com'
 repository: 
 issue: 
-icon: kr.co.newlinkcorp.cashierest.png
+icon: 'kr.co.newlinkcorp.cashierest.png'
 bugbounty: 
-meta: stale
-verdict: custodial
+meta: 'stale'
+verdict: 'custodial'
 appHashes: 
 date: '2024-10-12'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Newlink
+developerName: 'Newlink'
 features: 
 
 ---

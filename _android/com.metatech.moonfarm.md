@@ -1,11 +1,11 @@
 ---
-wsId: moonfarm
-title: Moonfarm
+wsId: 'moonfarm'
+title: 'Moonfarm'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.metatech.moonfarm
+appId: 'com.metatech.moonfarm'
 appCountry: 
 released: '2022-07-29'
 updated: '2023-02-23'
@@ -14,25 +14,25 @@ stars: 3.2
 ratings: 
 reviews: 6
 size: 
-website: https://moonfarm.finance
+website: 'https://moonfarm.finance'
 repository: 
 issue: 
-icon: com.metatech.moonfarm.png
+icon: 'com.metatech.moonfarm.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-08-04'
 signer: 
 reviewArchive: 
-twitter: MoonfarmFinance
+twitter: 'MoonfarmFinance'
 social:
-- https://www.facebook.com/profile.php?id=100069712269738
-- https://t.me/MoonfarmFinanceChannel
-- https://www.youtube.com/channel/UCMnPtHH_F8EnW7xrPyuQiWA
-- https://moonfarmfinance.medium.com
+- 'https://www.facebook.com/profile.php?id=100069712269738'
+- 'https://t.me/MoonfarmFinanceChannel'
+- 'https://www.youtube.com/channel/UCMnPtHH_F8EnW7xrPyuQiWA'
+- 'https://moonfarmfinance.medium.com'
 redirect_from: 
-developerName: FinanceX
+developerName: 'FinanceX'
 features: 
 
 ---

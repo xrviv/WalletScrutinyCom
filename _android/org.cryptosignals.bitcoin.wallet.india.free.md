@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoin Wallet India Free
+title: 'Bitcoin Wallet India Free'
 altTitle: 
 authors: 
 users: 1
-appId: org.cryptosignals.bitcoin.wallet.india.free
+appId: 'org.cryptosignals.bitcoin.wallet.india.free'
 appCountry: 
 released: '2021-06-19'
 updated: '2021-06-19'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 2.4M
+size: '2.4M'
 website: 
 repository: 
 issue: 
-icon: org.cryptosignals.bitcoin.wallet.india.free.jpg
+icon: 'org.cryptosignals.bitcoin.wallet.india.free.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-01'
 signer: 

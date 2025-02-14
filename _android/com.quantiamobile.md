@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Quantia.io
+title: 'Quantia.io'
 altTitle: 
 authors: 
 users: 100
-appId: com.quantiamobile
+appId: 'com.quantiamobile'
 appCountry: 
 released: '2022-07-19'
 updated: '2022-12-14'
@@ -13,13 +13,13 @@ stars: 4.1
 ratings: 
 reviews: 
 size: 
-website: https://quantia.io
+website: 'https://quantia.io'
 repository: 
 issue: 
-icon: com.quantiamobile.png
+icon: 'com.quantiamobile.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Quantia.io
+developerName: 'Quantia.io'
 features: 
 
 ---

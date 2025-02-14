@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Xcoinance
+title: 'Xcoinance'
 altTitle: 
 authors: 
 users: 100
-appId: chukstem.xcoinance
+appId: 'chukstem.xcoinance'
 appCountry: 
 released: '2022-01-18'
 updated: '2024-03-05'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: chukstem.xcoinance.jpg
+icon: 'chukstem.xcoinance.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-12-31'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: xcoinance Capital
+developerName: 'xcoinance Capital'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BCM Holdings
+title: 'BCM Holdings'
 altTitle: 
 authors: 
 users: 100
-appId: com.bcm.bcm_alpha_app
+appId: 'com.bcm.bcm_alpha_app'
 appCountry: 
 released: 
 updated: '2021-09-26'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.bcmholdings.io
+website: 'https://www.bcmholdings.io'
 repository: 
 issue: 
-icon: com.bcm.bcm_alpha_app.png
+icon: 'com.bcm.bcm_alpha_app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bestway Capital Management
+developerName: 'Bestway Capital Management'
 features: 
 
 ---

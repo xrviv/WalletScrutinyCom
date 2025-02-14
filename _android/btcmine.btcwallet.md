@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: BTC Wallet
+title: 'BTC Wallet'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 1000
-appId: btcmine.btcwallet
+appId: 'btcmine.btcwallet'
 appCountry: 
 released: '2017-08-13'
 updated: '2017-08-13'
@@ -13,14 +13,14 @@ version: '1.1'
 stars: 3.9
 ratings: 16
 reviews: 7
-size: 2.3M
+size: '2.3M'
 website: 
 repository: 
 issue: 
-icon: btcmine.btcwallet.png
+icon: 'btcmine.btcwallet.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2021-07-09'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from:
-- /btcmine.btcwallet/
+- '/btcmine.btcwallet/'
 developerName: 
 features: 
 

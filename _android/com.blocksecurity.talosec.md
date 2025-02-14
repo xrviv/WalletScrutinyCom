@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Talosec
+title: 'Talosec'
 altTitle: 
 authors: 
 users: 5
-appId: com.blocksecurity.talosec
+appId: 'com.blocksecurity.talosec'
 appCountry: 
 released: '2020-05-28'
 updated: '2020-06-14'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://talosec.io
+website: 'http://talosec.io'
 repository: 
 issue: 
-icon: com.blocksecurity.talosec.png
+icon: 'com.blocksecurity.talosec.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Block Security Limited
+developerName: 'Block Security Limited'
 features: 
 
 ---

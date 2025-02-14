@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Swifty Wallet
+title: 'Swifty Wallet'
 altTitle: 
 authors: 
 users: 100
-appId: com.swiftywallet
+appId: 'com.swiftywallet'
 appCountry: 
 released: '2022-03-07'
 updated: '2022-05-25'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.swifty.global/
+website: 'https://www.swifty.global/'
 repository: 
 issue: 
-icon: com.swiftywallet.png
+icon: 'com.swiftywallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-10-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Swifty Global
+developerName: 'Swifty Global'
 features: 
 
 ---

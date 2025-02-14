@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: CryptoWallet - Bittrex and Bin
+title: 'CryptoWallet - Bittrex and Bin'
 altTitle: 
 authors: 
 users: 10
-appId: io.crypto.wallet
+appId: 'io.crypto.wallet'
 appCountry: 
 released: '2018-11-03'
 updated: '2018-11-03'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: io.crypto.wallet.png
+icon: 'io.crypto.wallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Online Custom
+developerName: 'Online Custom'
 features: 
 
 ---

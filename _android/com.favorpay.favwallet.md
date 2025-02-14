@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Favorpay
+title: 'Favorpay'
 altTitle: 
 authors: 
 users: 100
-appId: com.favorpay.favwallet
+appId: 'com.favorpay.favwallet'
 appCountry: 
 released: '2020-12-14'
 updated: '2022-01-20'
@@ -13,13 +13,13 @@ stars: 4.3
 ratings: 
 reviews: 
 size: 
-website: https://favorpay.io
+website: 'https://favorpay.io'
 repository: 
 issue: 
-icon: com.favorpay.favwallet.png
+icon: 'com.favorpay.favwallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: FAVORPAY TEAM
+developerName: 'FAVORPAY TEAM'
 features: 
 
 ---

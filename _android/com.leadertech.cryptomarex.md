@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: cryptomarex
+title: 'cryptomarex'
 altTitle: 
 authors: 
 users: 5
-appId: com.leadertech.cryptomarex
+appId: 'com.leadertech.cryptomarex'
 appCountry: 
 released: '2021-01-12'
 updated: '2021-01-12'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.leadertech.cryptomarex.png
+icon: 'com.leadertech.cryptomarex.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: leader ruvuna
+developerName: 'leader ruvuna'
 features: 
 
 ---

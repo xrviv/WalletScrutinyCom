@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: GUNTHY
+title: 'GUNTHY'
 altTitle: 
 authors: 
 users: 500
-appId: org.gunthy.ex
+appId: 'org.gunthy.ex'
 appCountry: 
 released: '2021-01-12'
 updated: '2021-01-14'
@@ -13,13 +13,13 @@ stars: 4
 ratings: 
 reviews: 
 size: 
-website: https://gunthy.org
+website: 'https://gunthy.org'
 repository: 
 issue: 
-icon: org.gunthy.ex.png
+icon: 'org.gunthy.ex.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-03-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Gunthy LTD
+developerName: 'Gunthy LTD'
 features: 
 
 ---

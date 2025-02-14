@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: METABITT
+title: 'METABITT'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.chainup.exchange.METABITT
+appId: 'com.chainup.exchange.METABITT'
 appCountry: 
 released: '2022-12-30'
 updated: '2023-01-17'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.mt-bitt.com/en_US/
+website: 'https://www.mt-bitt.com/en_US/'
 repository: 
 issue: 
-icon: com.chainup.exchange.METABITT.png
+icon: 'com.chainup.exchange.METABITT.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: KKOrange
+developerName: 'KKOrange'
 features: 
 
 ---

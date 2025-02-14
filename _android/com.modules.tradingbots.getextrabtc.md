@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Get Extra BTC
+title: 'Get Extra BTC'
 altTitle: 
 authors: 
 users: 100
-appId: com.modules.tradingbots.getextrabtc
+appId: 'com.modules.tradingbots.getextrabtc'
 appCountry: 
 released: 
 updated: '2018-12-04'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.modules.tradingbots.getextrabtc.png
+icon: 'com.modules.tradingbots.getextrabtc.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-05-07'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: GetExtraBTC LLC
+developerName: 'GetExtraBTC LLC'
 features: 
 
 ---

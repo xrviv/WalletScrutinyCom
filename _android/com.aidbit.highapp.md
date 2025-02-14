@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Aidwallet
+title: 'Aidwallet'
 altTitle: 
 authors: 
 users: 50000
-appId: com.aidbit.highapp
+appId: 'com.aidbit.highapp'
 appCountry: 
 released: '2022-01-10'
 updated: '2022-02-23'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.aidbit.highapp.png
+icon: 'com.aidbit.highapp.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-30'
 signer: 

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Bexpress pro
+title: 'Bexpress pro'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.candelachain.bexpro
+appId: 'com.candelachain.bexpro'
 appCountry: 
 released: '2019-03-25'
 updated: '2021-02-20'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.bexpro.ph
+website: 'https://www.bexpro.ph'
 repository: 
 issue: 
-icon: com.candelachain.bexpro.png
+icon: 'com.candelachain.bexpro.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-13'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: bexpress
+developerName: 'bexpress'
 features: 
 
 ---

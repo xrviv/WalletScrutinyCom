@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bit Index AI
+title: 'Bit Index AI'
 altTitle: 
 authors: 
 users: 1000
-appId: org.investing.bit.index.ai.app
+appId: 'org.investing.bit.index.ai.app'
 appCountry: 
 released: '2023-01-24'
 updated: '2023-01-24'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: org.investing.bit.index.ai.app.png
+icon: 'org.investing.bit.index.ai.app.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: ImmediateEdge™ OfficialApp
+developerName: 'ImmediateEdge™ OfficialApp'
 features: 
 
 ---

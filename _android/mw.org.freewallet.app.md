@@ -3,9 +3,9 @@ wsId:
 title: 'Multi Crypto Wallet: BTC & ETH'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 500000
-appId: mw.org.freewallet.app
+appId: 'mw.org.freewallet.app'
 appCountry: 
 released: '2017-08-10'
 updated: '2021-09-16'
@@ -14,20 +14,20 @@ stars: 4.9
 ratings: 14323
 reviews: 1506
 size: 
-website: https://freewallet.org/
+website: 'https://freewallet.org/'
 repository: 
 issue: 
-icon: mw.org.freewallet.app.png
+icon: 'mw.org.freewallet.app.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2023-01-02'
 signer: 
 reviewArchive: 
-twitter: freewalletorg
+twitter: 'freewalletorg'
 social:
-- https://www.facebook.com/freewallet.org
+- 'https://www.facebook.com/freewallet.org'
 redirect_from: 
 developerName: 
 features: 

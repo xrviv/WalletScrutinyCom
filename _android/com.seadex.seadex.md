@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: SEADEX
+title: 'SEADEX'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.seadex.seadex
+appId: 'com.seadex.seadex'
 appCountry: 
 released: '2018-08-11'
 updated: '2018-09-05'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://seadex.io
+website: 'http://seadex.io'
 repository: 
 issue: 
-icon: com.seadex.seadex.png
+icon: 'com.seadex.seadex.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2026-06-02'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Southeast Asia Digital Exchange
+developerName: 'Southeast Asia Digital Exchange'
 features: 
 
 ---

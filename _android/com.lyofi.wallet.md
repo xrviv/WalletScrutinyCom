@@ -1,11 +1,11 @@
 ---
-wsId: lyowallet
+wsId: 'lyowallet'
 title: 'LYO WALLET: NFTs & Crypto'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.lyofi.wallet
+appId: 'com.lyofi.wallet'
 appCountry: 
 released: '2022-05-20'
 updated: '2023-12-27'
@@ -14,25 +14,25 @@ stars: 4.6
 ratings: 
 reviews: 
 size: 
-website: https://wallet.lyofi.com/
+website: 'https://wallet.lyofi.com/'
 repository: 
 issue: 
-icon: com.lyofi.wallet.png
+icon: 'com.lyofi.wallet.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2024-07-05'
 signer: 
 reviewArchive: 
-twitter: lyopayofficial
+twitter: 'lyopayofficial'
 social:
-- https://www.facebook.com/lyopayofficial
-- https://www.instagram.com/lyopayofficial/
-- https://t.me/lyopay
-- https://www.linkedin.com/company/lyopay/
+- 'https://www.facebook.com/lyopayofficial'
+- 'https://www.instagram.com/lyopayofficial/'
+- 'https://t.me/lyopay'
+- 'https://www.linkedin.com/company/lyopay/'
 redirect_from: 
-developerName: DIGILYO APP LTD
+developerName: 'DIGILYO APP LTD'
 features: 
 
 ---

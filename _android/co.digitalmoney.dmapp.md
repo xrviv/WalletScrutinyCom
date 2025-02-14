@@ -1,12 +1,12 @@
 ---
-wsId: DigitalMoney
-title: Digital Money - Buy/Send/Recie
+wsId: 'DigitalMoney'
+title: 'Digital Money - Buy/Send/Recie'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: co.digitalmoney.dmapp
-appCountry: us
+appId: 'co.digitalmoney.dmapp'
+appCountry: 'us'
 released: '2021-02-12'
 updated: '2022-02-15'
 version: '1.4.9'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://dmexchange.com
+website: 'https://dmexchange.com'
 repository: 
 issue: 
-icon: co.digitalmoney.dmapp.png
+icon: 'co.digitalmoney.dmapp.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2023-06-21'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Digital Money Ltd
+developerName: 'Digital Money Ltd'
 features: 
 
 ---

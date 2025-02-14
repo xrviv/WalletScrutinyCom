@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Albrex Wallet
+title: 'Albrex Wallet'
 altTitle: 
 authors: 
 users: 0
-appId: pay.albrex.io
+appId: 'pay.albrex.io'
 appCountry: 
 released: '2021-08-24'
 updated: '2021-08-24'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://albrex.io
+website: 'https://albrex.io'
 repository: 
 issue: 
-icon: pay.albrex.io.png
+icon: 'pay.albrex.io.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

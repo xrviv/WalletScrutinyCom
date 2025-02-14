@@ -1,25 +1,24 @@
 ---
-wsId: pionex
-title: Pionex - Crypto Trading Bot
+wsId: 'pionex'
+title: 'Pionex - Crypto Trading Bot'
 altTitle: 
 authors: 
 users: 1000000
-appId: com.pionex.client
-appCountry: us
+appId: 'com.pionex.client'
+appCountry: 'us'
 released: '2019-11-18'
-updated: '2025-02-11'
+updated: 2025-02-12
 version: '3.1.0.18'
 stars: 3.7
 ratings: 5659
 reviews: 565
-size: 
-website: https://www.pionex.com
+website: 'https://www.pionex.com'
 repository: 
 issue: 
-icon: com.pionex.client.jpg
+icon: 'com.pionex.client.jpg'
 bugbounty: 
-meta: ok
-verdict: custodial
+meta: 'ok'
+verdict: 'custodial'
 appHashes: 
 date: '2021-09-03'
 signer: 
@@ -27,7 +26,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Pionex
+developerName: 'Pionex'
 features: 
 
 ---

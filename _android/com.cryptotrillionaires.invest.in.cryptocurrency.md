@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Invest In Cryptocurrency
+title: 'Invest In Cryptocurrency'
 altTitle: 
 authors: 
 users: 1
-appId: com.cryptotrillionaires.invest.in.cryptocurrency
+appId: 'com.cryptotrillionaires.invest.in.cryptocurrency'
 appCountry: 
 released: '2021-07-17'
 updated: '2021-07-17'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 2.2M
+size: '2.2M'
 website: 
 repository: 
 issue: 
-icon: com.cryptotrillionaires.invest.in.cryptocurrency.png
+icon: 'com.cryptotrillionaires.invest.in.cryptocurrency.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-01'
 signer: 

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: SureMiningTradeOptions
+title: 'SureMiningTradeOptions'
 altTitle: 
 authors: 
 users: 1
-appId: com.suremining.app
+appId: 'com.suremining.app'
 appCountry: 
 released: '2020-03-24'
 updated: '2020-03-24'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://sureminingtradeoptions.com/
+website: 'https://sureminingtradeoptions.com/'
 repository: 
 issue: 
-icon: com.suremining.app.png
+icon: 'com.suremining.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Kryptiva
+developerName: 'Kryptiva'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: MyCryptoSafe - PrivateKeys Saf
+title: 'MyCryptoSafe - PrivateKeys Saf'
 altTitle: 
 authors: 
 users: 50
-appId: com.MCS.MyCryptoSafe
+appId: 'com.MCS.MyCryptoSafe'
 appCountry: 
 released: '2020-10-08'
 updated: '2020-10-08'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.MCS.MyCryptoSafe.png
+icon: 'com.MCS.MyCryptoSafe.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-26'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Ali Ekrem Gençer
+developerName: 'Ali Ekrem Gençer'
 features: 
 
 ---

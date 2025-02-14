@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: fox.exchange Cryptocurrency Ex
+title: 'fox.exchange Cryptocurrency Ex'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: exchange.fox.android
+appId: 'exchange.fox.android'
 appCountry: 
 released: '2019-06-11'
 updated: '2020-04-20'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://fox.exchange
+website: 'https://fox.exchange'
 repository: 
 issue: 
-icon: exchange.fox.android.png
+icon: 'exchange.fox.android.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-03'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Fox Exchange
+developerName: 'Fox Exchange'
 features: 
 
 ---

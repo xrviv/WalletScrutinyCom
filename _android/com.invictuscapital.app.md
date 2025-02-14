@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Invictus Capital Beta
+title: 'Invictus Capital Beta'
 altTitle: 
 authors: 
 users: 500
-appId: com.invictuscapital.app
+appId: 'com.invictuscapital.app'
 appCountry: 
 released: 
 updated: '2022-03-28'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://invictuscapital.com
+website: 'https://invictuscapital.com'
 repository: 
 issue: 
-icon: com.invictuscapital.app.jpg
+icon: 'com.invictuscapital.app.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-03-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: InvictusCapital
+developerName: 'InvictusCapital'
 features: 
 
 ---

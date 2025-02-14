@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Nugenesis LedgerX
+title: 'Nugenesis LedgerX'
 altTitle: 
 authors: 
 users: 100
-appId: com.nucoin.pro
+appId: 'com.nucoin.pro'
 appCountry: 
 released: 
 updated: '2021-12-31'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.nucoin.pro.png
+icon: 'com.nucoin.pro.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-09-15'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: NuGenesis
+developerName: 'NuGenesis'
 features: 
 
 ---

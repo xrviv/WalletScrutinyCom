@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BCP24
+title: 'BCP24'
 altTitle: 
 authors: 
 users: 10
-appId: webApp.exchange.bcp24
+appId: 'webApp.exchange.bcp24'
 appCountry: 
 released: '2021-05-28'
 updated: '2021-05-28'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://ex.bcp24.io
+website: 'http://ex.bcp24.io'
 repository: 
 issue: 
-icon: webApp.exchange.bcp24.png
+icon: 'webApp.exchange.bcp24.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-05-07'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: PHU DIANET
+developerName: 'PHU DIANET'
 features: 
 
 ---

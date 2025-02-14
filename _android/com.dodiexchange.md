@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Dodi Exchange
+title: 'Dodi Exchange'
 altTitle: 
 authors: 
 users: 10
-appId: com.dodiexchange
+appId: 'com.dodiexchange'
 appCountry: 
 released: '2022-01-21'
 updated: '2022-01-21'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.dodiexchange.png
+icon: 'com.dodiexchange.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: isaac andrews
+developerName: 'isaac andrews'
 features: 
 
 ---

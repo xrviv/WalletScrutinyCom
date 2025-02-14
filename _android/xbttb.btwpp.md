@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BTW-bt
+title: 'BTW-bt'
 altTitle: 
 authors: 
 users: 100
-appId: xbttb.btwpp
+appId: 'xbttb.btwpp'
 appCountry: 
 released: '2022-04-28'
 updated: '2022-04-28'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: xbttb.btwpp.jpg
+icon: 'xbttb.btwpp.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

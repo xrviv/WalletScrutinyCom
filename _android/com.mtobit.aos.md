@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Mtobit
+title: 'Mtobit'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.mtobit.aos
+appId: 'com.mtobit.aos'
 appCountry: 
 released: '2020-02-22'
 updated: '2020-09-29'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://mtobit.com
+website: 'https://mtobit.com'
 repository: 
 issue: 
-icon: com.mtobit.aos.png
+icon: 'com.mtobit.aos.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-30'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: mtobit
+developerName: 'mtobit'
 features: 
 
 ---

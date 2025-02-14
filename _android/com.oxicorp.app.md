@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: OXI Corp
+title: 'OXI Corp'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.oxicorp.app
+appId: 'com.oxicorp.app'
 appCountry: 
 released: '2020-05-09'
 updated: '2021-01-26'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://oxi-corp.com/
+website: 'https://oxi-corp.com/'
 repository: 
 issue: 
-icon: com.oxicorp.app.png
+icon: 'com.oxicorp.app.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-31'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: OXI Corporation
+developerName: 'OXI Corporation'
 features: 
 
 ---

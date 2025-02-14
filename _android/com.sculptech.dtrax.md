@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: DTrax - Crypto wallet, Payment
+title: 'DTrax - Crypto wallet, Payment'
 altTitle: 
 authors: 
 users: 10000
-appId: com.sculptech.dtrax
+appId: 'com.sculptech.dtrax'
 appCountry: 
 released: '2019-01-24'
 updated: '2020-05-24'
@@ -13,13 +13,13 @@ stars: 2.6
 ratings: 367
 reviews: 7
 size: 
-website: https://dtrax.io
+website: 'https://dtrax.io'
 repository: 
 issue: 
-icon: com.sculptech.dtrax.png
+icon: 'com.sculptech.dtrax.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

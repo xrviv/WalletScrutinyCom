@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: UniversEX
+title: 'UniversEX'
 altTitle: 
 authors: 
 users: 1
-appId: com.suzaishu.universex
+appId: 'com.suzaishu.universex'
 appCountry: 
 released: '2021-10-22'
 updated: '2021-10-22'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.suzaishu.universex.png
+icon: 'com.suzaishu.universex.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Suponic
+title: 'Suponic'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.suponicexchange.app
+appId: 'com.suponicexchange.app'
 appCountry: 
 released: '2020-01-23'
 updated: '2020-01-23'
@@ -14,13 +14,13 @@ stars: 3.5
 ratings: 
 reviews: 2
 size: 
-website: https://www.suponic.com
+website: 'https://www.suponic.com'
 repository: 
 issue: 
-icon: com.suponicexchange.app.png
+icon: 'com.suponicexchange.app.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-06-03'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Suponic
+developerName: 'Suponic'
 features: 
 
 ---

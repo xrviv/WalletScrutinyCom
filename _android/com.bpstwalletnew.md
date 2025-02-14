@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: B.P.S SmartWallet
+title: 'B.P.S SmartWallet'
 altTitle: 
 authors: 
 users: 100
-appId: com.bpstwalletnew
+appId: 'com.bpstwalletnew'
 appCountry: 
 released: '2019-10-16'
 updated: '2021-07-09'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bps.money
+website: 'https://bps.money'
 repository: 
 issue: 
-icon: com.bpstwalletnew.png
+icon: 'com.bpstwalletnew.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: AEQUO ANIMO AG
+developerName: 'AEQUO ANIMO AG'
 features: 
 
 ---

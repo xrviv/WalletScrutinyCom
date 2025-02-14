@@ -4,7 +4,7 @@ title: 'TENT: Bitcoin & Crypto Wallet'
 altTitle: 
 authors: 
 users: 500
-appId: com.tent.app
+appId: 'com.tent.app'
 appCountry: 
 released: '2023-10-26'
 updated: '2024-07-16'
@@ -13,13 +13,13 @@ stars: 4
 ratings: 
 reviews: 
 size: 
-website: https://tent.app
+website: 'https://tent.app'
 repository: 
 issue: 
-icon: com.tent.app.png
+icon: 'com.tent.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-11-07'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: TENT.COM
+developerName: 'TENT.COM'
 features: 
 
 ---

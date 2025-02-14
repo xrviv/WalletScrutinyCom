@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitvirya - cryptocurrency exch
+title: 'Bitvirya - cryptocurrency exch'
 altTitle: 
 authors: 
 users: 10
-appId: com.bitvirya.app
+appId: 'com.bitvirya.app'
 appCountry: 
 released: '2020-11-20'
 updated: '2020-11-20'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://bitvirya.com/
+website: 'https://bitvirya.com/'
 repository: 
 issue: 
-icon: com.bitvirya.app.png
+icon: 'com.bitvirya.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Profit Oak
+developerName: 'Profit Oak'
 features: 
 
 ---

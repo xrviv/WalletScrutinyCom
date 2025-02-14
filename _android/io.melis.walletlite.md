@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Melis Lite
+title: 'Melis Lite'
 altTitle: 
 authors:
-- leo
+- 'leo'
 users: 50
-appId: io.melis.walletlite
+appId: 'io.melis.walletlite'
 appCountry: 
 released: '2019-06-03'
 updated: '2019-06-03'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.melis.io
+website: 'https://www.melis.io'
 repository: 
 issue: 
-icon: io.melis.walletlite.png
+icon: 'io.melis.walletlite.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -28,9 +28,9 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from:
-- /io.melis.walletlite/
-- /posts/io.melis.walletlite/
-developerName: Melis
+- '/io.melis.walletlite/'
+- '/posts/io.melis.walletlite/'
+developerName: 'Melis'
 features: 
 
 ---

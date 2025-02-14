@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Viktraders
+title: 'Viktraders'
 altTitle: 
 authors: 
 users: 5000
-appId: com.viktraders.www
+appId: 'com.viktraders.www'
 appCountry: 
 released: '2019-06-24'
 updated: '2019-06-25'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.viktraders.com
+website: 'http://www.viktraders.com'
 repository: 
 issue: 
-icon: com.viktraders.www.png
+icon: 'com.viktraders.www.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-03'
 signer: 

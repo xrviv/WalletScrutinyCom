@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: B4U Global Official
+title: 'B4U Global Official'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.OnlineBusness.b4uglobal
+appId: 'com.OnlineBusness.b4uglobal'
 appCountry: 
 released: '2021-01-04'
 updated: '2021-01-22'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.OnlineBusness.b4uglobal.png
+icon: 'com.OnlineBusness.b4uglobal.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-03'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Intelli Logics
+developerName: 'Intelli Logics'
 features: 
 
 ---

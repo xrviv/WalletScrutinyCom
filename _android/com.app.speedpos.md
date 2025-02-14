@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Speed Bitcoin POS
+title: 'Speed Bitcoin POS'
 altTitle: 
 authors: 
 users: 500
-appId: com.app.speedpos
+appId: 'com.app.speedpos'
 appCountry: 
 released: '2023-03-14'
 updated: '2023-04-13'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.tryspeed.com/
+website: 'https://www.tryspeed.com/'
 repository: 
 issue: 
-icon: com.app.speedpos.png
+icon: 'com.app.speedpos.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Speed1 - FZCO
+developerName: 'Speed1 - FZCO'
 features: 
 
 ---

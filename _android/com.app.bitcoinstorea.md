@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoin Win - Scratch Bitcoin
+title: 'Bitcoin Win - Scratch Bitcoin'
 altTitle: 
 authors: 
 users: 100
-appId: com.app.bitcoinstorea
+appId: 'com.app.bitcoinstorea'
 appCountry: 
 released: '2021-08-01'
 updated: '2021-08-01'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://t91a3kzq.app-adstxt.dev/app-ads.txt
+website: 'https://t91a3kzq.app-adstxt.dev/app-ads.txt'
 repository: 
 issue: 
-icon: com.app.bitcoinstorea.jpg
+icon: 'com.app.bitcoinstorea.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

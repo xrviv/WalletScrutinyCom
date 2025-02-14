@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Melis testnet
+title: 'Melis testnet'
 altTitle: 
 authors: 
 users: 100
-appId: io.melis.testwallet
+appId: 'io.melis.testwallet'
 appCountry: 
 released: '2017-05-05'
 updated: '2021-11-05'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.melis.io
+website: 'https://www.melis.io'
 repository: 
 issue: 
-icon: io.melis.testwallet.png
+icon: 'io.melis.testwallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Melis
+developerName: 'Melis'
 features: 
 
 ---

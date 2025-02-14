@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Fixttoken - Fixt token Smart W
+title: 'Fixttoken - Fixt token Smart W'
 altTitle: 
 authors: 
 users: 100
-appId: com.fixttoken.wallet
+appId: 'com.fixttoken.wallet'
 appCountry: 
 released: '2019-08-26'
 updated: '2019-08-27'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://app.fixttoken.com/
+website: 'https://app.fixttoken.com/'
 repository: 
 issue: 
-icon: com.fixttoken.wallet.jpg
+icon: 'com.fixttoken.wallet.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Artificial intelligence technology
+developerName: 'Artificial intelligence technology'
 features: 
 
 ---

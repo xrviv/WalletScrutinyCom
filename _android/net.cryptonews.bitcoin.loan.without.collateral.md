@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoin Loan Without Collateral
+title: 'Bitcoin Loan Without Collateral'
 altTitle: 
 authors: 
 users: 100
-appId: net.cryptonews.bitcoin.loan.without.collateral
+appId: 'net.cryptonews.bitcoin.loan.without.collateral'
 appCountry: 
 released: '2021-07-19'
 updated: '2021-07-19'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 2.3M
+size: '2.3M'
 website: 
 repository: 
 issue: 
-icon: net.cryptonews.bitcoin.loan.without.collateral.jpg
+icon: 'net.cryptonews.bitcoin.loan.without.collateral.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-01'
 signer: 

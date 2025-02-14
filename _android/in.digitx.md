@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: DigitX
+title: 'DigitX'
 altTitle: 
 authors: 
 users: 500
-appId: in.digitx
+appId: 'in.digitx'
 appCountry: 
 released: '2020-12-20'
 updated: '2021-11-29'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: in.digitx.png
+icon: 'in.digitx.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Digital Techlab pvt ltd
+developerName: 'Digital Techlab pvt ltd'
 features: 
 
 ---

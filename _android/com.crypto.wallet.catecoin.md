@@ -1,11 +1,11 @@
 ---
-wsId: catecoin
-title: Bitcoin Defi Crypto Wallet
+wsId: 'catecoin'
+title: 'Bitcoin Defi Crypto Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.crypto.wallet.catecoin
+appId: 'com.crypto.wallet.catecoin'
 appCountry: 
 released: '2022-04-16'
 updated: '2023-07-01'
@@ -14,23 +14,23 @@ stars: 4.3
 ratings: 
 reviews: 45
 size: 
-website: https://catecoin.club
+website: 'https://catecoin.club'
 repository: 
 issue: 
-icon: com.crypto.wallet.catecoin.png
+icon: 'com.crypto.wallet.catecoin.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2024-04-19'
 signer: 
 reviewArchive: 
-twitter: catecoin
+twitter: 'catecoin'
 social:
-- https://www.instagram.com/cate.coin/
-- https://t.me/catecoin
+- 'https://www.instagram.com/cate.coin/'
+- 'https://t.me/catecoin'
 redirect_from: 
-developerName: Catecoin
+developerName: 'Catecoin'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Vitarabrit
+title: 'Vitarabrit'
 altTitle: 
 authors: 
 users: 10
-appId: com.mcways.hb.netcoin
+appId: 'com.mcways.hb.netcoin'
 appCountry: 
 released: '2018-05-31'
 updated: '2018-06-04'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.vitarabrit.com
+website: 'http://www.vitarabrit.com'
 repository: 
 issue: 
-icon: com.mcways.hb.netcoin.png
+icon: 'com.mcways.hb.netcoin.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Mcways Infotech
+developerName: 'Mcways Infotech'
 features: 
 
 ---

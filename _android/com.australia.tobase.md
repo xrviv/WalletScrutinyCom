@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: tobase
+title: 'tobase'
 altTitle: 
 authors: 
 users: 10000
-appId: com.australia.tobase
+appId: 'com.australia.tobase'
 appCountry: 
 released: '2022-03-26'
 updated: '2022-07-23'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.tobases.com
+website: 'https://www.tobases.com'
 repository: 
 issue: 
-icon: com.australia.tobase.jpg
+icon: 'com.australia.tobase.jpg'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-01-02'
 signer: 

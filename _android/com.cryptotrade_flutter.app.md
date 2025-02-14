@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Crypto Trade - Flutter
+title: 'Crypto Trade - Flutter'
 altTitle: 
 authors: 
 users: 10
-appId: com.cryptotrade_flutter.app
+appId: 'com.cryptotrade_flutter.app'
 appCountry: 
 released: '2019-07-01'
 updated: '2019-07-02'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://mobterest.com
+website: 'https://mobterest.com'
 repository: 
 issue: 
-icon: com.cryptotrade_flutter.app.png
+icon: 'com.cryptotrade_flutter.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Mobterest
+developerName: 'Mobterest'
 features: 
 
 ---

@@ -1,26 +1,25 @@
 ---
 wsId: 
-title: Bitcoin Trading Investment App
+title: 'Bitcoin Trading Investment App'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000000
-appId: quarecy.crypto
+appId: 'quarecy.crypto'
 appCountry: 
 released: '2018-11-10'
-updated: '2025-01-14'
+updated: 2025-01-14
 version: '3.5.16'
 stars: 4.8
 ratings: 
 reviews: 459
-size: 
 website: 
 repository: 
 issue: 
-icon: quarecy.crypto.png
+icon: 'quarecy.crypto.png'
 bugbounty: 
-meta: ok
-verdict: nowallet
+meta: 'ok'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-09-02'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Quarecy Software LTD
+developerName: 'Quarecy Software LTD'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Xpesa
+title: 'Xpesa'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.xpesa.trade
+appId: 'com.xpesa.trade'
 appCountry: 
 released: '2018-08-31'
 updated: '2020-09-04'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://xpesa.io/
+website: 'https://xpesa.io/'
 repository: 
 issue: 
-icon: com.xpesa.trade.jpg
+icon: 'com.xpesa.trade.jpg'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-06-11'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Xpesa Limited
+developerName: 'Xpesa Limited'
 features: 
 
 ---

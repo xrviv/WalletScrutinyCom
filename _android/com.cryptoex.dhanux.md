@@ -1,11 +1,11 @@
 ---
-wsId: dhanuX
-title: DhanuX
+wsId: 'dhanuX'
+title: 'DhanuX'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.cryptoex.dhanux
+appId: 'com.cryptoex.dhanux'
 appCountry: 
 released: '2022-03-02'
 updated: '2023-01-12'
@@ -14,13 +14,13 @@ stars: 4.7
 ratings: 
 reviews: 
 size: 
-website: https://www.dhanu.org/
+website: 'https://www.dhanu.org/'
 repository: 
 issue: 
-icon: com.cryptoex.dhanux.png
+icon: 'com.cryptoex.dhanux.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2025-02-13'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: dhanux
+developerName: 'dhanux'
 features: 
 
 ---

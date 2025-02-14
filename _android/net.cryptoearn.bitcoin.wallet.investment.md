@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoin Wallet Investment
+title: 'Bitcoin Wallet Investment'
 altTitle: 
 authors: 
 users: 10
-appId: net.cryptoearn.bitcoin.wallet.investment
+appId: 'net.cryptoearn.bitcoin.wallet.investment'
 appCountry: 
 released: '2021-06-29'
 updated: '2021-06-29'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 2.3M
+size: '2.3M'
 website: 
 repository: 
 issue: 
-icon: net.cryptoearn.bitcoin.wallet.investment.png
+icon: 'net.cryptoearn.bitcoin.wallet.investment.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-01'
 signer: 

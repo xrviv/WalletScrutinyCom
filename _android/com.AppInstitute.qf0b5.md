@@ -4,7 +4,7 @@ title: 'Blockscart: Wallet - Exchange '
 altTitle: 
 authors: 
 users: 100
-appId: com.AppInstitute.qf0b5
+appId: 'com.AppInstitute.qf0b5'
 appCountry: 
 released: '2018-10-04'
 updated: '2018-10-12'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://blockscart.eu
+website: 'https://blockscart.eu'
 repository: 
 issue: 
-icon: com.AppInstitute.qf0b5.png
+icon: 'com.AppInstitute.qf0b5.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BlockApps
+developerName: 'BlockApps'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoin America - Decentralized Exchange
+title: 'Bitcoin America - Decentralized Exchange'
 altTitle: 
 authors: 
 users: 100
-appId: com.btcus.pro
+appId: 'com.btcus.pro'
 appCountry: 
 released: '2021-03-30'
 updated: '2021-03-30'
@@ -12,14 +12,14 @@ version: '1.0.3.210330'
 stars: 
 ratings: 
 reviews: 
-size: 27M
+size: '27M'
 website: 
 repository: 
 issue: 
-icon: com.btcus.pro.png
+icon: 'com.btcus.pro.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2022-03-07'
 signer: 

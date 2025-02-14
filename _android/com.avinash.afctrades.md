@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: AFC Trading Group
+title: 'AFC Trading Group'
 altTitle: 
 authors: 
 users: 10
-appId: com.avinash.afctrades
+appId: 'com.avinash.afctrades'
 appCountry: 
 released: '2020-08-20'
 updated: '2020-08-20'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.avinash.afctrades.png
+icon: 'com.avinash.afctrades.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-03-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: AFC Trading Group
+developerName: 'AFC Trading Group'
 features: 
 
 ---

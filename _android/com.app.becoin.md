@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Becoin
+title: 'Becoin'
 altTitle: 
 authors: 
 users: 500
-appId: com.app.becoin
+appId: 'com.app.becoin'
 appCountry: 
 released: '2022-10-01'
 updated: '2022-10-01'
@@ -13,13 +13,13 @@ stars: 4.6
 ratings: 
 reviews: 
 size: 
-website: https://becoin.exchange/
+website: 'https://becoin.exchange/'
 repository: 
 issue: 
-icon: com.app.becoin.png
+icon: 'com.app.becoin.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2025-02-13'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: LGA SOFT USA
+developerName: 'LGA SOFT USA'
 features: 
 
 ---

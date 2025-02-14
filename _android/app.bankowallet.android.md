@@ -1,11 +1,11 @@
 ---
-wsId: bankoWallet
-title: Banko Wallet - Bitcoin, ETH, T
+wsId: 'bankoWallet'
+title: 'Banko Wallet - Bitcoin, ETH, T'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: app.bankowallet.android
+appId: 'app.bankowallet.android'
 appCountry: 
 released: '2019-07-22'
 updated: '2020-06-29'
@@ -14,25 +14,25 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.bankowallet.com
+website: 'http://www.bankowallet.com'
 repository: 
 issue: 
-icon: app.bankowallet.android.png
+icon: 'app.bankowallet.android.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-10'
 signer: 
 reviewArchive: 
-twitter: BankoWallet1
+twitter: 'BankoWallet1'
 social:
-- mailto:support@bankowallet.com
-- mailto:bankosup@gmail.com
-- https://www.facebook.com/BankoWallet
-- https://t.me/BankoWallet
+- 'mailto:support@bankowallet.com'
+- 'mailto:bankosup@gmail.com'
+- 'https://www.facebook.com/BankoWallet'
+- 'https://t.me/BankoWallet'
 redirect_from: 
-developerName: BITROCK
+developerName: 'BITROCK'
 features: 
 
 ---

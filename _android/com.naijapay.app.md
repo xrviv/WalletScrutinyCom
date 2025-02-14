@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Naijapay
+title: 'Naijapay'
 altTitle: 
 authors: 
 users: 500
-appId: com.naijapay.app
+appId: 'com.naijapay.app'
 appCountry: 
 released: '2021-01-21'
 updated: '2021-08-10'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://naijapay.io/
+website: 'https://naijapay.io/'
 repository: 
 issue: 
-icon: com.naijapay.app.png
+icon: 'com.naijapay.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CI Cryptosolutions
+developerName: 'CI Cryptosolutions'
 features: 
 
 ---

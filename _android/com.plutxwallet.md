@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: PLUTX Enterprise Wallet
+title: 'PLUTX Enterprise Wallet'
 altTitle: 
 authors: 
 users: 10
-appId: com.plutxwallet
+appId: 'com.plutxwallet'
 appCountry: 
 released: '2020-02-26'
 updated: '2020-07-07'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://plutx.io
+website: 'https://plutx.io'
 repository: 
 issue: 
-icon: com.plutxwallet.png
+icon: 'com.plutxwallet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Infinity Blockchain Labs
+developerName: 'Infinity Blockchain Labs'
 features: 
 
 ---

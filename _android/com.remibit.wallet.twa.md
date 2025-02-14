@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: RemiBit Wallet
+title: 'RemiBit Wallet'
 altTitle: 
 authors: 
 users: 10
-appId: com.remibit.wallet.twa
+appId: 'com.remibit.wallet.twa'
 appCountry: 
 released: '2021-03-17'
 updated: '2021-05-17'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.remibit.com
+website: 'https://www.remibit.com'
 repository: 
 issue: 
-icon: com.remibit.wallet.twa.png
+icon: 'com.remibit.wallet.twa.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: RemiBit
+developerName: 'RemiBit'
 features: 
 
 ---

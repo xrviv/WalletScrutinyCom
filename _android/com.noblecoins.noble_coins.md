@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Noblecoins
+title: 'Noblecoins'
 altTitle: 
 authors: 
 users: 500
-appId: com.noblecoins.noble_coins
+appId: 'com.noblecoins.noble_coins'
 appCountry: 
 released: '2021-12-01'
 updated: '2022-08-12'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.noblecoins.net
+website: 'https://www.noblecoins.net'
 repository: 
 issue: 
-icon: com.noblecoins.noble_coins.png
+icon: 'com.noblecoins.noble_coins.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Devglobals Technology
+developerName: 'Devglobals Technology'
 features: 
 
 ---

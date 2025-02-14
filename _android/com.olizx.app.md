@@ -4,7 +4,7 @@ title: 'olizx india''s crypto currency '
 altTitle: 
 authors: 
 users: 100
-appId: com.olizx.app
+appId: 'com.olizx.app'
 appCountry: 
 released: '2021-10-19'
 updated: '2021-10-28'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.olizx.app.png
+icon: 'com.olizx.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-11-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Olizx
+developerName: 'Olizx'
 features: 
 
 ---

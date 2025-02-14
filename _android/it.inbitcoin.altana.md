@@ -1,12 +1,12 @@
 ---
 wsId: 
-title: Altana - Bitcoin Wallet
+title: 'Altana - Bitcoin Wallet'
 altTitle: 
 authors:
-- emanuel
-- leo
+- 'emanuel'
+- 'leo'
 users: 1000
-appId: it.inbitcoin.altana
+appId: 'it.inbitcoin.altana'
 appCountry: 
 released: '2017-04-18'
 updated: '2024-09-15'
@@ -15,13 +15,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://inbitcoin.it
-repository: https://github.com/inbitcoin/altana-android
-issue: https://github.com/inbitcoin/altana-android/issues/5
-icon: it.inbitcoin.altana.png
+website: 'https://inbitcoin.it'
+repository: 'https://github.com/inbitcoin/altana-android'
+issue: 'https://github.com/inbitcoin/altana-android/issues/5'
+icon: 'it.inbitcoin.altana.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2024-11-04'
 signer: 
@@ -29,7 +29,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: inbitcoin
+developerName: 'inbitcoin'
 features: 
 
 ---

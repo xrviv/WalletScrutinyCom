@@ -1,11 +1,11 @@
 ---
-wsId: xInfinity
-title: X Infinity
+wsId: 'xInfinity'
+title: 'X Infinity'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.pellar.xifapp
+appId: 'com.pellar.xifapp'
 appCountry: 
 released: '2018-06-11'
 updated: '2021-06-15'
@@ -14,22 +14,22 @@ stars: 4.9
 ratings: 
 reviews: 4
 size: 
-website: http://www.xinfinity.io
+website: 'http://www.xinfinity.io'
 repository: 
 issue: 
-icon: com.pellar.xifapp.png
+icon: 'com.pellar.xifapp.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-07-05'
 signer: 
 reviewArchive: 
 twitter: 
 social:
-- https://www.linkedin.com/company/xinfinityholding/
+- 'https://www.linkedin.com/company/xinfinityholding/'
 redirect_from: 
-developerName: X INFINITY
+developerName: 'X INFINITY'
 features: 
 
 ---

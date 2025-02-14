@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcnex Exchange
+title: 'Bitcnex Exchange'
 altTitle: 
 authors: 
 users: 50
-appId: com.exchange.bitcnex
+appId: 'com.exchange.bitcnex'
 appCountry: 
 released: '2019-04-19'
 updated: '2019-04-19'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.exchange.bitcnex.png
+icon: 'com.exchange.bitcnex.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Bitcnex Exchange
+developerName: 'Bitcnex Exchange'
 features: 
 
 ---

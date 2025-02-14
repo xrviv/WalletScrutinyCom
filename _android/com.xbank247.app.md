@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: XBank - Blockchain Bank
+title: 'XBank - Blockchain Bank'
 altTitle: 
 authors: 
 users: 5000
-appId: com.xbank247.app
+appId: 'com.xbank247.app'
 appCountry: 
 released: '2021-12-30'
 updated: '2023-11-10'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.xbank247.com
+website: 'https://www.xbank247.com'
 repository: 
 issue: 
-icon: com.xbank247.app.png
+icon: 'com.xbank247.app.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Xixo Global
+developerName: 'Xixo Global'
 features: 
 
 ---

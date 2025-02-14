@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Crypto Exchange App
+title: 'Crypto Exchange App'
 altTitle: 
 authors: 
 users: 5
-appId: com.tradingforpros.crypto.exchange.app
+appId: 'com.tradingforpros.crypto.exchange.app'
 appCountry: 
 released: '2021-06-16'
 updated: '2021-06-16'
@@ -12,14 +12,14 @@ version: '1.0'
 stars: 
 ratings: 
 reviews: 
-size: 3.4M
+size: '3.4M'
 website: 
 repository: 
 issue: 
-icon: com.tradingforpros.crypto.exchange.app.jpg
+icon: 'com.tradingforpros.crypto.exchange.app.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2021-10-01'
 signer: 

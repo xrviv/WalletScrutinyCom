@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Bitcoin Code Pro
+title: 'Bitcoin Code Pro'
 altTitle: 
 authors: 
 users: 100
-appId: com.wBitcoinCodePro_15763256
+appId: 'com.wBitcoinCodePro_15763256'
 appCountry: 
 released: '2022-07-18'
 updated: '2022-07-18'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.wBitcoinCodePro_15763256.png
+icon: 'com.wBitcoinCodePro_15763256.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: ABHISHEK SINGH2
+developerName: 'ABHISHEK SINGH2'
 features: 
 
 ---

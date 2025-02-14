@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: CryptoSimple
+title: 'CryptoSimple'
 altTitle: 
 authors: 
 users: 1000
-appId: com.cryptosimple.prod
+appId: 'com.cryptosimple.prod'
 appCountry: 
 released: '2022-06-01'
 updated: '2022-12-08'
@@ -13,13 +13,13 @@ stars: 4.3
 ratings: 
 reviews: 
 size: 
-website: https://cryptosimple.app
+website: 'https://cryptosimple.app'
 repository: 
 issue: 
-icon: com.cryptosimple.prod.png
+icon: 'com.cryptosimple.prod.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2025-02-13'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CryptoSimple
+developerName: 'CryptoSimple'
 features: 
 
 ---

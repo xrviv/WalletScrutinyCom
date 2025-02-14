@@ -4,7 +4,7 @@ title: 'Kesem - Secured Crypto Wallet '
 altTitle: 
 authors: 
 users: 100
-appId: com.kesemwalletapp
+appId: 'com.kesemwalletapp'
 appCountry: 
 released: '2019-01-09'
 updated: '2019-05-15'
@@ -13,13 +13,13 @@ stars: 4.2
 ratings: 
 reviews: 
 size: 
-website: https://www.kesem.io
+website: 'https://www.kesem.io'
 repository: 
 issue: 
-icon: com.kesemwalletapp.png
+icon: 'com.kesemwalletapp.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Kesem
+developerName: 'Kesem'
 features: 
 
 ---

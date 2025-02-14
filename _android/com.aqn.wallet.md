@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Aqua Wallet
+title: 'Aqua Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.aqn.wallet
+appId: 'com.aqn.wallet'
 appCountry: 
 released: '2021-03-05'
 updated: '2021-03-05'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.aqn.wallet.jpg
+icon: 'com.aqn.wallet.jpg'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Project-S
+developerName: 'Project-S'
 features: 
 
 ---

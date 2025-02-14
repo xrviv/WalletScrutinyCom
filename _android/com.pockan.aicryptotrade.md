@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: ai crypto trade
+title: 'ai crypto trade'
 altTitle: 
 authors: 
 users: 5
-appId: com.pockan.aicryptotrade
+appId: 'com.pockan.aicryptotrade'
 appCountry: 
 released: '2022-04-04'
 updated: '2022-04-04'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.pockan.aicryptotrade.png
+icon: 'com.pockan.aicryptotrade.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-11-15'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Pockan
+developerName: 'Pockan'
 features: 
 
 ---

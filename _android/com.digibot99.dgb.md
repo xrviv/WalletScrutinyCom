@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Digibot99
+title: 'Digibot99'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.digibot99.dgb
+appId: 'com.digibot99.dgb'
 appCountry: 
 released: '2020-11-07'
 updated: '2020-11-07'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.digibot99.com
+website: 'https://www.digibot99.com'
 repository: 
 issue: 
-icon: com.digibot99.dgb.png
+icon: 'com.digibot99.dgb.png'
 bugbounty: 
-meta: defunct
-verdict: wip
+meta: 'defunct'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-23'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Smart Crypto Studio
+developerName: 'Smart Crypto Studio'
 features: 
 
 ---

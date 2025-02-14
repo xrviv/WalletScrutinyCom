@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: BitFex - Exchange
+title: 'BitFex - Exchange'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.bitfex.io
+appId: 'com.bitfex.io'
 appCountry: 
 released: '2023-02-12'
 updated: '2023-08-04'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.bitfex.io.png
+icon: 'com.bitfex.io.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2023-09-04'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: BitFex
+developerName: 'BitFex'
 features: 
 
 ---

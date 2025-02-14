@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Bitcoin Wallet — Crypto Wallet
-altTitle: Bitcoin Wallet by CryptWallet - Finance Services
+title: 'Bitcoin Wallet — Crypto Wallet'
+altTitle: 'Bitcoin Wallet by CryptWallet - Finance Services'
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: com.friendst.strangr
+appId: 'com.friendst.strangr'
 appCountry: 
 released: '2020-05-02'
 updated: '2021-05-26'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.friendst.strangr.png
+icon: 'com.friendst.strangr.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: 🥇 CryptWallet - Finance Services
+developerName: '🥇 CryptWallet - Finance Services'
 features: 
 
 ---

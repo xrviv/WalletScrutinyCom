@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Smartrader
+title: 'Smartrader'
 altTitle: 
 authors: 
 users: 100
-appId: io.smartrader.smartapp
+appId: 'io.smartrader.smartapp'
 appCountry: 
 released: '2022-01-25'
 updated: '2022-08-17'
@@ -13,13 +13,13 @@ stars: 5
 ratings: 
 reviews: 
 size: 
-website: https://launch.smartrader.io/
+website: 'https://launch.smartrader.io/'
 repository: 
 issue: 
-icon: io.smartrader.smartapp.png
+icon: 'io.smartrader.smartapp.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-05-07'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Smartrader
+developerName: 'Smartrader'
 features: 
 
 ---

@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: MeeyWallet
+title: 'MeeyWallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.org.meeyinvest
+appId: 'com.org.meeyinvest'
 appCountry: 
 released: '2020-03-23'
 updated: '2020-07-13'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://meeyinvest.com
+website: 'https://meeyinvest.com'
 repository: 
 issue: 
-icon: com.org.meeyinvest.png
+icon: 'com.org.meeyinvest.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-05-07'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: MEEY INVEST GLOBAL PTE. LTD
+developerName: 'MEEY INVEST GLOBAL PTE. LTD'
 features: 
 
 ---

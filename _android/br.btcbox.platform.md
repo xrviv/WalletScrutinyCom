@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BTCBOX Trading
+title: 'BTCBOX Trading'
 altTitle: 
 authors: 
 users: 50
-appId: br.btcbox.platform
+appId: 'br.btcbox.platform'
 appCountry: 
 released: '2021-09-30'
 updated: '2021-09-30'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.btcbox.com.br
+website: 'https://www.btcbox.com.br'
 repository: 
 issue: 
-icon: br.btcbox.platform.png
+icon: 'br.btcbox.platform.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-10-16'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: M&C Inovação
+developerName: 'M&C Inovação'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: JustBiz
+title: 'JustBiz'
 altTitle: 
 authors: 
 users: 5
-appId: com.justbiz
+appId: 'com.justbiz'
 appCountry: 
 released: '2020-02-22'
 updated: '2020-02-22'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.justbiz.png
+icon: 'com.justbiz.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: JustBiz
+developerName: 'JustBiz'
 features: 
 
 ---

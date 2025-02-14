@@ -1,26 +1,25 @@
 ---
-wsId: techbankDWallet
-title: TechBank Dwallet
+wsId: 'techbankDWallet'
+title: 'TechBank Dwallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.techbank_dwallet
-appCountry: in
+appId: 'com.techbank_dwallet'
+appCountry: 'in'
 released: '2020-10-09'
-updated: '2025-01-31'
+updated: 2025-01-31
 version: '3.4.6'
 stars: 4.5
 ratings: 59
 reviews: 12
-size: 
-website: https://techbank.finance/
+website: 'https://techbank.finance/'
 repository: 
 issue: 
-icon: com.techbank_dwallet.jpg
+icon: 'com.techbank_dwallet.jpg'
 bugbounty: 
-meta: ok
-verdict: custodial
+meta: 'ok'
+verdict: 'custodial'
 appHashes: 
 date: '2021-11-15'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: TechBank
+developerName: 'TechBank'
 features: 
 
 ---

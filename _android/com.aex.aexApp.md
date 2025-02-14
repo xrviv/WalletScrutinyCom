@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: AEX Global:Buy Crypto &Bitcoin
+title: 'AEX Global:Buy Crypto &Bitcoin'
 altTitle: 
 authors: 
 users: 50000
-appId: com.aex.aexApp
+appId: 'com.aex.aexApp'
 appCountry: 
 released: '2019-10-09'
 updated: '2022-09-21'
@@ -13,13 +13,13 @@ stars: 4.4
 ratings: 
 reviews: 11
 size: 
-website: https://www.aex.com
+website: 'https://www.aex.com'
 repository: 
 issue: 
-icon: com.aex.aexApp.png
+icon: 'com.aex.aexApp.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-06-21'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: AEX
+developerName: 'AEX'
 features: 
 
 ---

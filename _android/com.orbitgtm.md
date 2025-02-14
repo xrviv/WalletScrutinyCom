@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: orbitgtm
+title: 'orbitgtm'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.orbitgtm
+appId: 'com.orbitgtm'
 appCountry: 
 released: 
 updated: '2022-01-11'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://orbitgt-m.com/
+website: 'http://orbitgt-m.com/'
 repository: 
 issue: 
-icon: com.orbitgtm.png
+icon: 'com.orbitgtm.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-05-31'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: OrbitDevelopers
+developerName: 'OrbitDevelopers'
 features: 
 
 ---

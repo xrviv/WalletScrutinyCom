@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: VBot
+title: 'VBot'
 altTitle: 
 authors: 
 users: 10
-appId: com.vbot.vinance
+appId: 'com.vbot.vinance'
 appCountry: 
 released: '2022-02-03'
 updated: '2022-02-04'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.vbotadvisor.com
+website: 'https://www.vbotadvisor.com'
 repository: 
 issue: 
-icon: com.vbot.vinance.png
+icon: 'com.vbot.vinance.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-11-02'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: VBot Solutions Limited
+developerName: 'VBot Solutions Limited'
 features: 
 
 ---

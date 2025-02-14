@@ -1,10 +1,10 @@
 ---
-wsId: huskyhdw20
-title: Husky HDW20 Hardware Walle‪t
+wsId: 'huskyhdw20'
+title: 'Husky HDW20 Hardware Walle‪t'
 altTitle: 
 authors: 
 users: 10
-appId: com.husky.hdw20
+appId: 'com.husky.hdw20'
 appCountry: 
 released: '2021-04-06'
 updated: '2021-04-06'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.huskywallet.com/
+website: 'https://www.huskywallet.com/'
 repository: 
 issue: 
-icon: com.husky.hdw20.png
+icon: 'com.husky.hdw20.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Embedded Agency LLC
+developerName: 'Embedded Agency LLC'
 features: 
 
 ---

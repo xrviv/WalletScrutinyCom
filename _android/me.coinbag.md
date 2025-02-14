@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Coinbag Cryptocurrency Wallet
+title: 'Coinbag Cryptocurrency Wallet'
 altTitle: 
 authors: 
 users: 500
-appId: me.coinbag
+appId: 'me.coinbag'
 appCountry: 
 released: '2022-01-07'
 updated: '2022-11-30'
@@ -13,13 +13,13 @@ stars: 4.5
 ratings: 
 reviews: 
 size: 
-website: https://coinbag.me/
+website: 'https://coinbag.me/'
 repository: 
 issue: 
-icon: me.coinbag.png
+icon: 'me.coinbag.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-12-23'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: TechPay
+developerName: 'TechPay'
 features: 
 
 ---

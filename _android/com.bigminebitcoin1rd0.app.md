@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BigMine Bitcoin
+title: 'BigMine Bitcoin'
 altTitle: 
 authors: 
 users: 50
-appId: com.bigminebitcoin1rd0.app
+appId: 'com.bigminebitcoin1rd0.app'
 appCountry: 
 released: '2021-10-20'
 updated: '2021-10-20'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://riccardoodissea.wixsite.com/innapp
+website: 'https://riccardoodissea.wixsite.com/innapp'
 repository: 
 issue: 
-icon: com.bigminebitcoin1rd0.app.png
+icon: 'com.bigminebitcoin1rd0.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Hyperiapp
+developerName: 'Hyperiapp'
 features: 
 
 ---

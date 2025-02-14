@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: FINNEY Wallet
+title: 'FINNEY Wallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.sirinlabs.os.wallet
+appId: 'com.sirinlabs.os.wallet'
 appCountry: 
 released: '2019-01-13'
 updated: '2020-09-15'
@@ -14,13 +14,13 @@ stars: 3.6
 ratings: 24
 reviews: 5
 size: 
-website: https://sirinlabs.com/
+website: 'https://sirinlabs.com/'
 repository: 
 issue: 
-icon: com.sirinlabs.os.wallet.png
+icon: 'com.sirinlabs.os.wallet.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2024-04-26'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: SIRIN LABS
+developerName: 'SIRIN LABS'
 features: 
 
 ---

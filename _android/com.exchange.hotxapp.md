@@ -1,11 +1,11 @@
 ---
-wsId: hotXexchange
-title: HotX
+wsId: 'hotXexchange'
+title: 'HotX'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.exchange.hotxapp
+appId: 'com.exchange.hotxapp'
 appCountry: 
 released: '2022-02-27'
 updated: '2023-07-14'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://hotx.pro/en/home
+website: 'https://hotx.pro/en/home'
 repository: 
 issue: 
-icon: com.exchange.hotxapp.png
+icon: 'com.exchange.hotxapp.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2024-08-31'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Metasigns
+developerName: 'Metasigns'
 features: 
 
 ---

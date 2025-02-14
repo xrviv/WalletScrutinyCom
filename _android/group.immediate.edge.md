@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Immediate Edge
+title: 'Immediate Edge'
 altTitle: 
 authors: 
 users: 1000
-appId: group.immediate.edge
+appId: 'group.immediate.edge'
 appCountry: 
 released: '2022-04-21'
 updated: '2022-04-22'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: group.immediate.edge.png
+icon: 'group.immediate.edge.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-03-21'
 signer: 

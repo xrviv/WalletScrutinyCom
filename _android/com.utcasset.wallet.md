@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: UTC Digital
+title: 'UTC Digital'
 altTitle: 
 authors: 
 users: 10
-appId: com.utcasset.wallet
+appId: 'com.utcasset.wallet'
 appCountry: 
 released: '2021-08-26'
 updated: '2021-08-27'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.utcasset.wallet.jpg
+icon: 'com.utcasset.wallet.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: clambiz
+developerName: 'clambiz'
 features: 
 
 ---

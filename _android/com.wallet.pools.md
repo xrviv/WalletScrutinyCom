@@ -3,24 +3,23 @@ wsId:
 title: 'Pools Wallet: Crypto & NFTs'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 50000
-appId: com.wallet.pools
+appId: 'com.wallet.pools'
 appCountry: 
 released: '2023-03-28'
-updated: '2024-05-13'
+updated: 2024-05-13
 version: '1.1.5'
 stars: 4.7
 ratings: 
 reviews: 30
-size: 
 website: 
 repository: 
 issue: 
-icon: com.wallet.pools.png
+icon: 'com.wallet.pools.png'
 bugbounty: 
-meta: ok
-verdict: nobtc
+meta: 'ok'
+verdict: 'nobtc'
 appHashes: 
 date: '2023-07-03'
 signer: 
@@ -28,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: PlaygroundVina
+developerName: 'PlaygroundVina'
 features: 
 
 ---

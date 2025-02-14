@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: MacaronSwap - Dex and Staking
+title: 'MacaronSwap - Dex and Staking'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.macaron_swap
+appId: 'com.macaron_swap'
 appCountry: 
 released: '2022-04-14'
 updated: '2023-05-03'
@@ -14,13 +14,13 @@ stars: 3.6
 ratings: 
 reviews: 
 size: 
-website: https://macaronswap.finance/
+website: 'https://macaronswap.finance/'
 repository: 
 issue: 
-icon: com.macaron_swap.png
+icon: 'com.macaron_swap.png'
 bugbounty: 
-meta: removed
-verdict: nobtc
+meta: 'removed'
+verdict: 'nobtc'
 appHashes: 
 date: '2024-12-31'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: MacaronSwap
+developerName: 'MacaronSwap'
 features: 
 
 ---

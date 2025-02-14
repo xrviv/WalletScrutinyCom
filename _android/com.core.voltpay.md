@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: VoltPay
+title: 'VoltPay'
 altTitle: 
 authors: 
 users: 100
-appId: com.core.voltpay
+appId: 'com.core.voltpay'
 appCountry: 
 released: '2022-04-07'
 updated: '2023-11-07'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://voltpay.app
+website: 'https://voltpay.app'
 repository: 
 issue: 
-icon: com.core.voltpay.png
+icon: 'com.core.voltpay.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: CoreWeb
+developerName: 'CoreWeb'
 features: 
 
 ---

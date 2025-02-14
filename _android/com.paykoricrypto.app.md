@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: PaykoriCrypto
+title: 'PaykoriCrypto'
 altTitle: 
 authors: 
 users: 1
-appId: com.paykoricrypto.app
+appId: 'com.paykoricrypto.app'
 appCountry: 
 released: '2022-04-26'
 updated: '2022-11-15'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://paykoricrypto.com
+website: 'https://paykoricrypto.com'
 repository: 
 issue: 
-icon: com.paykoricrypto.app.png
+icon: 'com.paykoricrypto.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Paykori
+developerName: 'Paykori'
 features: 
 
 ---

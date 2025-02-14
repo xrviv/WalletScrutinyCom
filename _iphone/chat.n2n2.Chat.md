@@ -1,11 +1,11 @@
 ---
-wsId: zionApp
-title: Zion - Create Openly
+wsId: 'zionApp'
+title: 'Zion - Create Openly'
 altTitle: 
 authors:
-- danny
-appId: chat.n2n2.Chat
-appCountry: us
+- 'danny'
+appId: 'chat.n2n2.Chat'
+appCountry: 'us'
 idd: '1556918256'
 released: '2021-06-03'
 updated: '2023-07-20'
@@ -16,19 +16,19 @@ size: '63107072'
 website: 
 repository: 
 issue: 
-icon: chat.n2n2.Chat.jpg
+icon: 'chat.n2n2.Chat.jpg'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2025-02-13'
 signer: 
 reviewArchive: 
-twitter: get_zion
+twitter: 'get_zion'
 social:
-- https://www.instagram.com/get_zion
+- 'https://www.instagram.com/get_zion'
 features: 
-developerName: Modern Foundry, Inc.
+developerName: 'Modern Foundry, Inc.'
 
 ---
 

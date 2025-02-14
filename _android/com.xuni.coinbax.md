@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: CoinBaxa
+title: 'CoinBaxa'
 altTitle: 
 authors: 
 users: 100
-appId: com.xuni.coinbax
+appId: 'com.xuni.coinbax'
 appCountry: 
 released: '2021-10-14'
 updated: '2021-10-14'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.xuni.coinbax.jpg
+icon: 'com.xuni.coinbax.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

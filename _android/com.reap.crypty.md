@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Crypty Crypto Bitcoin Ethereum
+title: 'Crypty Crypto Bitcoin Ethereum'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 5000
-appId: com.reap.crypty
+appId: 'com.reap.crypty'
 appCountry: 
 released: '2021-09-09'
 updated: '2022-07-28'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.reap.crypty.png
+icon: 'com.reap.crypty.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2024-02-05'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Tech360Zone
+developerName: 'Tech360Zone'
 features: 
 
 ---

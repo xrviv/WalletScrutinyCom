@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Plato
+title: 'Plato'
 altTitle: 
 authors: 
 users: 100
-appId: com.plato.mobile.app
+appId: 'com.plato.mobile.app'
 appCountry: 
 released: '2021-10-15'
 updated: '2021-11-18'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.plato.mobile.app.png
+icon: 'com.plato.mobile.app.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Plato Technologies Inc.
+developerName: 'Plato Technologies Inc.'
 features: 
 
 ---

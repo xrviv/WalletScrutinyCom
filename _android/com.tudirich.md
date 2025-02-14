@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Tudirich
+title: 'Tudirich'
 altTitle: 
 authors: 
 users: 10
-appId: com.tudirich
+appId: 'com.tudirich'
 appCountry: 
 released: 
 updated: '2022-09-25'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://tudirich.com
+website: 'https://tudirich.com'
 repository: 
 issue: 
-icon: com.tudirich.jpg
+icon: 'com.tudirich.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-08-04'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Tudirich
+developerName: 'Tudirich'
 features: 
 
 ---

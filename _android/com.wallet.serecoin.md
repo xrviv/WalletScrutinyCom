@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: SereCoin
+title: 'SereCoin'
 altTitle: 
 authors: 
 users: 5
-appId: com.wallet.serecoin
+appId: 'com.wallet.serecoin'
 appCountry: 
 released: 
 updated: '2022-06-15'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.wallet.serecoin.png
+icon: 'com.wallet.serecoin.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-25'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: SERE BLOCKCHAIN
+developerName: 'SERE BLOCKCHAIN'
 features: 
 
 ---

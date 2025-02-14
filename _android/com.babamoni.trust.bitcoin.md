@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Baba moni - Bitcoin & USDollar
+title: 'Baba moni - Bitcoin & USDollar'
 altTitle: 
 authors: 
 users: 500
-appId: com.babamoni.trust.bitcoin
+appId: 'com.babamoni.trust.bitcoin'
 appCountry: 
 released: '2020-06-22'
 updated: '2020-06-22'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://baba-moni.co
+website: 'https://baba-moni.co'
 repository: 
 issue: 
-icon: com.babamoni.trust.bitcoin.png
+icon: 'com.babamoni.trust.bitcoin.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Baba moni
+developerName: 'Baba moni'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: OctoWallet Manager
+title: 'OctoWallet Manager'
 altTitle: 
 authors: 
 users: 10
-appId: com.octowallet.manager
+appId: 'com.octowallet.manager'
 appCountry: 
 released: '2019-05-05'
 updated: '2019-05-29'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.octowallet.com
+website: 'http://www.octowallet.com'
 repository: 
 issue: 
-icon: com.octowallet.manager.png
+icon: 'com.octowallet.manager.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-04-03'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Octowallet
+developerName: 'Octowallet'
 features: 
 
 ---

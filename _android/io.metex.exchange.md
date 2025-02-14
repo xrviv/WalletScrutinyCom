@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: MSC Exchange
+title: 'MSC Exchange'
 altTitle: 
 authors: 
 users: 500
-appId: io.metex.exchange
+appId: 'io.metex.exchange'
 appCountry: 
 released: '2019-10-24'
 updated: '2019-11-07'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://msc.exchange
+website: 'https://msc.exchange'
 repository: 
 issue: 
-icon: io.metex.exchange.png
+icon: 'io.metex.exchange.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Metex Corp
+developerName: 'Metex Corp'
 features: 
 
 ---

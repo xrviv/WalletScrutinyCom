@@ -1,11 +1,11 @@
 ---
-wsId: nicechange
-title: Биткоин-обменник – NiceChange
+wsId: 'nicechange'
+title: 'Биткоин-обменник – NiceChange'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.xchange.nicechange
+appId: 'com.xchange.nicechange'
 appCountry: 
 released: '2021-05-25'
 updated: '2024-08-01'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://nicechange.net/
+website: 'https://nicechange.net/'
 repository: 
 issue: 
-icon: com.xchange.nicechange.png
+icon: 'com.xchange.nicechange.png'
 bugbounty: 
-meta: removed
-verdict: custodial
+meta: 'removed'
+verdict: 'custodial'
 appHashes: 
 date: '2025-02-13'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: XchangeCapitalGroup OU
+developerName: 'XchangeCapitalGroup OU'
 features: 
 
 ---

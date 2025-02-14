@@ -1,11 +1,11 @@
 ---
-wsId: quantex
-title: Quantex - Swap & Trade Crypto!
+wsId: 'quantex'
+title: 'Quantex - Swap & Trade Crypto!'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.cryptiswap
+appId: 'com.cryptiswap'
 appCountry: 
 released: '2021-03-16'
 updated: '2023-03-10'
@@ -14,13 +14,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.myquantex.com
+website: 'https://www.myquantex.com'
 repository: 
 issue: 
-icon: com.cryptiswap.png
+icon: 'com.cryptiswap.png'
 bugbounty: 
-meta: removed
-verdict: nowallet
+meta: 'removed'
+verdict: 'nowallet'
 appHashes: 
 date: '2023-09-28'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Quantex Global
+developerName: 'Quantex Global'
 features: 
 
 ---

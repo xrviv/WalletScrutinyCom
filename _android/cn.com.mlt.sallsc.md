@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: SALLSC
+title: 'SALLSC'
 altTitle: 
 authors: 
 users: 50
-appId: cn.com.mlt.sallsc
+appId: 'cn.com.mlt.sallsc'
 appCountry: 
 released: '2021-11-21'
 updated: '2021-12-08'
@@ -16,10 +16,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: cn.com.mlt.sallsc.png
+icon: 'cn.com.mlt.sallsc.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-01-02'
 signer: 

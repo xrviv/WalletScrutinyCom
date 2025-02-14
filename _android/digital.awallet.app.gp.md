@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: AWallet
+title: 'AWallet'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: digital.awallet.app.gp
+appId: 'digital.awallet.app.gp'
 appCountry: 
 released: '2022-03-09'
 updated: '2023-08-24'
@@ -14,22 +14,22 @@ stars: 5
 ratings: 
 reviews: 15
 size: 
-website: https://awallet.digital
+website: 'https://awallet.digital'
 repository: 
 issue: 
-icon: digital.awallet.app.gp.png
+icon: 'digital.awallet.app.gp.png'
 bugbounty: 
-meta: removed
-verdict: nosource
+meta: 'removed'
+verdict: 'nosource'
 appHashes: 
 date: '2024-12-31'
 signer: 
 reviewArchive: 
 twitter: 
 social:
-- https://awallet.digital/
+- 'https://awallet.digital/'
 redirect_from: 
-developerName: Metaverse Network LLC
+developerName: 'Metaverse Network LLC'
 features: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Africrypt Wallet
+title: 'Africrypt Wallet'
 altTitle: 
 authors: 
 users: 100
-appId: app.africoin.pellar
+appId: 'app.africoin.pellar'
 appCountry: 
 released: '2020-09-30'
 updated: '2020-12-16'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: http://www.africrypt.io
+website: 'http://www.africrypt.io'
 repository: 
 issue: 
-icon: app.africoin.pellar.png
+icon: 'app.africoin.pellar.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-05'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Brickion Technologies
+developerName: 'Brickion Technologies'
 features: 
 
 ---

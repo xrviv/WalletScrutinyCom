@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: marmetal
+title: 'marmetal'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.imtrx.dhou
+appId: 'com.imtrx.dhou'
 appCountry: 
 released: '2022-04-11'
 updated: '2022-09-13'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.imtrx.dhou.png
+icon: 'com.imtrx.dhou.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-06-21'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: g83ohv
+developerName: 'g83ohv'
 features: 
 
 ---

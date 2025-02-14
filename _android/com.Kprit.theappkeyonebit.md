@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Onekey&bit
+title: 'Onekey&bit'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 1000
-appId: com.Kprit.theappkeyonebit
+appId: 'com.Kprit.theappkeyonebit'
 appCountry: 
 released: '2021-11-01'
 updated: '2021-11-12'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: com.Kprit.theappkeyonebit.png
+icon: 'com.Kprit.theappkeyonebit.png'
 bugbounty: 
-meta: removed
-verdict: fake
+meta: 'removed'
+verdict: 'fake'
 appHashes: 
 date: '2023-06-21'
 signer: 
@@ -28,7 +28,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Kprit
+developerName: 'Kprit'
 features: 
 
 ---

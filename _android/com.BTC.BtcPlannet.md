@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: BTC Plannet
+title: 'BTC Plannet'
 altTitle: 
 authors: 
 users: 10
-appId: com.BTC.BtcPlannet
+appId: 'com.BTC.BtcPlannet'
 appCountry: 
 released: '2022-06-20'
 updated: '2022-06-20'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://btcplannet.net/
+website: 'https://btcplannet.net/'
 repository: 
 issue: 
-icon: com.BTC.BtcPlannet.png
+icon: 'com.BTC.BtcPlannet.png'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2023-12-19'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Qalab Abbas
+developerName: 'Qalab Abbas'
 features: 
 
 ---

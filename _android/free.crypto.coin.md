@@ -1,11 +1,11 @@
 ---
 wsId: 
-title: Free Crypto Coin & Airdrops
+title: 'Free Crypto Coin & Airdrops'
 altTitle: 
 authors:
-- danny
+- 'danny'
 users: 10000
-appId: free.crypto.coin
+appId: 'free.crypto.coin'
 appCountry: 
 released: '2020-02-24'
 updated: '2020-09-22'
@@ -17,10 +17,10 @@ size:
 website: 
 repository: 
 issue: 
-icon: free.crypto.coin.png
+icon: 'free.crypto.coin.png'
 bugbounty: 
-meta: removed
-verdict: wip
+meta: 'removed'
+verdict: 'wip'
 appHashes: 
 date: '2023-04-15'
 signer: 

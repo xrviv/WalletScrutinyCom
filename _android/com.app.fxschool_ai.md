@@ -1,10 +1,10 @@
 ---
 wsId: 
-title: Hikmah - ইসলামিক কুইজ MCQ গেম
+title: 'Hikmah - ইসলামিক কুইজ MCQ গেম'
 altTitle: 
 authors: 
 users: 10
-appId: com.app.fxschool_ai
+appId: 'com.app.fxschool_ai'
 appCountry: 
 released: '2022-03-04'
 updated: '2024-01-21'
@@ -13,13 +13,13 @@ stars:
 ratings: 
 reviews: 
 size: 
-website: https://www.hikmahbd.com/
+website: 'https://www.hikmahbd.com/'
 repository: 
 issue: 
-icon: com.app.fxschool_ai.jpg
+icon: 'com.app.fxschool_ai.jpg'
 bugbounty: 
-meta: removed
-verdict: fewusers
+meta: 'removed'
+verdict: 'fewusers'
 appHashes: 
 date: '2024-07-30'
 signer: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Asir Intasir Shaiket - AsirFx
+developerName: 'Asir Intasir Shaiket - AsirFx'
 features: 
 
 ---
