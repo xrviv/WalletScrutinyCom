@@ -7,11 +7,11 @@ authors:
 appId: com.spedn.spedn
 appCountry: us
 idd: '1456135087'
-released: 2019-05-13
-updated: 2023-11-22
-version: 23.11.1
+released: '2019-05-13'
+updated: '2023-11-22'
+version: '23.11.1'
 stars: 4.5
-reviews: 90
+reviews: 91
 size: '27427840'
 website: https://spedn.io
 repository: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: stale
 verdict: nosendreceive
 appHashes: 
-date: 2024-11-19
+date: '2024-11-19'
 signer: 
 reviewArchive: 
 twitter: FlexaHQ

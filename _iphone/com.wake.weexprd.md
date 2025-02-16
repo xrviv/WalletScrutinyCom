@@ -7,12 +7,12 @@ authors:
 appId: com.wake.weexprd
 appCountry: us
 idd: '1609350789'
-released: 2022-03-04
-updated: 2025-01-24
-version: 4.3.3
-stars: 4.6
-reviews: 469
-size: '107852800'
+released: '2022-03-04'
+updated: '2025-02-06'
+version: '4.3.4'
+stars: 4.7
+reviews: 647
+size: '108654592'
 website: https://www.weex.com/en
 repository: 
 issue: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2023-08-17
+date: '2023-08-17'
 signer: 
 reviewArchive: 
 twitter: WEEX_Official

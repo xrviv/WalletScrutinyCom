@@ -7,12 +7,12 @@ authors:
 appId: io.abtwallet.ABTWallet
 appCountry: us
 idd: '1460083542'
-released: 2019-05-19
-updated: 2025-01-27
-version: 5.8.4
+released: '2019-05-19'
+updated: '2025-02-12'
+version: '5.8.8'
 stars: 4.9
-reviews: 76
-size: '96087040'
+reviews: 77
+size: '97374208'
 website: https://www.didwallet.io
 repository: 
 issue: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nobtc
 appHashes: 
-date: 2023-07-06
+date: '2023-07-06'
 signer: 
 reviewArchive: 
 twitter: ArcBlock_io

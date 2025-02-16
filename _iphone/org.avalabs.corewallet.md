@@ -7,12 +7,12 @@ authors:
 appId: org.avalabs.corewallet
 appCountry: us
 idd: '6443685999'
-released: 2022-11-28
-updated: 2025-01-14
-version: 0.14.22
+released: '2022-11-28'
+updated: '2025-02-10'
+version: '0.14.23'
 stars: 4.5
 reviews: 71
-size: '63598592'
+size: '64204800'
 website: https://www.core.app/
 repository: 
 issue: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2023-07-02
+date: '2023-07-02'
 signer: 
 reviewArchive: 
 twitter: coreapp

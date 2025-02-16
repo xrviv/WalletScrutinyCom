@@ -7,9 +7,9 @@ authors:
 appId: com.counos.wallet
 appCountry: us
 idd: 1408806845
-released: 2018-08-01
-updated: 2023-08-09
-version: 1.9.94
+released: '2018-08-01'
+updated: '2023-08-09'
+version: '1.9.94'
 stars: 4
 reviews: 22
 size: '26430464'
@@ -19,10 +19,10 @@ repository:
 issue: 
 icon: com.counos.wallet.jpg
 bugbounty: 
-meta: stale
+meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-07
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: counoscoin

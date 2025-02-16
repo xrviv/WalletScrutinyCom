@@ -7,11 +7,11 @@ authors:
 appId: com.skrill.NETELLER
 appCountry: gb
 idd: '1095647938'
-released: 2016-05-02
-updated: 2025-02-05
-version: 3.153.0
+released: '2016-05-02'
+updated: '2025-02-05'
+version: '3.153.0'
 stars: 4.5
-reviews: 808
+reviews: 811
 size: '224167936'
 website: 
 repository: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-09-07
+date: '2024-09-07'
 signer: 
 reviewArchive: 
 twitter: neteller

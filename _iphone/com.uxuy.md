@@ -7,12 +7,12 @@ authors:
 appId: com.uxuy
 appCountry: us
 idd: '6457257372'
-released: 2023-08-23
-updated: 2025-01-27
-version: 1.3.11
-stars: 4
-reviews: 16
-size: '138600448'
+released: '2023-08-23'
+updated: '2025-02-08'
+version: '1.3.13'
+stars: 3.8
+reviews: 17
+size: '138584064'
 website: https://uxuy.com/wallet
 repository: 
 issue: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-09-05
+date: '2024-09-05'
 signer: 
 reviewArchive: 
 twitter: uxuycom

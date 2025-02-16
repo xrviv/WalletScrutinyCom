@@ -7,12 +7,12 @@ authors:
 appId: mobiletradingpartners.lmax.exchange.iphone
 appCountry: hu
 idd: 884042608
-released: 2014-06-06
-updated: 2024-10-15
-version: 5.0.52
+released: '2014-06-06'
+updated: '2025-02-12'
+version: '5.0.55'
 stars: 0
 reviews: 0
-size: '112323584'
+size: '111066112'
 website: https://www.lmax.com/mobile
 repository: 
 issue: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2021-11-10
+date: '2021-11-10'
 signer: 
 reviewArchive: 
 twitter: LMAX

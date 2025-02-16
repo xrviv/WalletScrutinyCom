@@ -7,11 +7,11 @@ authors:
 appId: com.mudrex.ios
 appCountry: in
 idd: '1609440707'
-released: 2022-03-12
-updated: 2025-02-04
+released: '2022-03-12'
+updated: '2025-02-04'
 version: '8.45'
 stars: 4.4
-reviews: 3096
+reviews: 3139
 size: '170978304'
 website: https://mudrex.com/
 repository: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-09-07
+date: '2024-09-07'
 signer: 
 reviewArchive: 
 twitter: officialmudrex

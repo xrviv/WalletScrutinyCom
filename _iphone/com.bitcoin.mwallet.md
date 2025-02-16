@@ -1,35 +1,35 @@
 ---
-wsId: mwallet
+wsId: 'mwallet'
 title: 'Bitcoin.com Wallet: Buy, sell'
 altTitle: 
 authors:
-- leo
-appId: com.bitcoin.mwallet
+- 'leo'
+appId: 'com.bitcoin.mwallet'
 appCountry: 
-idd: 1252903728
-released: 2017-07-11
-updated: 2025-02-04
-version: 8.60.0
-stars: 4.6
-reviews: 33839
-size: '288743424'
-website: https://wallet.bitcoin.com/
+idd: '1252903728'
+released: '2017-07-11'
+updated: 2025-02-12
+version: '8.61.0'
+stars: 4.64602
+reviews: 34054
+size: '298639360'
+website: 'https://wallet.bitcoin.com/'
 repository: 
 issue: 
-icon: com.bitcoin.mwallet.jpg
+icon: 'com.bitcoin.mwallet.jpg'
 bugbounty: 
-meta: ok
-verdict: nosource
+meta: 'ok'
+verdict: 'nosource'
 appHashes: 
-date: 2021-05-20
+date: '2021-05-20'
 signer: 
 reviewArchive: 
-twitter: bitcoincom
+twitter: 'bitcoincom'
 social:
-- https://www.facebook.com/buy.bitcoin.news
-- https://www.reddit.com/r/btc
+- 'https://www.facebook.com/buy.bitcoin.news'
+- 'https://www.reddit.com/r/btc'
 features: 
-developerName: Bitcoin.com
+developerName: 'Bitcoin.com'
 
 ---
 

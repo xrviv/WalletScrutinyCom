@@ -7,11 +7,11 @@ authors:
 appId: net.bitoasis.ios.com
 appCountry: ae
 idd: 1521661794
-released: 2020-07-06
-updated: 2025-02-01
-version: 2.0.39
+released: '2020-07-06'
+updated: '2025-02-01'
+version: '2.0.39'
 stars: 4.5
-reviews: 4394
+reviews: 4396
 size: '101298176'
 website: https://bitoasis.net/en/home
 repository: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2021-09-15
+date: '2021-09-15'
 signer: 
 reviewArchive: 
 twitter: bitoasis

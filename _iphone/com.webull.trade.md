@@ -8,11 +8,11 @@ authors:
 appId: com.webull.trade
 appCountry: 
 idd: 1179213067
-released: 2017-01-18
-updated: 2025-01-30
-version: 10.7.1
+released: '2017-01-18'
+updated: '2025-01-30'
+version: '10.7.1'
 stars: 4.7
-reviews: 311634
+reviews: 312006
 size: '369873920'
 website: https://www.webull.com
 repository: 
@@ -22,7 +22,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2021-08-10
+date: '2021-08-10'
 signer: 
 reviewArchive: 
 twitter: WebullGlobal

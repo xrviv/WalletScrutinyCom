@@ -7,12 +7,12 @@ authors:
 appId: com.wealthsimple.trade
 appCountry: ca
 idd: 1403491709
-released: 2019-02-26
-updated: 2025-02-02
-version: 2.167.0
+released: '2019-02-26'
+updated: '2025-02-08'
+version: '2.168.0'
 stars: 4.6
-reviews: 125444
-size: '173740032'
+reviews: 125475
+size: '177423360'
 website: https://www.wealthsimple.com/en-ca/
 repository: 
 issue: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2021-09-03
+date: '2021-09-03'
 signer: 
 reviewArchive: 
 twitter: Wealthsimple

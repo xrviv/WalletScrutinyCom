@@ -7,12 +7,12 @@ authors:
 appId: com.korbit.exchange
 appCountry: kr
 idd: 1434511619
-released: 2018-10-18
-updated: 2025-01-31
-version: 10.6.3
+released: '2018-10-18'
+updated: '2025-02-10'
+version: '10.7.1'
 stars: 2.5
-reviews: 611
-size: '81594368'
+reviews: 613
+size: '93827072'
 website: http://www.korbit.co.kr
 repository: 
 issue: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-10-07
+date: '2024-10-07'
 signer: 
 reviewArchive: 
 twitter: 

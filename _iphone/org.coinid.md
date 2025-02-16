@@ -7,21 +7,21 @@ authors:
 appId: org.coinid
 appCountry: 
 idd: 1362831898
-released: 2018-10-02
-updated: 2023-02-21
-version: 1.5.6
+released: '2018-10-02'
+updated: '2023-02-21'
+version: '1.5.6'
 stars: 4
-reviews: 20
+reviews: 21
 size: '10047488'
 website: https://coinid.org
 repository: https://github.com/COINiD/COINiDVault
 issue: 
 icon: org.coinid.jpg
 bugbounty: 
-meta: stale
+meta: obsolete
 verdict: ftbfs
 appHashes: 
-date: 2024-02-20
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: COINiDGroup

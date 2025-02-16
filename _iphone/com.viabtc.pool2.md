@@ -7,11 +7,11 @@ authors:
 appId: com.viabtc.pool2
 appCountry: hk
 idd: '1334584229'
-released: 2018-01-18
-updated: 2025-01-26
-version: 3.8.4
+released: '2018-01-18'
+updated: '2025-01-26'
+version: '3.8.4'
 stars: 4.3
-reviews: 15
+reviews: 16
 size: '101734400'
 website: https://www.viabtc.com/
 repository: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2022-06-24
+date: '2022-06-24'
 signer: 
 reviewArchive: 
 twitter: ViaBTC

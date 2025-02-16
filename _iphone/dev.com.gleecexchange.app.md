@@ -6,12 +6,12 @@ authors:
 appId: dev.com.gleecexchange.app
 appCountry: ca
 idd: '1541005487'
-released: 2021-02-18
-updated: 2024-12-05
-version: 1.35.0
+released: '2021-02-18'
+updated: '2025-02-07'
+version: '1.35.1'
 stars: 0
 reviews: 0
-size: '318047232'
+size: '317199360'
 website: https://gleecbtc.com
 repository: 
 issue: 
@@ -20,7 +20,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-11-28
+date: '2024-11-28'
 signer: 
 reviewArchive: 
 twitter: GleecOfficial

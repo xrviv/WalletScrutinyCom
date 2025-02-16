@@ -7,12 +7,12 @@ authors:
 appId: com.trastra.mobile
 appCountry: de
 idd: 1446427008
-released: 2019-01-20
-updated: 2025-01-22
-version: 5.0.8
+released: '2019-01-20'
+updated: '2025-02-06'
+version: '5.0.9'
 stars: 5
 reviews: 1
-size: '61000704'
+size: '60826624'
 website: https://mobile-app.trastra.com/
 repository: 
 issue: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: 2024-10-07
+date: '2024-10-07'
 signer: 
 reviewArchive: 
 twitter: Trastra_ltd

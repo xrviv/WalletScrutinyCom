@@ -7,9 +7,9 @@ authors:
 appId: xyz.elliptica.enuts
 appCountry: us
 idd: '6477824421'
-released: 2024-02-14
-updated: 2024-02-14
-version: 0.3.0
+released: '2024-02-14'
+updated: '2024-02-14'
+version: '0.3.0'
 stars: 4
 reviews: 1
 size: '24876032'
@@ -18,10 +18,10 @@ repository:
 issue: 
 icon: xyz.elliptica.enuts.jpg
 bugbounty: 
-meta: ok
+meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-02-28
+date: '2025-02-13'
 signer: 
 reviewArchive: 
 twitter: 

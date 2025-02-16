@@ -7,11 +7,11 @@ authors:
 appId: com.bitkeep.os
 appCountry: 
 idd: 1395301115
-released: 2018-09-26
-updated: 2025-01-24
-version: 8.28.2
+released: '2018-09-26'
+updated: '2025-01-24'
+version: '8.28.2'
 stars: 4.7
-reviews: 4466
+reviews: 4493
 size: '194081792'
 website: https://web3.bitget.com
 repository: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosource
 appHashes: 
-date: 2021-10-01
+date: '2021-10-01'
 signer: 
 reviewArchive: 
 twitter: BitKeepOS

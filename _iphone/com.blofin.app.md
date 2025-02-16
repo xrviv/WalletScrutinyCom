@@ -7,11 +7,11 @@ authors:
 appId: com.blofin.app
 appCountry: us
 idd: '1616804346'
-released: 2022-04-15
-updated: 2024-12-24
-version: 3.7.0
+released: '2022-04-15'
+updated: '2024-12-24'
+version: '3.7.0'
 stars: 4.7
-reviews: 585
+reviews: 602
 size: '177699840'
 website: https://blofin.com
 repository: 
@@ -21,7 +21,7 @@ bugbounty:
 meta: ok
 verdict: nosendreceive
 appHashes: 
-date: 2024-10-07
+date: '2024-10-07'
 signer: 
 reviewArchive: 
 twitter: Blofin_Official
