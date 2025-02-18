@@ -23,10 +23,16 @@ bugbounty:
 meta: ok
 verdict: reproducible
 appHashes:
-- 7ec19b1845738321a779ffd0894e410250f97fe69bce27066f71b8c1205e7416
-date: 2025-01-08
+- c5f04cdba74164db04a2e036462846c97a01c80879a095b6883af84249cb2736
+date: 2025-02-18
 signer: 32f9cc00b13fbeace51e2fb51df482044e42ad34a9bd912f179fedb16a42970e
 reviewArchive:
+- date: 2025-01-18
+  version: 4.1.3
+  appHash:
+  - 7ec19b1845738321a779ffd0894e410250f97fe69bce27066f71b8c1205e7416
+  gitRevision: 790a2bf488c80c0507c83b72dfc67a7043665b1e
+  verdict: reproducible
 - date: 2025-01-08
   version: 4.1.2
   appHash:
@@ -341,25 +347,47 @@ For that latest version, our {% include testScript.html %} returned this:
 ===== Begin Results =====
 appId:          com.greenaddress.greenbits_android_wallet
 signer:         32f9cc00b13fbeace51e2fb51df482044e42ad34a9bd912f179fedb16a42970e
-apkVersionName: 4.1.3
-apkVersionCode: 22000442
+apkVersionName: 4.1.5
+apkVersionCode: 22000444
 verdict:        
-appHash:        7ec19b1845738321a779ffd0894e410250f97fe69bce27066f71b8c1205e7416
-commit:         503ec0a01e363f92223d3e9c4a724d8a0c748920
+appHash:        c5f04cdba74164db04a2e036462846c97a01c80879a095b6883af84249cb2736
+commit:         71d8d7144aa5ff5ca118325c0d2a98885e7d69a8
 
 Diff:
-Files /tmp/fromPlay_com.greenaddress.greenbits_android_wallet_22000442/assets/dexopt/baseline.prof and /tmp/fromBuild_com.greenaddress.greenbits_android_wallet_22000442/assets/dexopt/baseline.prof differ
-Files /tmp/fromPlay_com.greenaddress.greenbits_android_wallet_22000442/classes3.dex and /tmp/fromBuild_com.greenaddress.greenbits_android_wallet_22000442/classes3.dex differ
-Only in /tmp/fromPlay_com.greenaddress.greenbits_android_wallet_22000442/META-INF: GREENADD.RSA
-Only in /tmp/fromPlay_com.greenaddress.greenbits_android_wallet_22000442/META-INF: GREENADD.SF
-Only in /tmp/fromPlay_com.greenaddress.greenbits_android_wallet_22000442/META-INF: MANIFEST.MF
+Files /tmp/fromPlay_com.greenaddress.greenbits_android_wallet_22000444/assets/dexopt/baseline.prof and /tmp/fromBuild_com.greenaddress.greenbits_android_wallet_22000444/assets/dexopt/baseline.prof differ
+Files /tmp/fromPlay_com.greenaddress.greenbits_android_wallet_22000444/classes3.dex and /tmp/fromBuild_com.greenaddress.greenbits_android_wallet_22000444/classes3.dex differ
+Only in /tmp/fromPlay_com.greenaddress.greenbits_android_wallet_22000444/META-INF: GREENADD.RSA
+Only in /tmp/fromPlay_com.greenaddress.greenbits_android_wallet_22000444/META-INF: GREENADD.SF
+Only in /tmp/fromPlay_com.greenaddress.greenbits_android_wallet_22000444/META-INF: MANIFEST.MF
 
 Revision, tag (and its signature):
-object 503ec0a01e363f92223d3e9c4a724d8a0c748920
+object 71d8d7144aa5ff5ca118325c0d2a98885e7d69a8
 type commit
-tag release_4.1.3
-tagger Angelos Veglektsis <angelos@blockstream.com> 1736442841 +0200
+tag release_4.1.5
+tagger Luca Vaccaro <me@lvaccaro.com> 1738762045 +0100
+
+Release 4.1.5
 ===== End Results =====
+```
+
+We noticed a diff in `classes3.dex` file. upon further investigation, we found the following:
+
+```
+// Play Store version order:
+String3_commonMainKt._collectCommonMainString3Resources
+String1_commonMainKt._collectCommonMainString1Resources
+String2_commonMainKt._collectCommonMainString2Resources
+String0_commonMainKt._collectCommonMainString0Resources
+
+// Build version order:
+String0_commonMainKt._collectCommonMainString0Resources
+String2_commonMainKt._collectCommonMainString2Resources
+String3_commonMainKt._collectCommonMainString3Resources
+String1_commonMainKt._collectCommonMainString1Resources
+```
+The differences are solely in method call ordering during compilation. Same methods are called but in different order, resulting in different checksums but maintaining identical functionality. This is due to Kotlin compiler optimization having freedom to reorder independent method calls.
+While this prevents bit-for-bit reproducibility, it does not affect the app's security or operation.
+
 
 Run a full
 diff --recursive /tmp/fromPlay_com.greenaddress.greenbits_android_wallet_22000439 /tmp/fromBuild_com.greenaddress.greenbits_android_wallet_22000439
@@ -370,7 +398,7 @@ for more details.
 + '[' false = true ']'
 ```
 
-Version 4.1.3 of {{ page.title }} is **reproducible**. 
+Version 4.1.5 of {{ page.title }} is **reproducible**. 
 
 
 {% include asciicast %}
