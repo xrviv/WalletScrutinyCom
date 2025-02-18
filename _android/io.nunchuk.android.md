@@ -75,7 +75,8 @@ reviewArchive:
 twitter: nunchuk_io
 social:
 - https://nunchuk.medium.com/
-- https://join.slack.com/t/nunchukio/shared_invite/zt-xqdlvl5g-xKKohQu_R7IUo7_np8rVaw
+- >-
+  https://join.slack.com/t/nunchukio/shared_invite/zt-xqdlvl5g-xKKohQu_R7IUo7_np8rVaw
 redirect_from: 
 developerName: Nunchuk Inc
 features: 

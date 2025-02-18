@@ -2839,6 +2839,19 @@
   {
     "appId": "io.nunchuk.android",
     "signer": "",
+    "version": "1.9.59",
+    "verdict": "nonverifiable",
+    "appHashes": [
+      "c0cc213b0e5f309d4bf83d8ff576f7e7c324c2273e202170a10704b0b5d9d535",
+      "03a0faf7feae6ced736a0894049163dbfc81d8b616c0c549d1b9dc7c781bd0cc",
+      "3f704527776c7696c85728790f8639ced4d38eaa1a43229d33c4c8b8aa0a1e0a"
+    ],
+    "date": "2025-01-27",
+    "platform": "android"
+  },
+  {
+    "appId": "io.nunchuk.android",
+    "signer": "",
     "version": "1.9.58",
     "verdict": "nonverifiable",
     "appHashes": [
@@ -2858,19 +2871,6 @@
       "aaec6e500babbd1931db8485b99205468e426f6157df131f607aa69b6e821708"
     ],
     "date": "2024-11-19",
-    "platform": "android"
-  },
-  {
-    "appId": "",
-    "signer": "",
-    "version": "",
-    "verdict": "",
-    "appHashes": [
-      "c0cc213b0e5f309d4bf83d8ff576f7e7c324c2273e202170a10704b0b5d9d535",
-      "03a0faf7feae6ced736a0894049163dbfc81d8b616c0c549d1b9dc7c781bd0cc",
-      "3f704527776c7696c85728790f8639ced4d38eaa1a43229d33c4c8b8aa0a1e0a"
-    ],
-    "date": "2025-01-27",
     "platform": "android"
   },
   {
@@ -4273,20 +4273,6 @@
       "9de833a38931b7e4660e8d0e3ea4a2bfe74924caa1328834e9be9c3d1750cd7e"
     ],
     "date": "2023-06-20",
-    "platform": "hardware"
-  },
-  {
-    "appId": "seedsigner",
-    "signer": "",
-    "version": "",
-    "verdict": "reproducible",
-    "appHashes": [
-      "1d0f1c412f64b40e6aba21b5bacdb41d9323653c170ce06d0a3f1dd71fddb28e",
-      "11c5553d75b3ebca4988ae3c4573b60b33a12bc4779282454ae34404ba797670",
-      "c8d5352ed4a86c19eb9ef54f2920934f8ce460742b464ea94dc9114f9f4e039a",
-      "917201e335bfc7ee4189f17827f954f89588dc0fdefdad80d26f2a65c5c8e6d0"
-    ],
-    "date": "2024-12-18",
     "platform": "hardware"
   },
   {

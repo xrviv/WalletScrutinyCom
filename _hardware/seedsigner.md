@@ -29,16 +29,16 @@ appHashes:
 - 1e93a82e62d4a1defbdc777a6762a813f4cb5c3ef9090da0bd07542dfd6f62bf
 - 398d9bf9cda0858fe97c0788b353194c1c902335a858b7dbf5d7b213bda75d96
 - d298ffad3c765e11e48873efc6d1c65e4230528fde4d5bd4701bb507acbf493c
-date: '2024-12-18'
+date: 2024-12-18
 signer: 
 reviewArchive:
-- date: '2024-12-18'
-  version: '0.8.0'
-appHashes:
-- 1d0f1c412f64b40e6aba21b5bacdb41d9323653c170ce06d0a3f1dd71fddb28e
-- 11c5553d75b3ebca4988ae3c4573b60b33a12bc4779282454ae34404ba797670
-- c8d5352ed4a86c19eb9ef54f2920934f8ce460742b464ea94dc9114f9f4e039a
-- 917201e335bfc7ee4189f17827f954f89588dc0fdefdad80d26f2a65c5c8e6d0
+- date: 2024-12-18
+  version: 0.8.0
+  appHashes:
+  - 1d0f1c412f64b40e6aba21b5bacdb41d9323653c170ce06d0a3f1dd71fddb28e
+  - 11c5553d75b3ebca4988ae3c4573b60b33a12bc4779282454ae34404ba797670
+  - c8d5352ed4a86c19eb9ef54f2920934f8ce460742b464ea94dc9114f9f4e039a
+  - 917201e335bfc7ee4189f17827f954f89588dc0fdefdad80d26f2a65c5c8e6d0
   gitRevision: 93f538c4a309c720acb3a344ddb614b5d546cefa
   verdict: reproducible
 - date: 2023-09-14
@@ -63,7 +63,6 @@ features:
 **Update 2025-02-17**:
 
 ```
-
 seedsigner_os.0.8.5.pi0.img
 ===== Begin Results =====
 appId:          seedsigner

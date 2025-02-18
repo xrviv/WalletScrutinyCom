@@ -11,7 +11,7 @@ appCountry:
 released: 2019-05-15
 updated: 2025-01-21
 version: 4.12.0
-stars: 4.2
+stars: 4.3
 ratings: 621
 reviews: 57
 website: https://viawallet.com

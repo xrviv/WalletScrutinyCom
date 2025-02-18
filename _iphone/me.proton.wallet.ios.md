@@ -3,16 +3,15 @@ wsId: protonWallet
 title: Proton Wallet - Secure BTC
 altTitle: 
 authors:
-- danny 
+- danny
 appId: me.proton.wallet.ios
 appCountry: us
 idd: '6479609548'
-released: '2025-02-10T08:00:00Z'
+released: 2025-02-10
 updated: 2025-02-13
 version: 1.0.7
-stars: 5
-reviews: 2
-size: '142384128'
+stars: 4.6
+reviews: 9
 website: https://proton.me/wallet
 repository: 
 issue: 
@@ -30,7 +29,7 @@ social:
 - https://www.instagram.com/protonprivacy
 - https://www.facebook.com/Proton
 - https://www.linkedin.com/company/protonprivacy
-- https://mastodon.social/@protonprivacy 
+- https://mastodon.social/@protonprivacy
 features: 
 developerName: Proton AG
 

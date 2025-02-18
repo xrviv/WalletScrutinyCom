@@ -12,7 +12,7 @@ updated: 2025-02-14
 version: 5.9.0
 stars: 4.1
 ratings: 21149
-reviews: 1836
+reviews: 1835
 website: https://nexo.com
 repository: 
 issue: 

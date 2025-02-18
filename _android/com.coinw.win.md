@@ -10,7 +10,7 @@ appCountry:
 released: 2022-12-07
 updated: 2025-02-16
 version: 10.0.15
-stars: 3.5
+stars: 3.6
 ratings: 
 reviews: 45
 website: https://www.coinw.com

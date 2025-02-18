@@ -12,7 +12,7 @@ updated: 2025-02-09
 version: 651.565.3
 stars: 3.8
 ratings: 111823
-reviews: 3547
+reviews: 3548
 website: https://www.etoro.com/
 repository: 
 issue: 
