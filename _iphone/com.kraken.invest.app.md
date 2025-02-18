@@ -7,12 +7,11 @@ authors:
 appId: com.kraken.invest.app
 appCountry: us
 idd: '1481947260'
-released: '2021-06-01'
-updated: '2025-02-12'
-version: '3.2.0'
+released: 2021-06-01
+updated: 2025-02-12
+version: 3.2.0
 stars: 4.7
 reviews: 10643
-size: '152572928'
 website: https://kraken.com
 repository: 
 issue: 
@@ -21,7 +20,7 @@ bugbounty:
 meta: ok
 verdict: custodial
 appHashes: 
-date: '2023-12-15'
+date: 2023-12-15
 signer: 
 reviewArchive: 
 twitter: krakenfx
