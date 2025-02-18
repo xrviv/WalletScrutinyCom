@@ -11,7 +11,7 @@ released: 2024-04-02
 updated: 2025-02-11
 version: 2.1.2
 stars: 4.7
-reviews: 4369
+reviews: 4484
 website: https://deblock.com/en-FR
 repository: 
 issue: 

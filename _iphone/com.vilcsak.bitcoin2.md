@@ -11,7 +11,7 @@ released: 2014-06-22
 updated: 2025-02-10
 version: 13.4.11
 stars: 4.7
-reviews: 1757113
+reviews: 1757272
 website: http://www.coinbase.com
 repository: 
 issue: 

@@ -11,7 +11,7 @@ released: 2022-04-26
 updated: 2025-01-22
 version: 1.0.6
 stars: 3.5
-reviews: 43
+reviews: 45
 website: https://platnova.com
 repository: 
 issue: 

@@ -18,10 +18,10 @@ repository:
 issue: 
 icon: io.horizontalsystems.erium.png
 bugbounty: 
-meta: obsolete
+meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-10-05
+date: 2025-02-18
 signer: 
 reviewArchive: 
 twitter: EriumExchange

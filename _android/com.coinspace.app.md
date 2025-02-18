@@ -12,7 +12,7 @@ updated: 2025-02-05
 version: 6.7.0
 stars: 4.2
 ratings: 1234
-reviews: 85
+reviews: 86
 website: https://coin.space
 repository: https://github.com/CoinSpace/CoinSpace
 issue: https://github.com/CoinSpace/CoinSpace/issues/30

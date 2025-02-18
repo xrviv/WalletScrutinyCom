@@ -11,7 +11,7 @@ released: 2021-10-27
 updated: 2025-02-01
 version: 4.1.1
 stars: 4.4
-reviews: 431
+reviews: 432
 website: http://bitcoinlibre.io/
 repository: 
 issue: 

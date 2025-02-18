@@ -8,7 +8,7 @@ users: 100000000
 appId: com.iqoption
 appCountry: 
 released: 
-updated: 2025-01-29
+updated: 2025-02-17
 version: 8.58.0
 stars: 4.4
 ratings: 

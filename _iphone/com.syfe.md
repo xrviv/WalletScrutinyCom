@@ -11,7 +11,7 @@ released: 2020-02-24
 updated: 2025-02-03
 version: 12.7.0
 stars: 4.8
-reviews: 167
+reviews: 168
 website: https://www.syfe.com
 repository: 
 issue: 

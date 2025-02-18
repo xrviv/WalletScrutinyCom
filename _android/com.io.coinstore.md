@@ -10,7 +10,7 @@ appCountry:
 released: 2021-03-29
 updated: 2025-01-23
 version: 3.4.0
-stars: 4.1
+stars: 4.2
 ratings: 
 reviews: 68
 website: https://www.coinstore.com

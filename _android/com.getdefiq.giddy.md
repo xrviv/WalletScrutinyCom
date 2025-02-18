@@ -9,7 +9,7 @@ appId: com.getdefiq.giddy
 appCountry: 
 released: 2022-02-25
 updated: 2025-02-12
-version: 3.8.1
+version: 3.9.0
 stars: 4.4
 ratings: 
 reviews: 125

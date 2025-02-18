@@ -11,7 +11,7 @@ released: 2019-01-26
 updated: 2025-02-09
 version: 7.4.1
 stars: 3.8
-reviews: 72
+reviews: 73
 website: https://store.dcentwallet.com/pages/dcent-wallet-app
 repository: 
 issue: 

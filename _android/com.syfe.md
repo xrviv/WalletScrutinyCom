@@ -31,7 +31,7 @@ social:
 - https://www.instagram.com/SyfeSG
 - https://www.youtube.com/c/SyfeSG
 redirect_from: 
-developerName: Syfe Pte. Ltd.
+developerName: Syfe
 features: 
 
 ---

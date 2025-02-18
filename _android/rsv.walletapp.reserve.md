@@ -4,12 +4,12 @@ title: UGLYCASH
 altTitle: 
 authors:
 - danny
-users: 500000
+users: 1000000
 appId: rsv.walletapp.reserve
 appCountry: 
 released: 2019-07-30
-updated: 2025-01-27
-version: 3.0.16
+updated: 2025-02-14
+version: 3.0.17
 stars: 2.8
 ratings: 
 reviews: 448

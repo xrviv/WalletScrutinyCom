@@ -10,8 +10,8 @@ idd: '1495966572'
 released: 2020-01-28
 updated: 2025-01-22
 version: 2.2.25
-stars: 3.9
-reviews: 124
+stars: 4
+reviews: 125
 website: https://coinlocally.com
 repository: 
 issue: 

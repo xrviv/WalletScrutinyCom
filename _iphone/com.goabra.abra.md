@@ -10,8 +10,8 @@ idd: 966301394
 released: 2015-03-12
 updated: 2024-02-16
 version: 145.0.0
-stars: 4.7
-reviews: 161
+stars: 4.8
+reviews: 160
 website: 
 repository: 
 issue: 

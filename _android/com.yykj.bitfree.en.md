@@ -8,8 +8,8 @@ users: 10000
 appId: com.yykj.bitfree.en
 appCountry: 
 released: 2019-01-26
-updated: 2025-02-01
-version: 5.1.6
+updated: 2025-02-17
+version: 5.1.7
 stars: 3.9
 ratings: 
 reviews: 25

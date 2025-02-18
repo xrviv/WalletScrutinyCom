@@ -15,7 +15,7 @@ updated: 2025-02-07
 version: 1.9.62
 stars: 4.6
 ratings: 26
-reviews: 25
+reviews: 26
 website: https://nunchuk.io
 repository: https://github.com/nunchuk-io/nunchuk-android
 issue: https://github.com/nunchuk-io/nunchuk-android/issues/23

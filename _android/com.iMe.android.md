@@ -9,10 +9,10 @@ appId: com.iMe.android
 appCountry: 
 released: 2019-07-22
 updated: 2025-02-12
-version: 11.7.3
+version: 11.7.5
 stars: 4.5
 ratings: 
-reviews: 653
+reviews: 657
 website: https://www.imem.app
 repository: https://github.com/imemessenger/iMe-Android
 issue: https://github.com/imemessenger/iMe-Android/issues/10

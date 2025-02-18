@@ -13,7 +13,7 @@ appCountry:
 released: 2016-03-02
 updated: 2024-10-22
 version: 4.5.7
-stars: 4
+stars: 4.1
 ratings: 2500
 reviews: 341
 website: https://electrum.org

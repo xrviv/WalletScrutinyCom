@@ -12,7 +12,7 @@ updated: 2025-02-04
 version: 3.153.0-2025020410
 stars: 4.1
 ratings: 
-reviews: 258
+reviews: 259
 website: https://www.neteller.com
 repository: 
 issue: 

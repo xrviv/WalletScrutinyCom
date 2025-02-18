@@ -12,7 +12,7 @@ updated: 2025-02-09
 version: 4.86.0
 stars: 4.6
 ratings: 1066810
-reviews: 412753
+reviews: 413227
 website: https://cash.app
 repository: 
 issue: 

@@ -18,10 +18,10 @@ repository:
 issue: 
 icon: net.treeum.multi.invest.png
 bugbounty: 
-meta: obsolete
+meta: removed
 verdict: wip
 appHashes: 
-date: 2024-08-23
+date: 2025-02-18
 signer: 
 reviewArchive: 
 twitter: 

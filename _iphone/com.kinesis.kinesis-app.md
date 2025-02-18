@@ -8,8 +8,8 @@ appId: com.kinesis.kinesis-app
 appCountry: de
 idd: 1490483608
 released: 2020-02-28
-updated: 2025-01-27
-version: 2.4.1
+updated: 2025-02-17
+version: 2.5.0
 stars: 4.1
 reviews: 9
 website: https://kinesis.money/
