@@ -13,7 +13,6 @@ version: 4.3.0
 stars: 4
 ratings: 
 reviews: 6
-size: 
 website: https://needbux.com/app-ads.txt
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 1.17.16
 stars: 4.3
 ratings: 1401
 reviews: 95
-size: 
 website: https://coins.coinpaprika.com/
 repository: 
 issue: 

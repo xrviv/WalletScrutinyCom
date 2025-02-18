@@ -11,9 +11,8 @@ released: 2021-10-06
 updated: 2023-12-06
 version: '3.54'
 stars: 4.8
-reviews: 14645
-size: '144665600'
-website: https://safemoon.com/
+reviews: 14644
+website: https://vgxfoundation.com/
 repository: 
 issue: 
 icon: net.safemoon.ioswallet.jpg
@@ -27,7 +26,7 @@ reviewArchive:
 twitter: safemoon
 social: 
 features: 
-developerName: Safemoon US LLC
+developerName: VGX Foundation
 
 ---
 

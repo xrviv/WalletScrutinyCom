@@ -13,7 +13,6 @@ version: 2.1.31
 stars: 
 ratings: 73
 reviews: 
-size: 
 website: https://www.maxonrow.com
 repository: 
 issue: 

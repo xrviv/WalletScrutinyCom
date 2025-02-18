@@ -13,16 +13,15 @@ version: 3.12.48
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://blockchainwebservices.com.br
 repository: 
 issue: 
 icon: com.bitfyapp.png
 bugbounty: 
-meta: ok
+meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-07-15
+date: 2025-02-04
 signer: 
 reviewArchive: 
 twitter: bitfyapp

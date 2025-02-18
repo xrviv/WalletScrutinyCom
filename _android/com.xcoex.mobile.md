@@ -13,7 +13,6 @@ version: 1.44.0
 stars: 3.5
 ratings: 159
 reviews: 6
-size: 
 website: https://xcoex.com/
 repository: 
 issue: 

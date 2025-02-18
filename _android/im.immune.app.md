@@ -13,7 +13,6 @@ version: 2.1.8
 stars: 3.4
 ratings: 
 reviews: 
-size: 
 website: https://imm.app/
 repository: 
 issue: 

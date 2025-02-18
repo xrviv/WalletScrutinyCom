@@ -13,7 +13,6 @@ version: 1.6.90
 stars: 3.9
 ratings: 
 reviews: 5
-size: 
 website: https://www.vibra.one/
 repository: 
 issue: 

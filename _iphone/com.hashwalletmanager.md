@@ -12,7 +12,6 @@ updated: 2024-12-04
 version: 2.0.23
 stars: 5
 reviews: 8
-size: '76389376'
 website: https://gethashwallet.com
 repository: 
 issue: 

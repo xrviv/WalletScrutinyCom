@@ -12,7 +12,6 @@ updated: 2024-08-22
 version: 2.0.301
 stars: 3.8
 reviews: 52
-size: '43279360'
 website: https://www.juancash.com
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 1.2.2
 stars: 4.8
 ratings: 
 reviews: 5
-size: 
 website: https://coinlord.org/
 repository: 
 issue: 

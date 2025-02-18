@@ -13,7 +13,6 @@ version: 1.47.0
 stars: 4.5
 ratings: 
 reviews: 29
-size: 
 website: https://gemspocket.com/
 repository: 
 issue: 
@@ -34,7 +33,7 @@ social:
 - https://discord.com/invite/pN3NXfpJgF
 - https://www.youtube.com/@ancryptowallet
 redirect_from: 
-developerName: AnCrypto
+developerName: AWT Ltd
 features: 
 
 ---

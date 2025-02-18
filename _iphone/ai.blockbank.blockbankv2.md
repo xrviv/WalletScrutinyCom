@@ -12,7 +12,6 @@ updated: 2023-04-26
 version: 3.3.6
 stars: 4.8
 reviews: 13
-size: '45182976'
 website: https://twitter.com/BLOCKBANKapp
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: '1.0'
 stars: 4.5
 ratings: 93
 reviews: 11
-size: 
 website: https://qbita.org
 repository: 
 issue: 

@@ -12,7 +12,6 @@ version: 1.3.0
 stars: 3.6
 ratings: 
 reviews: 3
-size: 
 website: https://www.sfox.com/
 repository: 
 issue: 

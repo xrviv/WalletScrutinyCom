@@ -13,7 +13,6 @@ version: 0.9.1
 stars: 4.8
 ratings: 
 reviews: 61
-size: 
 website: https://fibitpro.com
 repository: 
 issue: 

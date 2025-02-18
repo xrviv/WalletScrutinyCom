@@ -9,11 +9,10 @@ appId: crypto.com.exchange
 appCountry: nz
 idd: 1569309855
 released: 2021-06-15
-updated: 2025-01-28
-version: 2.54.1
+updated: 2025-02-12
+version: 2.55.1
 stars: 4.8
-reviews: 100
-size: '179445760'
+reviews: 102
 website: https://crypto.com/exchange
 repository: 
 issue: 

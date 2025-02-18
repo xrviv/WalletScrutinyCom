@@ -13,7 +13,6 @@ version: 1.3.5
 stars: 5
 ratings: 
 reviews: 11
-size: 
 website: https://vivuspay.io
 repository: 
 issue: 

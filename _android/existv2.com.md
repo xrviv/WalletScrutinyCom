@@ -13,7 +13,6 @@ version: '3.0'
 stars: 4
 ratings: 
 reviews: 4
-size: 
 website: https://nyecoin.io/
 repository: 
 issue: 

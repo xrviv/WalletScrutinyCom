@@ -12,7 +12,6 @@ updated: 2019-12-02
 version: 3.0.11
 stars: 4.8
 reviews: 613
-size: '92138496'
 website: https://cindicator.com
 repository: 
 issue: 

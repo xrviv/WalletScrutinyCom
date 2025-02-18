@@ -13,7 +13,6 @@ version: 5.3.120
 stars: 3.3
 ratings: 4636
 reviews: 627
-size: 
 website: http://www.okcoin.com
 repository: 
 issue: 

@@ -11,17 +11,16 @@ released: 2021-02-27
 updated: 2024-02-12
 version: 2.0.5
 stars: 2.9
-reviews: 545
-size: '57069568'
+reviews: 552
 website: https://jeroid.ng/
 repository: 
 issue: 
 icon: jeroid.io.jpg
 bugbounty: 
-meta: ok
+meta: stale
 verdict: nowallet
 appHashes: 
-date: 2021-11-04
+date: 2025-02-08
 signer: 
 reviewArchive: 
 twitter: jeroidng

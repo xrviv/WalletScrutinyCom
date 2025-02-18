@@ -12,7 +12,6 @@ version: '4'
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://nulpay.com
 repository: 
 issue: 

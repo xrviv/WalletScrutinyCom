@@ -13,7 +13,6 @@ version: 1.8.0
 stars: 4.1
 ratings: 135
 reviews: 10
-size: 
 website: https://anxintl.com
 repository: 
 issue: 

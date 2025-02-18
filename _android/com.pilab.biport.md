@@ -13,7 +13,6 @@ version: '0.44'
 stars: 4
 ratings: 
 reviews: 8
-size: 
 website: https://pilab.co
 repository: 
 issue: 

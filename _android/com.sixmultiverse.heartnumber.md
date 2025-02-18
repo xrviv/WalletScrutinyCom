@@ -13,7 +13,6 @@ version: 3.55.0
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://www.rentalbot.kr/
 repository: 
 issue: 

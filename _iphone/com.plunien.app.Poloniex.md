@@ -12,7 +12,6 @@ updated: 2023-02-04
 version: 1.39.1
 stars: 4.6
 reviews: 2030
-size: '115035136'
 website: https://www.poloniex.com
 repository: 
 issue: 

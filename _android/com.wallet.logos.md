@@ -13,7 +13,6 @@ version: 0.4.1
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://logos-foundation.org/logos
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 1.52.1
 stars: 3.7
 ratings: 114954
 reviews: 991
-size: 
 website: https://stormgain.com/
 repository: 
 issue: 

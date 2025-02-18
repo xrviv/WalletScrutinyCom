@@ -13,7 +13,6 @@ version: 2.0.4
 stars: 3.7
 ratings: 
 reviews: 17
-size: 
 website: https://bitkap.africa
 repository: 
 issue: 

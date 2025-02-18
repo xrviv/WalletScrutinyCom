@@ -13,7 +13,6 @@ version: 0.31.0
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://sicuradata.com/
 repository: 
 issue: 

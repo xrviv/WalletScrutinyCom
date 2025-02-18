@@ -13,7 +13,6 @@ version: '1.0'
 stars: 4.4
 ratings: 
 reviews: 4
-size: 
 website: https://digicox.com
 repository: 
 issue: 

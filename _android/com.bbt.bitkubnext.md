@@ -13,7 +13,6 @@ version: 2.11.0
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://www.bitkubchain.com
 repository: 
 issue: 

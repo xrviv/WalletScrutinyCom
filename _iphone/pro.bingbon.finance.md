@@ -12,8 +12,7 @@ released: 2020-02-25
 updated: 2025-01-21
 version: 4.52.0
 stars: 4.7
-reviews: 2246
-size: '223896576'
+reviews: 2263
 website: https://bingbon.com
 repository: 
 issue: 
@@ -31,7 +30,7 @@ social:
 - https://www.facebook.com/BingbonOfficial
 - https://www.reddit.com/r/Bingbon
 features: 
-developerName: BingX Limited
+developerName: BingX Fintech Limited
 
 ---
 

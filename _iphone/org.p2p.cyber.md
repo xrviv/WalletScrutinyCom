@@ -12,7 +12,6 @@ updated: 2024-02-23
 version: 2.12.0
 stars: 5
 reviews: 4
-size: '95975424'
 website: https://key.app
 repository: 
 issue: 

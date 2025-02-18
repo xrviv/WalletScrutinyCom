@@ -13,7 +13,6 @@ version: '8.0'
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://nexdax.com
 repository: 
 issue: 

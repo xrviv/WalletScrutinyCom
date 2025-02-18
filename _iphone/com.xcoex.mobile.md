@@ -13,7 +13,6 @@ updated: 2024-08-12
 version: 1.44.0
 stars: 0
 reviews: 0
-size: '54387712'
 website: https://xcoex.com/
 repository: 
 issue: 

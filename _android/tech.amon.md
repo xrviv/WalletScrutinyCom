@@ -13,7 +13,6 @@ version: 3.7.31
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://amon.tech
 repository: 
 issue: 

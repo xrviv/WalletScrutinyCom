@@ -12,7 +12,6 @@ updated: 2023-10-06
 version: '1.12'
 stars: 4.7
 reviews: 3
-size: '8100864'
 website: https://www.cryptorefills.com/en/how-it-works
 repository: 
 issue: 

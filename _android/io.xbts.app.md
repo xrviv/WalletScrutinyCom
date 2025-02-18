@@ -13,7 +13,6 @@ version: 0.1.29
 stars: 4
 ratings: 
 reviews: 4
-size: 
 website: https://app.xbts.io
 repository: https://github.com/XBTS/app
 issue: https://gitlab.com/walletscrutiny/walletScrutinyCom/-/issues/499

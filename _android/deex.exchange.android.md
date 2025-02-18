@@ -13,7 +13,6 @@ version: 0.3.9
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://deex.exchange/
 repository: 
 issue: 

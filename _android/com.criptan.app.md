@@ -13,7 +13,6 @@ version: 3.00.0
 stars: 4.2
 ratings: 
 reviews: 
-size: 
 website: https://criptan.com
 repository: 
 issue: 

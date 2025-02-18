@@ -13,7 +13,6 @@ version: 2.1.2
 stars: 
 ratings: 61
 reviews: 
-size: 
 website: https://s3wallet.io
 repository: 
 issue: 

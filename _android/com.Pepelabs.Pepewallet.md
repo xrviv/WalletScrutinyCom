@@ -13,7 +13,6 @@ version: 2.1.2
 stars: 3.6
 ratings: 
 reviews: 69
-size: 
 website: http://pewall.org
 repository: 
 issue: 

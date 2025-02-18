@@ -13,16 +13,15 @@ version: '1.96'
 stars: 4.4
 ratings: 
 reviews: 4
-size: 
 website: https://www.coinzix.com
 repository: 
 issue: 
 icon: com.coinzix.android.png
 bugbounty: 
-meta: stale
+meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-05-30
+date: 2025-02-04
 signer: 
 reviewArchive: 
 twitter: coinzixcom

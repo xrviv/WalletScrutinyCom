@@ -11,8 +11,7 @@ released: 2019-08-28
 updated: 2024-12-19
 version: 2.5.3
 stars: 4.5
-reviews: 29
-size: '86545408'
+reviews: 32
 website: https://vault12.com/guard
 repository: https://github.com/vault12
 issue: 

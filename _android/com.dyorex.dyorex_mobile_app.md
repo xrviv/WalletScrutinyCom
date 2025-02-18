@@ -13,7 +13,6 @@ version: 1.7.7
 stars: 4.9
 ratings: 
 reviews: 
-size: 
 website: https://www.dyorex.com
 repository: 
 issue: 

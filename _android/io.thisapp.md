@@ -12,7 +12,6 @@ version: 1.4.0
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://thisapp.io
 repository: 
 issue: 

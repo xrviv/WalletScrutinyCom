@@ -13,7 +13,6 @@ version: 5.1.2
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://naijacrypto.com/
 repository: 
 issue: 

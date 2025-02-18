@@ -12,7 +12,6 @@ updated: 2024-03-13
 version: 1.8.9
 stars: 0
 reviews: 0
-size: '72197120'
 website: https://mirai.finance/
 repository: 
 issue: 

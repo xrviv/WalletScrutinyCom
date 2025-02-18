@@ -13,7 +13,6 @@ version: 3.3.1
 stars: 3.4
 ratings: 
 reviews: 
-size: 
 website: http://www.kointra.com
 repository: 
 issue: 

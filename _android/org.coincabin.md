@@ -13,7 +13,6 @@ version: 1.0.305
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://everstrike.io
 repository: 
 issue: 

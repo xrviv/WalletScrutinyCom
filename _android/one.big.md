@@ -13,7 +13,6 @@ version: 2.5.3
 stars: 4
 ratings: 836
 reviews: 56
-size: 
 website: https://www.b1.zone/
 repository: 
 issue: 

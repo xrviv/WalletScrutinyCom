@@ -13,7 +13,6 @@ version: 2.8.610
 stars: 3.7
 ratings: 
 reviews: 5
-size: 
 website: https://www.biyagl.com
 repository: 
 issue: 

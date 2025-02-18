@@ -13,7 +13,6 @@ version: 1.08.1011
 stars: 4.8
 ratings: 934
 reviews: 41
-size: 
 website: https://paiexchange.com
 repository: 
 issue: 

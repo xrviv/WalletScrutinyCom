@@ -13,7 +13,6 @@ version: 1.0.22
 stars: 4.4
 ratings: 55
 reviews: 4
-size: 
 website: https://github.com/technologiespro/paper-wallet-generator
 repository: https://github.com/technologiespro/paper-wallet-generator
 issue: 

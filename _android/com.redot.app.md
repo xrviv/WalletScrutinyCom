@@ -13,7 +13,6 @@ version: 1.0.61
 stars: 4.3
 ratings: 37
 reviews: 3
-size: 
 website: https://redot.com/
 repository: 
 issue: 

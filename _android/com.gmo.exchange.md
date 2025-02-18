@@ -13,7 +13,6 @@ version: 3.1.7
 stars: 4
 ratings: 82
 reviews: 35
-size: 
 website: https://ex.z.com/
 repository: 
 issue: 

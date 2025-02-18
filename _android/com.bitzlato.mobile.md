@@ -13,7 +13,6 @@ version: 5.5.2
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://bitzlato.com/
 repository: 
 issue: 

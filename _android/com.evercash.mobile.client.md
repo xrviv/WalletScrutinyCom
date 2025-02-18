@@ -12,7 +12,6 @@ version: 3.0.0-a46a024b
 stars: 4.4
 ratings: 
 reviews: 
-size: 
 website: 
 repository: 
 issue: 

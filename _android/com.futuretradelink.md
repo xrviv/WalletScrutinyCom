@@ -13,7 +13,6 @@ version: '1.3'
 stars: 
 ratings: 24
 reviews: 
-size: 
 website: https://futuretradelink.com/
 repository: 
 issue: 

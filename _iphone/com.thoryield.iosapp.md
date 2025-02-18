@@ -12,7 +12,6 @@ updated: 2024-10-15
 version: 2.0.41
 stars: 4.1
 reviews: 12
-size: '80758784'
 website: https://thoryield.com/
 repository: 
 issue: 

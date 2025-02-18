@@ -13,7 +13,6 @@ version: 3.8.1
 stars: 3.9
 ratings: 
 reviews: 500
-size: 
 website: http://www.bituniverse.org/
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 2.0.5
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://vuollet.io/
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 1.1.1
 stars: 4.7
 ratings: 
 reviews: 12
-size: 
 website: https://mrweb.app
 repository: 
 issue: 

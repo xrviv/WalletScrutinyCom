@@ -13,7 +13,6 @@ version: 1.0.0.20
 stars: 
 ratings: 52
 reviews: 
-size: 
 website: 
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 1.6.0
 stars: 3.7
 ratings: 
 reviews: 
-size: 
 website: http://bancryp.com
 repository: 
 issue: 

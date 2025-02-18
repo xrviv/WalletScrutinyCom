@@ -13,7 +13,6 @@ version: 1.0.6
 stars: 4.8
 ratings: 
 reviews: 
-size: 
 website: https://www.b4uglobal.com
 repository: 
 issue: 

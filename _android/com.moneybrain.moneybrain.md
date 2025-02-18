@@ -13,7 +13,6 @@ version: 3.4.34
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://www.moneybrain.com
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 2.6.0
 stars: 4.1
 ratings: 
 reviews: 10
-size: 
 website: https://futures.cash/
 repository: 
 issue: 

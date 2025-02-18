@@ -13,7 +13,6 @@ version: 2.8.92
 stars: 3.6
 ratings: 139
 reviews: 249
-size: 
 website: https://zam.me/
 repository: 
 issue: 

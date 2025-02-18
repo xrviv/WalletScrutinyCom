@@ -13,7 +13,6 @@ version: 1.9.80
 stars: 3.9
 ratings: 
 reviews: 9
-size: 
 website: https://www.mayex.com
 repository: 
 issue: 

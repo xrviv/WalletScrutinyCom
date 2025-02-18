@@ -12,7 +12,6 @@ updated: 2023-08-28
 version: 7.45.0
 stars: 4.3
 reviews: 32
-size: '81127424'
 website: https://lykke.com/wallet
 repository: 
 issue: 

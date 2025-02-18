@@ -13,7 +13,6 @@ version: 2.7.9
 stars: 3.8
 ratings: 869
 reviews: 31
-size: 
 website: https://www.coinhub.org
 repository: 
 issue: 

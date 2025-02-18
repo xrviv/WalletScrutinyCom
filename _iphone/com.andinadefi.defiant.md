@@ -12,7 +12,6 @@ updated: 2024-04-05
 version: 5.4.3+304
 stars: 4.7
 reviews: 21
-size: '87884800'
 website: https://defiantapp.tech/
 repository: 
 issue: 

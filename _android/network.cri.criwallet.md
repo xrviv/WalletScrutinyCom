@@ -13,7 +13,6 @@ version: 2.0.0
 stars: 4.5
 ratings: 
 reviews: 14
-size: 
 website: https://cos-in.com
 repository: 
 issue: 

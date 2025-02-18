@@ -13,7 +13,6 @@ version: 2.6.0
 stars: 2.7
 ratings: 
 reviews: 
-size: 
 website: https://bynex.io/
 repository: 
 issue: 

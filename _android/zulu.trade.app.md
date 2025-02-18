@@ -13,7 +13,6 @@ version: 5.0.26
 stars: 3.6
 ratings: 2010
 reviews: 65
-size: 
 website: https://www.zulutrade.com
 repository: 
 issue: 

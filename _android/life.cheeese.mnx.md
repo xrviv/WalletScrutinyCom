@@ -13,7 +13,6 @@ version: 4.5.3
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://cheeese.life/
 repository: 
 issue: 

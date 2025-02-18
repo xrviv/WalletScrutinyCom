@@ -12,7 +12,6 @@ version: 1.25.251
 stars: 
 ratings: 11
 reviews: 
-size: 
 website: https://www.bokka.com
 repository: 
 issue: 

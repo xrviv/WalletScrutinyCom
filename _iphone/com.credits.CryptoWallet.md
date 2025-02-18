@@ -12,7 +12,6 @@ updated: 2024-12-11
 version: 3.3.8
 stars: 0
 reviews: 0
-size: '126775296'
 website: https://credits.com
 repository: 
 issue: 

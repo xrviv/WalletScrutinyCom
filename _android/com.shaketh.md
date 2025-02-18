@@ -8,12 +8,11 @@ users: 500000
 appId: com.shaketh
 appCountry: 
 released: 2018-02-20
-updated: 2025-01-21
-version: 3.12.13
+updated: 2025-02-13
+version: 3.13.4
 stars: 4.5
 ratings: 10533
 reviews: 19
-size: 
 website: https://shakepay.com
 repository: 
 issue: 

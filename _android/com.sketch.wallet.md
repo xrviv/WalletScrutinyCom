@@ -8,12 +8,11 @@ users: 5000
 appId: com.sketch.wallet
 appCountry: 
 released: 2021-07-28
-updated: 2024-12-17
-version: 2.2.1
+updated: 2025-02-07
+version: 2.2.4
 stars: 4.7
 ratings: 
 reviews: 
-size: 
 website: https://auth.sketchwallet.io:28446/sketch/conditions
 repository: 
 issue: 

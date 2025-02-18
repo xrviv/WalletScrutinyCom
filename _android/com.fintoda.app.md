@@ -13,7 +13,6 @@ version: 1.6.3
 stars: 4.4
 ratings: 
 reviews: 
-size: 
 website: https://fintoda.com
 repository: 
 issue: 

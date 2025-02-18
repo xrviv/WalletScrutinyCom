@@ -13,7 +13,6 @@ version: '1.0'
 stars: 3.3
 ratings: 
 reviews: 7
-size: 
 website: https://swapp.ee
 repository: 
 issue: 

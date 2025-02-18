@@ -13,7 +13,6 @@ version: 5.4.3
 stars: 4.6
 ratings: 65
 reviews: 41
-size: 
 website: https://defiantapp.tech
 repository: 
 issue: 

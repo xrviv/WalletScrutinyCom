@@ -13,7 +13,6 @@ version: 2.1.3
 stars: 4.7
 ratings: 
 reviews: 30
-size: 
 website: https://exbito.com
 repository: 
 issue: 

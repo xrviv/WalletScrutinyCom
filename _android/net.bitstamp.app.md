@@ -13,7 +13,6 @@ version: 4.4.2
 stars: 4.6
 ratings: 11088
 reviews: 638
-size: 
 website: https://www.bitstamp.net
 repository: 
 issue: 

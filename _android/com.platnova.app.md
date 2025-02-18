@@ -13,7 +13,6 @@ version: 1.0.6
 stars: 2.4
 ratings: 
 reviews: 5
-size: 
 website: https://platnova.com/
 repository: 
 issue: 

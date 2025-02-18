@@ -13,7 +13,6 @@ version: 5.7.8-play
 stars: 4.1
 ratings: 1346
 reviews: 44
-size: 
 website: https://www.dcoin.com
 repository: 
 issue: 

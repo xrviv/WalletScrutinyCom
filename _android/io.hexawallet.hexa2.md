@@ -14,7 +14,6 @@ version: 2.4.6
 stars: 5
 ratings: 30
 reviews: 6
-size: 
 website: https://bitcointribe.app/
 repository: https://github.com/bithyve/hexa
 issue: https://github.com/bithyve/bitcointribe/issues/2544

@@ -13,7 +13,6 @@ version: '3.0'
 stars: 4.8
 ratings: 
 reviews: 3
-size: 
 website: https://royalqs.com
 repository: 
 issue: 

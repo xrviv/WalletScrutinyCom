@@ -4,16 +4,15 @@ title: 'Unbank: Buy & Sell Bitcoin'
 altTitle: 
 authors:
 - danny
-users: 10000
+users: 50000
 appId: world.unbank.unbankmobileapp
 appCountry: 
 released: 2022-04-15
-updated: 2025-01-27
-version: 2.9.0
+updated: 2025-02-14
+version: 2.10.0
 stars: 4.4
 ratings: 
 reviews: 29
-size: 
 website: https://www.unbank.world/
 repository: 
 issue: 

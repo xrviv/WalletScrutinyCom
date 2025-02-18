@@ -13,7 +13,6 @@ version: '1.32'
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://realt.co
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 1.9.93
 stars: 4.7
 ratings: 
 reviews: 64
-size: 
 website: https://ixfi.com
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: '9.11'
 stars: 4.4
 ratings: 
 reviews: 478
-size: 
 website: http://www.hodlfinance.com
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 2.1.6
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://xpesa.io/
 repository: 
 issue: 

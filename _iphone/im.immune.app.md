@@ -12,7 +12,6 @@ updated: 2024-09-18
 version: 2.1.9
 stars: 5
 reviews: 4
-size: '98809856'
 website: https://immune.im/
 repository: 
 issue: 

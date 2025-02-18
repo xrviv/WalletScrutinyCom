@@ -14,7 +14,6 @@ version: 0.8.9
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://bitbanana.app/
 repository: https://github.com/michaelWuensch/BitBanana
 issue: https://github.com/michaelWuensch/BitBanana/issues/95

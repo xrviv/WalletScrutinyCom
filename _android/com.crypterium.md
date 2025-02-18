@@ -8,12 +8,11 @@ users: 500000
 appId: com.crypterium
 appCountry: 
 released: 2018-01-21
-updated: 2024-12-11
-version: '12.1'
+updated: 2025-01-29
+version: '13.0'
 stars: 3.4
 ratings: 8728
 reviews: 432
-size: 
 website: https://choise.com
 repository: 
 issue: 
@@ -30,7 +29,7 @@ social:
 - https://www.facebook.com/crypterium.org
 redirect_from:
 - /com.crypterium/
-developerName: Crypterium AS
+developerName: UAB Choise Servises
 features: 
 
 ---

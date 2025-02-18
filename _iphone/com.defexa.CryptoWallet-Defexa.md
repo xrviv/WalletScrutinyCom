@@ -12,7 +12,6 @@ updated: 2024-10-18
 version: 2.2.2
 stars: 0
 reviews: 0
-size: '147911680'
 website: https://defexa.io/wallet
 repository: 
 issue: 

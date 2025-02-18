@@ -13,7 +13,6 @@ version: 2.83.848
 stars: 
 ratings: 
 reviews: 
-size: 
 website: http://jp-ex.io
 repository: 
 issue: 

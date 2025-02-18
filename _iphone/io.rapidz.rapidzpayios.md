@@ -12,7 +12,6 @@ updated: 2025-01-22
 version: 2.15.3
 stars: 3
 reviews: 2
-size: '62139392'
 website: https://www.rapidz.io/
 repository: 
 issue: 

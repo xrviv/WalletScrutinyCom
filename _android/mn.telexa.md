@@ -13,7 +13,6 @@ version: '6.5'
 stars: 4.6
 ratings: 
 reviews: 10
-size: 
 website: https://www.telexa.mn/
 repository: 
 issue: 

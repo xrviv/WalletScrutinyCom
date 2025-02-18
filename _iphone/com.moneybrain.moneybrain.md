@@ -12,7 +12,6 @@ updated: 2024-12-16
 version: 3.4.34
 stars: 4.5
 reviews: 10
-size: '48923648'
 website: https://www.moneybrain.com
 repository: 
 issue: 

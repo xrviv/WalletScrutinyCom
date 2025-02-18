@@ -14,7 +14,6 @@ version: 5.12.0
 stars: 4.4
 ratings: 
 reviews: 
-size: 
 website: https://zumo.tech
 repository: 
 issue: 

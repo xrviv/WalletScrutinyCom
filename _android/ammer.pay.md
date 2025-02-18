@@ -12,7 +12,6 @@ version: 1.9.2
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://ammer.cards
 repository: 
 issue: 

@@ -6,13 +6,12 @@ authors:
 - leo
 appId: com.avelot.amlsafe
 appCountry: 
-idd: 1519145333
+idd: '1519145333'
 released: 2020-07-28
-updated: 2024-12-19
-version: 2.23.746
+updated: 2025-02-09
+version: 2.25.755
 stars: 4.8
 reviews: 57
-size: '90129408'
 website: https://Safe3.app
 repository: 
 issue: 

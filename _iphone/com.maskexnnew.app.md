@@ -12,7 +12,6 @@ updated: 2024-06-03
 version: 2.0.8
 stars: 3.7
 reviews: 6
-size: '77850624'
 website: https://maskex.com/en
 repository: 
 issue: 

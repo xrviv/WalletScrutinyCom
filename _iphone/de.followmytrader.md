@@ -12,7 +12,6 @@ updated: 2024-12-19
 version: 3.1.1
 stars: 0
 reviews: 0
-size: '105094144'
 website: https://followmymoney.de
 repository: 
 issue: 

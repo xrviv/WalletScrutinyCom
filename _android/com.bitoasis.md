@@ -8,12 +8,11 @@ users: 100000
 appId: com.bitoasis
 appCountry: ae
 released: 2020-08-20
-updated: 2024-12-17
-version: 3.4.21
-stars: 3.3
+updated: 2025-02-04
+version: 3.4.23
+stars: 3.2
 ratings: 3007
-reviews: 587
-size: 
+reviews: 592
 website: https://bitoasis.net/
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 5.6.3
 stars: 4
 ratings: 
 reviews: 145
-size: 
 website: https://tabdeal.org
 repository: 
 issue: 

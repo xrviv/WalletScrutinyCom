@@ -6,13 +6,12 @@ authors:
 - danny
 appId: com.bitazza.ios
 appCountry: th
-idd: 1476944844
+idd: '1476944844'
 released: 2020-05-25
-updated: 2025-01-27
-version: 3.9.2
+updated: 2025-02-02
+version: 3.9.4
 stars: 4.4
-reviews: 1821
-size: '253251584'
+reviews: 1849
 website: https://www.bitazza.com
 repository: 
 issue: 

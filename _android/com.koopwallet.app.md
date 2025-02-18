@@ -13,7 +13,6 @@ version: 21.0.0
 stars: 3.5
 ratings: 
 reviews: 5
-size: 
 website: 
 repository: 
 issue: 

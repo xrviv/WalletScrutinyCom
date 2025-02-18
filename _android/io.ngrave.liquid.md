@@ -13,7 +13,6 @@ version: 2.8.5
 stars: 3.1
 ratings: 
 reviews: 14
-size: 
 website: https://www.ngrave.io/
 repository: 
 issue: 

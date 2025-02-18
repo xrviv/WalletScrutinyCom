@@ -12,7 +12,6 @@ updated: 2024-09-23
 version: 3.3.1
 stars: 4.7
 reviews: 30
-size: '28244992'
 website: https://kointra.com
 repository: 
 issue: 

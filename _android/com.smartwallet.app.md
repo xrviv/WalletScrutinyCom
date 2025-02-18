@@ -13,7 +13,6 @@ version: 1.21.0
 stars: 4.8
 ratings: 
 reviews: 76
-size: 
 website: https://www.echooo.xyz/
 repository: 
 issue: 

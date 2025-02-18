@@ -12,7 +12,6 @@ version: 1.4.3.123
 stars: 4.2
 ratings: 
 reviews: 3
-size: 
 website: https://icointechnology.com/
 repository: 
 issue: 

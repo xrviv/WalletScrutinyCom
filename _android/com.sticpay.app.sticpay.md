@@ -13,7 +13,6 @@ version: '4.22'
 stars: 3.9
 ratings: 380
 reviews: 10
-size: 
 website: http://sticpay.com
 repository: 
 issue: 

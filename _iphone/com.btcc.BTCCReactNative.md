@@ -12,7 +12,6 @@ updated: 2024-09-30
 version: 3.1.0
 stars: 4.3
 reviews: 118
-size: '120815616'
 website: https://h5.btpiccdn.com/en-US/article/Customer_Service2
 repository: 
 issue: 

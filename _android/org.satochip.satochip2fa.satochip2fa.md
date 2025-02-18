@@ -12,7 +12,6 @@ version: '0.24'
 stars: 
 ratings: 
 reviews: 
-size: 
 website: http://satochip.io
 repository: 
 issue: 

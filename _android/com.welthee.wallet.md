@@ -13,7 +13,6 @@ version: 5.0.1
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://welthee.com/
 repository: 
 issue: 

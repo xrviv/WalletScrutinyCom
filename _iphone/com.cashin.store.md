@@ -12,7 +12,6 @@ updated: 2025-01-14
 version: '8.0'
 stars: 0
 reviews: 0
-size: '114970624'
 website: https://www.bcpmarkets.co.uk/
 repository: 
 issue: 

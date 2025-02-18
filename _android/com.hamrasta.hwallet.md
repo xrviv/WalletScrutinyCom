@@ -13,7 +13,6 @@ version: '2.7'
 stars: 4.1
 ratings: 135
 reviews: 7
-size: 
 website: https://hamrasta.com/hamrastamarket/
 repository: 
 issue: 

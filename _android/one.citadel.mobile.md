@@ -13,7 +13,6 @@ version: 2.12.2
 stars: 4.5
 ratings: 
 reviews: 15
-size: 
 website: https://citadel.one/
 repository: 
 issue: 

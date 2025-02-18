@@ -13,7 +13,6 @@ version: 2.1.24
 stars: 3.4
 ratings: 
 reviews: 
-size: 
 website: https://chainex.io/
 repository: 
 issue: 

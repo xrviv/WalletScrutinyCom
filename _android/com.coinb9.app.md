@@ -13,16 +13,15 @@ version: 4.1.9
 stars: 2.7
 ratings: 
 reviews: 1
-size: 
 website: 
 repository: 
 issue: 
 icon: com.coinb9.app.png
 bugbounty: 
-meta: ok
+meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-07-08
+date: 2025-02-04
 signer: 
 reviewArchive: 
 twitter: 

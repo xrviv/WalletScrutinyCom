@@ -12,16 +12,15 @@ version: '2.6'
 stars: 
 ratings: 
 reviews: 
-size: 
 website: 
 repository: 
 issue: 
 icon: singular.defi.app.png
 bugbounty: 
-meta: ok
+meta: removed
 verdict: fewusers
 appHashes: 
-date: 2022-07-31
+date: 2025-02-04
 signer: 
 reviewArchive: 
 twitter: 

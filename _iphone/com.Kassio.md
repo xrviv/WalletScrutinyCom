@@ -12,7 +12,6 @@ updated: 2023-10-27
 version: 1.1.2
 stars: 5
 reviews: 12
-size: '140860416'
 website: https://kassio.com/contact
 repository: 
 issue: 

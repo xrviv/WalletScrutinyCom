@@ -12,7 +12,6 @@ updated: 2024-05-16
 version: '1.33'
 stars: 4.5
 reviews: 20
-size: '35810304'
 website: https://www.coindhan.com
 repository: 
 issue: 

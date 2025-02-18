@@ -1,6 +1,6 @@
 ---
 wsId: blockbank.v2
-title: Fideum
+title: Pairs
 altTitle: 
 authors:
 - danny
@@ -8,13 +8,12 @@ users: 10000
 appId: ai.blockbank.bbexpoapp
 appCountry: 
 released: 2021-10-21
-updated: 2025-01-23
-version: 4.3.18
-stars: 4.2
+updated: 2025-02-05
+version: 4.4.0
+stars: 4.1
 ratings: 
-reviews: 12
-size: 
-website: https://blockbank.ai/
+reviews: 13
+website: https://pairs.xyz
 repository: 
 issue: 
 icon: ai.blockbank.bbexpoapp.png

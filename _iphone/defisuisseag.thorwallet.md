@@ -12,7 +12,6 @@ updated: 2025-01-28
 version: 3.0.11
 stars: 4.8
 reviews: 37
-size: '152024064'
 website: http://thorwallet.org
 repository: 
 issue: 

@@ -1,6 +1,6 @@
 ---
 wsId: Talken
-title: Talken Web3 Wallet & NFT Suite
+title: Talken Wallet
 altTitle: 
 authors:
 - kiwilamb
@@ -8,11 +8,10 @@ appId: io.talken.wallet
 appCountry: 
 idd: 1459475831
 released: 2019-09-25
-updated: 2024-08-23
-version: 1.01.33
+updated: 2025-02-06
+version: 2.00.02
 stars: 5
 reviews: 6
-size: '143754240'
 website: https://talken.io/
 repository: 
 issue: 

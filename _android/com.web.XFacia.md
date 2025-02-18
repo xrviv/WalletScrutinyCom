@@ -13,7 +13,6 @@ version: '2.0'
 stars: 4.1
 ratings: 
 reviews: 
-size: 
 website: http://xfacia.com/
 repository: 
 issue: 

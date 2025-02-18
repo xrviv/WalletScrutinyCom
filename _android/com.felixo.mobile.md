@@ -13,7 +13,6 @@ version: 2.0.0
 stars: 3.4
 ratings: 
 reviews: 9
-size: 
 website: https://www.felixo.com
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 3.0.391
 stars: 3.4
 ratings: 372
 reviews: 17
-size: 
 website: https://iflux.app
 repository: 
 issue: 

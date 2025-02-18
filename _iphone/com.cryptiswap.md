@@ -12,7 +12,6 @@ updated: 2023-03-09
 version: 1.0.8
 stars: 4.8
 reviews: 20
-size: '31076352'
 website: https://myquantex.com/
 repository: 
 issue: 

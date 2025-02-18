@@ -12,7 +12,6 @@ version: 2.7.00
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://wallet.wallex.global/
 repository: 
 issue: 

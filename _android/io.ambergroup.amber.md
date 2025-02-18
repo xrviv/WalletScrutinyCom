@@ -13,7 +13,6 @@ version: 3.0.3
 stars: 4.6
 ratings: 2656
 reviews: 238
-size: 
 website: https://www.whalefin.com
 repository: 
 issue: 

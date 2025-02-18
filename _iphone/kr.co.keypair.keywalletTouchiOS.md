@@ -13,7 +13,6 @@ updated: 2024-11-06
 version: 3.0.41
 stars: 0
 reviews: 0
-size: '102408192'
 website: http://keywallet.co.kr
 repository: 
 issue: 

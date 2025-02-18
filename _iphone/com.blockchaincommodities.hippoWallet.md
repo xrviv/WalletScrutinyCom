@@ -12,7 +12,6 @@ updated: 2025-01-07
 version: 1.21.0
 stars: 4.1
 reviews: 10
-size: '84503552'
 website: https://hippowallet.io
 repository: 
 issue: 

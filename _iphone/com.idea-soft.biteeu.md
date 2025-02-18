@@ -12,7 +12,6 @@ updated: 2023-10-03
 version: 1.6.0
 stars: 0
 reviews: 0
-size: '35821568'
 website: http://www.biteeu.com
 repository: 
 issue: 

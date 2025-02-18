@@ -12,7 +12,6 @@ updated: 2023-10-31
 version: 0.5.35
 stars: 3.8
 reviews: 60
-size: '66071552'
 website: https://www.coinigy.com/
 repository: 
 issue: 

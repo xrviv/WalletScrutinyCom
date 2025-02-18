@@ -13,7 +13,6 @@ version: 5.9.8_push_v2_home_enturion
 stars: 3.7
 ratings: 
 reviews: 
-size: 
 website: https://centurioninvest.com/
 repository: 
 issue: 

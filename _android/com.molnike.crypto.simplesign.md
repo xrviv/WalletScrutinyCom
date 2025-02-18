@@ -12,7 +12,6 @@ version: '0.6'
 stars: 5
 ratings: 
 reviews: 
-size: 
 website: https://github.com/openMolNike/Crypto-Apps
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 1.1.0
 stars: 4
 ratings: 
 reviews: 
-size: 
 website: https://trexglobals.com/
 repository: 
 issue: 

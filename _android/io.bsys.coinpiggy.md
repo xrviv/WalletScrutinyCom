@@ -13,7 +13,6 @@ version: '1.106'
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://coinpiggy.io
 repository: 
 issue: 

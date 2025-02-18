@@ -13,7 +13,6 @@ version: 6.0.1
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://oxi-corp.com/
 repository: 
 issue: 

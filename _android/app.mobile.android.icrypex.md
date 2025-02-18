@@ -13,8 +13,7 @@ version: '15.5'
 stars: 3
 ratings: 
 reviews: 9
-size: 
-website: https://www.icrypex.com/
+website: https://www.icrypex.com.tr/
 repository: 
 issue: 
 icon: app.mobile.android.icrypex.png

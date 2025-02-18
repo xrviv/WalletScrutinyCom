@@ -12,7 +12,6 @@ version: 4.4.1
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://standardsats.github.io
 repository: 
 issue: 

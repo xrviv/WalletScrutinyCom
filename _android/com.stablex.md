@@ -13,7 +13,6 @@ version: 2.7.2
 stars: 3.1
 ratings: 
 reviews: 
-size: 
 website: https://stablex.net/
 repository: 
 issue: 

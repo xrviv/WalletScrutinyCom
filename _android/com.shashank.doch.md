@@ -13,7 +13,6 @@ version: 1.6.7
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://dochcoin.com/
 repository: 
 issue: 

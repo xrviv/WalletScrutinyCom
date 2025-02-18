@@ -13,7 +13,6 @@ version: '3.23'
 stars: 5
 ratings: 1532
 reviews: 6
-size: 
 website: https://bitocto.com
 repository: 
 issue: 

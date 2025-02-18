@@ -12,7 +12,6 @@ version: 15.0.0
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://www.gk8.io/contact/
 repository: 
 issue: 

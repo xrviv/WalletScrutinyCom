@@ -13,7 +13,6 @@ version: 2.0.6
 stars: 3.7
 ratings: 
 reviews: 4
-size: 
 website: https://www.crypto2cash.com/
 repository: 
 issue: 

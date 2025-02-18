@@ -13,7 +13,6 @@ version: '4'
 stars: 2.8
 ratings: 
 reviews: 48
-size: 
 website: https://swapitway.com
 repository: 
 issue: 

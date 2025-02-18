@@ -10,10 +10,9 @@ appCountry: ng
 released: 2020-05-02
 updated: 2024-08-27
 version: 5.4.2
-stars: 3.2
+stars: 3.1
 ratings: 259
-reviews: 706
-size: 
+reviews: 707
 website: https://app.load.ng/
 repository: 
 issue: 

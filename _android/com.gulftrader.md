@@ -13,7 +13,6 @@ version: 3.0.8
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://www.gulftrader.com
 repository: 
 issue: 

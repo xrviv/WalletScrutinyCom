@@ -3,7 +3,7 @@ wsId: litefinance
 title: LiteFinance mobile trading
 altTitle: 
 authors: 
-users: 100000
+users: 500000
 appId: com.litefinance.cabinet
 appCountry: 
 released: 2022-02-09
@@ -12,7 +12,6 @@ version: v1.2.8.1981-cabinet-legacy-release
 stars: 4.4
 ratings: 
 reviews: 52
-size: 
 website: https://www.liteforex.eu
 repository: 
 issue: 

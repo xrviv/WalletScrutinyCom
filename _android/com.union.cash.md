@@ -13,7 +13,6 @@ version: 1.3.7
 stars: 4.8
 ratings: 
 reviews: 3
-size: 
 website: http://www.union.cash/
 repository: 
 issue: 

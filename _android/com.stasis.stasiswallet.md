@@ -13,7 +13,6 @@ version: 1.15.0
 stars: 3.3
 ratings: 169
 reviews: 5
-size: 
 website: https://stasis.net
 repository: 
 issue: 

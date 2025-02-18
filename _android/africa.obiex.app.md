@@ -13,7 +13,6 @@ version: 3.7.7
 stars: 4.3
 ratings: 
 reviews: 31
-size: 
 website: https://obiex.finance/
 repository: 
 issue: 

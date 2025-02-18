@@ -13,7 +13,6 @@ version: 1.1.1
 stars: 4.2
 ratings: 
 reviews: 3
-size: 
 website: https://coinweb.io
 repository: 
 issue: 

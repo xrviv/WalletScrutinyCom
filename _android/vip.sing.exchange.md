@@ -13,7 +13,6 @@ version: 4.3.2.74
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://www.starex.sg/
 repository: 
 issue: 

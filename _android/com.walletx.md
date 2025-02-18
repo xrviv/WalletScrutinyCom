@@ -13,7 +13,6 @@ version: '2.0'
 stars: 3.9
 ratings: 
 reviews: 18
-size: 
 website: http://www.cnxnetwork.org
 repository: 
 issue: 

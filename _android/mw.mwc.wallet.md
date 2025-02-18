@@ -12,7 +12,6 @@ version: 1.0.0
 stars: 
 ratings: 5
 reviews: 
-size: 
 website: https://www.mwc.mw/
 repository: 
 issue: 

@@ -12,7 +12,6 @@ version: 1.0.10
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://earnbit.com/
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 2.2.6
 stars: 3.2
 ratings: 
 reviews: 19
-size: 
 website: http://www.jtechtrade.com
 repository: 
 issue: 

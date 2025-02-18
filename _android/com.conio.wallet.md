@@ -13,7 +13,6 @@ version: 9.0.4
 stars: 3.5
 ratings: 
 reviews: 
-size: 
 website: https://www.conio.com
 repository: 
 issue: 

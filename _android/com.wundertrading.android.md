@@ -13,7 +13,6 @@ version: 1.1.6
 stars: 2.8
 ratings: 
 reviews: 5
-size: 
 website: https://wundertrading.com/en
 repository: 
 issue: 

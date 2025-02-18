@@ -13,7 +13,6 @@ version: 1.11.7
 stars: 4.2
 ratings: 
 reviews: 
-size: 
 website: https://coinmotion.com/
 repository: 
 issue: 

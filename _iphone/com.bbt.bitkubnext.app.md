@@ -12,7 +12,6 @@ updated: 2024-12-30
 version: 2.10.0
 stars: 4.8
 reviews: 239
-size: '117099520'
 website: https://www.bitkubchain.com
 repository: 
 issue: 

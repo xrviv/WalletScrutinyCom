@@ -13,7 +13,6 @@ version: '3.42'
 stars: 2.4
 ratings: 3529
 reviews: 12
-size: 
 website: https://www.buyucoin.com
 repository: 
 issue: 

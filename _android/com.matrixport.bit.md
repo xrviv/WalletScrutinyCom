@@ -13,7 +13,6 @@ version: 2.0.0
 stars: 3.6
 ratings: 245
 reviews: 27
-size: 
 website: https://www.bit.com
 repository: 
 issue: 

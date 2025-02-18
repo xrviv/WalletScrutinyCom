@@ -12,7 +12,6 @@ version: 1.7.0
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://monetum.com/quick-trade
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 4.4.3
 stars: 4.1
 ratings: 228
 reviews: 17
-size: 
 website: http://mercurycash.us
 repository: 
 issue: 

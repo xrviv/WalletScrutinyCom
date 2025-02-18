@@ -13,7 +13,6 @@ version: 1.25.0
 stars: 3.7
 ratings: 64
 reviews: 5
-size: 
 website: https://atomex.me
 repository: https://github.com/atomex-me/atomex.mobile
 issue: https://github.com/atomex-me/atomex.mobile/issues/24

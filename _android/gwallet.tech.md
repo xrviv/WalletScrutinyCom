@@ -13,7 +13,6 @@ version: 1.2.6
 stars: 4.9
 ratings: 
 reviews: 
-size: 
 website: https://gwallet.tech/
 repository: 
 issue: 

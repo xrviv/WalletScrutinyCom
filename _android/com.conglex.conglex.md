@@ -13,7 +13,6 @@ version: 1.4.0
 stars: 
 ratings: 
 reviews: 
-size: 
 website: http://conglex.com
 repository: 
 issue: 

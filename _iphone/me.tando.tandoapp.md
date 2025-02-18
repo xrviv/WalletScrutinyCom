@@ -11,7 +11,6 @@ updated: 2025-01-23
 version: 1.2.0
 stars: 5
 reviews: 3
-size: '29428736'
 website: https://tando.me/
 repository: 
 issue: 

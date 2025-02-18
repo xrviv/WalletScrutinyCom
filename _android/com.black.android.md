@@ -13,7 +13,6 @@ version: '58'
 stars: 2.4
 ratings: 
 reviews: 4
-size: 
 website: https://black.com
 repository: 
 issue: 

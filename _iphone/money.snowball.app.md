@@ -12,7 +12,6 @@ updated: 2024-09-18
 version: 3.5.1
 stars: 4.3
 reviews: 136
-size: '40224768'
 website: https://www.snowball.money
 repository: 
 issue: 

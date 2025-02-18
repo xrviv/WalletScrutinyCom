@@ -13,6 +13,28 @@
   {
     "appId": "app.zeusln.zeus",
     "signer": "cbcc8ccfbf89c002b5fed484a59f5f2a6f5c8ad30a1934f36af2c9fcdec6b359",
+    "version": "0.9.5",
+    "verdict": "reproducible",
+    "appHashes": [
+      "19dcd62476f17e68a03b47a66cced8288689f4e162ef1b9f91300a27d2ce3957"
+    ],
+    "date": "2025-02-05",
+    "platform": "android"
+  },
+  {
+    "appId": "app.zeusln.zeus",
+    "signer": "cbcc8ccfbf89c002b5fed484a59f5f2a6f5c8ad30a1934f36af2c9fcdec6b359",
+    "version": "0.9.4",
+    "verdict": "reproducible",
+    "appHashes": [
+      "e6498f7327d6d152f114b851b8c01a5b7c7890414c192a00ea3846bf0f82229f"
+    ],
+    "date": "2025-01-03",
+    "platform": "android"
+  },
+  {
+    "appId": "app.zeusln.zeus",
+    "signer": "cbcc8ccfbf89c002b5fed484a59f5f2a6f5c8ad30a1934f36af2c9fcdec6b359",
     "version": "0.9.3",
     "verdict": "reproducible",
     "appHashes": [
@@ -134,12 +156,23 @@
   {
     "appId": "app.zeusln.zeus",
     "signer": "cbcc8ccfbf89c002b5fed484a59f5f2a6f5c8ad30a1934f36af2c9fcdec6b359",
-    "version": "0.9.4",
+    "version": "0.9.6",
     "verdict": "",
     "appHashes": [
-      "e6498f7327d6d152f114b851b8c01a5b7c7890414c192a00ea3846bf0f82229f"
+      "db84dd4c1db67c2bfca707d648b159db6480ad1d5f1652b4db3b1d33bf2f3114"
     ],
-    "date": "2025-01-03",
+    "date": "2025-02-11",
+    "platform": "android"
+  },
+  {
+    "appId": "ch.swissbitcoinpay.checkout",
+    "signer": "17d9c0bf025008da16d5a146e1beaca6ddcfe3cb0cf063da23c847d3007eb621",
+    "version": "2.1.4",
+    "verdict": "nonverifiable",
+    "appHashes": [
+      "69a7e528ca403489349a482af6a35b94646b428dd27b09336793ad5817cdd9af"
+    ],
+    "date": "2024-09-18",
     "platform": "android"
   },
   {
@@ -1383,6 +1416,28 @@
   {
     "appId": "de.schildbach.wallet",
     "signer": "58dcd8a0edf2a590683ba022d22a8dca5659aabf4728741a5c07af738d53db38",
+    "version": "10.23",
+    "verdict": "reproducible",
+    "appHashes": [
+      "d9ea9a82ec65b8b3d137218ca77e1e0b271e396e2b19b6ea53af5c9422ab49ba"
+    ],
+    "date": "2025-02-05",
+    "platform": "android"
+  },
+  {
+    "appId": "de.schildbach.wallet",
+    "signer": "58dcd8a0edf2a590683ba022d22a8dca5659aabf4728741a5c07af738d53db38",
+    "version": "10.22",
+    "verdict": "reproducible",
+    "appHashes": [
+      "0ebee116661bbc844c679841411c4d3b09575b367d187ad1e28739053c2409e3"
+    ],
+    "date": "2025-01-28",
+    "platform": "android"
+  },
+  {
+    "appId": "de.schildbach.wallet",
+    "signer": "58dcd8a0edf2a590683ba022d22a8dca5659aabf4728741a5c07af738d53db38",
     "version": "10.21",
     "verdict": "reproducible",
     "appHashes": [
@@ -1394,7 +1449,7 @@
   {
     "appId": "de.schildbach.wallet",
     "signer": "58dcd8a0edf2a590683ba022d22a8dca5659aabf4728741a5c07af738d53db38",
-    "version": "10.2",
+    "version": "10.20",
     "verdict": "reproducible",
     "appHashes": [
       "9e859167b259383324d44b049e9310a0715bae2837db2582519f4012b4e27fcb"
@@ -1714,7 +1769,7 @@
   {
     "appId": "de.schildbach.wallet",
     "signer": "58dcd8a0edf2a590683ba022d22a8dca5659aabf4728741a5c07af738d53db38",
-    "version": "8",
+    "version": "8.0",
     "verdict": "reproducible",
     "appHashes": [
       "d4bf786409e0cef85a2179a721c5f9b63542d422d6297c76c000194b6c540566"
@@ -1791,12 +1846,12 @@
   {
     "appId": "de.schildbach.wallet",
     "signer": "58dcd8a0edf2a590683ba022d22a8dca5659aabf4728741a5c07af738d53db38",
-    "version": "10.22",
+    "version": "10.24",
     "verdict": "reproducible",
     "appHashes": [
-      "0ebee116661bbc844c679841411c4d3b09575b367d187ad1e28739053c2409e3"
+      "8928ccd823ff862870fbc3954b7b1985d343124545bb3aeb9c112a2e57de82cd"
     ],
-    "date": "2025-01-28",
+    "date": "2025-02-13",
     "platform": "android"
   },
   {
@@ -2762,7 +2817,7 @@
   {
     "appId": "io.muun.apollo",
     "signer": "",
-    "version": "46.1",
+    "version": "46.10",
     "verdict": "nonverifiable",
     "appHashes": [
       "e7504467c314b576f5f0c45eeb135396f4d771f976e886bc9b0e1111f1172ff8"
@@ -2784,12 +2839,38 @@
   {
     "appId": "io.nunchuk.android",
     "signer": "",
+    "version": "1.9.58",
+    "verdict": "nonverifiable",
+    "appHashes": [
+      "8f53fa42fc072381ea228314fa421b52a77b33e9fe6029095fc1d13c68fd9b41",
+      "9027651c5ed7dd4a31d6cd073023bb77f38b799d8a0aa0ff0f81a184b1795dd3",
+      "02c32758930cf0d4d87a44a5985f7bf97550280e1539074276a277866489f022"
+    ],
+    "date": "2025-01-15",
+    "platform": "android"
+  },
+  {
+    "appId": "io.nunchuk.android",
+    "signer": "",
     "version": "1.9.53",
     "verdict": "nonverifiable",
     "appHashes": [
       "aaec6e500babbd1931db8485b99205468e426f6157df131f607aa69b6e821708"
     ],
     "date": "2024-11-19",
+    "platform": "android"
+  },
+  {
+    "appId": "",
+    "signer": "",
+    "version": "",
+    "verdict": "",
+    "appHashes": [
+      "c0cc213b0e5f309d4bf83d8ff576f7e7c324c2273e202170a10704b0b5d9d535",
+      "03a0faf7feae6ced736a0894049163dbfc81d8b616c0c549d1b9dc7c781bd0cc",
+      "3f704527776c7696c85728790f8639ced4d38eaa1a43229d33c4c8b8aa0a1e0a"
+    ],
+    "date": "2025-01-27",
     "platform": "android"
   },
   {
@@ -2899,7 +2980,7 @@
     "appHashes": [
       "5d61189f93a120d87d03433236d222b3bdd44e6678f970728706e48d5eb9a514"
     ],
-    "date": "",
+    "date": "2023-04-27",
     "platform": "android"
   },
   {
@@ -2910,7 +2991,7 @@
     "appHashes": [
       "c7c35602fd09fa04c3435dc1a5382bd872f02b7cb03f005f263e7701e5342998"
     ],
-    "date": "",
+    "date": "2022-11-02",
     "platform": "android"
   },
   {
@@ -4283,6 +4364,20 @@
       "3940dc0615c651104baf0e10147550d4ad2e44e2ef317a94ed36245e3e016bf2"
     ],
     "date": "2024-04-01",
+    "platform": "hardware"
+  },
+  {
+    "appId": "trezorSafe5",
+    "signer": "",
+    "version": "2.8.6",
+    "verdict": "reproducible",
+    "appHashes": [
+      "197197aba0f412a74be96a2a6ad1537437cee67e517bd94d1cb776c263a37ffe",
+      "78a69afb22d7c0704bd40479bde3ee2d15c390a1819129cf5954643d8d65e0fc",
+      "73c8e70fc6785616574cb7d1ac274f3cea596870dff2316d3599adde1b4f2eb2",
+      "538515eb83558832356340ef198559ca14fa5a70220b14e2fb06dc3c8fef5d03"
+    ],
+    "date": "2024-12-13",
     "platform": "hardware"
   },
   {

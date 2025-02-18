@@ -13,7 +13,6 @@ version: 1.3.6
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://xensor.cc
 repository: 
 issue: 

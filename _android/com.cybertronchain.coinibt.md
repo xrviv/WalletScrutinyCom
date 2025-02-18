@@ -13,7 +13,6 @@ version: '1.13'
 stars: 5
 ratings: 610
 reviews: 4
-size: 
 website: http://www.coinibt.io
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 0.1.5
 stars: 
 ratings: 
 reviews: 
-size: 
 website: http://lohitgroup.com/
 repository: 
 issue: 

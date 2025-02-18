@@ -13,7 +13,6 @@ version: '1.0'
 stars: 
 ratings: 283
 reviews: 
-size: 
 website: https://trade.francexchange.com/
 repository: 
 issue: 

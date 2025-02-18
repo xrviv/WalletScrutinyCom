@@ -13,7 +13,6 @@ version: '1.12'
 stars: 
 ratings: 74
 reviews: 
-size: 
 website: https://sites.google.com/view/globlacryptotrading/home
 repository: 
 issue: 

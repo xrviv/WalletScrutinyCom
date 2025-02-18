@@ -8,12 +8,11 @@ users: 50000
 appId: hippotech.bank.droid
 appCountry: 
 released: 
-updated: 2025-01-22
-version: '3.63'
+updated: 2025-02-11
+version: '3.66'
 stars: 3.9
 ratings: 
 reviews: 
-size: 
 website: https://www.ziglu.io
 repository: 
 issue: 

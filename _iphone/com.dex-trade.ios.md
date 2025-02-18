@@ -12,7 +12,6 @@ updated: 2023-05-11
 version: 2.1.9
 stars: 2.7
 reviews: 9
-size: '8921088'
 website: https://dex-trade.com/
 repository: 
 issue: 

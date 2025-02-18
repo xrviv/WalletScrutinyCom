@@ -13,7 +13,6 @@ version: 1.40.4
 stars: 4.7
 ratings: 
 reviews: 
-size: 
 website: https://cryptoxpress.com
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 2.3.20
 stars: 3.5
 ratings: 
 reviews: 8
-size: 
 website: https://kryl.io
 repository: 
 issue: 

@@ -12,7 +12,6 @@ updated: 2025-01-14
 version: 4.0.14
 stars: 4.5
 reviews: 22
-size: '187923456'
 website: https://www.osmowallet.com/
 repository: 
 issue: 

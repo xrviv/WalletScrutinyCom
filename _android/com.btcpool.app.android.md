@@ -13,7 +13,6 @@ version: 2.4.3
 stars: 4
 ratings: 261
 reviews: 27
-size: 
 website: https://cloverpool.com
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 4.8.1
 stars: 4.2
 ratings: 
 reviews: 16
-size: 
 website: https://adamant.im
 repository: https://github.com/Adamant-im/adamant-im
 issue: https://github.com/Adamant-im/adamant-im/issues/666

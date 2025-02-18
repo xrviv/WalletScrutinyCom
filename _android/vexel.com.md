@@ -13,7 +13,6 @@ version: 1.51.2
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://vexel.com
 repository: 
 issue: 

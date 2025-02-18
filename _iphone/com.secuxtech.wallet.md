@@ -12,7 +12,6 @@ updated: 2024-09-20
 version: 2.1.01
 stars: 4
 reviews: 6
-size: '88043520'
 website: https://secux.eu/
 repository: 
 issue: 

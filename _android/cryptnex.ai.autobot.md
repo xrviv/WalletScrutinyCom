@@ -13,7 +13,6 @@ version: 3.8.9
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://www.cryptnex.ai
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 4.80.6.0
 stars: 2.4
 ratings: 218
 reviews: 182
-size: 
 website: http://exante.eu
 repository: 
 issue: 

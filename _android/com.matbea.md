@@ -13,7 +13,6 @@ version: 1.6.9
 stars: 3.6
 ratings: 
 reviews: 
-size: 
 website: https://matbea.com
 repository: 
 issue: 

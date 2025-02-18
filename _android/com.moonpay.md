@@ -4,16 +4,15 @@ title: 'MoonPay: Buy Bitcoin, Solana'
 altTitle: 
 authors:
 - danny
-users: 500000
+users: 1000000
 appId: com.moonpay
 appCountry: 
 released: 2023-04-18
-updated: 2025-01-13
-version: 1.14.86
-stars: 3.7
+updated: 2025-02-11
+version: 1.14.90
+stars: 3.8
 ratings: 
-reviews: 435
-size: 
+reviews: 451
 website: https://www.moonpay.com/
 repository: 
 issue: 

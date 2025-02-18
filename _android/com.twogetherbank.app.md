@@ -13,7 +13,6 @@ version: 1.9.3
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://www.2gether.global
 repository: 
 issue: 

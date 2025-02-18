@@ -12,7 +12,6 @@ updated: 2025-01-02
 version: '1.30'
 stars: 0
 reviews: 0
-size: '101145600'
 website: https://www.payperless.com
 repository: 
 issue: 

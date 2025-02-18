@@ -13,7 +13,6 @@ version: 3.0.0.1
 stars: 3.6
 ratings: 
 reviews: 13
-size: 
 website: https://wexopay.com
 repository: 
 issue: 

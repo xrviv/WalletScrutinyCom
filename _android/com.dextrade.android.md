@@ -13,7 +13,6 @@ version: 1.3.0
 stars: 3.3
 ratings: 218
 reviews: 23
-size: 
 website: https://dex-trade.com
 repository: 
 issue: 

@@ -8,11 +8,10 @@ appId: org.avalabs.corewallet
 appCountry: us
 idd: '6443685999'
 released: 2022-11-28
-updated: 2025-01-14
-version: 0.14.22
+updated: 2025-02-13
+version: 0.14.24
 stars: 4.5
 reviews: 71
-size: '63598592'
 website: https://www.core.app/
 repository: 
 issue: 

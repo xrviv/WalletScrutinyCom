@@ -13,7 +13,6 @@ version: 3.3.23
 stars: 3.6
 ratings: 
 reviews: 75
-size: 
 website: https://coinlocally.com
 repository: 
 issue: 

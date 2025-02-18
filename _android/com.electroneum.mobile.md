@@ -12,7 +12,6 @@ version: 5.6.0
 stars: 2.8
 ratings: 58803
 reviews: 2066
-size: 
 website: http://electroneum.com
 repository: 
 issue: 

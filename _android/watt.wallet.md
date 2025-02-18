@@ -13,7 +13,6 @@ version: 1.28.0
 stars: 3.2
 ratings: 
 reviews: 
-size: 
 website: https://watt.me
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 3.92.13
 stars: 4.1
 ratings: 
 reviews: 4
-size: 
 website: https://yeschangers.com
 repository: 
 issue: 
@@ -30,7 +29,7 @@ social:
 - https://www.youtube.com/channel/UCtwM__wt_329f4OxX-c_m4A
 - https://t.me/Yeschanger
 redirect_from: 
-developerName: Rev Changer
+developerName: Inrtobdt
 features: 
 
 ---

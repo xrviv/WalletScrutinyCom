@@ -13,7 +13,6 @@ version: 2.0.9
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://ftxtr.com
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 1.5.106
 stars: 
 ratings: 39
 reviews: 
-size: 
 website: https://tradn.io/
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: '9.65'
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://europefx.com
 repository: 
 issue: 

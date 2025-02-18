@@ -13,7 +13,6 @@ version: '42.5'
 stars: 4.4
 ratings: 
 reviews: 33
-size: 
 website: https://cryptobiz.exchange/
 repository: 
 issue: 

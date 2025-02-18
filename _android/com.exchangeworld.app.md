@@ -13,7 +13,6 @@ version: 1.1.24
 stars: 
 ratings: 
 reviews: 
-size: 
 website: http://www.worldexchange.life
 repository: 
 issue: 

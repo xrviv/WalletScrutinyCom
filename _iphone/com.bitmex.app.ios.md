@@ -12,7 +12,6 @@ updated: 2025-01-28
 version: 2.5.7
 stars: 0
 reviews: 0
-size: '105968640'
 website: https://www.bitmex.com/
 repository: 
 issue: 

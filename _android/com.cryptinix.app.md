@@ -13,7 +13,6 @@ version: 1.2.8
 stars: 
 ratings: 62
 reviews: 
-size: 
 website: https://cryptinix.com
 repository: 
 issue: 

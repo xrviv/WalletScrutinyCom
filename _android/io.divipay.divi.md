@@ -13,7 +13,6 @@ version: 2.2.01218
 stars: 5
 ratings: 273
 reviews: 13
-size: 
 website: http://diviproject.org
 repository: 
 issue: https://github.com/DiviProject/Divi-Desktop-Public/issues/214

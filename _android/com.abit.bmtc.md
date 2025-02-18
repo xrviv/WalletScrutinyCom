@@ -13,7 +13,6 @@ version: 2.3.2
 stars: 
 ratings: 75
 reviews: 
-size: 
 website: http://www.abit.com
 repository: 
 issue: 

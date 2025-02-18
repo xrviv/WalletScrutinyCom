@@ -13,7 +13,6 @@ version: 5.0.21
 stars: 3.3
 ratings: 
 reviews: 41
-size: 
 website: https://www.coininn.com
 repository: 
 issue: 

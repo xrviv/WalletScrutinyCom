@@ -13,7 +13,6 @@ version: 2.9.11
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://bizblocks.io
 repository: 
 issue: 

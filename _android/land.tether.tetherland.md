@@ -13,7 +13,6 @@ version: 7.1.0
 stars: 4.1
 ratings: 1685
 reviews: 71
-size: 
 website: https://tetherland.com
 repository: 
 issue: 

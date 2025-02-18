@@ -13,7 +13,6 @@ version: '194'
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://mysmartcash.tech
 repository: 
 issue: 

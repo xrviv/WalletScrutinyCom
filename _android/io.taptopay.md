@@ -13,7 +13,6 @@ version: 1.0.1
 stars: 4.5
 ratings: 
 reviews: 5
-size: 
 website: https://taptopay.io
 repository: 
 issue: 

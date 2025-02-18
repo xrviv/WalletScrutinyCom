@@ -12,7 +12,6 @@ updated: 2023-09-08
 version: 0.8.858
 stars: 3.5
 reviews: 17
-size: '70453248'
 website: https://qcan.com
 repository: 
 issue: 

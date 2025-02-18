@@ -13,7 +13,6 @@ version: 1.20.1
 stars: 3.5
 ratings: 
 reviews: 2
-size: 
 website: https://dfx.swiss/defichain/
 repository: 
 issue: 

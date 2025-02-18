@@ -13,7 +13,6 @@ version: 4.0.1
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://algeriahost.com
 repository: 
 issue: 

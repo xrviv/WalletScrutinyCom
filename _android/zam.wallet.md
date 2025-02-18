@@ -13,7 +13,6 @@ version: 3.5.19
 stars: 3.9
 ratings: 288
 reviews: 51
-size: 
 website: http://zam.io
 repository: 
 issue: 

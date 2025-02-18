@@ -13,7 +13,6 @@ version: 1.21.0
 stars: 4.1
 ratings: 
 reviews: 16
-size: 
 website: https://hippowallet.io/
 repository: 
 issue: 

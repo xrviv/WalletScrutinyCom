@@ -13,7 +13,6 @@ version: 1.88.0
 stars: 3.5
 ratings: 
 reviews: 
-size: 
 website: https://sapienwallet.com/
 repository: 
 issue: 

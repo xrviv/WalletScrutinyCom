@@ -13,7 +13,6 @@ version: 2.5.3
 stars: 4.3
 ratings: 
 reviews: 130
-size: 
 website: http://vault12.com
 repository: https://github.com/vault12
 issue: 

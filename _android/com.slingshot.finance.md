@@ -13,7 +13,6 @@ version: 2.2.3
 stars: 2.7
 ratings: 
 reviews: 5
-size: 
 website: https://slingshot.finance
 repository: 
 issue: 

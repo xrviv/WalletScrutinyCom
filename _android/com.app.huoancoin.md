@@ -13,7 +13,6 @@ version: '1.0'
 stars: 3.4
 ratings: 
 reviews: 18
-size: 
 website: https://www.huoancoin.com
 repository: 
 issue: 

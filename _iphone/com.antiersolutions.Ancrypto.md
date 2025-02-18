@@ -12,7 +12,6 @@ updated: 2025-01-23
 version: '40'
 stars: 4.5
 reviews: 19
-size: '94144512'
 website: https://gemspocket.com
 repository: 
 issue: 

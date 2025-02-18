@@ -13,7 +13,6 @@ version: 1.1.18
 stars: 4.4
 ratings: 
 reviews: 8
-size: 
 website: https://stealthex.io/
 repository: 
 issue: 

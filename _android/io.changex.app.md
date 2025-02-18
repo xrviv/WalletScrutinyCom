@@ -13,16 +13,15 @@ version: 2.9.8
 stars: 3.6
 ratings: 
 reviews: 7
-size: 
 website: https://changex.io/
 repository: 
 issue: 
 icon: io.changex.app.png
 bugbounty: 
-meta: ok
+meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-07-24
+date: 2025-02-04
 signer: 
 reviewArchive: 
 twitter: ChangeXapp

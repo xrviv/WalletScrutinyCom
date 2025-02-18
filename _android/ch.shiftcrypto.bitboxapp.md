@@ -12,7 +12,6 @@ version: android-4.46.1
 stars: 4.6
 ratings: 83
 reviews: 8
-size: 
 website: https://shiftcrypto.ch/app/
 repository: https://github.com/BitBoxSwiss/bitbox-wallet-app
 issue: 

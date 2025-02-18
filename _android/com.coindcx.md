@@ -13,7 +13,6 @@ version: 6.34.0003
 stars: 4.5
 ratings: 13567
 reviews: 143
-size: 
 website: https://coindcx.com
 repository: 
 issue: 

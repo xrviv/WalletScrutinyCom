@@ -13,7 +13,6 @@ version: 0.1.39
 stars: 4.7
 ratings: 
 reviews: 5
-size: 
 website: https://www.morpher.com
 repository: 
 issue: 

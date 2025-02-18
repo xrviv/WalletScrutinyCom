@@ -13,7 +13,6 @@ version: 0.9.5+205
 stars: 
 ratings: 48
 reviews: 
-size: 
 website: https://antareswallet.com/
 repository: 
 issue: 

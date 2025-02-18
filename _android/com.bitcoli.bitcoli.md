@@ -13,7 +13,6 @@ version: 1.2.1
 stars: 4.6
 ratings: 
 reviews: 6
-size: 
 website: https://BitcoLi.com
 repository: 
 issue: 

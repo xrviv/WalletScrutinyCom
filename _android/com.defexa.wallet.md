@@ -13,7 +13,6 @@ version: 2.2.2
 stars: 4.5
 ratings: 
 reviews: 6
-size: 
 website: https://defexa.io/wallet/
 repository: 
 issue: 

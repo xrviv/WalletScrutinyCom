@@ -13,7 +13,6 @@ version: 2.2.5
 stars: 3.5
 ratings: 1761
 reviews: 37
-size: 
 website: https://www.easymarkets.com/
 repository: 
 issue: 

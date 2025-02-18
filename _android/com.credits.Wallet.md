@@ -13,7 +13,6 @@ version: 7.0.1.1
 stars: 4.2
 ratings: 
 reviews: 3
-size: 
 website: https://credits.com/contacts.html
 repository: 
 issue: 

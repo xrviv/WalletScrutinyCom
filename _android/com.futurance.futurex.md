@@ -13,7 +13,6 @@ version: 2.3.3
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://www.fexobit.com/
 repository: 
 issue: 

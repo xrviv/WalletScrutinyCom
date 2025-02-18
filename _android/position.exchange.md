@@ -13,7 +13,6 @@ version: 3.0.1
 stars: 4.7
 ratings: 
 reviews: 9
-size: 
 website: https://app.position.exchange
 repository: 
 issue: 

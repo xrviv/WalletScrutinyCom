@@ -12,7 +12,6 @@ updated: 2024-03-15
 version: '1.27'
 stars: 5
 reviews: 2
-size: '178416640'
 website: https://sapienwallet.com/
 repository: 
 issue: 

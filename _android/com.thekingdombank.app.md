@@ -13,7 +13,6 @@ version: 8.6.6
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://thekingdombank.com
 repository: 
 issue: 

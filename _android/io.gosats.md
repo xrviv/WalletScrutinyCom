@@ -13,7 +13,6 @@ version: 2.5.8
 stars: 2.5
 ratings: 
 reviews: 3
-size: 
 website: https://gosats.io
 repository: 
 issue: 

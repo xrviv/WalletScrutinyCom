@@ -12,7 +12,6 @@ updated: 2024-11-27
 version: 6.0.3
 stars: 4.5
 reviews: 186
-size: '145173504'
 website: https://www.cmorq.com/
 repository: 
 issue: 

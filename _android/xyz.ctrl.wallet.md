@@ -3,7 +3,7 @@ wsId:
 title: Ctrl Wallet
 altTitle: 
 authors: 
-users: 1000
+users: 5000
 appId: xyz.ctrl.wallet
 appCountry: 
 released: 2024-11-29
@@ -12,7 +12,6 @@ version: 1.0.4
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://ctrl.xyz
 repository: 
 issue: 

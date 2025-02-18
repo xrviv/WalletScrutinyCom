@@ -12,7 +12,6 @@ updated: 2025-01-22
 version: 3.4.0
 stars: 4.1
 reviews: 90
-size: '200203264'
 website: https://www.coinstore.com
 repository: 
 issue: 

@@ -12,16 +12,15 @@ updated: 2022-11-10
 version: 4.0.14
 stars: 4.7
 reviews: 82
-size: '202328064'
 website: https://www.sylo.io/wallet/
 repository: 
 issue: 
 icon: io.sylo.dapp.jpg
 bugbounty: 
-meta: obsolete
+meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-10-31
+date: 2025-02-04
 signer: 
 reviewArchive: 
 twitter: sylo

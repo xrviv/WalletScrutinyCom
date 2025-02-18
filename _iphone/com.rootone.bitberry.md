@@ -12,7 +12,6 @@ updated: 2023-02-01
 version: 1.4.2
 stars: 4.1
 reviews: 7
-size: '89378816'
 website: http://bitberry.app
 repository: 
 issue: 

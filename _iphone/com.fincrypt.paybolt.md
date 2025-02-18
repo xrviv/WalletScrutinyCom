@@ -12,7 +12,6 @@ updated: 2022-11-15
 version: 3.4.0
 stars: 4.8
 reviews: 16
-size: '43398144'
 website: 
 repository: 
 issue: 

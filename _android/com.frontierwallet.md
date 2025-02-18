@@ -13,7 +13,6 @@ version: 6.22.0
 stars: 4.6
 ratings: 1003
 reviews: 101
-size: 
 website: https://frontier.xyz/
 repository: 
 issue: 

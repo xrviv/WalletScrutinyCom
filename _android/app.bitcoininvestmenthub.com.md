@@ -13,7 +13,6 @@ version: 1.0.0
 stars: 3.3
 ratings: 70
 reviews: 4
-size: 
 website: https://bitcoininvestmenthub.com/
 repository: 
 issue: 

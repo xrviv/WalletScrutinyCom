@@ -13,7 +13,6 @@ version: 3.0.188
 stars: 4.1
 ratings: 826
 reviews: 21
-size: 
 website: https://www.alvexo.com
 repository: 
 issue: 

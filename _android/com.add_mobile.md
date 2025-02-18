@@ -13,16 +13,15 @@ version: '1.4'
 stars: 4.8
 ratings: 
 reviews: 20
-size: 
 website: https://add.xyz/
 repository: 
 issue: 
 icon: com.add_mobile.png
 bugbounty: 
-meta: obsolete
+meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-04-17
+date: 2025-02-04
 signer: 
 reviewArchive: 
 twitter: 

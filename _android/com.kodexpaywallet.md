@@ -12,16 +12,15 @@ version: 2.0.0
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://kodexpay.com
 repository: 
 issue: 
 icon: com.kodexpaywallet.png
 bugbounty: 
-meta: stale
+meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-06-29
+date: 2025-02-04
 signer: 
 reviewArchive: 
 twitter: 

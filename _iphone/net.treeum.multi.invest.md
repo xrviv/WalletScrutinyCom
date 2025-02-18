@@ -12,7 +12,6 @@ updated: 2024-06-08
 version: 1.0.31
 stars: 0
 reviews: 0
-size: '109927424'
 website: https://multi.ua/
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 1.2.10
 stars: 4.6
 ratings: 
 reviews: 
-size: 
 website: https://acornbit.com
 repository: 
 issue: 

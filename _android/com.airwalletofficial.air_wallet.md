@@ -13,7 +13,6 @@ version: 1.9.2
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://www.airwalletofficial.com
 repository: 
 issue: 

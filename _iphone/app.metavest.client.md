@@ -12,7 +12,6 @@ updated: 2024-12-01
 version: 3.1.0
 stars: 0
 reviews: 0
-size: '48929792'
 website: https://metavest.app/affiliate
 repository: 
 issue: 

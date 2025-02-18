@@ -13,7 +13,6 @@ version: 1.1.2
 stars: 2.4
 ratings: 
 reviews: 4
-size: 
 website: https://pxq.app
 repository: 
 issue: 

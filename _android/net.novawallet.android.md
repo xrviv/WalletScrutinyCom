@@ -13,7 +13,6 @@ version: 2.2.5
 stars: 4.9
 ratings: 
 reviews: 704
-size: 
 website: http://www.vsolidus.com/
 repository: 
 issue: 

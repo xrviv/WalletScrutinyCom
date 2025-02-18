@@ -13,7 +13,6 @@ version: 13.0.0
 stars: 3.6
 ratings: 1049
 reviews: 11
-size: 
 website: https://max.maicoin.com
 repository: 
 issue: 

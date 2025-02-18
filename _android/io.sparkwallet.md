@@ -13,7 +13,6 @@ version: '3.3'
 stars: 3.2
 ratings: 
 reviews: 5
-size: 
 website: https://sparkwallet.io/
 repository: 
 issue: 

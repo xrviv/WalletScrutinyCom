@@ -12,7 +12,6 @@ updated: 2024-11-12
 version: 1.11.6
 stars: 0
 reviews: 0
-size: '37722112'
 website: https://coinmotion.com/
 repository: 
 issue: 

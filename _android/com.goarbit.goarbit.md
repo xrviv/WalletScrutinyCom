@@ -13,7 +13,6 @@ version: 3.0.1
 stars: 4.1
 ratings: 
 reviews: 3080
-size: 
 website: https://goarbit.com/
 repository: 
 issue: 

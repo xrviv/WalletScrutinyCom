@@ -12,8 +12,7 @@ updated: 2024-12-18
 version: 3.2.5
 stars: 4.3
 ratings: 
-reviews: 41
-size: 
+reviews: 40
 website: https://bitbarg.com
 repository: 
 issue: 

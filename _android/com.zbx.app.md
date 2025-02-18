@@ -13,7 +13,6 @@ version: 2.5.2
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://www.zbx.com/
 repository: 
 issue: 

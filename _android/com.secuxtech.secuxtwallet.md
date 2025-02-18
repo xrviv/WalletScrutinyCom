@@ -13,7 +13,6 @@ version: 2.1.02
 stars: 4.4
 ratings: 
 reviews: 2
-size: 
 website: https://secuxtech.com/
 repository: 
 issue: 

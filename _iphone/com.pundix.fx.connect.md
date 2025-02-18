@@ -12,7 +12,6 @@ updated: 2025-01-13
 version: 5.0.0
 stars: 3.2
 reviews: 64
-size: '156903424'
 website: https://pundi.ai/
 repository: https://github.com/FunctionX/fx-wallet-android
 issue: 

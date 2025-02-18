@@ -13,7 +13,6 @@ version: 2.15.0
 stars: 4.3
 ratings: 
 reviews: 
-size: 
 website: https://trade.xspringdigital.com
 repository: 
 issue: 

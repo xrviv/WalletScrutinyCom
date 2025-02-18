@@ -13,7 +13,6 @@ version: 1.14.2
 stars: 1.6
 ratings: 
 reviews: 5
-size: 
 website: https://eidoo.app/
 repository: 
 issue: 

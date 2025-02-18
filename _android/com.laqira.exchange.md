@@ -13,7 +13,6 @@ version: 3.2.2
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://laqira.com/
 repository: 
 issue: 

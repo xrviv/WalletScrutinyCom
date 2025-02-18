@@ -4,7 +4,7 @@ title: Bitlifi
 altTitle: 
 authors:
 - danny
-users: 1000
+users: 5000
 appId: com.bitlifi.app
 appCountry: 
 released: 2023-05-04
@@ -13,7 +13,6 @@ version: 1.10.5
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://www.bitlifi.com
 repository: 
 issue: 

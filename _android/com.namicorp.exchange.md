@@ -13,7 +13,6 @@ version: 2.2.6
 stars: 4.1
 ratings: 
 reviews: 11
-size: 
 website: https://nami.exchange
 repository: 
 issue: 

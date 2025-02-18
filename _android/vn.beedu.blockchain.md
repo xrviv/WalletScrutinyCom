@@ -13,7 +13,6 @@ version: 1.4.20
 stars: 4
 ratings: 
 reviews: 31
-size: 
 website: https://lynkey.com/
 repository: 
 issue: 

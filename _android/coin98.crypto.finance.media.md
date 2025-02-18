@@ -1,6 +1,6 @@
 ---
 wsId: coin98
-title: 'Coin98: Crypto & AI Wallet'
+title: Coin98 Super Wallet
 altTitle: 
 authors:
 - kiwilamb
@@ -14,7 +14,6 @@ version: 15.8.7
 stars: 4.2
 ratings: 18096
 reviews: 262
-size: 
 website: https://coin98.com/
 repository: 
 issue: 

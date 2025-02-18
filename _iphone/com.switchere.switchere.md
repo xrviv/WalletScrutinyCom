@@ -12,7 +12,6 @@ updated: 2024-08-08
 version: 1.1.24
 stars: 3.3
 reviews: 73
-size: '40745984'
 website: https://switchere.com/
 repository: 
 issue: 

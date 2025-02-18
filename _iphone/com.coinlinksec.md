@@ -12,7 +12,6 @@ updated: 2025-01-15
 version: 1.3.0
 stars: 5
 reviews: 2
-size: '109474816'
 website: https://www.coinlink.tech
 repository: 
 issue: 

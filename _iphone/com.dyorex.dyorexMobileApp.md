@@ -12,7 +12,6 @@ updated: 2025-01-28
 version: 1.4.77
 stars: 4.8
 reviews: 22
-size: '87558144'
 website: https://dyorex.com/
 repository: 
 issue: 

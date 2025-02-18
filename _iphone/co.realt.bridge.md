@@ -6,13 +6,12 @@ authors:
 - danny
 appId: co.realt.bridge
 appCountry: be
-idd: 1545585469
+idd: '1545585469'
 released: 2021-05-06
 updated: 2021-12-14
 version: '1.20'
 stars: 
 reviews: 
-size: 123673600
 website: https://realt.co
 repository: 
 issue: 

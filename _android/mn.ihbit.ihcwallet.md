@@ -13,7 +13,6 @@ version: 2.1.3
 stars: 4.4
 ratings: 
 reviews: 8
-size: 
 website: https://www.ihcoin.io
 repository: 
 issue: 

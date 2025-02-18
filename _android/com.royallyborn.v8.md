@@ -13,7 +13,6 @@ version: 1.2.3
 stars: 4.2
 ratings: 
 reviews: 18
-size: 
 website: https://www.8v.com
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: '3.9'
 stars: 5
 ratings: 
 reviews: 1
-size: 
 website: https://monabit.io
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: '1.0'
 stars: 4.3
 ratings: 70
 reviews: 9
-size: 
 website: https://exchangernet.com/
 repository: 
 issue: 
@@ -29,7 +28,7 @@ twitter: echangerbd
 social:
 - https://www.facebook.com/exchangernet
 redirect_from: 
-developerName: Exchangernet.com
+developerName: Exchange Digital Currency
 features: 
 
 ---

@@ -13,7 +13,6 @@ version: 3.6.7
 stars: 3.3
 ratings: 
 reviews: 5
-size: 
 website: https://usenobi.com
 repository: 
 issue: 

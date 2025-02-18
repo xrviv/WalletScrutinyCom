@@ -13,7 +13,6 @@ version: 2.4.8
 stars: 4.6
 ratings: 
 reviews: 6
-size: 
 website: https://arzypto.com
 repository: 
 issue: 

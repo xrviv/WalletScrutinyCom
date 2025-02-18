@@ -13,7 +13,6 @@ version: V2.0.3
 stars: 4.6
 ratings: 
 reviews: 3
-size: 
 website: https://www.juancash.com/
 repository: 
 issue: 

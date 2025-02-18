@@ -8,12 +8,11 @@ users: 100000
 appId: com.github.ontio.onto
 appCountry: us
 released: 2018-06-27
-updated: 2025-01-22
-version: 4.9.0
+updated: 2025-02-08
+version: 4.9.1
 stars: 4.4
 ratings: 1170
 reviews: 127
-size: 
 website: https://onto.app/
 repository: https://github.com/ONTO-Data-Wallet/ONTO
 issue: 

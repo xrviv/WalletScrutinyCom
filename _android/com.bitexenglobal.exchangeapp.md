@@ -13,7 +13,6 @@ version: '1.97'
 stars: 2.7
 ratings: 
 reviews: 
-size: 
 website: https://global.bitexen.com/
 repository: 
 issue: 

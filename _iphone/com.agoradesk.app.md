@@ -12,7 +12,6 @@ updated: 2024-05-30
 version: 1.1.39
 stars: 4.6
 reviews: 20
-size: '53563392'
 website: https://agoradesk.com
 repository: 
 issue: 

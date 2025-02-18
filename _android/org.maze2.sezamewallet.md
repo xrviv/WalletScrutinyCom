@@ -12,7 +12,6 @@ version: 0.15.5
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://sezame.app
 repository: 
 issue: 

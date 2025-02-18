@@ -1,6 +1,6 @@
 ---
 wsId: Forexcom
-title: FX & CFD Trading App FOREX.com
+title: CFD & Forex Trading FOREX.com
 altTitle: 
 authors:
 - danny
@@ -13,7 +13,6 @@ version: '1.210'
 stars: 3.7
 ratings: 392
 reviews: 26
-size: 
 website: https://www.forex.com
 repository: 
 issue: 

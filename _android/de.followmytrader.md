@@ -13,7 +13,6 @@ version: 3.1.1
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://followmymoney.de
 repository: 
 issue: 

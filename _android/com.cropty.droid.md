@@ -13,7 +13,6 @@ version: 2.4.2
 stars: 4.2
 ratings: 
 reviews: 39
-size: 
 website: https://www.cropty.io/
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: '1.1'
 stars: 3.2
 ratings: 
 reviews: 
-size: 
 website: https://tarmex.io
 repository: 
 issue: 

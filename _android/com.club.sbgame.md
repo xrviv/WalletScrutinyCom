@@ -13,16 +13,15 @@ version: '8.0'
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://sbgame.club
 repository: 
 issue: 
 icon: com.club.sbgame.jpg
 bugbounty: 
-meta: stale
+meta: removed
 verdict: nobtc
 appHashes: 
-date: 2024-03-30
+date: 2025-02-04
 signer: 
 reviewArchive: 
 twitter: sbg_global

@@ -13,7 +13,6 @@ version: 1.0.6
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://gcox.com
 repository: 
 issue: 

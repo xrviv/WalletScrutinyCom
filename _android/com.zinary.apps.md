@@ -12,7 +12,6 @@ version: 0.28.7
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://zinary.com
 repository: 
 issue: 

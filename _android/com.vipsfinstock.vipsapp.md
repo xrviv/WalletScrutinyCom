@@ -13,7 +13,6 @@ version: 1.7.6
 stars: 4.2
 ratings: 
 reviews: 2
-size: 
 website: https://www.vipsfinstock.com
 repository: 
 issue: 

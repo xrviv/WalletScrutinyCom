@@ -13,7 +13,6 @@ version: 1.6.1
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://www.therocktrading.com
 repository: 
 issue: 

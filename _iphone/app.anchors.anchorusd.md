@@ -6,13 +6,12 @@ authors:
 - danny
 appId: app.anchors.anchorusd
 appCountry: us
-idd: 1495986023
+idd: '1495986023'
 released: 2020-01-30
 updated: 2025-01-15
 version: 1.20.19
 stars: 4.3
-reviews: 5297
-size: '84964352'
+reviews: 5299
 website: https://www.tryanchor.com/
 repository: 
 issue: 

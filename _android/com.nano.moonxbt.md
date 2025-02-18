@@ -13,7 +13,6 @@ version: 5.4.3
 stars: 4.3
 ratings: 481
 reviews: 23
-size: 
 website: https://www.moonxbt.com
 repository: 
 issue: 

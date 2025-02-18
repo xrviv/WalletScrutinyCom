@@ -13,7 +13,6 @@ version: 1.6.6
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://obsidiam.com/
 repository: 
 issue: 

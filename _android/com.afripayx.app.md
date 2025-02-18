@@ -12,16 +12,15 @@ version: 1.0.0
 stars: 3.9
 ratings: 
 reviews: 
-size: 
 website: 
 repository: 
 issue: 
 icon: com.afripayx.app.png
 bugbounty: 
-meta: obsolete
+meta: removed
 verdict: fewusers
 appHashes: 
-date: 2024-04-10
+date: 2025-02-04
 signer: 
 reviewArchive: 
 twitter: 

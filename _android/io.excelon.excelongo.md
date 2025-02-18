@@ -13,7 +13,6 @@ version: 1.0.76
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://excelon.money
 repository: 
 issue: 

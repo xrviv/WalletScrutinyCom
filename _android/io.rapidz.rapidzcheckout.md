@@ -12,16 +12,15 @@ version: 1.3.0
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://www.rapidz.io/
 repository: 
 issue: 
 icon: io.rapidz.rapidzcheckout.png
 bugbounty: 
-meta: ok
+meta: stale
 verdict: fewusers
 appHashes: 
-date: 2022-07-31
+date: 2025-02-04
 signer: 
 reviewArchive: 
 twitter: 

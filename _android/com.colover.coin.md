@@ -13,7 +13,6 @@ version: 1.13.0
 stars: 
 ratings: 
 reviews: 
-size: 
 website: http://www.colover.com/
 repository: 
 issue: 

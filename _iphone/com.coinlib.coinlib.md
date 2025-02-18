@@ -12,7 +12,6 @@ updated: 2018-07-30
 version: '1.0'
 stars: 3.7
 reviews: 11
-size: '70871040'
 website: https://coinlib.io
 repository: 
 issue: 

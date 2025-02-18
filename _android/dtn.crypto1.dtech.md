@@ -13,7 +13,6 @@ version: 1.0.2
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://bisnis188.tech
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 1.8.9
 stars: 
 ratings: 
 reviews: 
-size: 
 website: 
 repository: 
 issue: 

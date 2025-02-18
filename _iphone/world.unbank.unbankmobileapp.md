@@ -8,11 +8,10 @@ appId: world.unbank.unbankmobileapp
 appCountry: us
 idd: '1587374229'
 released: 2022-05-03
-updated: 2025-01-28
-version: 2.9.2
+updated: 2025-02-14
+version: 2.9.5
 stars: 4
-reviews: 37
-size: '149473280'
+reviews: 40
 website: https://www.unbank.com/
 repository: 
 issue: 

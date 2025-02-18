@@ -13,7 +13,6 @@ version: '1.4'
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://mobilinktoken.com/
 repository: 
 issue: 

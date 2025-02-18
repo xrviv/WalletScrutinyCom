@@ -12,7 +12,6 @@ updated: 2021-12-18
 version: '4.0'
 stars: 5
 reviews: 1
-size: '38275072'
 website: https://www.uzyth.com/
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 3.1.0
 stars: 3.4
 ratings: 
 reviews: 1
-size: 
 website: https://swiftcoin.io/
 repository: 
 issue: 

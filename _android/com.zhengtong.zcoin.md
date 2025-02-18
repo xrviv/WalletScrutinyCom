@@ -13,7 +13,6 @@ version: 2.0.8
 stars: 2.9
 ratings: 
 reviews: 18
-size: 
 website: https://www.ztb.im/
 repository: 
 issue: 

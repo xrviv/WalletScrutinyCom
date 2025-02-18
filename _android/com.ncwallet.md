@@ -4,16 +4,15 @@ title: 'NC Wallet: Crypto Without Fees'
 altTitle: 
 authors:
 - danny
-users: 500000
+users: 1000000
 appId: com.ncwallet
 appCountry: 
 released: 2022-10-18
 updated: 2025-01-09
 version: 1.0.707
-stars: 4.1
+stars: 4
 ratings: 
-reviews: 458
-size: 
+reviews: 467
 website: https://ncwallet.net
 repository: 
 issue: 

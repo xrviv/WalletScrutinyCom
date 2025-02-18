@@ -12,7 +12,6 @@ updated: 2023-03-08
 version: 1.2.7
 stars: 0
 reviews: 0
-size: '33190912'
 website: https://gwallet.tech/
 repository: 
 issue: 

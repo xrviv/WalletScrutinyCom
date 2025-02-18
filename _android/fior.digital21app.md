@@ -13,7 +13,6 @@ version: 2.0.36
 stars: 4.8
 ratings: 
 reviews: 
-size: 
 website: https://21bitcoin.app/
 repository: 
 issue: 

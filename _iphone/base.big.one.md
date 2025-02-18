@@ -5,13 +5,12 @@ altTitle:
 authors: 
 appId: base.big.one
 appCountry: us
-idd: 1485385044
+idd: '1485385044'
 released: 2019-11-06
-updated: 2025-01-28
-version: 2.5.300
+updated: 2025-02-11
+version: 2.5.310
 stars: 4.4
 reviews: 112
-size: '174553088'
 website: http://www.bigone.com
 repository: 
 issue: 

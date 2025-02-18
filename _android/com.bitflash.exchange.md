@@ -13,7 +13,6 @@ version: '4.0'
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://bitflash.io
 repository: 
 issue: 

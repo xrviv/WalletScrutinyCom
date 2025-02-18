@@ -13,7 +13,6 @@ version: 2.0.23
 stars: 2.7
 ratings: 
 reviews: 4
-size: 
 website: https://gethashwallet.com
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 1.1.2
 stars: 4.4
 ratings: 
 reviews: 
-size: 
 website: https://www.tomya.com/
 repository: 
 issue: 

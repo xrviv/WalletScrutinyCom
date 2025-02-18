@@ -13,7 +13,6 @@ version: 2.15.52
 stars: 4.6
 ratings: 231
 reviews: 40
-size: 
 website: https://saltlending.com
 repository: 
 issue: 

@@ -6,13 +6,12 @@ authors:
 - danny
 appId: com.app.bitnob
 appCountry: us
-idd: 1513951003
+idd: '1513951003'
 released: 2020-05-29
 updated: 2024-08-26
 version: '1.187'
 stars: 4.4
-reviews: 74
-size: '101830656'
+reviews: 77
 website: https://bitnob.com
 repository: 
 issue: 

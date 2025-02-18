@@ -12,7 +12,6 @@ updated: 2024-09-04
 version: 3.1.1
 stars: 0
 reviews: 0
-size: '20125696'
 website: https://www.crypto2cash.com/
 repository: 
 issue: 

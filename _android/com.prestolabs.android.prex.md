@@ -1,6 +1,6 @@
 ---
 wsId: 
-title: Flipster - Trade BTC & TRUMP
+title: Flipster - Trade BTC & SOL
 altTitle: 
 authors:
 - danny
@@ -8,12 +8,11 @@ users: 500000
 appId: com.prestolabs.android.prex
 appCountry: 
 released: 2022-11-18
-updated: 2025-01-24
-version: 2.3.107
+updated: 2025-02-13
+version: 2.6.104
 stars: 2.9
 ratings: 
 reviews: 66
-size: 
 website: https://flipster.io
 repository: 
 issue: 

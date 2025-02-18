@@ -12,7 +12,6 @@ updated: 2024-02-28
 version: 2.6.7
 stars: 5
 reviews: 1
-size: '73273344'
 website: https://www.headline.net/
 repository: 
 issue: 

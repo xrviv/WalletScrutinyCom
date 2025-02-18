@@ -13,7 +13,6 @@ version: v1.46.0
 stars: 2.8
 ratings: 
 reviews: 17
-size: 
 website: https://lbfinanzas.com
 repository: 
 issue: 

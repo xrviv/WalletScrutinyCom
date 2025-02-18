@@ -13,7 +13,6 @@ version: 3.25.2
 stars: 2.3
 ratings: 
 reviews: 
-size: 
 website: https://www.sbivc.co.jp/
 repository: 
 issue: 

@@ -11,8 +11,7 @@ released: 2014-09-22
 updated: 2024-12-11
 version: 5.0.5
 stars: 4.2
-reviews: 307
-size: '34009088'
+reviews: 306
 website: https://www.coincorner.com
 repository: 
 issue: 

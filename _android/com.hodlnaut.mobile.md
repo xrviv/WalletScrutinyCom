@@ -13,7 +13,6 @@ version: 1.4.15
 stars: 4.3
 ratings: 
 reviews: 76
-size: 
 website: https://www.hodlnaut.com
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 5.12.1
 stars: 3.6
 ratings: 771
 reviews: 5
-size: 
 website: https://www.chiliz.net
 repository: 
 issue: 

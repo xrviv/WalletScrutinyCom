@@ -12,7 +12,6 @@ updated: 2025-01-23
 version: 1.7.20
 stars: 4.9
 reviews: 98
-size: '258444288'
 website: https://www.ixfi.com/landing
 repository: 
 issue: 

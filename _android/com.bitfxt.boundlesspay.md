@@ -13,7 +13,6 @@ version: 2.3.6
 stars: 4.4
 ratings: 
 reviews: 13
-size: 
 website: https://boundlesspay.com
 repository: 
 issue: 

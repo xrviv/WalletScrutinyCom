@@ -6,13 +6,12 @@ authors:
 - danny
 appId: com.GCBuying.GCBuying
 appCountry: ng
-idd: 1574175142
+idd: '1574175142'
 released: 2021-06-30
 updated: 2024-09-22
 version: 1.1.0
 stars: 4
 reviews: 107
-size: '42362880'
 website: https://gcbuying.com/
 repository: 
 issue: 

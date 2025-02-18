@@ -13,7 +13,6 @@ version: 5.9.1_push_v2
 stars: 4
 ratings: 
 reviews: 
-size: 
 website: 
 repository: 
 issue: 

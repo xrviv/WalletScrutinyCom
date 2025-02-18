@@ -13,7 +13,6 @@ version: 2.0.64
 stars: 2.9
 ratings: 
 reviews: 58
-size: 
 website: https://www.lanistar.com
 repository: 
 issue: 

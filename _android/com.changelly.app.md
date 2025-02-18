@@ -9,12 +9,11 @@ users: 500000
 appId: com.changelly.app
 appCountry: 
 released: 2018-08-28
-updated: 2025-01-10
-version: 3.33.0
-stars: 4.6
+updated: 2025-02-16
+version: 3.35.0
+stars: 4.7
 ratings: 5008
-reviews: 995
-size: 
+reviews: 1037
 website: https://changelly.com/
 repository: 
 issue: 

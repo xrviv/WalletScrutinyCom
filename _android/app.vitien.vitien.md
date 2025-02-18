@@ -13,7 +13,6 @@ version: V2.11.1.1142
 stars: 
 ratings: 
 reviews: 
-size: 
 website: https://www.vi-tien.net/
 repository: 
 issue: 

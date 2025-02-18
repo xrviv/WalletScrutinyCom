@@ -13,7 +13,6 @@ version: 1.0.6
 stars: 2.2
 ratings: 
 reviews: 7
-size: 
 website: https://tidex.com
 repository: 
 issue: 

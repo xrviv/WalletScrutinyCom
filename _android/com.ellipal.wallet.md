@@ -14,7 +14,6 @@ version: 4.5.1
 stars: 4.1
 ratings: 933
 reviews: 508
-size: 
 website: http://www.ellipal.com
 repository: 
 issue: 

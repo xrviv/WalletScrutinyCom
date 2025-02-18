@@ -10,10 +10,9 @@ appCountry:
 released: 2022-02-08
 updated: 2024-04-24
 version: 2.0.4
-stars: 4
+stars: 3.9
 ratings: 
-reviews: 11
-size: 
+reviews: 12
 website: https://xfun.io
 repository: 
 issue: 

@@ -1,6 +1,6 @@
 ---
 wsId: coinbaseBSB
-title: 'Coinbase: Buy Bitcoin & Ether'
+title: 'Coinbase: Buy BTC, ETH, SOL'
 altTitle: 
 authors:
 - leo
@@ -8,12 +8,11 @@ users: 10000000
 appId: com.coinbase.android
 appCountry: 
 released: 2013-03-01
-updated: 2025-01-24
-version: 13.2.6
-stars: 4.6
+updated: 2025-02-06
+version: 13.4.11
+stars: 4.5
 ratings: 666901
-reviews: 107264
-size: 
+reviews: 108078
 website: https://coinbase.com/
 repository: 
 issue: 
@@ -35,7 +34,7 @@ redirect_from:
 - /com.coinbase.android/
 - /posts/2019/10/coinbase/
 - /posts/com.coinbase.android/
-developerName: Coinbase Android
+developerName: Coinbase Inc
 features: 
 
 ---

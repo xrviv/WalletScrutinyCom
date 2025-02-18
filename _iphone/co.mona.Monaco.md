@@ -6,13 +6,12 @@ authors:
 - leo
 appId: co.mona.Monaco
 appCountry: 
-idd: 1262148500
+idd: '1262148500'
 released: 2017-08-31
-updated: 2025-01-22
-version: '3.203'
+updated: 2025-02-13
+version: 3.204.12
 stars: 4.6
-reviews: 286093
-size: '668386304'
+reviews: 290808
 website: https://crypto.com/
 repository: 
 issue: 

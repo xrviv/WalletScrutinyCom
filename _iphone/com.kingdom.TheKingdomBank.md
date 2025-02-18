@@ -12,7 +12,6 @@ updated: 2024-11-05
 version: 8.5.3
 stars: 0
 reviews: 0
-size: '35601408'
 website: https://portal.thekingdombank.com/signup
 repository: 
 issue: 

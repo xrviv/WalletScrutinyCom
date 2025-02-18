@@ -13,7 +13,6 @@ version: 4.0.1
 stars: 3.9
 ratings: 
 reviews: 
-size: 
 website: https://24paybank.net/
 repository: 
 issue: 

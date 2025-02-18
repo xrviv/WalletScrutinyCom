@@ -13,7 +13,6 @@ version: 1.27.8
 stars: 4.6
 ratings: 
 reviews: 
-size: 
 website: https://www.anycoin.cz
 repository: 
 issue: 

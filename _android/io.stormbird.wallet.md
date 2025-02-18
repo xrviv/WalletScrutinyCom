@@ -13,7 +13,6 @@ version: '3.87'
 stars: 4.5
 ratings: 247
 reviews: 46
-size: 
 website: https://alphawallet.com/
 repository: 
 issue: 

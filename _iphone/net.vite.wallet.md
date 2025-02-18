@@ -12,16 +12,15 @@ updated: 2024-03-22
 version: 5.0.0
 stars: 4.2
 reviews: 76
-size: '58832896'
 website: https://vite.org
 repository: 
 issue: 
 icon: net.vite.wallet.jpg
 bugbounty: 
-meta: ok
+meta: removed
 verdict: nobtc
 appHashes: 
-date: 2023-12-15
+date: 2025-02-04
 signer: 
 reviewArchive: 
 twitter: vitelabs

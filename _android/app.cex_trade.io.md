@@ -13,7 +13,6 @@ version: '1.1'
 stars: 4.4
 ratings: 
 reviews: 7
-size: 
 website: https://cex-trade.io
 repository: 
 issue: 

@@ -13,7 +13,6 @@ version: 1.0-prod2
 stars: 3.5
 ratings: 
 reviews: 60
-size: 
 website: https://theblackwallstreet.com
 repository: 
 issue: 

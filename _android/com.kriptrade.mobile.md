@@ -13,7 +13,6 @@ version: 3.0.7
 stars: 4.1
 ratings: 
 reviews: 
-size: 
 website: https://kriptrade.com
 repository: 
 issue: 

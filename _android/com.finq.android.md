@@ -13,7 +13,6 @@ version: 2.11.1
 stars: 2.7
 ratings: 
 reviews: 5
-size: 
 website: http://www.finq.com
 repository: 
 issue: 

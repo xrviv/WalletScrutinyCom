@@ -12,7 +12,6 @@ updated: 2025-01-23
 version: 4.12.0
 stars: 4.2
 reviews: 50
-size: '109863936'
 website: https://wallet.coinex.com/
 repository: 
 issue: 

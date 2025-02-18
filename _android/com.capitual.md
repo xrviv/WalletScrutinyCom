@@ -13,16 +13,15 @@ version: 3.44.6
 stars: 3.5
 ratings: 
 reviews: 6
-size: 
 website: https://capitual.com
 repository: 
 issue: 
 icon: com.capitual.png
 bugbounty: 
-meta: stale
+meta: removed
 verdict: custodial
 appHashes: 
-date: 2024-10-02
+date: 2025-02-04
 signer: 
 reviewArchive: 
 twitter: capitual

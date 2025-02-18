@@ -14,7 +14,6 @@ version: 2.6.3
 stars: 4.1
 ratings: 821
 reviews: 132
-size: 
 website: http://splashfactory.com
 repository: 
 issue: 
