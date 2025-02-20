@@ -6,7 +6,7 @@ authors:
 released: 2025-02-20
 discontinued: 
 updated: 2025-02-20
-version: 
+version: 1.0.7
 binaries: https://github.com/andreasgriffin/bitcoin-safe/releases
 provider: Andreas Griffin
 providerWebsite: https://bitcoin-safe.org
