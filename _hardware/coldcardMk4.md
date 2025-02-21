@@ -8,7 +8,7 @@ authors:
 - keraliss
 released: 2022-05-01
 discontinued: 
-updated: 2024-09-12
+updated: 2025-02-13
 version: v5.4.1
 binaries: https://coldcard.com/downloads/
 dimensions:
@@ -31,7 +31,7 @@ verdict: reproducible
 appHashes:
 - eb750a4f095eacc6133b2c8b38fe0738a22b2496a6cdf423ca865acde8c9bc4e
 - ab115260a6bd8728f1e81cf27b4dad8d6947b496abaa7810e89fe484c273fb94
-date: 2025-01-02
+date: 2025-02-21
 signer: 
 reviewArchive:
 - date: 2024-01-02
