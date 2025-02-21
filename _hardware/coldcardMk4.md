@@ -132,7 +132,7 @@ You have built a bit-for-bit identical copy of Coldcard firmware for v5.4.1
 The most pertinent portion of the results:
 
 ```
-YYou have built a bit-for-bit identical copy of Coldcard firmware for v5.4.1
+You have built a bit-for-bit identical copy of Coldcard firmware for v5.4.1
 + set +ex
 
 Hash of non-signature parts downloaded/compiled:
