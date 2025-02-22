@@ -26,14 +26,12 @@ issue: https://github.com/trezor/trezor-firmware/issues/4586
 icon: trezorSafe3.png
 bugbounty: https://trezor.io/learn/a/how-to-report-an-issue
 meta: ok
-verdict: reproducible
+verdict: nonverifiable
 appHashes:
-- 38ebb96d4f0cfd36e28b82480a021d62832c3e72c6577d52f9bc92d12c0466cf  
-- e19a2be8b201d46e8099f092c9c9dc898b6931f02ea6a27babe4296ee5650765  
-- 9b2365d76045a02d77714827d311bd8f9c6a47f346224f313d258d7ec4881c46  
-- e19a2be8b201d46e8099f092c9c9dc898b6931f02ea6a27babe4296ee5650765   
-- 9b2365d76045a02d77714827d311bd8f9c6a47f346224f313d258d7ec4881c46
-date: 2025-02-05
+- 38ebb96d4f0cfd36e28b82480a021d62832c3e72c6577d52f9bc92d12c0466cf  # bootloader (both regular and bitcoinonly)
+- e19a2be8b201d46e8099f092c9c9dc898b6931f02ea6a27babe4296ee5650765  # regular firmware
+- 9b2365d76045a02d77714827d311bd8f9c6a47f346224f313d258d7ec4881c46  # bitcoinonly firmware
+date: 2025-02-22
 signer: 
 reviewArchive:
 - date: 2024-10-11
@@ -57,7 +55,7 @@ features:
 
 ---
 
-## Updated Review 2025-01-31
+## Updated Review 2025-02-22
 
 We were able to create a script for the Trezor Safe 3 with the build instruction, that would automate the process.
 
@@ -72,22 +70,33 @@ e19a2be8b201d46e8099f092c9c9dc898b6931f02ea6a27babe4296ee5650765  build/core-R/f
 38ebb96d4f0cfd36e28b82480a021d62832c3e72c6577d52f9bc92d12c0466cf  build/core-R-bitcoinonly/bootloader/bootloader.bin
 9b2365d76045a02d77714827d311bd8f9c6a47f346224f313d258d7ec4881c46  build/core-R-bitcoinonly/firmware/firmware.bin
 
-Bootloader verification:
-38ebb96d4f0cfd36e28b82480a021d62832c3e72c6577d52f9bc92d12c0466cf  build/core-R-bitcoinonly/bootloader/bootloader.bin
-38ebb96d4f0cfd36e28b82480a021d62832c3e72c6577d52f9bc92d12c0466cf  build/core-R/bootloader/bootloader.bin
-b61302de04ceb96dbe4bd06f9e0251e985ff701f15ec1fa2ae226b3424ab25a0  ../trezor-t2b1-bootloader-2.1.4.bin
-
 Comparing hashes of zeroed binaries with built firmware:
 9b2365d76045a02d77714827d311bd8f9c6a47f346224f313d258d7ec4881c46  build/core-R-bitcoinonly/firmware/firmware.bin
 9b2365d76045a02d77714827d311bd8f9c6a47f346224f313d258d7ec4881c46  trezor-t2b1-2.8.7-bitcoinonly.bin.zeroed
 e19a2be8b201d46e8099f092c9c9dc898b6931f02ea6a27babe4296ee5650765  build/core-R/firmware/firmware.bin
 e19a2be8b201d46e8099f092c9c9dc898b6931f02ea6a27babe4296ee5650765  trezor-t2b1-2.8.7.bin.zeroed
 ```
+In the development of the Trezor Safe 3 firmware version 2.8.7, we encountered a significant bootloader verification challenge:
 
-In the development of the Trezor Safe 3 firmware for version 2.8.7, we encountered an intriguing bootloader discrepancy. While the changelog references a bootloader version 2.1.8, we could not locate the corresponding bootloader file in the repositories. The current testing script defaulted to using a 2.1.4 bootloader.
-Interestingly, the built bootloader hashes for both the regular and Bitcoin-only firmware variants are identical. However, when comparing the built bootloader hash (38ebb96d4f0cfd36e28b82480a021d62832c3e72c6577d52f9bc92d12c0466cf) with the downloaded 2.1.4 bootloader hash (b61302de04ceb96dbe4bd06f9e0251e985ff701f15ec1fa2ae226b3424ab25a0), a clear mismatch emerges.
+The changelog indicates firmware 2.8.7 includes bootloader version 2.1.8. When building from firmware 2.8.7 (core/v2.8.7), the embedded bootloader produces a hash:
+```
+38ebb96d4f0cfd36e28b82480a021d62832c3e72c6577d52f9bc92d12c0466cf
+```
 
-**Version 2.8.7 of the {{ page.title }} is reproducible**.
+But when building bootloader 2.1.8 directly (core/bl2.1.8) with the command `./build-docker.sh --models R --targets bootloader core/bl2.1.8` , we get a different hash:
+```
+Fingerprints:
+75916751a87fc9f1cb9ffabc26965c30ba751bcc4a50740d1e300657c71d2ebb build/core-R/bootloader/bootloader.bin
+75916751a87fc9f1cb9ffabc26965c30ba751bcc4a50740d1e300657c71d2ebb build/core-R-bitcoinonly/bootloader/bootloader.bin
+
+```
+
+The hash mismatch between the firmware-embedded bootloader and our directly built bootloader raises some uncertainties about reproducibility. Without detailed documentation of Trezor’s bootloader signing process or access to their signed bootloader binaries, it’s challenging to determine whether this difference is due to signing, build parameters, or other factors.  
+
+While the firmware itself appears reproducible (as the zeroed firmware hashes match), verifying the bootloader remains inconclusive. This highlights the potential benefit of more transparency around the bootloader build and signing process.
+
+
+**Version 2.8.7 of the {{ page.title }} is non-verifiable**.
 
 
 ## Updated Review 2024-10-11
