@@ -19,7 +19,7 @@ issue:
 icon: world.bitkey.app.png
 bugbounty: 
 meta: ok
-verdict: wip
+verdict: nonverifiable
 appHashes:
 - 3850818298d2c8f13eb42c38b2fac7f9c46a3047bb8c99c26a1f03901ac097b4
 - 782c20f09f9ced07b5b933dc3f7cdc22c1de2e9723a52e8c62b480fa5c6e1438
@@ -312,7 +312,7 @@ Next, we then had problems with the segment of the script that looks for aapt2. 
 	  </application>
     ```
 
-### diffo-base.apk 
+### diffo-base.apk - non-reproducible
 
 - In base.apk, we note: 
   - We note the minor diff in AndroidManifest.xml:
@@ -339,114 +339,127 @@ Next, we then had problems with the segment of the script that looks for aapt2. 
       $ dexdump -d built-classes2.dex/classes2.dex > built_classes2.txt
       $ diffoscope --html diffo-classes2.dex.html built_classes2.txt ../../from-device/normalized-names/play_classes2.txt
       ```
-      We come up with: {% include diffoscope-modal.html label='classes2.dex' url='/assets/diffoscope-results/android/world.bitkey.app/2025.1.1/diffo-classes2.dex.html' %} 
+      We come up with the diffoscope results in [diffo-classes2.dex.html](../../assets/diffoscope-results/android/world.bitkey.app/2025.1.1/diffo-classes2.dex.html)
+    
+    - We also note some differences in splits0.xml:
+      - `<entry·key="he"·split="config.he"/>`
+      - `<entry·key="in"·split="config.in"/>` in from-device but in locally-built, it is `<entry·key="id"·split="config.id"/>`
 
+### diffo-en.apk - reproducible
 
-<hr />
+- In en.apk, we note:
+  - We note signing-related differences, including stamp-cert-sha256
+  - We note the minor diff in AndroidManifest.xml, present in from-device but not in locally-built:
+    
+    ```
+    <meta-data·android:name="com.android.vending.derived.apk.id"·android:value="3"/>	 
+	  ··</application>
+    ```
 
-## Version 2024.74.1 (1)
+- Using a different approach with `apktool`, we note that no differences are observed between the from-device and locally-built en.apk.
 
-We used **Bitkey's own [verification script](https://github.com/proto-at-block/bitkey/blob/main/app/verifiable-build/android/verification/verify-android-apk)** to verify the build. This process requires a phone connected via USB to the build computer.
+    ```
+    $ apktool d en.apk -o en_decoded
+    I: Using Apktool 2.7.0-dirty on en.apk
+    I: Loading resource table...
+    I: Decoding AndroidManifest.xml with resources...
+    I: Loading resource table from file: /home/dannybuntu/.local/share/apktool/framework/1.apk
+    I: Regular manifest package...
+    I: Decoding file-resources...
+    I: Decoding values */* XMLs...
+    I: Copying assets and libs...
+    I: Copying unknown files...
+    I: Copying original files...
+    dannybuntu@MS-7978:~/work/builds/world.bitkey.app/2025.1.1/bitkey/verify-apk/locally-built/normalized-names$ cd ../../from-device/normalized-names/
+    dannybuntu@MS-7978:~/work/builds/world.bitkey.app/2025.1.1/bitkey/verify-apk/from-device/normalized-names$ apktool d en.apk -o en_decoded
+    I: Using Apktool 2.7.0-dirty on en.apk
+    I: Loading resource table...
+    I: Decoding AndroidManifest.xml with resources...
+    I: Loading resource table from file: /home/dannybuntu/.local/share/apktool/framework/1.apk
+    I: Regular manifest package...
+    I: Decoding file-resources...
+    I: Decoding values */* XMLs...
+    I: Copying assets and libs...
+    I: Copying unknown files...
+    I: Copying original files...
+    dannybuntu@MS-7978:~/work/builds/world.bitkey.app/2025.1.1/bitkey/verify-apk/from-device/normalized-names$ cd ../..
+    dannybuntu@MS-7978:~/work/builds/world.bitkey.app/2025.1.1/bitkey/verify-apk$ diff -r from-device/normalized-names/en_decoded/res locally-built/normalized-names/en_decoded/res
+    dannybuntu@MS-7978:~/work/builds/world.bitkey.app/2025.1.1/bitkey/verify-apk$
+    ```
 
-We see in the sub-script [**normalize-apk-content**](https://github.com/proto-at-block/bitkey/blob/2c0dd04b9b434ae1d36747128471b26622f182c6/app/verifiable-build/android/verification/steps/normalize-apk-content#L26) that Bitkey excludes these signing-related files from comparison:
+### diffo-xxhdpi.apk - reproducible
 
-```
-incomparable_files=(
-    "AndroidManifest.xml"
-    "stamp-cert-sha256"
-    "BNDLTOOL.RSA"
-    "BNDLTOOL.SF"
-    "MANIFEST.MF"
-    "EMERGENC.RSA"
-    "EMERGENC.SF"
-)
-```
+- In xxhdpi.apk, we note:
+  - In AndroidManifest.xml, we see the expected diff:
 
-Files matching `\*/res/xml/splits\*.xml` are also excluded as seen in line 32 of **[normalize-apk-content](https://github.com/proto-at-block/bitkey/blob/2c0dd04b9b434ae1d36747128471b26622f182c6/app/verifiable-build/android/verification/steps/normalize-apk-content#L32)**
+    ```
+    <meta-data·android:name="com.android.vending.derived.apk.id"·android:value="3"/>	 
+	  ··</application>
+    ```
+  - We also observe the expected 'stamp-cert-sha256' difference.
+  - Resources.arsc: 
 
-## Successful Build
+    ```
+    000012d0:·676c·6500·0202·1000·4802·0000·0800·0400··gle.....H.......	000012d0:·676c·6500·0202·1000·4802·0000·0800·0000··gle.....H.......
+    ```
+- Using another method with `apktool`, we note that no differences are observed between the from-device and locally-built xxhdpi.apk not seen by using diffoscope.
 
-[View on asciinema](https://asciinema.org/a/694658)
+    ```
+    dannybuntu@MS-7978:~/work/builds/world.bitkey.app/2025.1.1/bitkey/verify-apk$ apktool d from-device/normalized-names/xxhdpi.apk -o from-device/normalized-names/xxhdpi_decoded
+    I: Using Apktool 2.7.0-dirty on xxhdpi.apk
+    I: Loading resource table...
+    I: Decoding AndroidManifest.xml with resources...
+    I: Loading resource table from file: /home/dannybuntu/.local/share/apktool/framework/1.apk
+    I: Regular manifest package...
+    I: Decoding file-resources...
+    I: Decoding values */* XMLs...
+    I: Copying assets and libs...
+    I: Copying unknown files...
+    I: Copying original files...
+    dannybuntu@MS-7978:~/work/builds/world.bitkey.app/2025.1.1/bitkey/verify-apk$ apktool d locally-built/normalized-names/xxhdpi.apk -o locally-built/normalized-names/xxhdpi_decoded
+    I: Using Apktool 2.7.0-dirty on xxhdpi.apk
+    I: Loading resource table...
+    I: Decoding AndroidManifest.xml with resources...
+    I: Loading resource table from file: /home/dannybuntu/.local/share/apktool/framework/1.apk
+    I: Regular manifest package...
+    I: Decoding file-resources...
+    I: Decoding values */* XMLs...
+    I: Copying assets and libs...
+    I: Copying unknown files...
+    I: Copying original files...
+    dannybuntu@MS-7978:~/work/builds/world.bitkey.app/2025.1.1/bitkey/verify-apk$ diff -r from-device/normalized-names/xxhdpi_decoded/ locally-built/normalized-names/xxhdpi_decoded/
+    diff -r from-device/normalized-names/xxhdpi_decoded/AndroidManifest.xml locally-built/normalized-names/xxhdpi_decoded/AndroidManifest.xml
+    1,4c1,2
+    < <?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:splitTypes="base__density" package="world.bitkey.app" split="config.xxhdpi">
+    <     <application android:extractNativeLibs="false" android:hasCode="false">
+    <         <meta-data android:name="com.android.vending.derived.apk.id" android:value="3"/>
+    <     </application>
+    ---
+    > <?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="world.bitkey.app" split="config.xxhdpi">
+    >     <application android:extractNativeLibs="false" android:hasCode="false"/>
+    diff -r from-device/normalized-names/xxhdpi_decoded/apktool.yml locally-built/normalized-names/xxhdpi_decoded/apktool.yml
+    14,15c14
+    < unknownFiles:
+    <   stamp-cert-sha256: '8'
+    ---
+    > unknownFiles: {}
+    Binary files from-device/normalized-names/xxhdpi_decoded/original/AndroidManifest.xml and locally-built/normalized-names/xxhdpi_decoded/original/AndroidManifest.xml differ
+    Only in from-device/normalized-names/xxhdpi_decoded/original: META-INF
+    Only in from-device/normalized-names/xxhdpi_decoded/original: stamp-cert-sha256
+    Only in from-device/normalized-names/xxhdpi_decoded/: unknown
+    dannybuntu@MS-7978:~/work/builds/world.bitkey.app/2025.1.1/bitkey/verify-apk$ diff -r from-device/normalized-names/xxhdpi_decoded/res locally-built/normalized-names/xxhdpi_decoded/res
+    dannybuntu@MS-7978:~/work/builds/world.bitkey.app/2025.1.1/bitkey/verify-apk$
+    ```
 
-## Diffs
+## Conclusion
 
-`$ diff -r from-device/comparable/ locally-built/comparable/`
+- We combined two approaches to verify the build:
+  - The approach based on bitkey's own script 
+  - The approach based on `apktool` and `diffoscope`
+  - We observe that bitkey's script's output indicated the main difference between classes.dex and classes2.dex.
+  - Expected diffs are found in AndroidManifest.xml, stamp-cert-sha256, and resources.arsc. 
+  - 3 of the split apks have minor diffs that qualify each to be reproducible: xxhdpi.apk, en.apk, and arm64_v8a.apk. 
+  - However, the diffs in base.apk, which is the main apk, are more significant and thus not reproducible.
 
-```
-Binary files from-device/comparable/base/assets/dexopt/baseline.prof and locally-built/comparable/base/assets/dexopt/baseline.prof differ
-Binary files from-device/comparable/base/classes2.dex and locally-built/comparable/base/classes2.dex differ
-Binary files from-device/comparable/base/classes.dex and locally-built/comparable/base/classes.dex differ
-Binary files from-device/comparable/base/resources.arsc and locally-built/comparable/base/resources.arsc differ
-Binary files from-device/comparable/en/resources.arsc and locally-built/comparable/en/resources.arsc differ
-Binary files from-device/comparable/xxhdpi/resources.arsc and locally-built/comparable/xxhdpi/resources.arsc differ
-```
+In summation, both the bitkey approach and ours come to an agreement that version 2025.1.1 is **not verifiable**  
 
-### base.apk
-
-```
-$ diff -r from-device/comparable/base loc ally-built/comparable/base
-Binary files from-device/comparable/base/assets/dexopt/baseline.prof and locally-built/comparable/base/assets/dexopt/baseline.prof differ
-Binary files from-device/comparable/base/classes2.dex and locally-built/comparable/base/classes2.dex differ
-Binary files from-device/comparable/base/classes.dex and locally-built/comparable/base/classes.dex differ
-Binary files from-device/comparable/base/resources.arsc and locally-built/comparable/base/resources.arsc differ 
-```
-
-Diffoscope results for {% include diffoscope-modal.html label='classes2.dex' url='/assets/diffoscope-results/android/world.bitkey.app/2024.74.1.1/base/classes2.dex.html' %}
-
-Diffoscope results for {% include diffoscope-modal.html label='classes.dex' url='/assets/diffoscope-results/android/world.bitkey.app/2024.74.1.1/base/classes.dex.html' %}
-
-
-`$ diff -r from-device/unpacked locally-built/unpacked`
-
-```
-Binary files from-device/unpacked/arm64_v8a/AndroidManifest.xml and locally-built/unpacked/arm64_v8a/AndroidManifest.xml differ
-Only in from-device/unpacked/arm64_v8a: META-INF
-Only in from-device/unpacked/arm64_v8a: stamp-cert-sha256
-Binary files from-device/unpacked/base/AndroidManifest.xml and locally-built/unpacked/base/AndroidManifest.xml differ
-Binary files from-device/unpacked/base/assets/dexopt/baseline.prof and locally-built/unpacked/base/assets/dexopt/baseline.prof differ
-Binary files from-device/unpacked/base/classes2.dex and locally-built/unpacked/base/classes2.dex differ
-Binary files from-device/unpacked/base/classes.dex and locally-built/unpacked/base/classes.dex differ
-Binary files from-device/unpacked/base/res/xml/splits0.xml and locally-built/unpacked/base/res/xml/splits0.xml differ
-Binary files from-device/unpacked/base/resources.arsc and locally-built/unpacked/base/resources.arsc differ
-Only in from-device/unpacked/base: stamp-cert-sha256
-Binary files from-device/unpacked/en/AndroidManifest.xml and locally-built/unpacked/en/AndroidManifest.xml differ
-Only in from-device/unpacked/en: META-INF
-Binary files from-device/unpacked/en/resources.arsc and locally-built/unpacked/en/resources.arsc differ
-Only in from-device/unpacked/en: stamp-cert-sha256
-Binary files from-device/unpacked/xxhdpi/AndroidManifest.xml and locally-built/unpacked/xxhdpi/AndroidManifest.xml differ
-Only in from-device/unpacked/xxhdpi: META-INF
-Binary files from-device/unpacked/xxhdpi/resources.arsc and locally-built/unpacked/xxhdpi/resources.arsc differ
-Only in from-device/unpacked/xxhdpi: stamp-cert-sha256
-```
-
-`$ diff -r from-device/normalized-names locally-built/normalized-names`
-
-## Verdict
-
-Similar to the previous version, this version has a verdict of **not verifiable**.
-
-```
-Binary files from-device/normalized-names/arm64_v8a.apk and locally-built/normalized-names/arm64_v8a.apk differ
-Binary files from-device/normalized-names/base.apk and locally-built/normalized-names/base.apk differ
-Binary files from-device/normalized-names/en.apk and locally-built/normalized-names/en.apk differ
-Binary files from-device/normalized-names/xxhdpi.apk and locally-built/normalized-names/xxhdpi.apk differ
-```
-
-## For archival purposes:
-
-### From device APK checksums:
-
-```
-b7d9b4829f6296a7c01ee789e10cf4fad4b1bf514f8f2fafd2844ca129d57c91  base.apk
-e81e73a66e18e53eb8be2eadfee9fb901c5554ed1ba5cc92466e04aeeed41d19  split_config.arm64_v8a.apk
-221ddbe7796a123c565a002e2bf0356a4d2d4098a8a58f415d25e852d6300d1e  split_config.en.apk
-a6a40e592bafb2c58c92491a9fd27107a018cc1add4013754e54f7187a9eb404  split_config.xxhdpi.apk
-```
-
-### Locally built APK checksums:
-
-```
-75231c06bae15ce51167b68b483b9ffde702c8a7ff0728e37fad8b84e2c32b5b  base-arm64_v8a.apk
-6af1a20c2d7b9370f6409ced1a9b33fd441d03d4b47d7b3a901f645b297d9046  base-en.apk
-b433801ca76ff773e839ca7a2c0473bc0a729c252c815f2bd4f5ec839331e412  base-master.apk
-6f95117f4940e34eaa1dbc151e78b721d1691ccaa01f2b538a11712c37a316ee  base-xxhdpi.apk
