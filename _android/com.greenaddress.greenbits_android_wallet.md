@@ -17,7 +17,7 @@ ratings: 946
 reviews: 139
 website: https://blockstream.com/green
 repository: https://github.com/Blockstream/green_android
-issue: https://github.com/Blockstream/green_android/issues/189
+issue: https://github.com/Blockstream/green_android/issues/253
 icon: com.greenaddress.greenbits_android_wallet.png
 bugbounty: 
 meta: ok
