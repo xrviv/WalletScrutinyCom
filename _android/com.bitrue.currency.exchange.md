@@ -9,10 +9,10 @@ appId: com.bitrue.currency.exchange
 appCountry: 
 released: 2018-07-18
 updated: 2025-02-28
-version: 6.0.13
+version: 6.0.15
 stars: 4.1
 ratings: 2703
-reviews: 666
+reviews: 667
 website: https://www.bitrue.com/
 repository: 
 issue: 

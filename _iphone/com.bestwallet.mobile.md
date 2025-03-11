@@ -10,8 +10,8 @@ idd: '6451312105'
 released: 2023-08-02
 updated: 2025-02-25
 version: 2.5.1
-stars: 4.6
-reviews: 2384
+stars: 4.5
+reviews: 2431
 website: https://bestwallet.com/
 repository: 
 issue: 

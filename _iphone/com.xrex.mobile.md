@@ -8,8 +8,8 @@ appId: com.xrex.mobile
 appCountry: in
 idd: 1482096895
 released: 2020-02-19
-updated: 2025-02-13
-version: 2.1.480
+updated: 2025-03-06
+version: 2.1.522
 stars: 5
 reviews: 9
 website: https://xrex.io/

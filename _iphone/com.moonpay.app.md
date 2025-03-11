@@ -10,8 +10,8 @@ idd: '1635031432'
 released: 2023-04-17
 updated: 2025-02-28
 version: 1.14.93
-stars: 4.4
-reviews: 2870
+stars: 4.3
+reviews: 2880
 website: https://www.moonpay.com
 repository: 
 issue: 

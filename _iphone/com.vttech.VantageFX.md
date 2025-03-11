@@ -11,7 +11,7 @@ released: 2019-07-20
 updated: 2025-03-03
 version: 3.56.0
 stars: 4.8
-reviews: 54
+reviews: 55
 website: https://www.vantagemarkets.com/
 repository: 
 issue: 

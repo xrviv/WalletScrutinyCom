@@ -9,7 +9,7 @@ appId: net.bitstamp.app
 appCountry: 
 released: 2019-01-29
 updated: 2025-02-28
-version: 4.4.2
+version: '4.5'
 stars: 4.6
 ratings: 11088
 reviews: 639

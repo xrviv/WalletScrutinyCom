@@ -12,7 +12,7 @@ updated: 2025-03-02
 version: 1.1.0
 stars: 4
 ratings: 
-reviews: 108
+reviews: 107
 website: https://bitpin.ir
 repository: 
 issue: 

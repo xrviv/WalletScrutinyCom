@@ -3,11 +3,11 @@ wsId:
 title: Cypher Box
 altTitle: 
 authors:
-- danny 
+- danny
 users: 50
 appId: io.cypherbox.btc
 appCountry: 
-released: Jan 17, 2025
+released: 2025-01-17
 updated: 2025-02-04
 version: 0.0.2
 stars: 
@@ -26,7 +26,7 @@ signer:
 reviewArchive: 
 twitter: Cypher_Box
 social:
-- https://t.me/cypher_box 
+- https://t.me/cypher_box
 redirect_from: 
 developerName: Cypher Box LLC
 features: 

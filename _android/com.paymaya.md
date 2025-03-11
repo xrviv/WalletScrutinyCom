@@ -8,11 +8,11 @@ users: 10000000
 appId: com.paymaya
 appCountry: 
 released: 2016-06-05
-updated: 2025-01-31
+updated: 2025-02-20
 version: 2.127.0
 stars: 4
 ratings: 
-reviews: 1024
+reviews: 1028
 website: https://www.paymaya.com/
 repository: 
 issue: 

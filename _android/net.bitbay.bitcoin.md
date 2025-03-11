@@ -10,7 +10,7 @@ appCountry:
 released: 2018-11-19
 updated: 2025-01-31
 version: 1.1.46
-stars: 3
+stars: 2.9
 ratings: 1131
 reviews: 15
 website: https://zondacrypto.com

@@ -12,7 +12,7 @@ updated: 2025-03-03
 version: 3.1.5
 stars: 4.3
 ratings: 105
-reviews: 219
+reviews: 221
 website: https://www.bitcoindepot.com/
 repository: 
 issue: 

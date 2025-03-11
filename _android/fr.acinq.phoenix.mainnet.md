@@ -22,7 +22,7 @@ icon: fr.acinq.phoenix.mainnet.png
 bugbounty: 
 meta: ok
 verdict: reproducible
-appHashes: 
+appHashes:
 - fd10bba28a3236a50f045c34dff182716d0e2f37f8512c5269e521c01f6aa571
 date: 2025-03-10
 signer: ed550bd5d607d342b61bbbbb94ffd4dde43f845171f63d3ae47573a95a132629
