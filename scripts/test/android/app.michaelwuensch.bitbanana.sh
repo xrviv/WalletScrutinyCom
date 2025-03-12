@@ -28,31 +28,6 @@ ls -lh bundletool*.jar
 # Create directory where the apks will be placed
 mkdir -p ./reproducible-builds/apks/built-apks
 
-# Check if deviceSpec is set and file exists
-if [ -n "$deviceSpec" ] && [ -f "$deviceSpec" ]; then
-  echo "Found device-spec.json at $deviceSpec"
-  cp "$deviceSpec" ./device-spec.json
-else
-  echo "deviceSpec variable not set or file not found"
-  
-  # Try workDir as fallback
-  if [ -f "$workDir/device-spec.json" ]; then
-    echo "Found device-spec.json at $workDir/device-spec.json"
-    cp "$workDir/device-spec.json" ./device-spec.json
-  else
-    echo "Creating a basic device-spec.json file..."
-    cat > ./device-spec.json <<EOF
-{
-  "supportedAbis": ["armeabi-v7a"],
-  "supportedLocales": ["en"],
-  "screenDensity": 280,
-  "sdkVersion": 31
-}
-EOF
-    echo "Created device-spec.json with default values"
-  fi
-fi
-
 # Verify device-spec.json exists
 if [ ! -f ./device-spec.json ]; then
   echo "Error: Failed to create or copy device-spec.json"
