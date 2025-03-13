@@ -21,7 +21,7 @@ shop: https://shop.onekey.so/products/onekey-pro
 country: CN
 price: 270USD
 repository: https://github.com/OneKeyHQ/firmware-pro
-issue: 
+issue: https://github.com/OneKeyHQ/firmware-pro/issues/238
 icon: onekey.pro.png
 bugbounty: https://github.com/OneKeyHQ/app-monorepo/blob/onekey/docs/BUG_RULES.md
 meta: ok
@@ -198,12 +198,9 @@ We got this output:
 +000003f0: 9330 fc0c 2386 c1b7 1c16 8f36 7a7b 0557  .0..#......6z{.W
 ```
 
-From the diff analysis, we found significant differences from the very beginning of the file:
+From the diff analysis, we found significant differences:
 
-
-The header analysis shows fundamentally different structure, including:
-
-1. Different header versions/flags (`OKTV 000a` vs `OKTV 0006`)
+1. The header analysis shows fundamentally different structure, including different header versions/flags (`OKTV 000a` vs `OKTV 0006`)
 2. There is a significant difference related to timestamps
 ```
 -00000120: 1fc6 5a83 989c aa4f 3e09 7046 6a3f 82b5  ..Z....O>.pFj?..
