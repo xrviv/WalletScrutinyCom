@@ -18,7 +18,7 @@ ratings: 26
 reviews: 25
 website: https://nunchuk.io
 repository: https://github.com/nunchuk-io/nunchuk-android
-issue: https://github.com/nunchuk-io/nunchuk-android/issues/23
+issue: https://github.com/nunchuk-io/nunchuk-android/issues/23#issuecomment-2723364936
 icon: io.nunchuk.android.png
 bugbounty: 
 meta: ok
@@ -294,6 +294,8 @@ Only in /tmp/test_io.nunchuk.android_1.9.64/fromPlay-unzipped/xhdpi: stamp-cert-
 ## Analysis 
 
 In stark contrast to version **1.9.62**, version **1.9.64** has a lot of diffs particularly in the main apk file `base.apk`. While we investigate the root cause of this, we determine version **1.9.64** to be **nonverifiable**.
+
+We updated the [existing issue](https://github.com/nunchuk-io/nunchuk-android/issues/23#issuecomment-2723364936) with this new information.
 
 
 ## App Description
