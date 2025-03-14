@@ -12,7 +12,7 @@ released: 2021-12-16
 updated: 2025-02-28
 version: 1.9.72
 stars: 4.8
-reviews: 219
+reviews: 220
 website: https://nunchuk.io
 repository: 
 issue: https://github.com/nunchuk-io/nunchuk-mobile-issues/issues/5

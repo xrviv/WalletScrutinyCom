@@ -11,7 +11,7 @@ released: 2019-03-23
 updated: 2025-03-10
 version: 25.11.3
 stars: 4.6
-reviews: 26687
+reviews: 26726
 website: https://exodus.com/mobile
 repository: 
 issue: 

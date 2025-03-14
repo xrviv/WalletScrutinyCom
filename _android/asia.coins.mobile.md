@@ -10,7 +10,7 @@ appCountry:
 released: 2014-10-01
 updated: 2025-03-11
 version: 7.9.2.2
-stars: 3.4
+stars: 3.3
 ratings: 109535
 reviews: 538
 website: https://coins.ph

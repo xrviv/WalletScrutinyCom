@@ -1,6 +1,6 @@
 ---
 wsId: tabtrader
-title: TabTrader Buy & Trade Bitcoin
+title: TabTrader - crypto terminal
 altTitle: 
 authors:
 - leo
@@ -10,7 +10,7 @@ users: 1000000
 appId: com.tabtrader.android
 appCountry: 
 released: 2014-08-14
-updated: 2024-11-27
+updated: 2025-03-12
 version: 7.3.0
 stars: 3.9
 ratings: 57218

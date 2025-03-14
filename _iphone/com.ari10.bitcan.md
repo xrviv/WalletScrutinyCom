@@ -11,7 +11,7 @@ released: 2022-07-19
 updated: 2025-03-10
 version: 2.0.0
 stars: 4.6
-reviews: 126
+reviews: 127
 website: https://ari10.com/exchange
 repository: 
 issue: 

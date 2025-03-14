@@ -13,7 +13,7 @@ version: 3.0.18
 stars: 3
 ratings: 
 reviews: 457
-website: https://ugly.cash
+website: https://uglycash.app/
 repository: 
 issue: 
 icon: rsv.walletapp.reserve.png

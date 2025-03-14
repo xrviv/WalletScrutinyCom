@@ -11,7 +11,7 @@ released: 2020-05-20
 updated: 2025-03-10
 version: 2.09.0
 stars: 4.7
-reviews: 12210
+reviews: 12231
 website: https://crypto.com/onchain
 repository: 
 issue: 

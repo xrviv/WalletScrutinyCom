@@ -13,7 +13,7 @@ updated: 2025-03-06
 version: 15.9.3
 stars: 4.2
 ratings: 18096
-reviews: 263
+reviews: 262
 website: https://coin98.com/
 repository: 
 issue: 

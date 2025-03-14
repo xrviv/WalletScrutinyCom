@@ -12,7 +12,7 @@ updated: 2025-03-03
 version: 0.6.29
 stars: 3.8
 ratings: 5009
-reviews: 10198
+reviews: 10209
 website: http://eversend.co
 repository: 
 issue: 

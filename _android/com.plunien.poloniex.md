@@ -10,7 +10,7 @@ appCountry:
 released: 2017-06-19
 updated: 2025-02-19
 version: 2.12.0
-stars: 3.1
+stars: 3
 ratings: 7425
 reviews: 236
 website: https://support.poloniex.com/

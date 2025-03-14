@@ -9,10 +9,10 @@ appId: atws.app
 appCountry: us
 released: 2010-12-15
 updated: 2025-03-06
-version: 8.4.821
+version: 8.4.829
 stars: 4.6
 ratings: 7723
-reviews: 1310
+reviews: 1312
 website: http://ibkr.com
 repository: 
 issue: 

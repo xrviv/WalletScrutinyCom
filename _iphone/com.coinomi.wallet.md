@@ -12,7 +12,7 @@ updated: 2025-02-23
 version: 1.50.3
 stars: 4.5
 reviews: 1940
-website: https://www.coinomi.com
+website: https://www.coinomi.com/en/about/
 repository: 
 issue: 
 icon: com.coinomi.wallet.jpg
@@ -29,7 +29,7 @@ social:
 - https://www.facebook.com/coinomi
 - https://www.reddit.com/r/COINOMI
 features: 
-developerName: Coinomi Limited
+developerName: Loksias SA
 
 ---
 
