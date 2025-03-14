@@ -19,9 +19,9 @@ issue:
 icon: br.com.peerbr.png
 bugbounty: 
 meta: ok
-verdict: wip
+verdict: nowallet
 appHashes: 
-date: 2024-11-29
+date: 2025-03-14
 signer: 
 reviewArchive: 
 twitter: 
@@ -36,11 +36,45 @@ features:
 
 ---
 
-## App Description from Google Play
+## Update 2025-03-14
 
-> PeerBR, a platform that belongs to the GCB Group, offers new economy assets and alternative investments, previously only available to institutional investors.
+## App Description from Google Play 
+
+The app description no longer mentions "cryptocurrencies" or "bitcoin"
+
+With no replies to any of our queries, we proceeded to make use of multiple tools including **Grok DeepSearch** and **ChatGPT Deep Research** to double-verify our findings.
+
+This statement from a [third-party related consumer website](https://www.reclameaqui.com.br/empresa/peerbr/faq/como-vender-as-criptomoedas_OOnW76Hxy3bnnwPi/) dated **December 13, 2023**, explains a lot: 
+
+> In order to be in regulatory compliance with our supervisory body (CVM), it was necessary to discontinue cryptocurrencies on the PeerBR platform. To sell cryptocurrencies, follow step by step:
+> 
+> 1. Log in to the PeerBR web platform (www.peerbr.com);
+> 
+> 2. Go to the "wallet" tab;
+> 
+> 3. Select the "cryptocurrencies" option";
+> 
+> 4. Each cryptocurrency that the user owns will have a sell button on the right side;
+> 
+> 5. Check the quotation and the amount that will be received;
+> 
+> 6. Confirm the sale.
+
+This was translated on page via a browser extension. The original text reads:
+
+> Para estarmos em conformidade regulatória com nosso órgão fiscalizador (CVM), foi preciso descontinuar com as criptomoedas na plataforma do PeerBR. Para venda das criptomoedas, segue passo à passo:
+> 
+> 1. Fazer login na plataforma web PeerBR (www.peerbr.com);
+> 
+> 2. Ir na aba "carteira";
 >
-> Assets of the new economy free of intermediaries such as Cryptocurrencies, Precatórios, Consortium Quotas and much more!
+> 3. Selecionar a opção "criptomoedas";
+> 
+> 4. Cada criptomoeda que o usuário possui, terá um botão vender ao lado direito;
+> 
+> 5. Verificar a cotação e o valor que vai ser recebido;
+
+For these reasons, we are giving this app a verdict of **not a wallet for any cryptocurrency**.
 
 ## Update 2024-11-28
 
