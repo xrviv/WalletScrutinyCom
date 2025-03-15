@@ -48,3 +48,5 @@ Wallet creation begins with app initialization. If the user selects "Create a wa
 The app's developers **did not make the source code available.**
 
 We did [not find any relevant GitHub repository](https://github.com/search?q=xyz.ctrl.wallet&type=code) containing the app ID.
+
+We also posted on [x.com](https://x.com/dannybuntu/status/1900819210101813276) to verify.

@@ -42,7 +42,7 @@ features:
 
 The app description no longer mentions "cryptocurrencies" or "bitcoin"
 
-With no replies to any of our queries, we proceeded to make use of multiple tools including **Grok DeepSearch** and **ChatGPT Deep Research** to double-verify our findings.
+With no replies to any of our queries, we double-checked our information using various sources.
 
 This statement from a [third-party related consumer website](https://www.reclameaqui.com.br/empresa/peerbr/faq/como-vender-as-criptomoedas_OOnW76Hxy3bnnwPi/) dated **December 13, 2023**, explains a lot: 
 
@@ -90,7 +90,7 @@ Translated using Google translate:
 
 What is not so clear is whether they provide something like an account to the users denominated in Bitcoin. We messaged them again, this time on LinkedIn. 
 
-For now this app still persists as a **work-in-progress**.
+For now this app still persists as a work-in-progress.
 
 ## Previous Analysis 2023-06-13
 
@@ -116,6 +116,6 @@ Redemptions follow banking hours (Business days, from 7:00 am to 4:30 pm).
 - Section 3.1 of the [Terms](https://static.peerbr.com/peerbr-site/documents/TermosdeUsoPeerBR2022.pdf) indicates that the platform is an intermediary institution that helps optimize trading.
 - Section 8.3, 8.4, and 10.5 of the same Terms, grants the provider the power to suspend, cancel, restrict or otherwise limit the access of any user from the platform. If the app has a wallet, this effectively means that it is possibly a custodial provider.
 - We decided to email them at the developer contact listed from their Facebook page: atendimento@peerbr.com.br
-- We'll keep this as a **work-in-progress** until more information is available.
+- We'll keep this as a work-in-progress until more information is available.
 
 **Update 2023-07-06** We also messaged them on Facebook and have not yet received a reply as of this date.
