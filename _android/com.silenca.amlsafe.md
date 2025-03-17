@@ -10,7 +10,7 @@ appCountry:
 released: 2020-10-26
 updated: 2025-02-04
 version: '2.25'
-stars: 4
+stars: 3.8
 ratings: 
 reviews: 2
 website: https://safe3.app/

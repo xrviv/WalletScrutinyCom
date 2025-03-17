@@ -1,6 +1,6 @@
 ---
 wsId: protonWallet
-title: Proton Wallet - Secure BTC
+title: 'Proton Wallet: secure Bitcoin'
 altTitle: 
 authors:
 - danny
@@ -10,7 +10,7 @@ appCountry:
 released: 2025-02-04
 updated: 2025-03-12
 version: 1.0.8
-stars: 4.1
+stars: 4.2
 ratings: 
 reviews: 6
 website: https://proton.me

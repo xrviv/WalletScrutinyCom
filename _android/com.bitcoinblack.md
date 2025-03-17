@@ -3,7 +3,7 @@ wsId: bblackCard
 title: bblack®
 altTitle: 
 authors:
-- danny 
+- danny
 users: 1000
 appId: com.bitcoinblack
 appCountry: 
@@ -26,7 +26,7 @@ signer:
 reviewArchive: 
 twitter: btc_blackcard
 social:
-- https://t.me/Bitcoin_Black_Card 
+- https://t.me/Bitcoin_Black_Card
 redirect_from: 
 developerName: North York LTD
 features: 

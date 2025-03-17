@@ -11,7 +11,7 @@ released: 2021-03-22
 updated: 2025-03-11
 version: 3.8.0+328
 stars: 4
-reviews: 62
+reviews: 61
 website: https://www.ejara.io
 repository: 
 issue: 

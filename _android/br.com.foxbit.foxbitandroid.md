@@ -12,7 +12,7 @@ updated: 2025-02-27
 version: 3.18.0
 stars: 4.2
 ratings: 6740
-reviews: 6205
+reviews: 6206
 website: http://www.foxbit.com.br
 repository: 
 issue: 

@@ -2959,7 +2959,20 @@
   },
   {
     "appId": "io.nunchuk.android",
-    "signer": "",
+    "signer": "79b1cd71de5f19c6236d4e3ef134b5b691cf051a138944bda01b640b3e9b1d42",
+    "version": "1.9.62",
+    "verdict": "reproducible",
+    "appHashes": [
+      "d2cdcf52e5534d91275f85abb465bfc076871812512256f8c9b51b1f4a8cb69b",
+      "e2ae9e4b88963e7142c80c02a2c49b417fa34fb1809f296452efd828928b0b22",
+      "698dd56861707684165d0dc39c6df73284a9cbadf867fd3accf8c6bf5cfdaaff"
+    ],
+    "date": "2025-03-04",
+    "platform": "android"
+  },
+  {
+    "appId": "io.nunchuk.android",
+    "signer": "79b1cd71de5f19c6236d4e3ef134b5b691cf051a138944bda01b640b3e9b1d42",
     "version": "1.9.59",
     "verdict": "nonverifiable",
     "appHashes": [
@@ -2972,7 +2985,7 @@
   },
   {
     "appId": "io.nunchuk.android",
-    "signer": "",
+    "signer": "79b1cd71de5f19c6236d4e3ef134b5b691cf051a138944bda01b640b3e9b1d42",
     "version": "1.9.58",
     "verdict": "nonverifiable",
     "appHashes": [
@@ -2985,7 +2998,7 @@
   },
   {
     "appId": "io.nunchuk.android",
-    "signer": "",
+    "signer": "79b1cd71de5f19c6236d4e3ef134b5b691cf051a138944bda01b640b3e9b1d42",
     "version": "1.9.53",
     "verdict": "nonverifiable",
     "appHashes": [

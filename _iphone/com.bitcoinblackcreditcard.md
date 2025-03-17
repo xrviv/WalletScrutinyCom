@@ -3,14 +3,14 @@ wsId: bblackCard
 title: bblack®
 altTitle: 
 authors:
-- danny 
+- danny
 appId: com.bitcoinblackcreditcard
 appCountry: us
 idd: '1639508257'
-released: '2022-09-15T07:00:00Z'
+released: 2022-09-15
 updated: 2025-02-07
 version: '3.3'
-stars: 4.33333
+stars: 4.3
 reviews: 6
 website: https://www.bblack.io/
 repository: 
@@ -25,7 +25,7 @@ signer:
 reviewArchive: 
 twitter: btc_blackcard
 social:
-- https://t.me/Bitcoin_Black_Card 
+- https://t.me/Bitcoin_Black_Card
 features: 
 developerName: North York Ltd
 

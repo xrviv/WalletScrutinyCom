@@ -3,7 +3,7 @@ wsId: ctrlWallet
 title: Ctrl Wallet
 altTitle: 
 authors:
-- danny 
+- danny
 users: 5000
 appId: xyz.ctrl.wallet
 appCountry: 
@@ -26,7 +26,7 @@ signer:
 reviewArchive: 
 twitter: ctrl_wallet
 social:
-- https://discord.gg/ctrlwallet 
+- https://discord.gg/ctrlwallet
 redirect_from: 
 developerName: Ctrl Wallet
 features: 

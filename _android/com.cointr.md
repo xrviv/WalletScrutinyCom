@@ -9,10 +9,10 @@ appId: com.cointr
 appCountry: 
 released: 2022-08-17
 updated: 2025-03-13
-version: 3.1.22
-stars: 3.4
+version: 3.1.23
+stars: 3.2
 ratings: 
-reviews: 6
+reviews: 5
 website: https://support.cointr.com
 repository: 
 issue: 

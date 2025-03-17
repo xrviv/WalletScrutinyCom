@@ -12,7 +12,7 @@ updated: 2025-03-09
 version: '1.25'
 stars: 3.7
 ratings: 8237
-reviews: 43
+reviews: 44
 website: https://www.bitexen.com
 repository: 
 issue: 

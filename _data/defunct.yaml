@@ -1,21 +1,3 @@
-2025-02-28:
-- _android/com.app.awqsome.ennowallet
-- _android/com.app.vptplus
-- _android/com.dcoin.exchange
-- _android/com.flitaa.app
-- _android/com.hi.dollars
-- _android/com.tomyaapp.android
-- _android/org.guapcoin.multiwallet
-- _android/ru.koshelek
-2025-03-01:
-- _android/com.bitpreco.bitprecoAppAndroid
-- _android/com.cushionlabs.acornbit.dev
-- _android/com.fatbtc.App
-- _android/com.glamster
-- _android/com.hustay.swing.db5b38e0a87a94b99bbbc57b40b315e89
-- _android/com.web.XFacia
-- _android/com.xcoex.mobile
-- _android/io.taptopay
 2025-03-04:
 - _android/com.coincatch.exchange
 - _android/com.cryptex24
@@ -42,3 +24,11 @@
 - _android/com.keystone.mobile
 - _android/com.trade.tech.android
 - _android/io.timexapp
+2025-03-17:
+- _iphone/ai.blockbank.blockbankv2
+- _android/com.exolix.app
+- _android/com.ultorexapp.io
+- _iphone/com.btc-alpha
+- _iphone/com.coinmena.coinmenaapp
+- _iphone/com.plunien.app.Poloniex
+- _iphone/net.novawallet.ios

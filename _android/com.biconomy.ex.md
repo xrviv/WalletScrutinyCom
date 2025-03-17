@@ -1,6 +1,6 @@
 ---
 wsId: biconomy
-title: 'Biconomy: Bitcoin, ETH &Crypto'
+title: Biconomy-Buy Bitcoin & Crypto
 altTitle: 
 authors:
 - danny

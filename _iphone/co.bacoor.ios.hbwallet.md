@@ -8,10 +8,10 @@ appId: co.bacoor.ios.hbwallet
 appCountry: us
 idd: '1273639572'
 released: 2017-08-23
-updated: 2025-02-13
-version: 4.5.0
+updated: 2025-03-15
+version: 4.7.0
 stars: 4.6
-reviews: 361
+reviews: 360
 website: https://hbwallet.app
 repository: 
 issue: 

@@ -12,7 +12,7 @@ updated: 2025-03-11
 version: 3.7.6
 stars: 4.7
 ratings: 
-reviews: 1756
+reviews: 1757
 website: https://simple.app/
 repository: 
 issue: 

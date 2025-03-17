@@ -4,7 +4,7 @@ title: 'Buenbit: Invierte en el futuro'
 altTitle: 
 authors:
 - danny
-users: 500000
+users: 1000000
 appId: com.buengroup.buenbit
 appCountry: 
 released: 2021-12-30

@@ -16,7 +16,7 @@ version: 0.10.0
 stars: 4.3
 ratings: 45
 reviews: 37
-website: https://zeusln.app
+website: https://zeusln.com
 repository: https://github.com/ZeusLN/zeus
 issue: 
 icon: app.zeusln.zeus.png

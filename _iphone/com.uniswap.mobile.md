@@ -11,7 +11,7 @@ released: 2023-04-12
 updated: 2025-03-10
 version: '1.47'
 stars: 4.8
-reviews: 15211
+reviews: 15243
 website: https://wallet.uniswap.org/
 repository: 
 issue: 
