@@ -3,7 +3,7 @@ wsId: hahaWallet
 title: 'HaHa Wallet: Invest Smarter'
 altTitle: 
 authors:
-- danny+ 
+- danny 
 users: 100000
 appId: com.permutize.haha
 appCountry: 
