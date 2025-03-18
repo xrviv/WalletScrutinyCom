@@ -17,7 +17,7 @@ shouldCleanup=false
 # Add known keys here to prevent warnings about different keys
 declare -A KNOWN_SIGNING_KEYS
 KNOWN_SIGNING_KEYS=(
-  ["https://github.com/mycelium-com/wallet-android.git"]="03E251875738A93483D75EC390B2F570DA9B91E4,F3D5955279F037DC269D548FBD2F4ED50B3D2E43"
+  ["https://github.com/mycelium-com/wallet-android.git"]="7518217F75E41FF378F081080C9027F3036DF75D"
   # Add more repositories and their known keys as needed
 )
 
@@ -30,21 +30,36 @@ add_known_key() {
   local key="$2"
   local scriptPath="$0"
   
+  # Validate inputs
+  if [ -z "$repo" ] || [ -z "$key" ]; then
+    echo "Error: Both repository URL and key are required"
+    echo "Usage: $0 --add-key \"repository-url\" \"key\""
+    return 1
+  fi
+  
+  # Escape special characters for grep
+  local repo_escaped=$(echo "$repo" | sed 's/[\/&]/\\&/g')
+  
   # Check if the repository and key already exist in KNOWN_SIGNING_KEYS
-  if grep -q "\\[\"$repo\"\\]" "$scriptPath"; then
+  if grep -q "\\[\"$repo_escaped\"\\]" "$scriptPath"; then
     # Repository exists, check if key is already in the list
-    keyPattern=$(grep -A 1 "\\[\"$repo\"\\]" "$scriptPath" | grep -o "\"[^\"]*\"")
-    if echo "$keyPattern" | grep -q "$key"; then
+    local repoLine=$(grep -n "\\[\"$repo_escaped\"\\]" "$scriptPath" | cut -d: -f1)
+    local valueLineno=$((repoLine + 0))
+    local valueLine=$(sed -n "${valueLineno}p" "$scriptPath")
+    
+    if echo "$valueLine" | grep -q "$key"; then
       echo "Key $key already exists for repository $repo"
       return 0
     fi
     
-    # Add key to existing repository
-    sed -i "/\\[\"$repo\"\\]/s/=\"\\(.*\\)\"/=\"\\1,$key\"/" "$scriptPath"
+    # Add key to existing repository - using # as delimiter to avoid issues with slashes in URLs
+    sed -i "${valueLineno}s#=\"\(.*\)\"#=\"\1,$key\"#" "$scriptPath"
     echo "Added key $key to repository $repo"
   else
     # Repository doesn't exist, add it with the key
-    sed -i "/^declare -A KNOWN_SIGNING_KEYS/a \\  [\"$repo\"]=\"$key\"" "$scriptPath"
+    # Insert after the opening parenthesis of the KNOWN_SIGNING_KEYS initialization
+    local knownKeysLine=$(grep -n "KNOWN_SIGNING_KEYS=(" "$scriptPath" | cut -d: -f1)
+    sed -i "${knownKeysLine}a \\  [\"$repo\"]=\"$key\"" "$scriptPath"
     echo "Added repository $repo with key $key"
   fi
 }
