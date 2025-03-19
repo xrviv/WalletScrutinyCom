@@ -3,16 +3,16 @@ wsId: hahaWallet
 title: 'HaHa Wallet: Invest Smarter'
 altTitle: 
 authors:
-- danny 
+- danny
 users: 100000
 appId: com.permutize.haha
 appCountry: 
-released: Nov 9, 2021
-updated: 2025-03-13
-version: 3.7.17
-stars: 4.6213593
+released: 2021-11-09
+updated: 2025-03-17
+version: 3.7.18
+stars: 4.7
 ratings: 
-reviews: 144
+reviews: 146
 website: https://www.haha.me
 repository: 
 issue: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: haha_app
 social:
 - https://www.linkedin.com/company/haha-app
-- https://discord.com/invite/MhPYjRQEa2 
+- https://discord.com/invite/MhPYjRQEa2
 redirect_from: 
 developerName: Permutize LLC
 features: 

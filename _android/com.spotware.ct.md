@@ -12,7 +12,7 @@ updated: 2025-03-13
 version: 5.2.110
 stars: 4.7
 ratings: 
-reviews: 276
+reviews: 277
 website: https://ctrader.com/forum
 repository: 
 issue: 

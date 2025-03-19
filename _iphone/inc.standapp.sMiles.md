@@ -11,7 +11,7 @@ released: 2020-12-18
 updated: 2025-03-10
 version: '10.1'
 stars: 4.5
-reviews: 4165
+reviews: 4167
 website: https://www.smilesbitcoin.com/
 repository: 
 issue: 

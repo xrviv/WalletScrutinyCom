@@ -10,7 +10,7 @@ appCountry:
 released: 2021-07-09
 updated: 2025-01-16
 version: '58'
-stars: 2.4
+stars: 2.3
 ratings: 
 reviews: 5
 website: https://black.com

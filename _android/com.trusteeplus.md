@@ -10,7 +10,7 @@ appCountry:
 released: 2022-07-01
 updated: 2025-03-13
 version: 1.32.7
-stars: 3.7
+stars: 3.6
 ratings: 
 reviews: 15
 website: https://trusteeglobal.com

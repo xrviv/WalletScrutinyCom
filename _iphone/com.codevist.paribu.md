@@ -11,7 +11,7 @@ released: 2019-05-29
 updated: 2025-03-17
 version: 5.0.23
 stars: 4.3
-reviews: 206
+reviews: 207
 website: https://www.paribu.com
 repository: 
 issue: 
