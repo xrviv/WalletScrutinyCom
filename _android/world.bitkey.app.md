@@ -15,7 +15,7 @@ ratings:
 reviews: 18
 website: https://bitkey.world
 repository: https://github.com/proto-at-block/bitkey
-issue: 
+issue: https://gitlab.com/walletscrutiny/walletScrutinyCom/-/issues/647
 icon: world.bitkey.app.png
 bugbounty: 
 meta: ok
@@ -463,3 +463,4 @@ Next, we then had problems with the segment of the script that looks for aapt2. 
 
 In summation, both the bitkey approach and ours come to an agreement that version 2025.1.1 is **not verifiable**  
 
+Standard procedure states that an issue must be filed with the provider, in the relevant repository. However, Bitkey's repository has its 'Issues' tab hidden, and thus we cannot post it there. We posted the [issue instead on WalletScrutiny's own repository.](https://gitlab.com/walletscrutiny/walletScrutinyCom/-/issues/647)
