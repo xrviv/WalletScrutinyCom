@@ -15,7 +15,7 @@ ratings:
 reviews: 18
 website: https://bitkey.world
 repository: https://github.com/proto-at-block/bitkey
-issue: 
+issue: https://gitlab.com/walletscrutiny/walletScrutinyCom/-/issues/647
 icon: world.bitkey.app.png
 bugbounty: 
 meta: ok
@@ -461,5 +461,8 @@ Next, we then had problems with the segment of the script that looks for aapt2. 
   - 3 of the split apks have minor diffs that qualify each to be reproducible: xxhdpi.apk, en.apk, and arm64_v8a.apk. 
   - However, the diffs in base.apk, which is the main apk, are more significant and thus not reproducible.
 
-In summation, both the bitkey approach and ours come to an agreement that version 2025.1.1 is **not verifiable**  
+In summation, both the bitkey approach and ours come to an agreement that version 2025.1.1 is **not verifiable**
 
+Standard procedure states that an issue must be filed with the provider in the relevant repository. However, Bitkey's repository has its 'Issues' tab hidden, and thus we cannot post it there. 
+
+We are posting the [issue in our own repository](https://gitlab.com/walletscrutiny/walletScrutinyCom/-/issues/647) instead.
