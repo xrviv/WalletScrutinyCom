@@ -8,10 +8,10 @@ appId: com.xt.app
 appCountry: us
 idd: '1556596708'
 released: 2021-03-08
-updated: 2025-02-20
-version: 4.85.0
-stars: 4
-reviews: 547
+updated: 2025-03-13
+version: 4.87.1
+stars: 4.1
+reviews: 645
 website: https://www.xt.com
 repository: 
 issue: 

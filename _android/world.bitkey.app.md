@@ -8,9 +8,9 @@ users: 5000
 appId: world.bitkey.app
 appCountry: US
 released: 2024-02-28
-updated: 2025-02-26
-version: 2025.1.1 (1)
-stars: 4.1
+updated: 2025-03-17
+version: 2025.2.0 (4)
+stars: 4.2
 ratings: 
 reviews: 18
 website: https://bitkey.world
@@ -461,6 +461,8 @@ Next, we then had problems with the segment of the script that looks for aapt2. 
   - 3 of the split apks have minor diffs that qualify each to be reproducible: xxhdpi.apk, en.apk, and arm64_v8a.apk. 
   - However, the diffs in base.apk, which is the main apk, are more significant and thus not reproducible.
 
-In summation, both the bitkey approach and ours come to an agreement that version 2025.1.1 is **not verifiable**  
+In summation, both the bitkey approach and ours come to an agreement that version 2025.1.1 is **not verifiable**
 
-Standard procedure states that an issue must be filed with the provider, in the relevant repository. However, Bitkey's repository has its 'Issues' tab hidden, and thus we cannot post it there. We posted the [issue instead on WalletScrutiny's own repository.](https://gitlab.com/walletscrutiny/walletScrutinyCom/-/issues/647)
+Standard procedure states that an issue must be filed with the provider in the relevant repository. However, Bitkey's repository has its 'Issues' tab hidden, and thus we cannot post it there. 
+
+We are posting the [issue in our own repository](https://gitlab.com/walletscrutiny/walletScrutinyCom/-/issues/647) instead.
