@@ -126,49 +126,6 @@ Only in /tmp/test_app.michaelwuensch.bitbanana_0.9.2/fromPlay-unzipped/xhdpi: st
 - resource.arsc
 - stamp-cert-sha256
 
-## Diff Results Using BitBanana's Own Script '[Diff.py](https://github.com/michaelWuensch/BitBanana/blob/master/reproducible-builds/Diff.py)':
-
-```
-==============================================================
-BEGINNING BITBANANA'S OWN VERIFICATION PROCESS
-==============================================================
-
-Copying Play Store APKs from /var/shared/apk/app.michaelwuensch.bitbanana/0.9.2 to ./reproducible-builds/apks/playstore-apks/
-========================================
-Step 1: Executing MakeComparable.py to format output
-========================================
-This script:
-- Copies apks/ to extracted_apks/
-- Moves all .apk files from built-apks/splits to built-apks
-- Deletes now empty built-apks/splits folder and toc.pb
-- Renames built-apks/base-master.apk to base.apk
-- Renames other apks by replacing 'base' with 'split_config'
-- Extracts all apks and deletes the original apk files
-
-MakeComparable.py execution completed with status: 0
-MakeComparable.py completed successfully.
-
-==============================================
-Step 2: Running BitBanana's Diff.py comparison script
-==============================================
-This script compares the extracted APKs ignoring expected differences:
-- META-INF (signatures)
-- stamp-cert-sha256
-- unknown
-- AndroidManifest.xml
-- apktool.yml
-
-BitBanana's Diff.py output:
-----------------------------------------
-No differences found.
-----------------------------------------
-RESULT: VERIFIED - BitBanana's verification process found no unexpected differences!
-According to BitBanana's own verification process, the build is REPRODUCIBLE.
-
-==============================================================
-COMPLETED BITBANANA'S OWN VERIFICATION PROCESS
-==============================================================
-
 ```
 ## Asciicast
 
@@ -176,7 +133,7 @@ COMPLETED BITBANANA'S OWN VERIFICATION PROCESS
 
 ## Analysis 
 
-The diffs are expected and minimal. Our findings match the findings of Bitbanana's own script. Both lead to the conclusion that version 0.9.2 is ** **.
+The diffs are expected and minimal. Our findings match the findings of Bitbanana's own script which we ran manually. Both lead to the conclusion that version 0.9.2 is functionally **reproducible**.
 
 ### Process
 
