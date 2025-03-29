@@ -3,11 +3,11 @@ wsId: bitGoHarbor
 title: Harbor - Crypto Wallet
 altTitle: 
 authors:
-- danny 
+- danny
 appId: com.bitgo.harbor
 appCountry: us
 idd: '1623903449'
-released: '2023-01-26T08:00:00Z'
+released: 2023-01-26
 updated: 2023-07-20
 version: 1.13.2
 stars: 5
@@ -26,7 +26,7 @@ reviewArchive:
 twitter: BitGo
 social:
 - https://www.youtube.com/channel/UC7ILbUGTCM83sdilLB8Qlmg
-- https://www.linkedin.com/company/bitgo-inc 
+- https://www.linkedin.com/company/bitgo-inc
 features: 
 developerName: BitGo
 

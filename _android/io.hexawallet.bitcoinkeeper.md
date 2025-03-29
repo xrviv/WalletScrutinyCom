@@ -1,5 +1,5 @@
 ---
-wsId: bitcoinKeeper
+wsId: bitcoinkeeper
 title: Bitcoin Keeper
 altTitle: 
 authors:
