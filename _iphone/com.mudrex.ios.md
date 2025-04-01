@@ -11,7 +11,7 @@ released: 2022-03-12
 updated: 2025-03-28
 version: '8.51'
 stars: 4.4
-reviews: 3407
+reviews: 3431
 website: https://mudrex.com/
 repository: 
 issue: 

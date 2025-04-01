@@ -12,7 +12,7 @@ updated: 2025-03-22
 version: 3.37.0
 stars: 3.9
 ratings: 5162
-reviews: 53
+reviews: 54
 website: https://bit2me.com
 repository: 
 issue: 

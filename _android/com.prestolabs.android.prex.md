@@ -12,7 +12,7 @@ updated: 2025-03-28
 version: 2.12.104
 stars: 3
 ratings: 
-reviews: 70
+reviews: 71
 website: https://flipster.io
 repository: 
 issue: 

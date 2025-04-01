@@ -11,7 +11,7 @@ updated: 2025-03-14
 version: 4.8.4
 stars: 4.4
 ratings: 
-reviews: 3
+reviews: 4
 website: 
 repository: 
 issue: 

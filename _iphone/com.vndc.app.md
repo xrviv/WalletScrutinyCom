@@ -1,6 +1,6 @@
 ---
 wsId: VNDCPro
-title: 'ONUS: Invest in BTC, ETH, LUNA'
+title: 'ONUS: Buy Bitcoin, PI & Crypto'
 altTitle: 
 authors:
 - danny
@@ -8,10 +8,10 @@ appId: com.vndc.app
 appCountry: us
 idd: 1498452975
 released: 2020-03-09
-updated: 2022-06-12
-version: 2.4.8
+updated: 2025-04-01
+version: 6.0.4
 stars: 4.7
-reviews: 913
+reviews: 1299
 website: https://goonus.io/en
 repository: 
 issue: 
@@ -26,7 +26,7 @@ reviewArchive:
 twitter: vncd_official
 social: 
 features: 
-developerName: 
+developerName: ONUS Finance UAB
 
 ---
 

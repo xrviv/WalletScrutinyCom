@@ -1,6 +1,6 @@
 ---
 wsId: phemex
-title: 'Phemex: Crypto & BTC Trading'
+title: 'Phemex: Buy Bitcoin & Crypto'
 altTitle: 
 authors:
 - kiwilamb
@@ -12,7 +12,7 @@ updated: 2025-03-26
 version: 5.5.46
 stars: 4.6
 ratings: 15997
-reviews: 1409
+reviews: 1410
 website: https://phemex.com
 repository: 
 issue: 

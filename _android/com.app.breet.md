@@ -31,7 +31,7 @@ social:
 - https://t.me/breetchannel
 - https://www.youtube.com/channel/UCyymPb01_pQF0JYj7l_YxxQ
 redirect_from: 
-developerName: Breet Technologies Limited
+developerName: Inbreetic Technologies Limited
 features: 
 
 ---

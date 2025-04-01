@@ -18,10 +18,10 @@ repository:
 issue: 
 icon: com.cloud.xmeta.png
 bugbounty: 
-meta: ok
+meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-12-08
+date: 2025-04-01
 signer: 
 reviewArchive: 
 twitter: XMetaOfficial

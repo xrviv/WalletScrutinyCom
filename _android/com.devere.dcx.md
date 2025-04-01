@@ -18,10 +18,10 @@ repository:
 issue: 
 icon: com.devere.dcx.png
 bugbounty: 
-meta: ok
+meta: stale
 verdict: nosendreceive
 appHashes: 
-date: 2025-01-15
+date: 2025-04-01
 signer: 
 reviewArchive: 
 twitter: deveregroup

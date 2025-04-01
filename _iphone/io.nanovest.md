@@ -8,10 +8,10 @@ appId: io.nanovest
 appCountry: us
 idd: '1580892310'
 released: 2021-12-20
-updated: 2024-09-23
-version: 3.17.0
-stars: 5
-reviews: 10
+updated: 2025-03-26
+version: 4.5.1
+stars: 4.7
+reviews: 14
 website: https://nanovest.io/
 repository: 
 issue: 

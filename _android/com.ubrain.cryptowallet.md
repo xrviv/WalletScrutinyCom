@@ -17,16 +17,16 @@ repository:
 issue: 
 icon: com.ubrain.cryptowallet.png
 bugbounty: 
-meta: ok
+meta: stale
 verdict: fewusers
 appHashes: 
-date: 2024-11-12
+date: 2025-04-01
 signer: 
 reviewArchive: 
 twitter: 
 social: 
 redirect_from: 
-developerName: Skyclones
+developerName: Mitul Bhadeshiya
 features: 
 
 ---

@@ -13,7 +13,7 @@ updated: 2024-06-11
 version: v1.0.14.12
 stars: 4
 ratings: 
-reviews: 2
+reviews: 
 website: https://ankerpay.com/mobile-wallet/
 repository: 
 issue: 

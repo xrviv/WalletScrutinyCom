@@ -11,7 +11,7 @@ released: 2019-05-11
 updated: 2025-03-01
 version: 3.16.2
 stars: 4.4
-reviews: 4109
+reviews: 4110
 website: https://www.bitwala.com
 repository: 
 issue: 

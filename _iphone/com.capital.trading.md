@@ -11,7 +11,7 @@ released: 2019-12-10
 updated: 2025-03-27
 version: 1.98.1
 stars: 4.5
-reviews: 305
+reviews: 306
 website: https://capital.com/
 repository: 
 issue: 

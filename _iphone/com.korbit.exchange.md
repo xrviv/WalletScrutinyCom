@@ -11,7 +11,7 @@ released: 2018-10-18
 updated: 2025-03-26
 version: 11.1.0
 stars: 2.5
-reviews: 611
+reviews: 614
 website: http://www.korbit.co.kr
 repository: 
 issue: 

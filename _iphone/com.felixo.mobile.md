@@ -17,10 +17,10 @@ repository:
 issue: 
 icon: com.felixo.mobile.jpg
 bugbounty: 
-meta: ok
+meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-10-08
+date: 2025-04-01
 signer: 
 reviewArchive: 
 twitter: felixoexchange

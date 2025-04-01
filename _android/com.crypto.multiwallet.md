@@ -9,7 +9,7 @@ users: 500000
 appId: com.crypto.multiwallet
 appCountry: 
 released: 2018-11-01
-updated: 2025-02-06
+updated: 2025-03-28
 version: 3.0.80
 stars: 3.3
 ratings: 3831

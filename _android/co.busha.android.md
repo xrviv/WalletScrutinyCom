@@ -4,15 +4,15 @@ title: 'Busha: Buy & Sell BTC, ETH'
 altTitle: 
 authors:
 - leo
-users: 100000
+users: 500000
 appId: co.busha.android
 appCountry: 
 released: 2019-01-21
-updated: 2024-02-01
-version: 6.5.2
-stars: 4.2
+updated: 2025-03-28
+version: 8.4.1
+stars: 4.4
 ratings: 3575
-reviews: 187
+reviews: 202
 website: https://busha.co
 repository: 
 issue: 

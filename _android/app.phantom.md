@@ -12,7 +12,7 @@ updated: 2025-03-26
 version: 25.11.0
 stars: 4.7
 ratings: 
-reviews: 1180
+reviews: 1194
 website: https://phantom.com/
 repository: 
 issue: 

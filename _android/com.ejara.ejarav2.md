@@ -8,7 +8,7 @@ users: 100000
 appId: com.ejara.ejarav2
 appCountry: 
 released: 2021-03-08
-updated: 2025-03-20
+updated: 2025-03-28
 version: 3.8.5
 stars: 4
 ratings: 

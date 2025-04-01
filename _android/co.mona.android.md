@@ -13,7 +13,7 @@ updated: 2025-03-26
 version: 3.207.01
 stars: 4.5
 ratings: 281384
-reviews: 53658
+reviews: 53687
 website: https://crypto.com/
 repository: 
 issue: 

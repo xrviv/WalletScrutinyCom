@@ -8,8 +8,8 @@ users: 5000000
 appId: com.bitso.wallet
 appCountry: 
 released: 2018-02-19
-updated: 2025-03-19
-version: 3.81.1
+updated: 2025-03-31
+version: 3.82.1
 stars: 4.4
 ratings: 40512
 reviews: 306

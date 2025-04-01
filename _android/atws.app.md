@@ -10,9 +10,9 @@ appCountry: us
 released: 2010-12-15
 updated: 2025-03-25
 version: 8.4.829
-stars: 4.6
+stars: 4.5
 ratings: 7723
-reviews: 1318
+reviews: 1319
 website: http://ibkr.com
 repository: 
 issue: 
