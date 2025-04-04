@@ -79,6 +79,8 @@ function getStatusText(status, short = false) {
 }
 
 window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256, hideConfig, showOnlyRows = 100, sortByVersion = false, enableSearch = false}) {
+  let hasAssets = false;
+
   response = await getAllAssetInformation({
     pubkey,
     appId,
@@ -124,7 +126,6 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
     document.getElementById(htmlElementId).appendChild(searchContainer);
   }
 
-  let hasAssets = false;
   let hasVerifications = false;
 
   const combinedItems = new Map([...response.verifications.entries(), ...response.assets.entries()]);
@@ -221,12 +222,8 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
       const platform = binary.tags.find(tag => tag[0] === 'platform')?.[1] || "";
 
       // Guess if it's an asset or a verification
-      const isAsset = binary.kind === assetRegistrationKind;
-      const itemDescription = isAsset ? binary.content : JSON.parse(binary.content).description;
-
-      if (isAsset) {
-        hasAssets = true;
-      }
+      hasAssets = binary.kind === assetRegistrationKind;
+      const itemDescription = hasAssets ? binary.content : JSON.parse(binary.content).description;
 
       let longStatus = null;
 
