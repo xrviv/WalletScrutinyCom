@@ -610,6 +610,27 @@ function setupAppIdAutocomplete() {
   });
 }
 
+function getStatusText(status, short = false) {
+  switch (status) {
+    case 'reproducible':
+      return 'Reproducible when tested';
+    case 'not_reproducible':
+      return short ? 'Not reproducible' : 'Not reproducible from source provided, or differences are significant';
+    case 'ftbfs':
+      return short ? 'Failed to build from source' : 'Failed to build from source provided';
+    case 'notag':
+      return short ? 'Git revision not clear' : 'The git revision to compile is not clear';
+    case 'nosource':
+      return short ? 'Source not found' : 'Source for this version was not found or repository was taken down';
+    case 'obfuscated':
+      return short ? 'Source obfuscated' : 'Source code is obfuscated';
+    case 'warning':
+      return 'Warning';
+    default:
+      return status;
+  }
+}
+
 function isDebug() {
   if (typeof window === 'undefined') {
     return false;
