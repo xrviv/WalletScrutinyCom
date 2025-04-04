@@ -10,6 +10,8 @@ A verification is a signed statement about a binary with a specific hash, declar
 - Build instructions or documentation used
 - The reproducer can update their replaceable verifications
 
+The user will be able to publish a verification directly or as a draft. In the latter case, it will not be displayed directly (only if users opt to view them), and it can be definitively published later.
+
 ### Trust Model
 Trust in verifications is built through:
 - Cross-verification: Other users verify verifications by following the same process
@@ -58,7 +60,7 @@ Trust in verifications is built through:
 ```json
 {
   "id":      "<verification-event-id>",
-  "kind":    30301,
+  "kind":    30301 / 10301,               // 30301 for final verifications, 10301 for drafts
   "tags":    [
     ["i",        "<product-id>"],         // app.zeusln.zeus
     ["version",  "<version>"],            // 1.2.3

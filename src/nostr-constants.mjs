@@ -18,6 +18,7 @@ export const nip89ClientTagD = '5985153332267';
 // Verifications
 export const assetRegistrationKind = isDebug() ? 1267 : 1063;
 export const verificationKind = isDebug() ? 32304 : 30301;
+export const verificationDraftKind = isDebug() ? 10901 : 10301;
 export const endorsementKind = isDebug() ? 30302 : 30302;
 
 export const verificationEventsSinceTS = isDebug() ? 1742220163 : 1742997262;

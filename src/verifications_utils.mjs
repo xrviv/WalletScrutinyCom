@@ -4,6 +4,7 @@ import DOMPurify from 'dompurify';
 import {
   assetRegistrationKind,
   verificationKind,
+  verificationDraftKind,
   endorsementKind,
   explicitRelayUrls,
   verificationEventsSinceTS,
@@ -69,8 +70,11 @@ const nostrConnect = async function (nostrPrivateKey) {
 }
 
 const getUserPubkey = async function() {
-  const signer = await nip07signer.user();
-  return signer.pubkey;
+  if (!ndk.signer) {
+    throw new Error("No signer available");
+  }
+  const user = await ndk.signer.user();
+  return user.pubkey;
 }
 
 const userHasBrowserExtension = function() {
@@ -185,7 +189,8 @@ const createVerification = async function ({
                                              appId,
                                              version,
                                              platform,
-                                             createdAt = null
+                                             createdAt = null,
+                                             isDraft = false
                                            }) {
   validateSHA256(hashes);
 
@@ -215,7 +220,7 @@ const createVerification = async function ({
   }
 
   const ndkEvent = new NDKEvent(ndk);
-  ndkEvent.kind = verificationKind;
+  ndkEvent.kind = isDraft ? verificationDraftKind : verificationKind;
   ndkEvent.created_at = getCreatedAt(createdAt);
   ndkEvent.content = JSON.stringify({
     description: description || '',
@@ -399,7 +404,7 @@ const getAllAssetInformation = async function({
 
 
   const filter_verifications = {
-    kinds: [verificationKind],  // TODO: Add endorsementKind
+    kinds: [verificationKind, verificationDraftKind],  // TODO: Add endorsementKind
   }
   if (months) {
     filter_verifications.since = getTimestampMonthsAgo(months);
@@ -424,10 +429,12 @@ const getAllAssetInformation = async function({
 
   const assets = Array.from(events).filter(event => event.kind === assetRegistrationKind && getFirstValueFromTag(event, 'client') === 'WalletScrutiny.com');
   const verifications = Array.from(events).filter(event => event.kind === verificationKind && getFirstValueFromTag(event, 'client') === 'WalletScrutiny.com');
+  const draftVerifications = Array.from(events).filter(event => event.kind === verificationDraftKind && getFirstValueFromTag(event, 'client') === 'WalletScrutiny.com');
   //const endorsements = Array.from(events).filter(event => event.kind === endorsementKind);
 
   const assetsMap = new Map();
   const verificationsMap = new Map();
+  const draftVerificationsMap = new Map();
   const endorsementsMap = new Map();
 
   assets.forEach(asset => {
@@ -450,6 +457,16 @@ const getAllAssetInformation = async function({
     }
   });
 
+  draftVerifications.forEach(draftVerification => {
+    const sha256FromEventTag = getFirstTag(draftVerification, 'x');
+    if (sha256FromEventTag) {
+      if (!draftVerificationsMap.has(sha256FromEventTag)) {
+        draftVerificationsMap.set(sha256FromEventTag, []);
+      }
+      draftVerificationsMap.get(sha256FromEventTag).push(draftVerification);
+    }
+  });
+
   /*
   endorsements.forEach(endorsement => {
     const verificationEventId = getFirstTag(endorsement, 'd');
@@ -467,6 +484,7 @@ const getAllAssetInformation = async function({
   return {
     assets: assetsMap,
     verifications: verificationsMap,
+    draftVerifications: draftVerificationsMap,
     endorsements: endorsementsMap
   };
 }
@@ -638,6 +656,64 @@ function isDebug() {
   return window.location.hostname.includes('localhost') || window.location.hostname.includes('beta') || window.location.hostname.includes('old');
 }
 
+const getDraftVerificationEvent = async function(draftVerificationEventId) {
+  return await ndk.fetchEvent(draftVerificationEventId);
+}
+
+const loadDraftVerificationsNotifications = async function () {
+  await nostrConnect();
+
+  const myPubkey = await getUserPubkey();
+  if (!myPubkey) {
+    console.error('No pubkey found');
+    return;
+  }
+
+  const result = await getAllAssetInformation({months: 3, pubkey: myPubkey}); // TODO: improve this to get only draft verifications?
+
+  let myDraftVerifications = [];
+
+  // Filter only verifications for this pubkey
+  for (const draftVerification of result.draftVerifications) {
+    const arrayDraftVerificationEventsForThisSha256 = draftVerification[1];
+
+    for (const draftVerificationEvent of arrayDraftVerificationEventsForThisSha256) {
+      if (draftVerificationEvent.pubkey === myPubkey) {
+        myDraftVerifications.push(draftVerificationEvent);
+      }
+    }
+  }
+
+  if (myDraftVerifications && myDraftVerifications.length > 0) {
+    myDraftVerifications.forEach(verification => {
+      const identifier = verification.tags?.find(tag => tag[0] === 'i')?.[1];
+      const wallet = window.wallets?.find(w => w.appId === identifier);
+      const walletTitle = wallet ? wallet.title : identifier;
+
+      const verificationDate = new Date(verification.created_at * 1000).toLocaleDateString(navigator.language, {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit'
+      });
+
+      const status = verification.tags.find(tag => tag[0] === 'status')?.[1] || '';
+      const statusIcon = '<span title="' + getStatusText(status) + '" style="margin-left: 4px;">' + (status === 'reproducible' ? '✅' : '❌') + ` ${getStatusText(status, true)}</span>`;
+
+      addNotificationToIndicator('Unpublished Verification',
+        `${walletTitle} - ${verificationDate} ${statusIcon}
+        <br>
+        <button class="edit-button" onclick="goToDraftVerificationAction('${verification.id}', 'edit')">Edit</button>
+        <button class="delete-button" onclick="goToDraftVerificationAction('${verification.id}', 'delete')">Delete</button>`,'info')
+    });
+  }
+}
+
+function goToDraftVerificationAction(draftVerificationEventId, action) {
+  window.location.href = `/new_verification?draftVerificationEventId=${draftVerificationEventId}&action=${action}`;
+}
+
 if (typeof window !== 'undefined') {
   window.nostrConnect = nostrConnect;
   window.createAssetRegistration = createAssetRegistration;
@@ -655,6 +731,10 @@ if (typeof window !== 'undefined') {
   window.getAppInfoFromEventInfo = getAppInfoFromEventInfo;
   window.nip19 = nip19;
   window.purifyConfig = purifyConfig;
+  window.getStatusText = getStatusText;
+  window.loadDraftVerificationsNotifications = loadDraftVerificationsNotifications;
+  window.goToDraftVerificationAction = goToDraftVerificationAction;
+  window.getDraftVerificationEvent = getDraftVerificationEvent;
 }
 
 export {
@@ -674,5 +754,9 @@ export {
   getAppInfoFromEventInfo,
   nip19,
   purifyConfig,
-  isDebug
+  isDebug,
+  getStatusText,
+  loadDraftVerificationsNotifications,
+  goToDraftVerificationAction,
+  getDraftVerificationEvent
 };
