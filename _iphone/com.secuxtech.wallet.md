@@ -10,8 +10,8 @@ idd: '1628469822'
 released: 2022-07-04
 updated: 2025-03-29
 version: 3.1.02
-stars: 3.8
-reviews: 8
+stars: 3.9
+reviews: 9
 website: https://secux.eu/
 repository: 
 issue: 

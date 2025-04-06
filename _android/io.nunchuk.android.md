@@ -13,7 +13,7 @@ appCountry:
 released: 2021-11-11
 updated: 2025-03-26
 version: 1.9.66
-stars: 4.6
+stars: 4.7
 ratings: 26
 reviews: 26
 website: https://nunchuk.io

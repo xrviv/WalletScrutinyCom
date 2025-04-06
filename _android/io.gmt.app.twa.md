@@ -10,9 +10,9 @@ appCountry:
 released: 2023-02-22
 updated: 2025-03-04
 version: '37'
-stars: 4.5
+stars: 4.6
 ratings: 
-reviews: 624
+reviews: 628
 website: https://gomining.com
 repository: 
 issue: 
@@ -30,7 +30,7 @@ social:
 - https://medium.com/@Gomining
 - https://www.instagram.com/Gomining_token
 redirect_from: 
-developerName: YuccaDigital
+developerName: SIA Yucca Digital
 features: 
 
 ---

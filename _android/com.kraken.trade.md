@@ -8,11 +8,11 @@ users: 1000000
 appId: com.kraken.trade
 appCountry: 
 released: 2019-10-24
-updated: 2025-03-28
-version: 5.0.0
+updated: 2025-04-02
+version: 5.0.1
 stars: 4.6
 ratings: 25287
-reviews: 3956
+reviews: 3967
 website: https://www.kraken.com
 repository: 
 issue: 

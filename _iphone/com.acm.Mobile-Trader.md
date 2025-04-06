@@ -11,7 +11,7 @@ released: 2009-12-09
 updated: 2025-03-19
 version: 3.32.0
 stars: 4.2
-reviews: 605
+reviews: 606
 website: https://www.swissquote.com/en-ch/private/trade/platforms/forex-cfds/cfxd
 repository: 
 issue: 
