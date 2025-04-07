@@ -47,4 +47,4 @@ We have attempted to contact the developers via Twitter and [await their respons
 
 Of particular note is the [founder's acquittal](https://www.lexia.it/2023/10/05/riciclaggio-criptovalute-ferrara/) for a money laundering case in Milan. 
 
-Given that the original website hosting the desktop application is no longer accessible, and considering the lack of active development or support, we are classifying this wallet as **defunct**.
+Given that the original website hosting the desktop application is no longer accessible, and considering the lack of active development or support, we assume this product to be **defunct**.

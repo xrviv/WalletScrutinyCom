@@ -33,4 +33,4 @@ The migration process relied on users' 12-word backup phrases, allowing them to 
 
 With the service now completely defunct, users must migrate to alternative solutions to maintain access to their digital assets. 
 
-This app has a verdict of  **defunct**.
+This app is  **defunct**.
