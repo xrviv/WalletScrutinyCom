@@ -12,7 +12,7 @@ updated: 2025-03-11
 version: 3.9.0
 stars: 4.5
 ratings: 
-reviews: 117
+reviews: 118
 website: https://getarculus.com
 repository: 
 issue: 

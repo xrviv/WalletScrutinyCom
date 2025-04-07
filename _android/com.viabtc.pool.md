@@ -12,7 +12,7 @@ updated: 2025-01-24
 version: 3.9.0
 stars: 4.1
 ratings: 
-reviews: 324
+reviews: 325
 website: https://www.viabtc.com/
 repository: 
 issue: 

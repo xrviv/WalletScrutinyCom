@@ -11,7 +11,7 @@ released: 2021-01-19
 updated: 2025-04-03
 version: 4.83.0
 stars: 4.9
-reviews: 5020
+reviews: 5046
 website: https://river.com/buy-bitcoin
 repository: 
 issue: 

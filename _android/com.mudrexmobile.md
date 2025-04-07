@@ -10,7 +10,7 @@ appCountry:
 released: 
 updated: 2025-04-01
 version: '12.28'
-stars: 3
+stars: 3.3
 ratings: 
 reviews: 4
 website: https://mudrex.com/

@@ -11,7 +11,7 @@ released: 2021-03-08
 updated: 2025-04-02
 version: 4.88.1
 stars: 4
-reviews: 639
+reviews: 640
 website: https://www.xt.com
 repository: 
 issue: 

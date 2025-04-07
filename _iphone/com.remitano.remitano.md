@@ -11,7 +11,7 @@ released: 2016-05-28
 updated: 2025-04-02
 version: 6.130.0
 stars: 4.8
-reviews: 375
+reviews: 376
 website: https://remitano.com
 repository: 
 issue: 

@@ -10,7 +10,7 @@ appCountry:
 released: 2020-12-29
 updated: 2025-03-25
 version: 4.0.3
-stars: 4.6
+stars: 4.7
 ratings: 
 reviews: 483
 website: https://xumm.app/

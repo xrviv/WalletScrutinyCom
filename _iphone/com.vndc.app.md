@@ -11,7 +11,7 @@ released: 2020-03-09
 updated: 2025-04-01
 version: 6.0.4
 stars: 4.7
-reviews: 1307
+reviews: 1312
 website: https://goonus.io/en
 repository: 
 issue: 
