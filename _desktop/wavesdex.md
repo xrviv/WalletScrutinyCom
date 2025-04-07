@@ -15,7 +15,7 @@ repository: https://github.com/wavesplatform/WavesGUI
 issue: 
 icon: wavesdex.png
 bugbounty: 
-meta: removed
+meta: deprecated
 verdict: wip
 date: 2025-04-02
 reviewArchive: 
@@ -35,4 +35,4 @@ Despite the migration notice, the website footer still shows "©2025 Waves.Excha
 
 The WX.Network desktop application appears to be the direct successor to WavesDex, offering similar functionality for cryptocurrency trading and investment. However, unlike the original WavesDex, there is no publicly available repository for the WX.Network desktop application, making it impossible to verify its code.
 
-Based on this evidence, we are classifying the original Waves Decentralized Exchange (WavesDex) as **removed**, as it has been officially replaced by WX.Network and is no longer being actively developed or maintained.
+Based on this evidence, we are classifying the original Waves Decentralized Exchange (WavesDex) as **deprecated**, as it has been officially replaced by WX.Network and is no longer being actively developed or maintained.

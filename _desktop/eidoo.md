@@ -35,7 +35,12 @@ Our investigation revealed multiple related domains with varying statuses:
 
 The associated mobile applications previously linked to eidoo {% include walletLink.html wallet='android/io.eidoo.wallet.prodnet' verdict='true' %} and {% include walletLink.html wallet='iphone/io.eidoo.wallet.prodnet' verdict='true' %} have been removed from their respective app stores.
 
-Examining the current eidoo-wallet.io website, we found it promotes an Android DeFi and Web3 application. However, concerning security issues were identified: clicking on the 'Android' option redirects users to an interface requesting seed phrases directly in the browser, which is a significant security risk.
+<div class="alertBox"><div>🚩 Examining the eidoo-wallet.io website, we found it promotes an Android DeFi and Web3 application. However, concerning security issues were identified: clicking on the 'Android' option redirects users to an interface requesting seed phrases directly in the browser, which is a significant security risk. Furthermore, some users on reddit have indicated that the website <a href="https://www.reddit.com/r/ethereum/comments/1hlvlhl/help_with_eidoo_wallet">eidoo-wallet.io is a scam:</a>
+</div> </div>
+
+> Please do not put your seed phrase into the linked website. This website has all the signs of a scam, trying to lure in desperate former Eidoo users. I also tested it with a dummy seed: definitely a scam. Also make sure to not respond to unsolicited DMs as scammers probably want to get to you.
+> 
+> Eidoo seems to have closed down about 2 years ago and left many users stranded. 
 
 A thorough search on Google Play using the term 'eidoo' yielded no relevant applications. Further Google searches uncovered an old link to the Android app with ID 'io.eidoo.android.app', but this link is no longer functional.
 
