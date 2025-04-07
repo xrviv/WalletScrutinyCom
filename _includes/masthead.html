@@ -89,7 +89,25 @@
   }
 
   function showNotifications(){
-    document.getElementById('notificationsPanel').style.display = "block";
+    const indicator = document.querySelector(".notifications-indicator");
+    const panel = document.getElementById('notificationsPanel');
+    const rect = indicator.getBoundingClientRect();
+
+    // Ensure panel is measurable by making it temporarily visible but off-screen
+    panel.style.visibility = 'hidden';
+    panel.style.display = 'block';
+    const panelWidth = panel.offsetWidth;
+    panel.style.display = 'none'; // Hide it again before final positioning
+    panel.style.visibility = 'visible';
+
+    // Position panel below the indicator
+    panel.style.top = `${rect.bottom + window.scrollY}px`;
+
+    // Align panel's right edge with indicator's left edge
+    panel.style.left = `${rect.left + window.scrollX - panelWidth}px`; 
+
+    // Make the panel visible at the calculated position
+    panel.style.display = 'block';
   }
   function hideNotifications(){
     document.getElementById('notificationsPanel').style.display = "none";

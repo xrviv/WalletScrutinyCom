@@ -1,6 +1,6 @@
 import {marked} from 'marked';
 import DOMPurify from 'dompurify';
-import { assetRegistrationKind } from "./nostr-constants.mjs";
+import { assetRegistrationKind, verificationDraftKind } from "./nostr-constants.mjs";
 
 window.DOMPurify = DOMPurify;
 
@@ -13,6 +13,7 @@ function updateTableVisibility() {
   const searchTerm = document.getElementById('assetSearchInput').value.toLowerCase();
   const showLatestOnly = document.getElementById('showLatestVersionOnly').checked;
   const showOnlyNoVerifications = document.getElementById('showOnlyNoVerifications').checked;
+  const hideDrafts = document.getElementById('hideDrafts').checked;
 
   // Create a map to track latest versions when filter is active
   const latestVersions = new Map();
@@ -49,6 +50,11 @@ function updateTableVisibility() {
       }
     }
 
+    if (shouldShow && hideDrafts) {
+      const isDraft = row.getAttribute('data-is-draft') === 'true';
+      shouldShow = !isDraft;
+    }
+
     if (shouldShow) {
       shouldShow = (walletName.includes(searchTerm) || sha256Hash.includes(searchTerm));
     }
@@ -57,7 +63,7 @@ function updateTableVisibility() {
   });
 }
 
-window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256, hideConfig, showOnlyRows = 100, sortByVersion = false, enableSearch = false}) {
+window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256, hideConfig, showOnlyRows = 100, sortByVersion = false, enableSearch = false, enableDraftsFilter = false}) {
   let hasAssets = false;
 
   response = await getAllAssetInformation({
@@ -67,7 +73,7 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
   });
 
   // Search and filter UI
-  if (enableSearch) {
+  if (enableSearch || enableDraftsFilter) {
     const searchContainer = document.createElement('div');
     searchContainer.className = 'assets-search-container';
     searchContainer.style.marginBottom = '20px';
@@ -77,9 +83,9 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
           type="text" 
           id="assetSearchInput" 
           placeholder="Search by wallet name or hash..." 
-          style="padding: 8px; border-radius: 4px; border: 1px solid #ccc; flex: 1; min-width: 200px;"
+          style="padding: 8px; border-radius: 4px; border: 1px solid #ccc; flex: 1; min-width: 200px; display: ${enableSearch ? 'block' : 'none'};"
         >
-        <div style="display: flex; gap: 15px; align-items: flex-start; flex-wrap: wrap;">
+        <div style="display: flex; gap: 15px; align-items: flex-start; flex-wrap: wrap; display: ${enableSearch ? 'flex' : 'none'};">
           <style>
             @media (max-width: 768px) {
               .checkbox-container {
@@ -90,7 +96,7 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
           </style>
           <div class="checkbox-container" style="display: flex; gap: 15px; align-items: flex-start;">
             <label style="display: flex; align-items: center; gap: 5px; white-space: nowrap;">
-              <input type="checkbox" id="showLatestVersionOnly" checked>
+              <input type="checkbox" id="showLatestVersionOnly" ${enableSearch ? 'checked' : ''}>
               <span>Show latest version only</span>
             </label>
             <label style="display: flex; align-items: center; gap: 5px; white-space: nowrap;">
@@ -99,15 +105,23 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
             </label>
           </div>
         </div>
-      </div>
-    `;
+        <label style="display: ${enableDraftsFilter ? 'flex' : 'none'}; align-items: center; gap: 5px; white-space: nowrap;">
+          <input type="checkbox" id="hideDrafts" ${enableDraftsFilter ? 'checked' : ''}>
+          <span>Hide drafts</span>
+        </label>
+      </div>`;
 
-    document.getElementById(htmlElementId).appendChild(searchContainer);
+      document.getElementById(htmlElementId).appendChild(searchContainer);
   }
 
   let hasVerifications = false;
 
-  const combinedItems = new Map([...response.verifications.entries(), ...response.assets.entries()]);
+  let combinedItems;
+  if (enableDraftsFilter) {
+    combinedItems = new Map([...response.verifications.entries(), ...response.draftVerifications.entries(), ...response.assets.entries()]);
+  } else {
+    combinedItems = new Map([...response.verifications.entries(), ...response.assets.entries()]);
+  }
 
   // It's items because they can be verifications or assets (no status or content)
   // Convert to array and sort by most recent item in each group
@@ -125,6 +139,9 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
     document.getElementById('assetSearchInput').addEventListener('input', updateTableVisibility);
     document.getElementById('showLatestVersionOnly').addEventListener('change', updateTableVisibility);
     document.getElementById('showOnlyNoVerifications').addEventListener('change', updateTableVisibility);
+  }
+  if (enableDraftsFilter) {
+    document.getElementById('hideDrafts').addEventListener('change', updateTableVisibility);
   }
 
   // Sort either by version or date depending on sortByVersion parameter
@@ -271,6 +288,7 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
       row.className = index >= showOnlyRows ? 'hidden-row' : '';
       const sanitizedVersion = version.replace(/\./g, '-');
       row.setAttribute('id', `version-${sanitizedVersion}`);
+      row.setAttribute('data-is-draft', binary.kind === verificationDraftKind ? 'true' : 'false');
       row.innerHTML = `
         ${hideConfig?.wallet ? '' : `<td style="max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: normal; word-wrap: break-word;">
           ${wallet ? `<a href="${wallet.url}" target="_blank" rel="noopener noreferrer">${walletTitle}</a><br>${version}<span class="show-on-mobile"><br>${itemDescription}<br>${sha256Hashes.length > 0 ? sha256Hashes.map(hash => `
@@ -333,7 +351,7 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
   document.getElementById(htmlElementId).appendChild(table);
 
   // Apply initial filter only if enableSearch is true
-  if (enableSearch) {
+  if (enableSearch || enableDraftsFilter) {
     updateTableVisibility();
   }
 

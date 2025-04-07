@@ -660,6 +660,30 @@ const getDraftVerificationEvent = async function(draftVerificationEventId) {
   return await ndk.fetchEvent(draftVerificationEventId);
 }
 
+const deleteDraftVerification = async function(draftVerificationEventId, moveToURL = null, reason = 'user deleted draft verification') {
+  if (!draftVerificationEventId) {
+    showToast('No draft verification ID found', 'error');
+    return;
+  }
+
+  if (confirm('Are you sure you want to delete this draft verification? This action cannot be undone.')) {
+    try {
+      const draftVerificationEvent = await getDraftVerificationEvent(draftVerificationEventId);
+      await draftVerificationEvent.delete(reason, true);
+
+      showToast('Draft verification deleted successfully');
+
+      if (moveToURL) {
+        window.location.href = moveToURL;
+      } else {
+        window.location.reload();
+      }
+    } catch (error) {
+      showToast(error.message, 'error');
+    }
+  }
+}
+
 const loadDraftVerificationsNotifications = async function () {
   await nostrConnect();
 
@@ -687,8 +711,9 @@ const loadDraftVerificationsNotifications = async function () {
   if (myDraftVerifications && myDraftVerifications.length > 0) {
     myDraftVerifications.forEach(verification => {
       const identifier = verification.tags?.find(tag => tag[0] === 'i')?.[1];
+      const version = verification.tags?.find(tag => tag[0] === 'version')?.[1];
       const wallet = window.wallets?.find(w => w.appId === identifier);
-      const walletTitle = wallet ? wallet.title : identifier;
+      const walletTitle = wallet ? wallet.title : identifier ?? 'Unknown';
 
       const verificationDate = new Date(verification.created_at * 1000).toLocaleDateString(navigator.language, {
         year: 'numeric',
@@ -702,16 +727,26 @@ const loadDraftVerificationsNotifications = async function () {
       const statusIcon = '<span title="' + getStatusText(status) + '" style="margin-left: 4px;">' + (status === 'reproducible' ? '✅' : '❌') + ` ${getStatusText(status, true)}</span>`;
 
       addNotificationToIndicator('Unpublished Verification',
-        `${walletTitle} - ${verificationDate} ${statusIcon}
+        `${walletTitle} - ${version ? version+' -' : ''} ${verificationDate} ${statusIcon}
         <br>
-        <button class="edit-button" onclick="goToDraftVerificationAction('${verification.id}', 'edit')">Edit</button>
-        <button class="delete-button" onclick="goToDraftVerificationAction('${verification.id}', 'delete')">Delete</button>`,'info')
+        <button class="edit-button" onclick="doDraftVerificationAction('${verification.id}', 'edit')">Edit</button>
+        <button class="delete-button" onclick="doDraftVerificationAction('${verification.id}', 'delete')">Delete</button>`,'info')
     });
   }
 }
 
-function goToDraftVerificationAction(draftVerificationEventId, action) {
-  window.location.href = `/new_verification?draftVerificationEventId=${draftVerificationEventId}&action=${action}`;
+function doDraftVerificationAction(draftVerificationEventId, action) {
+  if (action === 'edit') {
+    window.location.href = `/new_verification?draftVerificationEventId=${draftVerificationEventId}&action=${action}`;
+  } else if (action === 'delete') {
+    let goToURL = null;
+
+    if (window.location.pathname.includes('new_verification')) {
+      goToURL = '/assets/';
+    }
+
+    deleteDraftVerification(draftVerificationEventId, goToURL);
+  }
 }
 
 if (typeof window !== 'undefined') {
@@ -733,8 +768,9 @@ if (typeof window !== 'undefined') {
   window.purifyConfig = purifyConfig;
   window.getStatusText = getStatusText;
   window.loadDraftVerificationsNotifications = loadDraftVerificationsNotifications;
-  window.goToDraftVerificationAction = goToDraftVerificationAction;
+  window.doDraftVerificationAction = doDraftVerificationAction;
   window.getDraftVerificationEvent = getDraftVerificationEvent;
+  window.deleteDraftVerification = deleteDraftVerification;
 }
 
 export {
@@ -757,6 +793,7 @@ export {
   isDebug,
   getStatusText,
   loadDraftVerificationsNotifications,
-  goToDraftVerificationAction,
-  getDraftVerificationEvent
+  doDraftVerificationAction,
+  getDraftVerificationEvent,
+  deleteDraftVerification
 };

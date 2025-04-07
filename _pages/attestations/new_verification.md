@@ -262,7 +262,6 @@ async function loadUrlParamsAndGetAssetInfo() {
     }
 
     const draftVerificationEvent = await getDraftVerificationEvent(draftVerificationEventId);
-
     const eventContent = JSON.parse(draftVerificationEvent.content);
 
     document.getElementById('appId').value = draftVerificationEvent.tags.find(tag => tag[0] === 'i')?.[1] || '';
@@ -401,21 +400,7 @@ document.addEventListener('DOMContentLoaded', function() {
   deleteDraftBtn.addEventListener('click', async function() {
     const urlParams = new URLSearchParams(window.location.search);
     const draftVerificationEventId = urlParams.get('draftVerificationEventId');
-    
-    if (!draftVerificationEventId) {
-      showToast('No draft verification ID found', 'error');
-      return;
-    }
-
-    if (confirm('Are you sure you want to delete this draft verification? This action cannot be undone.')) {
-      try {
-        await deleteDraftVerification(draftVerificationEventId);
-        showToast('Draft verification deleted successfully');
-        window.location.href = '/assets/';
-      } catch (error) {
-        showToast(error.message, 'error');
-      }
-    }
+    await deleteDraftVerification(draftVerificationEventId, '/assets/');
   });
 
   addHashBtn.addEventListener('click', () => {

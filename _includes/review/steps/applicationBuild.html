@@ -50,10 +50,11 @@
               appId: '{{ page.appId }}',
               hideConfig: { wallet: true },
               showOnlyRows: 5,
-              sortByVersion: true
+              sortByVersion: true,
+              enableDraftsFilter: true
             });
 
-            if (!attestationsInfo.hasVerifications) {
+            if (!attestationsInfo.hasVerifications && !attestationsInfo.info.draftVerifications.size) {
               if (!attestationsInfo.hasAssets) {
                 document.getElementById('appsTable').style.display = 'none';
               }
