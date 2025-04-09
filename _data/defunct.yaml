@@ -1,12 +1,3 @@
-2025-03-25:
-- _android/com.beehive.beehivemulti_coinwallet
-- _android/com.bitgin.app
-- _android/com.eqifi.eqifi
-- _android/com.hxg.wallet
-- _android/com.oxmiing.mw
-- _android/com.usscyber.xliquiduss.app
-- _android/io.blockbee.pos
-- _iphone/com.antier.infipay
 2025-03-29:
 - _android/com.bitgo.mobile
 2025-04-01:
@@ -29,3 +20,10 @@
 - _iphone/io.slavi.wallet
 - _iphone/it.airgap.vault
 - _iphone/it.airgap.wallet
+2025-04-09:
+- _android/com.oslmobile
+- _android/com.trastra.mobile
+- _android/one.citadel.mobile
+- _android/ua.money.storage.moneystorage
+- _iphone/com.defexa.CryptoWallet-Defexa
+- _iphone/io.stormx.ios

@@ -12,7 +12,7 @@ released: 2020-02-20
 updated: 2025-04-02
 version: 5.5.47
 stars: 4.6
-reviews: 2483
+reviews: 2488
 website: https://phemex.com
 repository: 
 issue: 

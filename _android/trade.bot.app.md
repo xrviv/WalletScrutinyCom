@@ -1,6 +1,6 @@
 ---
 wsId: 
-title: BotTrade - Bitcoin AI Signal
+title: BotTrade
 altTitle: 
 authors: 
 users: 500

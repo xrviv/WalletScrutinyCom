@@ -12,7 +12,7 @@ updated: 2025-03-23
 version: 10.0.1
 stars: 4.2
 ratings: 
-reviews: 2
+reviews: 
 website: https://www.independentreserve.com
 repository: 
 issue: 
