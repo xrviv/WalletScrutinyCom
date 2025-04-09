@@ -33,7 +33,7 @@
         </div>
 
         <script>
-          window.onload = async () => {
+          window.addEventListener('load', async () => {
             try {
               await nostrConnect();
             } catch (e) {
@@ -69,7 +69,7 @@
             }
 
             document.getElementById('verificationMessage').innerHTML += '<br><a href="/new_verification/?appId={{page.appId}}" class="btn-small btn-success" target="_blank" rel="noopener noreferrer">' + (attestationsInfo.hasVerifications ? 'Create a new verification' : 'Create verification') + '</a>';
-          };
+          });
         </script>
         {% else %}
         <small>Build cannot be done because the source code is not publicly available.</small>
