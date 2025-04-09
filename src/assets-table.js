@@ -284,11 +284,15 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
       const wallet = window.wallets.find(w => w.appId === identifier);
       const walletTitle = wallet ? wallet.title : identifier;
 
+      const isDraft = binary.kind === verificationDraftKind;
+
+      const draftBadge = isDraft ? '<span class="badge badge-warning">Draft</span>' : '';
+
       const row = document.createElement('tr');
       row.className = index >= showOnlyRows ? 'hidden-row' : '';
       const sanitizedVersion = version.replace(/\./g, '-');
       row.setAttribute('id', `version-${sanitizedVersion}`);
-      row.setAttribute('data-is-draft', binary.kind === verificationDraftKind ? 'true' : 'false');
+      row.setAttribute('data-is-draft', isDraft ? 'true' : 'false');
       row.innerHTML = `
         ${hideConfig?.wallet ? '' : `<td style="max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: normal; word-wrap: break-word;">
           ${wallet ? `<a href="${wallet.url}" target="_blank" rel="noopener noreferrer">${walletTitle}</a><br>${version}<span class="show-on-mobile"><br>${itemDescription}<br>${sha256Hashes.length > 0 ? sha256Hashes.map(hash => `
@@ -297,7 +301,7 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
           </div>`).join('') : '-'}</span>` : walletTitle}
           </td>`}
         ${hideConfig?.wallet ? `<td>
-          ${version}<span class="show-on-mobile"><br>${itemDescription}<br>${sha256Hashes.length > 0 ? sha256Hashes.map(hash => `
+          ${version}<br>${draftBadge}<span class="show-on-mobile"><br>${itemDescription}<br>${sha256Hashes.length > 0 ? sha256Hashes.map(hash => `
           <div style="margin-bottom: 4px;">
             <button onclick="navigator.clipboard.writeText('${hash[1]}').then(() => showToast('Hash copied to clipboard'))" class="copy-button" title="Copy hash to clipboard">📋</button><span class="hash-display" title="${hash[1]}">${hash[1]}</span>
           </div>`).join('') : '-'}</span>
