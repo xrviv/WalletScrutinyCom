@@ -190,7 +190,8 @@ const createVerification = async function ({
                                              version,
                                              platform,
                                              createdAt = null,
-                                             isDraft = false
+                                             isDraft = false,
+                                             draftVerificationEventId = null
                                            }) {
   validateSHA256(hashes);
 
@@ -232,6 +233,18 @@ const createVerification = async function ({
     getWSClientTag()
   ];
 
+  if (isDraft) {
+    let draftKey = '';
+
+    if (appId) {
+      draftKey += `${appId}:`;
+    }
+
+    draftKey += `${version}:${platform}`;
+
+    ndkEvent.tags.push(["d", draftKey]);
+  }
+
   if (appId) {
     ndkEvent.tags.push(["i", appId]);
   }
@@ -250,6 +263,14 @@ const createVerification = async function ({
   try {
     const publishedToRelays = await ndkEvent.publish();
     console.log(`published verification to ${publishedToRelays.size} relays`);
+
+    if (!isDraft && draftVerificationEventId) {
+      const draftVerificationEvent = await getDraftVerificationEvent(draftVerificationEventId);
+      if (draftVerificationEvent) {
+        await draftVerificationEvent.delete(reason, true);
+      }
+    }
+
     return ndkEvent;
   } catch (error) {
     console.error("error publishing verification to relays", error);
@@ -669,7 +690,9 @@ const deleteDraftVerification = async function(draftVerificationEventId, moveToU
   if (confirm('Are you sure you want to delete this draft verification? This action cannot be undone.')) {
     try {
       const draftVerificationEvent = await getDraftVerificationEvent(draftVerificationEventId);
-      await draftVerificationEvent.delete(reason, true);
+      if (draftVerificationEvent) {
+        await draftVerificationEvent.delete(reason, true);
+      }
 
       showToast('Draft verification deleted successfully');
 

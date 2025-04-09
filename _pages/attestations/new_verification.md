@@ -343,6 +343,7 @@ async function handleSubmit(event) {
 
   const sha256 = DOMPurify.sanitize(new URLSearchParams(window.location.search).get('sha256'), purifyConfig);
   const assetEventId = DOMPurify.sanitize(new URLSearchParams(window.location.search).get('assetEventId'), purifyConfig);
+  const draftVerificationEventId = DOMPurify.sanitize(new URLSearchParams(window.location.search).get('draftVerificationEventId'), purifyConfig);
   const otherHashesValue = document.getElementById('otherHashes').value.trim();
 
   // Combine sha256 and otherHashes into a single parameter
@@ -360,7 +361,8 @@ async function handleSubmit(event) {
     status: document.getElementById('status').value,
     platform: document.getElementById('platform').value,
     assetEventId: assetEventId,
-    isDraft: isDraft
+    isDraft: isDraft,
+    draftVerificationEventId: draftVerificationEventId
   };
 
   const spinner = document.getElementById('loadingSpinner');

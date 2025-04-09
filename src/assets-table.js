@@ -50,16 +50,24 @@ function updateTableVisibility() {
       }
     }
 
-    if (shouldShow && hideDrafts) {
-      const isDraft = row.getAttribute('data-is-draft') === 'true';
-      shouldShow = !isDraft;
-    }
-
     if (shouldShow) {
       shouldShow = (walletName.includes(searchTerm) || sha256Hash.includes(searchTerm));
     }
 
     row.style.display = shouldShow ? '' : 'none';
+  });
+
+
+  // Search draft-attestation elements and hide them depending on the hideDrafts checkbox
+  const hideDraftsChecked = document.getElementById('hideDrafts').checked;
+  document.querySelectorAll('.draft-attestation').forEach(attestation => {
+    if (hideDraftsChecked) {
+      attestation.style.display = 'none';
+    } else {
+      // attestation is a tr?
+      const isATr = attestation.tagName === 'TR';
+      attestation.style.display = isATr ? 'table-row' : 'block';
+    }
   });
 }
 
@@ -111,17 +119,36 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
         </label>
       </div>`;
 
-      document.getElementById(htmlElementId).appendChild(searchContainer);
+    document.getElementById(htmlElementId).appendChild(searchContainer);
+
+    // Add event listeners for search and filters only if enableSearch is true
+    if (enableSearch) {
+      document.getElementById('assetSearchInput').addEventListener('input', updateTableVisibility);
+      document.getElementById('showLatestVersionOnly').addEventListener('change', updateTableVisibility);
+      document.getElementById('showOnlyNoVerifications').addEventListener('change', updateTableVisibility);
+    }
+    if (enableDraftsFilter) {
+      document.getElementById('hideDrafts').addEventListener('change', updateTableVisibility);
+    }
   }
 
   let hasVerifications = false;
 
-  let combinedItems;
-  if (enableDraftsFilter) {
-    combinedItems = new Map([...response.verifications.entries(), ...response.draftVerifications.entries(), ...response.assets.entries()]);
-  } else {
-    combinedItems = new Map([...response.verifications.entries(), ...response.assets.entries()]);
+  let combinedItems = new Map();
+
+  function mergeIntoCombined(sourceMap) {
+    for (const [key, value] of sourceMap.entries()) {
+      const existing = combinedItems.get(key) || [];
+      // Assuming 'value' is always an array based on the subsequent sorting logic
+      combinedItems.set(key, existing.concat(value));
+    }
   }
+
+  mergeIntoCombined(response.verifications);
+  if (enableDraftsFilter) {
+    mergeIntoCombined(response.draftVerifications);
+  }
+  mergeIntoCombined(response.assets);
 
   // It's items because they can be verifications or assets (no status or content)
   // Convert to array and sort by most recent item in each group
@@ -133,16 +160,6 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
       items: sortedItems
     };
   });
-
-  // Add event listeners for search and filters only if enableSearch is true
-  if (enableSearch) {
-    document.getElementById('assetSearchInput').addEventListener('input', updateTableVisibility);
-    document.getElementById('showLatestVersionOnly').addEventListener('change', updateTableVisibility);
-    document.getElementById('showOnlyNoVerifications').addEventListener('change', updateTableVisibility);
-  }
-  if (enableDraftsFilter) {
-    document.getElementById('hideDrafts').addEventListener('change', updateTableVisibility);
-  }
 
   // Sort either by version or date depending on sortByVersion parameter
   if (sortByVersion) {
@@ -186,8 +203,7 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
         <th>Verifications</th>
         <th>Seen</th>
       </tr>
-    </thead>
-  `;
+    </thead>`;
 
   if (sortedItems.length > 0) {
     sortedItems.forEach((item, index) => {
@@ -235,7 +251,9 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
         longStatus += (oldInfoStatus === 'reproducible' ? '✅ ' : '❌ ') + openLinkTag + getStatusText(oldInfoStatus, true) + (openLinkTag ? '</a>' : '');
       }
 
-      const attestations = response.verifications.get(binary.tags.find(tag => tag[0] === 'x')?.[1]) || [];
+      const standardAttestations = response.verifications.get(binary.tags.find(tag => tag[0] === 'x')?.[1]) || [];
+      const draftAttestations = response.draftVerifications.get(binary.tags.find(tag => tag[0] === 'x')?.[1]) || [];
+      const attestations = [...standardAttestations, ...draftAttestations];
 
       let attestationList;
       if (attestations.length > 0) {
@@ -263,10 +281,17 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
 
           let statusText = null;
 
+          const isDraft = attestation.kind === verificationDraftKind;
+          const draftBadge = isDraft ? '<span class="badge badge-warning">Draft</span>' : '';
+
           statusText = (status === 'reproducible' ? '✅ ' : '❌ ') + '<span class="attestation-status">' + getStatusText(status, true) + '</span>';
 
-          listItems += `<span onclick='showVerificationModal("${sha256HashKey}", "${attestation.id}", "${identifier}", "${platform}")' class="attestation-link" style="cursor: pointer; margin-bottom: 0; margin-top: 0; display: block;">
+          listItems += `<span
+                            onclick='showVerificationModal("${sha256HashKey}", "${attestation.id}", "${identifier}", "${platform}")'
+                            class="attestation-link ${isDraft ? 'draft-attestation' : ''}"
+                            style="cursor: pointer; margin-bottom: 0; margin-top: 0; display: block;">
             <div style="line-height: 1.2; margin-bottom: 0.7em;">
+              ${draftBadge}
               ${statusText}
               <small style="display: block;">(${attestationDate})</small>
             </div>
@@ -284,15 +309,10 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
       const wallet = window.wallets.find(w => w.appId === identifier);
       const walletTitle = wallet ? wallet.title : identifier;
 
-      const isDraft = binary.kind === verificationDraftKind;
-
-      const draftBadge = isDraft ? '<span class="badge badge-warning">Draft</span>' : '';
-
       const row = document.createElement('tr');
       row.className = index >= showOnlyRows ? 'hidden-row' : '';
       const sanitizedVersion = version.replace(/\./g, '-');
       row.setAttribute('id', `version-${sanitizedVersion}`);
-      row.setAttribute('data-is-draft', isDraft ? 'true' : 'false');
       row.innerHTML = `
         ${hideConfig?.wallet ? '' : `<td style="max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: normal; word-wrap: break-word;">
           ${wallet ? `<a href="${wallet.url}" target="_blank" rel="noopener noreferrer">${walletTitle}</a><br>${version}<span class="show-on-mobile"><br>${itemDescription}<br>${sha256Hashes.length > 0 ? sha256Hashes.map(hash => `
@@ -301,7 +321,7 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
           </div>`).join('') : '-'}</span>` : walletTitle}
           </td>`}
         ${hideConfig?.wallet ? `<td>
-          ${version}<br>${draftBadge}<span class="show-on-mobile"><br>${itemDescription}<br>${sha256Hashes.length > 0 ? sha256Hashes.map(hash => `
+          ${version}<span class="show-on-mobile"><br>${itemDescription}<br>${sha256Hashes.length > 0 ? sha256Hashes.map(hash => `
           <div style="margin-bottom: 4px;">
             <button onclick="navigator.clipboard.writeText('${hash[1]}').then(() => showToast('Hash copied to clipboard'))" class="copy-button" title="Copy hash to clipboard">📋</button><span class="hash-display" title="${hash[1]}">${hash[1]}</span>
           </div>`).join('') : '-'}</span>
@@ -353,6 +373,15 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
   }
 
   document.getElementById(htmlElementId).appendChild(table);
+
+  // Iterate over the table rows and add a data-is-draft attribute to the rows where the "attestation-link" elements are also draft-attestation
+  const rows = table.querySelectorAll('tr:not(:first-child)');
+  rows.forEach(row => {
+    const attestations = Array.from(row.querySelectorAll('.attestation-link'));
+    if (attestations.every(attestation => attestation.classList.contains('draft-attestation'))) {
+      row.classList.add('draft-attestation');
+    }
+  });
 
   // Apply initial filter only if enableSearch is true
   if (enableSearch || enableDraftsFilter) {
@@ -452,9 +481,11 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
 window.showVerificationModal = async function(sha256Hash, verificationId, appId, platform) {
   document.body.classList.add("modal-open");
 
-  const verifications = response.verifications.get(sha256Hash);
-  const verification  = verifications.find(a => a.id === verificationId);
-  const otherVerificationsBySamePubkey = verifications.filter(a => (a.pubkey === verification.pubkey && a.id !== verification.id));
+  const verifications = response.verifications.get(sha256Hash) || [];
+  const draftVerifications = response.draftVerifications.get(sha256Hash) || [];
+  const attestations = [...verifications, ...draftVerifications];
+  const verification  = attestations.find(a => a.id === verificationId);
+  const otherVerificationsBySamePubkey = attestations.filter(a => (a.pubkey === verification.pubkey && a.id !== verification.id));
 
   const status = verification.tags.find(tag => tag[0] === 'status')?.[1] || '';
 
@@ -492,7 +523,10 @@ window.showVerificationModal = async function(sha256Hash, verificationId, appId,
     otherVerificationsHTML = `<ul class="attestation-other-attempts">${otherVerificationsHTML}</ul>`;
   }
 
-  content.innerHTML = `
+  const isDraft = verification.kind === verificationDraftKind;
+  content.innerHTML = isDraft ? `<p><span class="badge badge-big badge-warning">Draft</span> This is a draft verification. It is not published yet.</p>` : '';
+
+  content.innerHTML += `
     <p><strong>Attempt by:</strong> <span id="attempt-by"></span></p>
     <p><strong>Created At:</strong> ${new Date(verification.created_at * 1000).toLocaleDateString(navigator.language, {
     year: 'numeric',
