@@ -242,9 +242,17 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
 
         const latestAttestationsByUser = new Map();
         for (const attestation of attestations) {
-          const existingAttestation = latestAttestationsByUser.get(attestation.pubkey);
-          if (!existingAttestation || attestation.created_at > existingAttestation.created_at) {
-            latestAttestationsByUser.set(attestation.pubkey, attestation);
+          // Always include draft verifications
+          if (attestation.kind === verificationDraftKind) {
+            // Add the draft with a key that includes both the pubkey and the draft ID to ensure we keep all drafts
+            latestAttestationsByUser.set(`${attestation.pubkey}-draft-${attestation.id}`, attestation);
+          } else {
+            // For regular attestations, only keep the most recent one per user
+            const existingAttestation = latestAttestationsByUser.get(attestation.pubkey);
+            if (!existingAttestation || (existingAttestation.kind !== verificationDraftKind && 
+                attestation.created_at > existingAttestation.created_at)) {
+              latestAttestationsByUser.set(attestation.pubkey, attestation);
+            }
           }
         }
 
