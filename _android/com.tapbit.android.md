@@ -12,7 +12,7 @@ updated: 2025-03-21
 version: 3.9.2
 stars: 4.5
 ratings: 
-reviews: 31
+reviews: 30
 website: 
 repository: 
 issue: 

@@ -16,7 +16,7 @@ reviews: 22
 website: https://www.ejara.io
 repository: 
 issue: 
-icon: com.ejara.ejarav2.jpg
+icon: com.ejara.ejarav2.png
 bugbounty: 
 meta: ok
 verdict: nosource

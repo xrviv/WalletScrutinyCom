@@ -11,7 +11,7 @@ released: 2021-08-15
 updated: 2025-04-01
 version: 8.0.7
 stars: 4.7
-reviews: 123
+reviews: 124
 website: https://traderkat.io/
 repository: 
 issue: 

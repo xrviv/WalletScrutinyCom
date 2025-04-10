@@ -10,7 +10,7 @@ appId: piuk.blockchain.android
 appCountry: 
 released: 2013-02-01
 updated: 2025-04-06
-version: 202503.1.5
+version: 202504.1.0
 stars: 3.8
 ratings: 115830
 reviews: 6225

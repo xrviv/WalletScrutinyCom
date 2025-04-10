@@ -12,7 +12,7 @@ updated: 2025-03-20
 version: 1.1.8
 stars: 3.6
 ratings: 85
-reviews: 7
+reviews: 8
 website: https://www.atechcoins.com
 repository: 
 issue: 

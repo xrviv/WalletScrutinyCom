@@ -11,7 +11,7 @@ released: 2021-04-22
 updated: 2025-04-02
 version: v0.10.1
 stars: 4.6
-reviews: 63
+reviews: 64
 website: https://zeusln.com
 repository: https://github.com/ZeusLN/zeus
 issue: https://github.com/ZeusLN/zeus/issues/416

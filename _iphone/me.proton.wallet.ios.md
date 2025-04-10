@@ -10,8 +10,8 @@ idd: '6479609548'
 released: 2025-02-10
 updated: 2025-04-02
 version: 1.1.0
-stars: 4.3
-reviews: 26
+stars: 4.4
+reviews: 28
 website: https://proton.me/wallet
 repository: 
 issue: 
