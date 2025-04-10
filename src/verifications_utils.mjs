@@ -720,14 +720,11 @@ const loadDraftVerificationsNotifications = async function () {
 
   let myDraftVerifications = [];
 
-  // Filter only verifications for this pubkey
   for (const draftVerification of result.draftVerifications) {
     const arrayDraftVerificationEventsForThisSha256 = draftVerification[1];
 
     for (const draftVerificationEvent of arrayDraftVerificationEventsForThisSha256) {
-      if (draftVerificationEvent.pubkey === myPubkey) {
-        myDraftVerifications.push(draftVerificationEvent);
-      }
+      myDraftVerifications.push(draftVerificationEvent);
     }
   }
 
