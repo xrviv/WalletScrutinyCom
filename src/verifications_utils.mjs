@@ -29,47 +29,82 @@ const purifyConfig = {
 };
 
 let ndk;
+let ndkConnectionPromise = null; // Promise to track NDK connection status
+let resolveNostrConnectInitiated;
+const nostrConnectInitiatedPromise = new Promise(resolve => {
+    resolveNostrConnectInitiated = resolve;
+});
 
 const connectTimeout = 2000;
 
-const nostrConnect = async function (nostrPrivateKey) {
-  let signer;
-
-  let hasBrowserExtension = await userHasBrowserExtension();
-
-  if (hasBrowserExtension) {
-    console.debug("Signer: Using browser extension");
-    signer = new NDKNip07Signer();
-  } else if (nostrPrivateKey) {
-    console.debug("Signer: Using private key");
-    signer = new NDKPrivateKeySigner(nostrPrivateKey);
-  } else {
-    console.debug("Signer: No signer available");
-    signer = null;
-  }
-
-  ndk = new NDK({
-    explicitRelayUrls: explicitRelayUrls,
-    signer: signer
-  });
-
-  try {
-    await ndk.connect(connectTimeout);
-  } catch (e) {
-    console.error("ndk connect failed", e);
+const nostrConnect = function (nostrPrivateKey) {
+  // Assign the connection logic to the promise immediately
+  ndkConnectionPromise = (async () => {
+    let signer;
+    let hasBrowserExtension = await userHasBrowserExtension();
 
     if (hasBrowserExtension) {
-      console.log("Trying to connect again without using a signer");
-      ndk.signer = null;
-      await ndk.connect(connectTimeout);
-      return;
+      console.debug("Signer: Using browser extension");
+      signer = new NDKNip07Signer();
+    } else if (nostrPrivateKey) {
+      console.debug("Signer: Using private key");
+      signer = new NDKPrivateKeySigner(nostrPrivateKey);
+    } else {
+      console.debug("Signer: No signer available");
+      signer = null;
     }
 
-    throw e;
-  }
-}
+    ndk = new NDK({
+      explicitRelayUrls: explicitRelayUrls,
+      signer: signer
+    });
+
+    try {
+      await ndk.connect(connectTimeout);
+      console.log("NDK connected successfully.");
+    } catch (e) {
+      console.error("ndk connect failed", e);
+      // Try reconnecting without signer only if browser extension was detected and signer was initially set
+      if (hasBrowserExtension && ndk.signer) {
+        console.log("Trying to connect again without using a signer");
+        ndk.signer = null; // Modify the existing NDK instance's signer
+        await ndk.connect(connectTimeout); // Re-attempt connection, will throw if fails again
+        console.log("NDK connected successfully (without signer).");
+      } else {
+        // If no extension or connection failed even without signer, re-throw
+        throw e;
+      }
+    }
+    // The promise resolves implicitly if connect succeeds, or throws/rejects if it fails
+  })(); // Immediately invoke the async function
+
+  // Signal that nostrConnect has been initiated and the promise is set
+  resolveNostrConnectInitiated();
+  console.debug("nostrConnect initiated, ndkConnectionPromise is set.");
+
+  return ndkConnectionPromise; // Return the promise
+};
+
+// Helper function to ensure NDK is connected before proceeding
+const ensureNdkConnected = async () => {
+    if (!ndkConnectionPromise) {
+        // nostrConnect hasn't been called yet, wait for it to be initiated
+        console.debug("ensureNdkConnected: Waiting for nostrConnect to be initiated...");
+        await nostrConnectInitiatedPromise;
+        console.debug("ensureNdkConnected: nostrConnect initiated.");
+    }
+    // Now we know ndkConnectionPromise is set (or was already set). Wait for the connection attempt to complete.
+    console.debug("ensureNdkConnected: Waiting for ndkConnectionPromise to resolve...");
+    await ndkConnectionPromise;
+    console.debug("ensureNdkConnected: ndkConnectionPromise resolved.");
+    if (!ndk) {
+         // Should not happen if nostrConnect was called and promise resolved, but as a safeguard
+         throw new Error("NDK object not initialized after connection.");
+    }
+};
 
 const getUserPubkey = async function() {
+  await ensureNdkConnected();
   if (!ndk.signer) {
     throw new Error("No signer available");
   }
@@ -106,11 +141,13 @@ const validateSHA256 = function(hashes) {
 }
 
 const getNostrProfile = async function (pubkey) {
+  await ensureNdkConnected();
   const user = ndk.getUser({ pubkey });
   return await user.fetchProfile();
 }
 
-const getNpubFromPubkey = function (pubkey) {
+const getNpubFromPubkey = async function (pubkey) {
+  await ensureNdkConnected();
   const user = ndk.getUser({ pubkey });
   return user.npub;
 }
@@ -127,6 +164,7 @@ const createAssetRegistration = async function ({
                                                   description,
                                                   createdAt = null
                                                 }) {
+  await ensureNdkConnected();
   validateSHA256([sha256]);
 
   if (!appId || !version || !description) {
@@ -193,6 +231,7 @@ const createVerification = async function ({
                                              isDraft = false,
                                              draftVerificationEventId = null
                                            }) {
+  await ensureNdkConnected();
   validateSHA256(hashes);
 
   if (!content || !status) {
@@ -285,6 +324,7 @@ const createVerification = async function ({
 }
 
 const createEndorsement = async function ({sha256, content, status, verificationEventId, createdAt = null}) {
+  await ensureNdkConnected();
   console.debug("Creating endorsement for verification: ", verificationEventId);
 
   validateSHA256([sha256]);
@@ -402,6 +442,7 @@ const getAllAssetInformation = async function({
                                                 appId,
                                                 sha256
                                               }) {
+  await ensureNdkConnected();
   console.time('getAllAssetInformation');
   const filter_assets = {
     kinds: [assetRegistrationKind],
@@ -567,6 +608,7 @@ function showToast(message, type = 'success', duration = 4000) {
 }
 
 const createNostrNote = async function (message) {
+  await ensureNdkConnected();
   if (!message) {
     throw new Error("Message is required");
   }
@@ -678,6 +720,7 @@ function isDebug() {
 }
 
 const getDraftVerificationEvent = async function(draftVerificationEventId) {
+  await ensureNdkConnected();
   return await ndk.fetchEvent(draftVerificationEventId);
 }
 
@@ -708,8 +751,6 @@ const deleteDraftVerification = async function(draftVerificationEventId, moveToU
 }
 
 const loadDraftVerificationsNotifications = async function () {
-  await nostrConnect();
-
   const myPubkey = await getUserPubkey();
   if (!myPubkey) {
     console.error('No pubkey found');
