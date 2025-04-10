@@ -262,17 +262,21 @@ async function loadUrlParamsAndGetAssetInfo() {
     }
 
     const draftVerificationEvent = await getDraftVerificationEvent(draftVerificationEventId);
-    const eventContent = JSON.parse(draftVerificationEvent.content);
+    if (draftVerificationEvent) {
+      const eventContent = JSON.parse(draftVerificationEvent.content);
 
-    document.getElementById('appId').value = draftVerificationEvent.tags.find(tag => tag[0] === 'i')?.[1] || '';
-    document.getElementById('version').value = draftVerificationEvent.tags.find(tag => tag[0] === 'version')?.[1] || '';
-    document.getElementById('platform').value = draftVerificationEvent.tags.find(tag => tag[0] === 'platform')?.[1] || '';
-    document.getElementById('description').value = eventContent.description || '';
-    document.getElementById('status').value = draftVerificationEvent.tags.find(tag => tag[0] === 'status')?.[1] || '';
-    document.getElementById('content').value = eventContent.content || '';
+      document.getElementById('appId').value = draftVerificationEvent.tags.find(tag => tag[0] === 'i')?.[1] || '';
+      document.getElementById('version').value = draftVerificationEvent.tags.find(tag => tag[0] === 'version')?.[1] || '';
+      document.getElementById('platform').value = draftVerificationEvent.tags.find(tag => tag[0] === 'platform')?.[1] || '';
+      document.getElementById('description').value = eventContent.description || '';
+      document.getElementById('status').value = draftVerificationEvent.tags.find(tag => tag[0] === 'status')?.[1] || '';
+      document.getElementById('content').value = eventContent.content || '';
 
-    const hashes = draftVerificationEvent.tags?.filter(tag => tag[0] === 'x').map(tag => tag[1]) || [];
-    hashes.forEach(hash => addHash(hash));
+      const hashes = draftVerificationEvent.tags?.filter(tag => tag[0] === 'x').map(tag => tag[1]) || [];
+      hashes.forEach(hash => addHash(hash));
+    } else {
+      showToast('Draft verification not found', 'error');
+    }
   } else {
     const deleteDraftBtn = document.getElementById('deleteDraft');
     if (deleteDraftBtn) {
