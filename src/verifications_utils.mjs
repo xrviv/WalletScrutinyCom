@@ -72,6 +72,7 @@ const nostrConnect = function (nostrPrivateKey) {
         console.log("NDK connected successfully (without signer).");
       } else {
         // If no extension or connection failed even without signer, re-throw
+        showToast('It was impossible to connect to Nostr. Please check your browser extension and try again.', 'error');
         throw e;
       }
     }
