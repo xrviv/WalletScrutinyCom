@@ -653,5 +653,6 @@ export {
   getAppInfoFromEventInfo,
   nip19,
   purifyConfig,
-  isDebug
+  isDebug,
+  getFirstValueFromTag
 };
