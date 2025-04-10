@@ -211,11 +211,7 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
       const binary = item.items ? item.items[0] : item;
 
       const date = new Date(binary.created_at * 1000).toLocaleDateString(navigator.language,
-        binary.isLegacy ? {
-          year: '2-digit',
-          month: 'short',
-          day: 'numeric'
-        } : {
+        {
           year: '2-digit',
           month: 'short',
           day: 'numeric',
@@ -229,27 +225,12 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
 
       const sha256HashKey = item.sha256;
       const version = binary.tags.find(tag => tag[0] === 'version')?.[1] || '';
-      const oldInfoStatus = binary.tags.find(tag => tag[0] === 'status')?.[1] || '';
       const identifier = binary.tags.find(tag => tag[0] === 'i')?.[1] || "";
       const platform = binary.tags.find(tag => tag[0] === 'platform')?.[1] || "";
 
       // Guess if it's an asset or a verification
       hasAssets = binary.kind === assetRegistrationKind;
       const itemDescription = hasAssets ? binary.content : JSON.parse(binary.content).description;
-
-      let longStatus = null;
-
-      if (binary.isLegacy) {
-        let openLinkTag = null;
-
-        if (binary.gitRevision) {
-          const firstPathToken = window.location.pathname.split('/').filter(Boolean)[0];
-          openLinkTag = '<a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/walletscrutiny/walletScrutinyCom/blob/' + binary.gitRevision + '/_' + firstPathToken + '/' + appId + '.md">';
-          longStatus = '';
-        }
-
-        longStatus += (oldInfoStatus === 'reproducible' ? '✅ ' : '❌ ') + openLinkTag + getStatusText(oldInfoStatus, true) + (openLinkTag ? '</a>' : '');
-      }
 
       const standardAttestations = response.verifications.get(binary.tags.find(tag => tag[0] === 'x')?.[1]) || [];
       const draftAttestations = response.draftVerifications.get(binary.tags.find(tag => tag[0] === 'x')?.[1]) || [];
@@ -339,7 +320,7 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
             <span id="blossom-${hash[1]}" data-appid="${identifier}" data-title="${walletTitle}" data-version="${version}" class="blossom-download" style="display: none; cursor: pointer;" title="Download binary from our server">💾</span>
           `).join('') : '-'}
         </td>
-        <td>${binary.isLegacy ? (longStatus ? longStatus : oldInfoStatus) : attestationList}</td>
+        <td>${attestationList}</td>
         <td>${date}</td>`;
       table.appendChild(row);
     });
