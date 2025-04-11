@@ -713,7 +713,7 @@ function getStatusText(status, short = false) {
   }
 }
 
-function isDebug() {
+function isDebugEnv() {
   if (typeof window === 'undefined') {
     return false;
   }
@@ -852,7 +852,7 @@ export {
   getAppInfoFromEventInfo,
   nip19,
   purifyConfig,
-  isDebug,
+  isDebugEnv,
   getStatusText,
   loadDraftVerificationsNotifications,
   doDraftVerificationAction,

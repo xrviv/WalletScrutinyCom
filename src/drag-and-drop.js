@@ -8,7 +8,7 @@ import {
   getApkInfo,
   getPlatformFromFilename
 } from './drag-and-drop-utils.js';
-import { isDebug } from './verifications_utils.mjs';
+import { isDebugEnv } from './verifications_utils.mjs';
 
 const uploadsActivated = true;
 const maxFileSize = 500;  // MB
@@ -303,7 +303,7 @@ async function displayAllInfo(dropAreaElement, file, apkInfo, hash, appData, all
   fileInfoHtml += `<strong>Size:</strong> ${formatFileSize(file.size) ?? 'N/A'} ${(file.size / 1024 / 1024) > maxFileSize ? ` <span style="color: red;">(upload size limit is ${maxFileSize} MB)</span>` : ''}<br>`;
   fileInfoHtml += `<strong>SHA-256:</strong> ${hash}<br>`;
 
-  if (isDebug()) {
+  if (isDebugEnv()) {
     fileInfoHtml += `<strong>${fileExistsInBlossomServer ? 'File exists in Blossom' : 'File does not exist in Blossom'}</strong> <small>(overrides cache - only shown in debug envs)</small><br>`;
   }
 
