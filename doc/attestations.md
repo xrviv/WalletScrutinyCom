@@ -60,7 +60,7 @@ Trust in verifications is built through:
 ```json
 {
   "id":      "<verification-event-id>",
-  "kind":    30301 / 10301,               // 30301 for final verifications, 10301 for drafts
+  "kind":    30301,
   "tags":    [
     ["i",        "<product-id>"],         // app.zeusln.zeus
     ["version",  "<version>"],            // 1.2.3
@@ -72,6 +72,26 @@ Trust in verifications is built through:
   "content": {
     "description": "<Description of the assets the user is trying to reproduce>",
     "content": "<Detailed reproduction process and results. Markdown permitted>"
+  }
+}
+```
+
+#### Verification Draft
+
+Has the same structure as the Verification event, but with the following differences:
+- `kind`: 30801
+- `tags`: includes a `d` tag with the draft key: ${appId}:${version}:${platform}
+
+```json
+{
+  "id":      "<verification-event-id>",
+  "kind":    30801,
+  "tags":    [
+    [...],                                // same tags as the Verification event
+    ["d",    "<draft-key>"]               // draft-key
+  ],
+  "content": {
+    [...],                                // same content as the Verification event
   }
 }
 ```
