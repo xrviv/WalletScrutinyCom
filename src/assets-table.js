@@ -364,7 +364,7 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
   document.getElementById(htmlElementId).appendChild(table);
 
   // Iterate over the table rows and add a data-is-draft attribute to the rows where the "attestation-link" elements are also draft-attestation
-  const rows = table.querySelectorAll('tr:not(:first-child)');
+  const rows = table.querySelectorAll('tr:not(:first-child):not(.show-more-row)');
   rows.forEach(row => {
     const attestations = Array.from(row.querySelectorAll('.attestation-link'));
     if (attestations.every(attestation => attestation.classList.contains('draft-attestation'))) {
