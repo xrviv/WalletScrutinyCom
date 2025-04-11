@@ -12,7 +12,7 @@ updated: 2025-04-03
 version: 2.20.3
 stars: 2.7
 ratings: 
-reviews: 3
+reviews: 4
 website: https://gethashwallet.com
 repository: 
 issue: 

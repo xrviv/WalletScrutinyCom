@@ -12,7 +12,7 @@ updated: 2025-04-02
 version: 2.8.650
 stars: 4.2
 ratings: 
-reviews: 11
+reviews: 12
 website: https://www.biyagl.com
 repository: 
 issue: 

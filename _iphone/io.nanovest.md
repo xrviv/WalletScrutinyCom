@@ -11,7 +11,7 @@ released: 2021-12-20
 updated: 2025-04-03
 version: 4.5.2
 stars: 4.7
-reviews: 14
+reviews: 15
 website: https://nanovest.io/
 repository: 
 issue: 

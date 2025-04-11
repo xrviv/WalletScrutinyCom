@@ -12,7 +12,7 @@ updated: 2025-04-08
 version: 6.114.0
 stars: 4.4
 ratings: 188391
-reviews: 3482
+reviews: 3484
 website: https://www.okx.com/
 repository: 
 issue: 

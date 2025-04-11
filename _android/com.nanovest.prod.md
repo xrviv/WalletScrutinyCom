@@ -12,7 +12,7 @@ updated: 2025-04-03
 version: 4.5.2
 stars: 4.4
 ratings: 
-reviews: 29
+reviews: 30
 website: https://nanovest.zendesk.com/hc/en-us
 repository: 
 issue: 

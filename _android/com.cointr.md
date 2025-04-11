@@ -4,7 +4,7 @@ title: CoinTR | Buy BTC & Crypto
 altTitle: 
 authors:
 - danny
-users: 50000
+users: 100000
 appId: com.cointr
 appCountry: 
 released: 2022-08-17
