@@ -18,10 +18,10 @@ repository:
 issue: 
 icon: app.coingram.png
 bugbounty: 
-meta: ok
+meta: stale
 verdict: nowallet
 appHashes: 
-date: 2021-08-27
+date: 2025-04-15
 signer: 
 reviewArchive: 
 twitter: 

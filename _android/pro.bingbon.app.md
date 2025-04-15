@@ -12,7 +12,7 @@ updated: 2025-04-03
 version: 4.56.1
 stars: 4.3
 ratings: 2828
-reviews: 1256
+reviews: 1257
 website: https://bingx.com
 repository: 
 issue: 

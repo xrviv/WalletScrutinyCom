@@ -12,7 +12,7 @@ updated: 2025-04-03
 version: 2.0.1
 stars: 3.9
 ratings: 
-reviews: 524
+reviews: 525
 website: https://www.moonpay.com/
 repository: 
 issue: 

@@ -6,7 +6,7 @@ authors:
 - leo
 - mohammad
 - keraliss
-users: 100000
+users: 500000
 appId: io.muun.apollo
 appCountry: 
 released: 2017-04-25

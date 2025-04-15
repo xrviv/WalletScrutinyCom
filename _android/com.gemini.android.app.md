@@ -12,7 +12,7 @@ updated: 2025-04-09
 version: 25.408.0
 stars: 4.4
 ratings: 38767
-reviews: 7723
+reviews: 7726
 website: https://www.gemini.com
 repository: 
 issue: 

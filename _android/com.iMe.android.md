@@ -10,7 +10,7 @@ appCountry:
 released: 2019-07-22
 updated: 2025-03-28
 version: 11.9.0
-stars: 4.7
+stars: 4.6
 ratings: 
 reviews: 680
 website: https://www.imem.app

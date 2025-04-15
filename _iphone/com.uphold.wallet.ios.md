@@ -11,7 +11,7 @@ released: 2016-04-19
 updated: 2025-04-13
 version: 6.34.1
 stars: 4.7
-reviews: 72968
+reviews: 73000
 website: https://uphold.com
 repository: 
 issue: 
