@@ -199,7 +199,7 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
         ${hideConfig?.wallet ? '<th style="max-width: 200px;">Version</th>' : ''}
         <th class="hide-on-mobile" style="max-width: 300px;">Description</th>
         ${hideConfig?.sha256 ? '' : '<th class="hide-on-mobile">Hashes</th>'}
-        <th class="hide-on-mobile">Download</th>
+        <th class="hide-on-mobile">Binary</th>
         <th>Verifications</th>
         <th>Seen</th>
       </tr>
@@ -325,7 +325,7 @@ window.renderAssetsTable = async function({htmlElementId, pubkey, appId, sha256,
         </td>`}
         <td class="hide-on-mobile">
           ${sha256Hashes.length > 0 ? sha256Hashes.map(hash => `
-            <span id="blossom-${hash[1]}" data-appid="${identifier}" data-title="${walletTitle}" data-version="${version}" class="blossom-download" style="display: none; cursor: pointer;" title="Download binary from our server">💾</span>
+            <span id="blossom-${hash[1]}" data-appid="${identifier}" data-title="${walletTitle}" data-version="${version}" class="blossom-download" style="display: none; cursor: pointer;" title="Download from Blossom">💾</span>
           `).join('') : '-'}
         </td>
         <td>${attestationList}</td>
