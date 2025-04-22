@@ -3,11 +3,11 @@ wsId: beginApp
 title: 'Begin: Bitcoin Cardano Wallet'
 altTitle: 
 authors:
-- danny 
+- danny
 appId: is.begin.app
 appCountry: us
 idd: '1642488837'
-released: '2022-11-03T07:00:00Z'
+released: 2022-11-03
 updated: 2025-03-26
 version: 1.21.2
 stars: 4
