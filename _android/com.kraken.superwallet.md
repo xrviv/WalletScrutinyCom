@@ -15,7 +15,7 @@ ratings:
 reviews: 65
 website: https://kraken.com/wallet
 repository: https://github.com/krakenfx/wallet
-issue: 
+issue: https://github.com/krakenfx/wallet/discussions/59
 icon: com.kraken.superwallet.png
 bugbounty: 
 meta: ok
