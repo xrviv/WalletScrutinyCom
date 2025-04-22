@@ -4,12 +4,12 @@ title: 'Bitcoiva : Buy Bitcoin &Crypto'
 altTitle: 
 authors:
 - leo
-users: 50000
+users: 100000
 appId: com.application.bitcoiva
 appCountry: 
 released: 2020-11-02
-updated: 2025-03-04
-version: 1.56.4
+updated: 2025-04-18
+version: 1.58.7
 stars: 2.8
 ratings: 
 reviews: 4

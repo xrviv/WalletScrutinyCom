@@ -1,6 +1,6 @@
 ---
 wsId: ejara
-title: Ejara
+title: Ejara Wallet
 altTitle: 
 authors:
 - danny
@@ -8,15 +8,15 @@ users: 100000
 appId: com.ejara.ejarav2
 appCountry: 
 released: 2021-03-08
-updated: 2025-03-28
+updated: 2025-04-02
 version: 3.8.5
-stars: 4
+stars: 3.8
 ratings: 
-reviews: 22
+reviews: 23
 website: https://www.ejara.io
 repository: 
 issue: 
-icon: com.ejara.ejarav2.jpg
+icon: com.ejara.ejarav2.png
 bugbounty: 
 meta: ok
 verdict: nosource

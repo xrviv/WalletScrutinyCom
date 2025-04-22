@@ -857,5 +857,6 @@ export {
   loadDraftVerificationsNotifications,
   doDraftVerificationAction,
   getDraftVerificationEvent,
-  deleteDraftVerification
+  deleteDraftVerification,
+  getFirstValueFromTag
 };
