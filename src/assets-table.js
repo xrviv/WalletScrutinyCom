@@ -12,10 +12,8 @@ const table = document.createElement('table');
 let attachments = [];
 const attachmentDataStore = {};   // Define a store for attachment data globally accessible
 
-const userPubkey = await getUserPubkey();
-
 // Filter table rows
-function updateTableVisibility() {
+async function updateTableVisibility() {
   const searchTerm = document.getElementById('assetSearchInput').value.toLowerCase();
   const showLatestOnly = document.getElementById('showLatestVersionOnly').checked;
   const showOnlyNoVerifications = document.getElementById('showOnlyNoVerifications').checked;
@@ -62,6 +60,7 @@ function updateTableVisibility() {
     row.style.display = shouldShow ? '' : 'none';
   });
 
+  const userPubkey = await getUserPubkey();
 
   // Search draft-attestation elements and hide them depending on the hideDrafts checkbox
   const hideDraftsChecked = document.getElementById('hideDrafts').checked;
