@@ -18,10 +18,10 @@ repository:
 issue: 
 icon: com.merseyside.cripto.png
 bugbounty: 
-meta: obsolete
+meta: removed
 verdict: fake
 appHashes: 
-date: 2023-04-08
+date: 2025-05-14
 signer: 
 reviewArchive: 
 twitter: 

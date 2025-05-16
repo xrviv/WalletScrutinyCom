@@ -11,7 +11,7 @@ released: 2019-04-12
 updated: 2025-04-01
 version: 2.24.4
 stars: 2
-reviews: 66
+reviews: 68
 website: https://www.bitsacard.com/en/
 repository: 
 issue: 

@@ -8,11 +8,11 @@ users: 500000
 appId: io.ts.converter
 appCountry: 
 released: 2023-02-26
-updated: 2025-04-15
-version: 3.12.4
-stars: 3.2
+updated: 2025-04-29
+version: 3.12.7
+stars: 3.6
 ratings: 
-reviews: 6
+reviews: 10
 website: https://tapswap.io
 repository: 
 issue: 

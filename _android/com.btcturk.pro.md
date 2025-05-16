@@ -8,9 +8,9 @@ users: 5000000
 appId: com.btcturk.pro
 appCountry: 
 released: 2020-09-10
-updated: 2025-04-17
-version: 2.25.0
-stars: 4.5
+updated: 2025-05-10
+version: 2.27.0
+stars: 4.6
 ratings: 169442
 reviews: 232
 website: https://kripto.btcturk.com

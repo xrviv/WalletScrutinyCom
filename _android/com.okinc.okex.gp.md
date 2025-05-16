@@ -8,11 +8,11 @@ users: 10000000
 appId: com.okinc.okex.gp
 appCountry: 
 released: 2019-10-29
-updated: 2025-04-13
-version: 6.116.0
+updated: 2025-05-10
+version: 6.118.0
 stars: 4.4
 ratings: 188391
-reviews: 3492
+reviews: 3522
 website: https://www.okx.com/
 repository: 
 issue: 

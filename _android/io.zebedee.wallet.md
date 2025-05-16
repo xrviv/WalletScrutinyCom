@@ -10,10 +10,10 @@ appCountry:
 released: 2020-10-20
 updated: 2025-04-08
 version: 4.12.0
-stars: 4.3
+stars: 4.4
 ratings: 358
-reviews: 6559
-website: https://zbd.one/help
+reviews: 6854
+website: https://zbd.gg/z/support
 repository: 
 issue: 
 icon: io.zebedee.wallet.png

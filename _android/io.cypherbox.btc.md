@@ -4,7 +4,7 @@ title: Cypher Box
 altTitle: 
 authors:
 - danny
-users: 50
+users: 100
 appId: io.cypherbox.btc
 appCountry: 
 released: 2025-01-17

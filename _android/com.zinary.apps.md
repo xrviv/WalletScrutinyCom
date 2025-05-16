@@ -17,10 +17,10 @@ repository:
 issue: 
 icon: com.zinary.apps.png
 bugbounty: 
-meta: stale
+meta: removed
 verdict: fewusers
 appHashes: 
-date: 2025-03-11
+date: 2025-05-14
 signer: 
 reviewArchive: 
 twitter: 

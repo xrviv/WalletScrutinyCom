@@ -18,10 +18,10 @@ repository:
 issue: 
 icon: com.dextrade.android.png
 bugbounty: 
-meta: stale
+meta: obsolete
 verdict: custodial
 appHashes: 
-date: 2024-05-06
+date: 2025-05-14
 signer: 
 reviewArchive: 
 twitter: dextrade_

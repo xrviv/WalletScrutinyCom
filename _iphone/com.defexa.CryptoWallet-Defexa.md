@@ -17,10 +17,10 @@ repository:
 issue: 
 icon: com.defexa.CryptoWallet-Defexa.jpg
 bugbounty: 
-meta: ok
+meta: removed
 verdict: nosource
 appHashes: 
-date: 2024-10-07
+date: 2025-05-14
 signer: 
 reviewArchive: 
 twitter: DefexaCrypto

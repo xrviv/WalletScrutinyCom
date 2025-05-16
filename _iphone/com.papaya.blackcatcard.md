@@ -11,7 +11,7 @@ released: 2019-03-07
 updated: 2025-04-09
 version: 1.2.69
 stars: 5
-reviews: 1
+reviews: 5
 website: https://blackcatcard.com
 repository: 
 issue: 

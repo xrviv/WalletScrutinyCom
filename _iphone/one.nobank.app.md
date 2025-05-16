@@ -17,10 +17,10 @@ repository:
 issue: 
 icon: one.nobank.app.jpg
 bugbounty: 
-meta: ok
+meta: stale
 verdict: nobtc
 appHashes: 
-date: 2023-08-09
+date: 2025-05-14
 signer: 
 reviewArchive: 
 twitter: pier_wallet

@@ -1,6 +1,6 @@
 ---
 wsId: quidaxLite
-title: Quidax - Buy & Sell Bitcoin
+title: Quidax - Buy Bitcoin & Crypto
 altTitle: 
 authors:
 - danny
@@ -10,9 +10,9 @@ appCountry:
 released: 2022-01-08
 updated: 2025-02-07
 version: 1.22.0
-stars: 4
+stars: 3.9
 ratings: 
-reviews: 98
+reviews: 100
 website: https://quidax.com
 repository: 
 issue: 

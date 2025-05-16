@@ -8,10 +8,10 @@ appId: com.bydfi.app
 appCountry: us
 idd: '6444251506'
 released: 2023-02-09
-updated: 2025-04-18
-version: 3.7.3
+updated: 2025-05-02
+version: 3.7.4
 stars: 4.6
-reviews: 865
+reviews: 900
 website: https://www.bydfi.com/
 repository: 
 issue: 

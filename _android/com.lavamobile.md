@@ -3,22 +3,22 @@ wsId:
 title: Lava
 altTitle: 
 authors: 
-users: 500
+users: 1000
 appId: com.lavamobile
 appCountry: 
 released: 2024-05-25
-updated: 2025-03-31
-version: 1.9.3
-stars: 3.4
+updated: 2025-05-14
+version: 1.10.19
+stars: 3.3
 ratings: 
-reviews: 2
+reviews: 4
 website: https://lava.xyz
 repository: 
 issue: 
-icon: com.lavamobile.png
+icon: com.lavamobile.jpg
 bugbounty: 
 meta: ok
-verdict: fewusers
+verdict: wip
 appHashes: 
 date: 2024-09-26
 signer: 

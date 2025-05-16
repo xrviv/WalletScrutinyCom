@@ -1,6 +1,6 @@
 ---
 wsId: ambercrypto
-title: 'WhaleFin: Prime Crypto Service'
+title: Amber Premium Global
 altTitle: 
 authors:
 - danny
@@ -8,11 +8,11 @@ appId: com.ambergroup.amberapp
 appCountry: us
 idd: '1515652068'
 released: 2020-09-21
-updated: 2025-04-17
-version: 3.1.1
+updated: 2025-05-03
+version: 3.2.1
 stars: 4.5
 reviews: 195
-website: https://www.whalefin.com
+website: https://www.ambr.io/global
 repository: 
 issue: 
 icon: com.ambergroup.amberapp.jpg

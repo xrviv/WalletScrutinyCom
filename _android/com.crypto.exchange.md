@@ -9,8 +9,8 @@ users: 1000000
 appId: com.crypto.exchange
 appCountry: nz
 released: 2021-05-26
-updated: 2025-04-15
-version: 2.60.0
+updated: 2025-05-13
+version: 2.61.0
 stars: 4.7
 ratings: 4430
 reviews: 14
@@ -31,7 +31,7 @@ social:
 - https://www.facebook.com/CryptoComOfficial
 - https://www.reddit.com/r/Crypto_com
 redirect_from: 
-developerName: Foris DAX Limited
+developerName: Crypto.com Exchange
 features: 
 
 ---

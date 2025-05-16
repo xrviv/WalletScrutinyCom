@@ -8,8 +8,8 @@ users: 10000
 appId: io.getamber.app
 appCountry: 
 released: 2021-06-21
-updated: 2025-04-14
-version: 5.6.8
+updated: 2025-04-24
+version: 5.6.10
 stars: 4.4
 ratings: 
 reviews: 26
@@ -30,7 +30,7 @@ social:
 - https://www.instagram.com/amber.app
 - https://t.me/theamberapp
 redirect_from: 
-developerName: AmberApp
+developerName: AmberLabs
 features: 
 
 ---

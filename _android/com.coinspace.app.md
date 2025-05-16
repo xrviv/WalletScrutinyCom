@@ -10,7 +10,7 @@ appCountry:
 released: 2015-05-01
 updated: 2025-03-28
 version: 6.10.0
-stars: 4.4
+stars: 4.5
 ratings: 1234
 reviews: 88
 website: https://coin.space

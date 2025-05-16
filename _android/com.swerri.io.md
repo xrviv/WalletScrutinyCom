@@ -18,10 +18,10 @@ repository:
 issue: 
 icon: com.swerri.io.png
 bugbounty: 
-meta: ok
+meta: removed
 verdict: nobtc
 appHashes: 
-date: 2025-01-27
+date: 2025-05-14
 signer: 
 reviewArchive: 
 twitter: Swerriapp

@@ -18,10 +18,10 @@ repository:
 issue: 
 icon: com.nova.dax.png
 bugbounty: 
-meta: ok
+meta: removed
 verdict: custodial
 appHashes: 
-date: 2021-08-21
+date: 2025-05-14
 signer: 
 reviewArchive: 
 twitter: Nova_DAXglobal

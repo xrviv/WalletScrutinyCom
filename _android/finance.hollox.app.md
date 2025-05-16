@@ -10,9 +10,9 @@ appCountry:
 released: 2022-11-13
 updated: 2024-10-04
 version: 6.0.4
-stars: 5
+stars: 4.6
 ratings: 
-reviews: 7
+reviews: 8
 website: https://hollox.finance/
 repository: 
 issue: 

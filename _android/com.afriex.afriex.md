@@ -1,6 +1,6 @@
 ---
 wsId: Afriex
-title: Afriex - Send Money Globally
+title: 'Afriex: Global Money Transfer'
 altTitle: 
 authors:
 - danny
@@ -8,11 +8,11 @@ users: 500000
 appId: com.afriex.afriex
 appCountry: us
 released: 2020-03-05
-updated: 2025-03-26
-version: 11.82.16
+updated: 2025-05-11
+version: 11.82.25
 stars: 4.4
 ratings: 1165
-reviews: 1154
+reviews: 1157
 website: https://www.afriexapp.com/
 repository: 
 issue: 

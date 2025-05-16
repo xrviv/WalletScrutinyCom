@@ -11,7 +11,7 @@ released: 2022-12-20
 updated: 2025-03-23
 version: 2.2.5
 stars: 4.8
-reviews: 9
+reviews: 23
 website: https://www.bitaroo.com.au/
 repository: 
 issue: 

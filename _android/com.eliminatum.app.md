@@ -31,7 +31,7 @@ social:
 - https://medium.com/eligma-blog
 - https://www.youtube.com/channel/UCfshAN27bKPe4f3uBIr7jjA
 redirect_from: 
-developerName: NAKA Global d.o.o.
+developerName: NAKA GLOBAL d.o.o.
 features: 
 
 ---

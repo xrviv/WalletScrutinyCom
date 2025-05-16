@@ -11,7 +11,7 @@ released: 2017-08-23
 updated: 2025-04-13
 version: 4.8.0
 stars: 4.6
-reviews: 362
+reviews: 363
 website: https://hbwallet.app
 repository: 
 issue: 

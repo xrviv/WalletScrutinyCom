@@ -10,8 +10,8 @@ idd: 1581960714
 released: 2021-08-20
 updated: 2025-04-15
 version: 7.2.340
-stars: 4.3
-reviews: 3203
+stars: 4.4
+reviews: 3706
 website: https://prestmit.io
 repository: 
 issue: 

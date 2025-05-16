@@ -18,10 +18,10 @@ repository:
 issue: 
 icon: io.coinCap.coinCap.png
 bugbounty: 
-meta: ok
+meta: stale
 verdict: nowallet
 appHashes: 
-date: 2024-05-08
+date: 2025-05-14
 signer: 
 reviewArchive: 
 twitter: CoinCap_io

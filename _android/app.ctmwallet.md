@@ -28,7 +28,7 @@ twitter:
 social:
 - https://ctpay.io
 redirect_from: 
-developerName: cccode
+developerName: CC Code
 features: 
 
 ---

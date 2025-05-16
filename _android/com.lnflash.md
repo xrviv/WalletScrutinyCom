@@ -3,7 +3,7 @@ wsId:
 title: 'Flash: Send, spend and save'
 altTitle: 
 authors: 
-users: 500
+users: 1000
 appId: com.lnflash
 appCountry: 
 released: 2024-01-07
@@ -18,7 +18,7 @@ issue:
 icon: com.lnflash.png
 bugbounty: 
 meta: ok
-verdict: fewusers
+verdict: wip
 appHashes: 
 date: 2025-04-03
 signer: 

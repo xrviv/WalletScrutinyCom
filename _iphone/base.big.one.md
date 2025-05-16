@@ -7,10 +7,10 @@ appId: base.big.one
 appCountry: us
 idd: '1485385044'
 released: 2019-11-06
-updated: 2025-04-16
-version: 2.5.600
+updated: 2025-05-09
+version: 2.5.610
 stars: 4.4
-reviews: 113
+reviews: 114
 website: http://www.bigone.com
 repository: 
 issue: 

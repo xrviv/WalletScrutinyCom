@@ -12,7 +12,7 @@ updated: 2025-03-10
 version: 1.20.21
 stars: 2.2
 ratings: 2482
-reviews: 847
+reviews: 846
 website: https://www.tryanchor.com
 repository: 
 issue: 

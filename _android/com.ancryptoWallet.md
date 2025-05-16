@@ -12,7 +12,7 @@ updated: 2025-04-16
 version: 1.48.5
 stars: 4.5
 ratings: 
-reviews: 30
+reviews: 31
 website: https://gemspocket.com/
 repository: 
 issue: 

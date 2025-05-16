@@ -9,9 +9,9 @@ appCountry:
 released: 2020-07-13
 updated: 2025-03-06
 version: android-4.47.0
-stars: 4.5
+stars: 4.3
 ratings: 83
-reviews: 8
+reviews: 9
 website: https://shiftcrypto.ch/app/
 repository: https://github.com/BitBoxSwiss/bitbox-wallet-app
 issue: 

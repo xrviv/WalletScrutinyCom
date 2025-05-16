@@ -12,7 +12,7 @@ updated: 2022-01-15
 version: 3.1.4
 stars: 4.4
 ratings: 217
-reviews: 51
+reviews: 50
 website: http://www.arrowsys.cz
 repository: 
 issue: 

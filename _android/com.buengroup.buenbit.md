@@ -8,11 +8,11 @@ users: 1000000
 appId: com.buengroup.buenbit
 appCountry: 
 released: 2021-12-30
-updated: 2025-04-16
-version: 3.32.0
+updated: 2025-05-10
+version: 3.33.1
 stars: 3.8
 ratings: 
-reviews: 31
+reviews: 30
 website: https://www.buenbit.com
 repository: 
 issue: 

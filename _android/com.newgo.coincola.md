@@ -1,6 +1,6 @@
 ---
 wsId: coincola
-title: CoinCol - P2P Buy & Sell BTC
+title: CoinCola - P2P Buy & Sell BTC
 altTitle: 
 authors:
 - leo

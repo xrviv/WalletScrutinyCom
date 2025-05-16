@@ -29,7 +29,7 @@ social:
 - https://medium.com/x-world-games
 - https://github.com/XWorldGames
 redirect_from: 
-developerName: XWG Technology
+developerName: InnovationDream TechLimited
 features: 
 
 ---

@@ -11,11 +11,11 @@ users: 1000000
 appId: com.bitpay.wallet
 appCountry: 
 released: 2016-10-01
-updated: 2025-04-10
+updated: 2025-05-05
 version: 14.29.10
 stars: 4.1
 ratings: 9809
-reviews: 2242
+reviews: 2249
 website: https://bitpay.com
 repository: https://github.com/bitpay/bitpay-app
 issue: https://github.com/bitpay/bitpay-app/issues/1431

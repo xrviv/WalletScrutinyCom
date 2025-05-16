@@ -1,6 +1,6 @@
 ---
 wsId: byteWallet
-title: ByteWallet
+title: ByteVault
 altTitle: 
 authors:
 - danny

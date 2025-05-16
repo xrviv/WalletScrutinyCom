@@ -8,10 +8,10 @@ appId: com.coinspot.app
 appCountry: au
 idd: 1541949985
 released: 2020-12-13
-updated: 2025-04-14
-version: 3.5.5
+updated: 2025-05-08
+version: 3.6.8
 stars: 4.8
-reviews: 39451
+reviews: 39843
 website: https://www.coinspot.com.au/
 repository: 
 issue: 

@@ -12,7 +12,7 @@ updated: 2025-04-03
 version: 2.44.0
 stars: 4
 ratings: 77624
-reviews: 1253
+reviews: 1257
 website: https://libertex.org
 repository: 
 issue: 
@@ -27,7 +27,7 @@ reviewArchive:
 twitter: libertex_latam
 social: 
 redirect_from: 
-developerName: Libertex International Company Limited
+developerName: Libertex International Company LLC
 features: 
 
 ---
