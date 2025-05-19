@@ -22,6 +22,8 @@ reviewArchive:
 twitter: lightning
 social: 
 features: 
+- ln
 
 ---
 
+This app has been archived on Feb. 23, 2021 and is no longer maintained. It is obsolete.
