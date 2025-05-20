@@ -10,7 +10,7 @@ appCountry:
 released: 2019-07-30
 updated: 2025-04-17
 version: 3.0.20
-stars: 3.8
+stars: 3.9
 ratings: 
 reviews: 465
 website: https://uglycash.app/

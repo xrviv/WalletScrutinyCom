@@ -26,7 +26,7 @@ reviewArchive:
 twitter: 
 social: 
 redirect_from: 
-developerName: Francesco - Sonikchain Team
+developerName: Evegram Inc.
 features: 
 
 ---

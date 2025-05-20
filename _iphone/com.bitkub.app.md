@@ -11,7 +11,7 @@ released: 2019-04-24
 updated: 2025-05-07
 version: 3.58.0
 stars: 4
-reviews: 10655
+reviews: 10663
 website: https://www.bitkub.com/download
 repository: 
 issue: 

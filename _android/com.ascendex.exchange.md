@@ -12,7 +12,7 @@ updated: 2025-05-14
 version: 3.5.8
 stars: 3.6
 ratings: 6660
-reviews: 76
+reviews: 75
 website: https://www.ascendex.com/
 repository: 
 issue: 

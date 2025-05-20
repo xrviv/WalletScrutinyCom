@@ -12,7 +12,7 @@ released: 2021-06-15
 updated: 2025-05-14
 version: 2.61.0
 stars: 4.8
-reviews: 105
+reviews: 106
 website: https://crypto.com/exchange
 repository: 
 issue: 

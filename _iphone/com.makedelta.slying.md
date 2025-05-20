@@ -8,8 +8,8 @@ appId: com.makedelta.slying
 appCountry: kr
 idd: '1581110050'
 released: 2021-08-15
-updated: 2025-04-01
-version: 8.0.7
+updated: 2025-05-19
+version: 8.0.8
 stars: 4.7
 reviews: 124
 website: https://traderkat.io/

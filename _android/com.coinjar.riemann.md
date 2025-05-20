@@ -12,7 +12,7 @@ updated: 2025-05-11
 version: 3.20.0
 stars: 4.4
 ratings: 1248
-reviews: 1099
+reviews: 1100
 website: https://www.coinjar.com
 repository: 
 issue: 

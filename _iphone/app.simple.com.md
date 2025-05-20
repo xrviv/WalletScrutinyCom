@@ -11,7 +11,7 @@ released: 2022-05-06
 updated: 2025-05-11
 version: 3.8.6
 stars: 4.8
-reviews: 215
+reviews: 214
 website: https://simple.app/
 repository: 
 issue: 

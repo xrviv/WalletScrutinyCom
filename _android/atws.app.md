@@ -12,7 +12,7 @@ updated: 2025-05-14
 version: 8.4.840
 stars: 4.6
 ratings: 7723
-reviews: 1342
+reviews: 1343
 website: http://ibkr.com
 repository: 
 issue: 

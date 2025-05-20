@@ -10,7 +10,7 @@ released: 2017-09-25
 updated: 2025-04-29
 version: 2025.3.0
 stars: 4.7
-reviews: 11295
+reviews: 11296
 website: https://delta.app
 repository: 
 issue: 

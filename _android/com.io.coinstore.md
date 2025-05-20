@@ -12,7 +12,7 @@ updated: 2025-05-08
 version: 3.6.1
 stars: 4.2
 ratings: 
-reviews: 68
+reviews: 67
 website: https://www.coinstore.com
 repository: 
 issue: 

@@ -11,7 +11,7 @@ appCountry:
 released: 2013-02-01
 updated: 2025-05-06
 version: 202505.1.5
-stars: 3.9
+stars: 3.8
 ratings: 115830
 reviews: 6240
 website: https://www.blockchain.com

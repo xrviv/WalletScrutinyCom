@@ -32,7 +32,7 @@ social:
 - https://t.me/blinkbtc
 - https://snort.social/p/community@blink.sv
 redirect_from: 
-developerName: Galoy Inc
+developerName: BBW S.A. de C.V.
 features:
 - ln
 

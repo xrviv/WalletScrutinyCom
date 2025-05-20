@@ -12,7 +12,7 @@ updated: 2025-05-13
 version: 3.159.0-2025042814
 stars: 4.5
 ratings: 142059
-reviews: 3490
+reviews: 3492
 website: https://www.skrill.com
 repository: 
 issue: 

@@ -1,6 +1,6 @@
 ---
 wsId: ventAfrica
-title: Vent Africa - Crypto to Cash
+title: 'Vent: Sell BTC & Crypto'
 altTitle: 
 authors:
 - danny
