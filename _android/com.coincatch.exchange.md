@@ -12,7 +12,7 @@ updated: 2025-05-16
 version: 1.15.2
 stars: 4.3
 ratings: 
-reviews: 52
+reviews: 51
 website: 
 repository: 
 issue: 

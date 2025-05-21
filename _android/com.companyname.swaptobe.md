@@ -12,7 +12,7 @@ updated: 2025-03-31
 version: '6.0'
 stars: 4.3
 ratings: 
-reviews: 15
+reviews: 16
 website: https://pionechain.com
 repository: 
 issue: 

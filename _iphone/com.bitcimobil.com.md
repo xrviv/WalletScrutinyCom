@@ -1,6 +1,6 @@
 ---
 wsId: bitci
-title: Bitci Exchange
+title: SafeBit
 altTitle: 
 authors:
 - danny
@@ -8,8 +8,8 @@ appId: com.bitcimobil.com
 appCountry: tr
 idd: '1459044769'
 released: 2019-04-17
-updated: 2025-04-30
-version: 20.0.4
+updated: 2025-05-19
+version: 21.0.0
 stars: 3.9
 reviews: 1383
 website: https://www.bitci.com.tr/

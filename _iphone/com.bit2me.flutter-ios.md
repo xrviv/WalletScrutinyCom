@@ -11,7 +11,7 @@ released: 2019-06-04
 updated: 2025-05-10
 version: 3.40.0
 stars: 4.5
-reviews: 3634
+reviews: 3636
 website: https://bit2me.com
 repository: 
 issue: 

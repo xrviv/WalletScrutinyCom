@@ -8,8 +8,8 @@ users: 10000000
 appId: pro.huobi
 appCountry: 
 released: 2017-11-01
-updated: 2025-05-08
-version: 10.50.0
+updated: 2025-05-19
+version: 10.51.0
 stars: 3.4
 ratings: 31840
 reviews: 466

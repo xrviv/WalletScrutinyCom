@@ -11,7 +11,7 @@ released: 2018-06-05
 updated: 2025-05-19
 version: 4.1.1
 stars: 4.7
-reviews: 305
+reviews: 306
 website: https://www.bitrefill.com
 repository: 
 issue: 

@@ -12,7 +12,7 @@ updated: 2025-05-19
 version: 2.8.8302
 stars: 4.5
 ratings: 
-reviews: 474
+reviews: 476
 website: https://worldcoin.org
 repository: 
 issue: 

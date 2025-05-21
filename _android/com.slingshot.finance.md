@@ -4,7 +4,7 @@ title: Slingshot - Buy crypto & memes
 altTitle: 
 authors:
 - danny
-users: 10000
+users: 50000
 appId: com.slingshot.finance
 appCountry: us
 released: 2023-02-16

@@ -12,7 +12,7 @@ updated: 2025-04-27
 version: 2.6.2
 stars: 4.3
 ratings: 
-reviews: 45
+reviews: 46
 website: https://www.cropty.io/
 repository: 
 issue: 

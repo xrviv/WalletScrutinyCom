@@ -9,7 +9,7 @@ appId: com.dunamu.exchange.global
 appCountry: us
 released: 2018-11-06
 updated: 2025-05-13
-version: 1.20.7
+version: 1.20.8
 stars: 3.2
 ratings: 3998
 reviews: 34

@@ -9,7 +9,7 @@ appId: io.cex.app.prod
 appCountry: 
 released: 2015-12-22
 updated: 2025-05-19
-version: 12.1.2
+version: 12.2.0
 stars: 4.3
 ratings: 16669
 reviews: 10929

@@ -11,7 +11,7 @@ appCountry:
 released: 2019-09-30
 updated: 2025-05-15
 version: 2.5.56
-stars: 4.2
+stars: 4.1
 ratings: 24688
 reviews: 874
 website: https://roqqu.com

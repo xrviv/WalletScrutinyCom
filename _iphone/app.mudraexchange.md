@@ -17,10 +17,10 @@ repository:
 issue: 
 icon: app.mudraexchange.jpg
 bugbounty: 
-meta: ok
+meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-09-03
+date: 2025-05-21
 signer: 
 twitter: mudraex
 social:

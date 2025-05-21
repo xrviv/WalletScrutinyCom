@@ -13,7 +13,7 @@ updated: 2025-04-23
 version: 2.2.306
 stars: 4.5
 ratings: 
-reviews: 40
+reviews: 41
 website: https://blink.sv/
 repository: https://github.com/GaloyMoney/galoy-mobile
 issue: 
@@ -31,7 +31,7 @@ social:
 - https://t.me/blinkbtc
 - https://snort.social/p/community@blink.sv
 redirect_from: 
-developerName: BBW S.A. de C.V.
+developerName: Blink El Salvador S.A. de C.V.
 features:
 - ln
 
