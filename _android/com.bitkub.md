@@ -4,7 +4,7 @@ title: 'Bitkub: Buy Bitcoin & Crypto'
 altTitle: 
 authors:
 - danny
-users: 1000000
+users: 5000000
 appId: com.bitkub
 appCountry: 
 released: 2019-04-20

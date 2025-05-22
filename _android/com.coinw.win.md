@@ -9,7 +9,7 @@ appId: com.coinw.win
 appCountry: 
 released: 2022-12-07
 updated: 2025-05-15
-version: 10.0.33
+version: 10.0.34
 stars: 3.5
 ratings: 
 reviews: 43

@@ -1,6 +1,6 @@
 ---
 wsId: krakent
-title: 'Kraken Pro: Invest in Crypto'
+title: 'Kraken Pro: Crypto & Stocks'
 altTitle: 
 authors:
 - leo
@@ -12,7 +12,7 @@ updated: 2025-05-16
 version: 5.6.0
 stars: 4.6
 ratings: 25287
-reviews: 4075
+reviews: 4076
 website: https://www.kraken.com
 repository: 
 issue: 

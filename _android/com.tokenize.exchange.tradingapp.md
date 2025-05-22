@@ -12,7 +12,7 @@ updated: 2025-03-26
 version: 2.0.21
 stars: 4.1
 ratings: 
-reviews: 7
+reviews: 15
 website: https://tokenize.exchange/
 repository: 
 issue: 

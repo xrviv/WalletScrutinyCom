@@ -8,8 +8,8 @@ users: 5000
 appId: com.oslmobile
 appCountry: CN
 released: 
-updated: 2025-05-07
-version: 3.1.6
+updated: 2025-05-20
+version: 3.1.7
 stars: 2.3
 ratings: 
 reviews: 17

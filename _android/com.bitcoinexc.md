@@ -10,7 +10,7 @@ appCountry:
 released: 2021-09-01
 updated: 2025-05-13
 version: '1.21'
-stars: 3.1
+stars: 3.2
 ratings: 
 reviews: 65
 website: https://fmcpay.com/
