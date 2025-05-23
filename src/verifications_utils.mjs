@@ -910,15 +910,14 @@ const loadDraftVerificationsNotifications = async function () {
     return;
   }
 
-  const result = await getAllAssetInformation({months: 3, pubkey: myPubkey}); // TODO: improve this to get only draft verifications?
-
   let myDraftVerifications = [];
 
-  for (const draftVerification of result.draftVerifications) {
+  for (const draftVerification of window.allAssetInformation.draftVerifications) {
     const arrayDraftVerificationEventsForThisSha256 = draftVerification[1];
-
     for (const draftVerificationEvent of arrayDraftVerificationEventsForThisSha256) {
-      myDraftVerifications.push(draftVerificationEvent);
+      if (draftVerificationEvent.pubkey === myPubkey) {
+        myDraftVerifications.push(draftVerificationEvent);
+      }
     }
   }
 
