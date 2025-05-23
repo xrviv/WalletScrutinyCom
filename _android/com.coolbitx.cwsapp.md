@@ -8,8 +8,8 @@ users: 100000
 appId: com.coolbitx.cwsapp
 appCountry: cn
 released: 2017-12-01
-updated: 2025-05-20
-version: 4.0.0
+updated: 2025-05-23
+version: 4.0.1
 stars: 4.6
 ratings: 1147
 reviews: 747

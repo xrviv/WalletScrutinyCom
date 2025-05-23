@@ -18,10 +18,10 @@ repository:
 issue: 
 icon: com.exchange.Ciexv2.png
 bugbounty: 
-meta: ok
+meta: stale
 verdict: custodial
 appHashes: 
-date: 2024-05-30
+date: 2025-05-23
 signer: 
 twitter: CENTURION_INVST
 social:

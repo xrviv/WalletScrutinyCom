@@ -3,7 +3,7 @@ wsId:
 title: Aspen Digital
 altTitle: 
 authors: 
-users: 500
+users: 1000
 appId: com.prod.aspen
 appCountry: 
 released: 2022-06-28
@@ -18,7 +18,7 @@ issue:
 icon: com.prod.aspen.png
 bugbounty: 
 meta: ok
-verdict: fewusers
+verdict: wip
 appHashes: 
 date: 2023-06-03
 signer: 

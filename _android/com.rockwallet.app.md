@@ -8,11 +8,11 @@ users: 50000
 appId: com.rockwallet.app
 appCountry: 
 released: 2022-11-14
-updated: 2025-04-15
-version: 5.17.4
+updated: 2025-05-21
+version: 5.17.6
 stars: 3.6
 ratings: 
-reviews: 175
+reviews: 176
 website: http://www.rockwallet.com
 repository: 
 issue: https://gitlab.com/walletscrutiny/walletScrutinyCom/-/issues/498

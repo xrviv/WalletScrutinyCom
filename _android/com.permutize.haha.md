@@ -8,9 +8,9 @@ users: 100000
 appId: com.permutize.haha
 appCountry: 
 released: 2021-11-09
-updated: 2025-05-13
-version: 3.8.6
-stars: 4.6
+updated: 2025-05-23
+version: 3.8.7
+stars: 4.7
 ratings: 
 reviews: 160
 website: https://www.haha.me

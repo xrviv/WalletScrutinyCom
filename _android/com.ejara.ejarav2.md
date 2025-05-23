@@ -1,6 +1,6 @@
 ---
 wsId: ejara
-title: Ejara Wallet
+title: Ejara Crypto
 altTitle: 
 authors:
 - danny

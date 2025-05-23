@@ -13,7 +13,7 @@ appCountry:
 released: 2016-10-01
 updated: 2025-05-05
 version: 14.31.1
-stars: 4.1
+stars: 4
 ratings: 9809
 reviews: 2250
 website: https://bitpay.com

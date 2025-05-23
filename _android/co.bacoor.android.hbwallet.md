@@ -13,7 +13,7 @@ version: 4.8.0
 stars: 4.5
 ratings: 2137
 reviews: 49
-website: https://www.hb-wallet.com/
+website: https://hbwallet.app/
 repository: 
 issue: 
 icon: co.bacoor.android.hbwallet.png

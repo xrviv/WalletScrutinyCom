@@ -12,7 +12,7 @@ updated: 2025-05-16
 version: 4.12.0
 stars: 4.6
 ratings: 
-reviews: 3
+reviews: 
 website: https://bisonapp.com
 repository: 
 issue: 
