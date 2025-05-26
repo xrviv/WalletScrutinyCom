@@ -576,7 +576,7 @@ const getFileAttachmentEvents = async function(fileEventIds) {
   console.debug(`Fetching ${fileEventIds.length} file attachments: ${fileEventIds.join(', ')}`);
 
   return await ndk.fetchEvents({
-    kinds: [codeSnippetKind],
+    kinds: [assetRegistrationKind, codeSnippetKind],  // See https://gitlab.com/walletscrutiny/walletScrutinyCom/-/issues/729
     ids: fileEventIds
   });
 }
