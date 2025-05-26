@@ -4,6 +4,8 @@ title: "Registering New Asset"
 permalink: /new_asset/
 ---
 
+<script type="text/javascript" src="{{'/dist/verifications.bundle.min.js' | relative_url }}"></script>
+
 <link rel="stylesheet" href="{{ base_path }}/assets/css/verifications.css">
 
 <div class="form-container">
