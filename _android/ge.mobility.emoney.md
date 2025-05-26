@@ -1,6 +1,6 @@
 ---
 wsId: 
-title: eMoney
+title: Emoney
 altTitle: 
 authors: 
 users: 100000

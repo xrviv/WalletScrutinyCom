@@ -10,9 +10,9 @@ appCountry:
 released: 2018-04-27
 updated: 2025-05-15
 version: 5.22.4
-stars: 4.4
+stars: 4.5
 ratings: 
-reviews: 2535
+reviews: 2536
 website: https://coinstats.app
 repository: 
 issue: 

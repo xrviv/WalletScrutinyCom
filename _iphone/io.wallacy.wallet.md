@@ -10,8 +10,8 @@ idd: '6448592576'
 released: 2023-07-11
 updated: 2025-01-22
 version: 0.1.15
-stars: 4.8
-reviews: 4
+stars: 4
+reviews: 5
 website: https://wallacy.io/
 repository: 
 issue: 

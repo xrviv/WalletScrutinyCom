@@ -17,10 +17,10 @@ repository:
 issue: 
 icon: com.bitcoinsuisse.pay.png
 bugbounty: 
-meta: stale
+meta: obsolete
 verdict: wip
 appHashes: 
-date: 2024-05-30
+date: 2025-05-26
 signer: 
 twitter: 
 social: 

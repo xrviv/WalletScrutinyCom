@@ -10,7 +10,7 @@ appCountry:
 released: 
 updated: 2025-05-16
 version: 5.0.3
-stars: 4.2
+stars: 4.1
 ratings: 
 reviews: 9
 website: https://plutus.it/

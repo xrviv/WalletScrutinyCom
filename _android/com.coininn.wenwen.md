@@ -12,7 +12,7 @@ updated: 2025-04-02
 version: 5.0.25
 stars: 3.3
 ratings: 
-reviews: 41
+reviews: 42
 website: https://www.coininn.com
 repository: 
 issue: 

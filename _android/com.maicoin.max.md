@@ -10,7 +10,7 @@ appCountry: us
 released: 2018-07-01
 updated: 2025-02-06
 version: 14.0.0
-stars: 3.6
+stars: 3.7
 ratings: 1049
 reviews: 11
 website: https://max.maicoin.com

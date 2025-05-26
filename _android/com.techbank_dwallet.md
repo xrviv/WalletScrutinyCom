@@ -26,7 +26,7 @@ signer:
 twitter: 
 social: 
 redirect_from: 
-developerName: TechBank
+developerName: Techbank
 features: 
 
 ---

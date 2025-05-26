@@ -11,7 +11,7 @@ released: 2021-01-05
 updated: 2025-05-18
 version: 2.6.3
 stars: 4.3
-reviews: 634
+reviews: 666
 website: https://gosats.io
 repository: 
 issue: 

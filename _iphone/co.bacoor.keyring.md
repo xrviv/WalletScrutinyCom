@@ -8,8 +8,8 @@ appId: co.bacoor.keyring
 appCountry: 
 idd: '1546824976'
 released: 2021-01-25
-updated: 2025-04-11
-version: 4.8.0
+updated: 2025-05-23
+version: 4.9.0
 stars: 4
 reviews: 12
 website: 

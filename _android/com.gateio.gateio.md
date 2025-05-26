@@ -1,6 +1,6 @@
 ---
 wsId: gate.io
-title: Gate.io Trade Bitcoin & Crypto
+title: Gate Trade Bitcoin & Crypto
 altTitle: 
 authors:
 - danny
@@ -12,7 +12,7 @@ updated: 2025-05-19
 version: 7.4.1
 stars: 4.7
 ratings: 17546
-reviews: 6638
+reviews: 6636
 website: https://www.gate.com/
 repository: 
 issue: 

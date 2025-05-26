@@ -12,7 +12,7 @@ updated: 2024-08-05
 version: V2.0.3
 stars: 4.6
 ratings: 
-reviews: 
+reviews: 3
 website: https://www.juancash.com/
 repository: 
 issue: 

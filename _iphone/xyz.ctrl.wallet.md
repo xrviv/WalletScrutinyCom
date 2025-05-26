@@ -11,7 +11,7 @@ released: 2024-12-10
 updated: 2025-04-28
 version: 2.1.0
 stars: 5
-reviews: 6
+reviews: 7
 website: https://ctrl.xyz/
 repository: 
 issue: 
