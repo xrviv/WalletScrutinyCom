@@ -539,12 +539,16 @@ const uploadFileAttachment = async function({ fileName, fileType, fileSize, base
     throw new Error(`File ${fileName} exceeds the 60KB limit`);
   }
 
+  const name = fileName.split('.').slice(0, -1).join('.') ?? '';
+  const extension = fileName.split('.').pop() ?? '';
+
   const ndkEvent = new NDKEvent(ndk);
   ndkEvent.kind = codeSnippetKind;
   ndkEvent.content = base64Data;
   ndkEvent.created_at = getCreatedAt();
   ndkEvent.tags = [
-    ["filename", fileName],
+    ["name", name],
+    ["extension", extension],
     ["content-type", fileType],
     ["size", fileSize.toString()],
     getWSClientTag()
