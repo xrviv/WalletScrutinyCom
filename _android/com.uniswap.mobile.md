@@ -12,7 +12,7 @@ updated: 2025-05-21
 version: '1.50'
 stars: 4.7
 ratings: 
-reviews: 495
+reviews: 496
 website: https://wallet.uniswap.org
 repository: 
 issue: 

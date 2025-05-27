@@ -10,8 +10,8 @@ idd: '1639508257'
 released: 2022-09-15
 updated: 2025-05-19
 version: '3.9'
-stars: 4.2
-reviews: 5
+stars: 4.3
+reviews: 6
 website: https://www.bblack.io/
 repository: 
 issue: 

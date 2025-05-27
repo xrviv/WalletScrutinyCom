@@ -11,7 +11,7 @@ released: 2018-02-07
 updated: 2025-05-20
 version: 4.57.3
 stars: 4.7
-reviews: 151
+reviews: 153
 website: http://www.bitbill.com
 repository: 
 issue: 

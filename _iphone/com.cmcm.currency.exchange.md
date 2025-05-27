@@ -11,7 +11,7 @@ released: 2018-09-16
 updated: 2025-05-12
 version: 6.0.21
 stars: 4.2
-reviews: 1105
+reviews: 1106
 website: https://www.bitrue.com
 repository: 
 issue: 

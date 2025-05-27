@@ -12,7 +12,7 @@ updated: 2025-05-18
 version: 1.3.1501
 stars: 4.8
 ratings: 
-reviews: 469
+reviews: 470
 website: https://eldorado.io
 repository: 
 issue: 

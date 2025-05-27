@@ -11,7 +11,7 @@ released: 2021-02-18
 updated: 2025-04-24
 version: 3.0.0
 stars: 4.7
-reviews: 148190
+reviews: 148292
 website: https://www.trbinance.com/
 repository: 
 issue: 

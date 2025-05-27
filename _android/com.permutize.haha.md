@@ -12,7 +12,7 @@ updated: 2025-05-23
 version: 3.8.7
 stars: 4.6
 ratings: 
-reviews: 160
+reviews: 161
 website: https://www.haha.me
 repository: 
 issue: 

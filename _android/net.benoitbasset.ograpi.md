@@ -18,10 +18,10 @@ repository:
 issue: 
 icon: net.benoitbasset.ograpi.png
 bugbounty: 
-meta: stale
+meta: obsolete
 verdict: nowallet
 appHashes: 
-date: 2024-06-03
+date: 2025-05-27
 signer: 
 twitter: 
 social: 
