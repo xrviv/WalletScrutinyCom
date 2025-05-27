@@ -103,8 +103,8 @@ window.renderAssetsTable = async function({
         <p style="margin-top: 30px; margin-bottom: 20px;">⚠️ This file was uploaded by a third party. We haven't verified its content, so please be careful before running it. ⚠️</p>
         <button id="blossomConfirmDownloadButton" class="btn btn-success" style="padding: 10px 20px;">Download</button>
       </div>
-    </div>
-  `;
+    </div>`;
+
   // Append modal to body to ensure it's outside the main container's potential overflow issues
   if (!document.getElementById('blossomWarningModal')) {
     document.body.insertAdjacentHTML('beforeend', blossomModalHTML);
@@ -120,8 +120,8 @@ window.renderAssetsTable = async function({
         </div>
         <div id="previewContent" style="text-align: left; overflow: auto; max-height: calc(80vh - 100px);"></div>
       </div>
-    </div>
-  `;
+    </div>`;
+
   // Append preview modal to body
   if (!document.getElementById('attachmentPreviewModal')) {
     document.body.insertAdjacentHTML('beforeend', attachmentPreviewModalHTML);
@@ -909,6 +909,10 @@ window.showVerificationModal = async function(sha256Hash, verificationId, appId,
   const status = verification.tags.find(tag => tag[0] === 'status')?.[1] || '';
 
   const modal = document.getElementById('verificationModal');
+  modal.innerHTML = `
+    <span id="closeModal">&times;</span>
+    <div id="verificationContent"></div>`;
+
   const content = document.getElementById('verificationContent');
 
   // Reset scroll positions before showing the modal again
