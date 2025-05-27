@@ -27,10 +27,9 @@
 
         <div style="margin-top: 4px; display: none;" id="createVerificationButton"></div>
 
-        <div id="verificationModal">
-            <span id="closeModal">&times;</span>
-            <div id="verificationContent"></div>
-        </div>
+        <div id="verificationModal"></div>
+
+        <script src="{{'/dist/verifications.bundle.min.js' | relative_url }}"></script>
 
         <script>
           window.addEventListener('load', async () => {
@@ -46,12 +45,24 @@
 
             const versionNumberElement = document.getElementById('version-number');
             if (versionNumberElement) {
-              const versionInfo = getMaxAssetVersion(attestationsInfo);
-              let versionInfoText = '<p>Latest Release: <b>' + versionInfo.lastVersion + '</b> <small>(' + versionInfo.lastVersionDate + ')</small>';
-              if (versionInfo.lastVerifiedVersion !== versionInfo.lastVersion) {
-                versionInfoText += '<br>Last <span style="color: #008000;">Verified Release</span>: <b>' + versionInfo.lastVerifiedVersion + '</b> <small>(' + versionInfo.lastVerifiedVersionDate + ')</small>';
+              const versionInfo = getMaxAssetVersion(attestationsInfo.info);
+
+              let versionInfoText = '<p style="margin-top: 0;">';
+
+              if (typeof wsVersion !== 'undefined' && wsVersion) {
+                versionInfoText += 'Latest release found by <b>WalletScrutiny</b>: <b>' + wsVersion + '</b><br>';
               }
-              versionNumberElement.innerHTML = versionInfoText + '</p>';
+
+              if (versionInfo.lastVersion) {
+                versionInfoText += 'Latest release found in a <b>Verification</b>: <b>' + versionInfo.lastVersion + '</b> <small>(' + versionInfo.lastVersionDate + ')</small><br>';
+              }
+
+              if (versionInfo.lastVerifiedVersion && (versionInfo.lastVerifiedVersion !== versionInfo.lastVersion)) {
+                versionInfoText += 'Last <span style="color: #008000;"><b>Reproducible Verification</b></span>: <b>' + versionInfo.lastVerifiedVersion + '</b> <small>(' + versionInfo.lastVerifiedVersionDate + ')</small>';
+              }
+
+              versionInfoText += '</p>';
+              versionNumberElement.innerHTML = versionInfoText;
             }
 
             if (!attestationsInfo.hasVerifications && !attestationsInfo.info.draftVerifications.size) {

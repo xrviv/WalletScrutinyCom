@@ -7,9 +7,11 @@ layout: default
 </script>
 
 <div id="main" class="app-review" role="main">
-    {% if page.wsId %}
-    <script>window.wsId="{{ page.wsId }}"</script>
-    {% endif %}
+    <script>
+        {% if page.wsId %}window.wsId="{{ page.wsId }}";{% endif %}
+        {% if page.version %}window.wsVersion="{{ page.version }}";{% endif %}
+    </script>
+
     <article class="page" style="float:{{ float }};" itemscope itemtype="http://schema.org/CreativeWork">
         <meta itemprop="headline" content="{{ page.altTitle | default: page.title | escape }}">
         {% if page.excerpt %}
@@ -32,8 +34,6 @@ layout: default
                         {{ page.title | escape }}
                         {% endif %}
                     </h1>
-
-
 
                     <a title="Google Play" href="https://play.google.com/store/apps/details?id={{ page.appId }}" class="link-web subtle">
                         <i class="fab fa-google-play"></i> Google Play

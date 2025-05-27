@@ -17,8 +17,7 @@ icon: lisk.png
 bugbounty: 
 meta: ok
 verdict: nobtc
-date: 2025-04-15
-reviewArchive: 
+date: 2025-04-25
 twitter: LiskHQ
 social: 
 features: 

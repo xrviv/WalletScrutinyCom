@@ -18,7 +18,6 @@ bugbounty:
 meta: obsolete
 verdict: diy
 date: 2025-05-19
-reviewArchive: 
 twitter: 
 social: 
 features: 

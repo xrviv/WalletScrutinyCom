@@ -18,7 +18,6 @@ bugbounty:
 meta: defunct
 verdict: nosource
 date: 2025-04-15
-reviewArchive: 
 twitter: eidoo_io
 social: 
 features: 

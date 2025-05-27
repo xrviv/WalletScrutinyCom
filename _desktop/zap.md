@@ -17,8 +17,7 @@ icon: zap.png
 bugbounty: 
 meta: obsolete
 verdict: sourceavailable
-date: 2025-04-25
-reviewArchive: 
+date: 2024-04-25
 twitter: ln_zap
 social: 
 features: 

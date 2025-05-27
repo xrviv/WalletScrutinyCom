@@ -18,7 +18,6 @@ bugbounty: https://shiftcrypto.ch/bug-bounty-program
 meta: ok
 verdict: nowallet
 date: 2025-04-25
-reviewArchive: 
 twitter: ShiftCryptoHQ
 social: 
 features: 

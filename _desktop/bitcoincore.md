@@ -19,7 +19,6 @@ bugbounty:
 meta: ok
 verdict: sourceavailable
 date: 2025-04-25
-reviewArchive: 
 twitter: bitcoincoreorg
 social: 
 features: 

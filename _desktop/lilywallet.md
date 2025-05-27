@@ -18,7 +18,6 @@ bugbounty:
 meta: stale
 verdict: sourceavailable
 date: 2025-05-19
-reviewArchive: 
 twitter: LilyWallet
 social: 
 features: 
