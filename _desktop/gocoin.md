@@ -8,7 +8,7 @@ discontinued:
 updated: 2025-03-23
 version: 1.10.4
 binaries: 
-provider:  Piotr Narewski
+provider: Piotr Narewski
 providerWebsite: 
 website: https://gocoin.pl/gocoin_manual_wallet.html
 repository: https://github.com/piotrnar/gocoin

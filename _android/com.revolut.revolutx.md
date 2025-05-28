@@ -3,10 +3,11 @@ wsId: revolutX
 title: 'Revolut X: Buy Bitcoin, Crypto'
 altTitle: 
 authors:
-- danny 
+- danny
 users: 100000
 appId: com.revolut.revolutx
 appCountry: 
+released: 
 updated: 2025-05-13
 version: '1.8'
 stars: 
@@ -27,7 +28,7 @@ social:
 - https://www.linkedin.com/company/revolut
 - https://www.tiktok.com/@revolutapp
 - https://www.instagram.com/revolutapp
-- https://www.facebook.com/revolutapp 
+- https://www.facebook.com/revolutapp
 redirect_from: 
 developerName: Revolut Ltd
 features: 

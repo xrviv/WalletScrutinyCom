@@ -12,7 +12,7 @@ updated: 2025-05-25
 version: 2.63.1
 stars: 4
 ratings: 51097
-reviews: 70
+reviews: 69
 website: http://www.mercadobitcoin.com.br
 repository: 
 issue: 

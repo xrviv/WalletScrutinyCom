@@ -3,14 +3,14 @@ wsId: verusMobile
 title: Verus Mobile
 altTitle: 
 authors:
-- danny 
+- danny
 users: 100000
 appId: org.autonomoussoftwarefoundation.verusmobile.android
 appCountry: 
 released: 2023-04-23
 updated: 2025-03-10
 version: 1.0.27
-stars: 3.4153845
+stars: 3.4
 ratings: 
 reviews: 27
 website: https://verus.io/
@@ -26,7 +26,7 @@ signer:
 twitter: veruscoin
 social:
 - https://www.youtube.com/channel/UC_-KCHBxaDwSgNMdE3LMThg
-- https://bitcointalk.org/index.php?action=profile;u=1983523 
+- https://bitcointalk.org/index.php?action=profile;u=1983523
 redirect_from: 
 developerName: Autonomous Software Foundation
 features: 

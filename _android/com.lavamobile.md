@@ -3,7 +3,7 @@ wsId: lavaXYZ
 title: Lava
 altTitle: 
 authors:
-- danny 
+- danny
 users: 1000
 appId: com.lavamobile
 appCountry: 
