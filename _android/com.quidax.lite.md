@@ -13,7 +13,7 @@ version: 1.22.0
 stars: 3.9
 ratings: 
 reviews: 101
-website: https://quidax.com
+website: https://quidax.io
 repository: 
 issue: 
 icon: com.quidax.lite.png

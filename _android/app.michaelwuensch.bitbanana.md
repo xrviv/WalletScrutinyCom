@@ -11,9 +11,9 @@ appCountry:
 released: 2023-03-26
 updated: 2025-04-04
 version: 0.9.4
-stars: 3.8
+stars: 3.6
 ratings: 
-reviews: 
+reviews: 5
 website: https://bitbanana.app/
 repository: https://github.com/michaelWuensch/BitBanana
 issue: https://github.com/michaelWuensch/BitBanana/issues/95

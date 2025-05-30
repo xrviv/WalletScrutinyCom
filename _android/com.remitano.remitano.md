@@ -12,7 +12,7 @@ updated: 2025-05-17
 version: 6.138.0
 stars: 4.3
 ratings: 19172
-reviews: 514
+reviews: 513
 website: https://remitano.com
 repository: 
 issue: 
