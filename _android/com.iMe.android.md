@@ -8,8 +8,8 @@ users: 5000000
 appId: com.iMe.android
 appCountry: 
 released: 2019-07-22
-updated: 2025-05-26
-version: 11.9.3
+updated: 2025-05-30
+version: 11.9.4
 stars: 4.6
 ratings: 
 reviews: 696

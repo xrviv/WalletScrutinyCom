@@ -8,8 +8,8 @@ users: 50000
 appId: com.apex.plus
 appCountry: 
 released: 2022-08-24
-updated: 2025-05-28
-version: 3.18.1
+updated: 2025-06-01
+version: 3.18.2
 stars: 4.4
 ratings: 
 reviews: 29

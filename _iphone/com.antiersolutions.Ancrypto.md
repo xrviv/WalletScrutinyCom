@@ -11,7 +11,7 @@ released: 2023-03-24
 updated: 2025-05-26
 version: '45'
 stars: 4.5
-reviews: 19
+reviews: 20
 website: https://gemspocket.com
 repository: 
 issue: 

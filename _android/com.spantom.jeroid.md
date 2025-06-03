@@ -13,7 +13,7 @@ version: 2.2.5
 stars: 2.9
 ratings: 248
 reviews: 43
-website: https://www.jeroid.ng/
+website: https://www.jeroid.co/
 repository: 
 issue: 
 icon: com.spantom.jeroid.png

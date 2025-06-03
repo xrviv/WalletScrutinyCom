@@ -10,7 +10,7 @@ appCountry:
 released: 2017-11-01
 updated: 2025-05-19
 version: 10.51.0
-stars: 3.4
+stars: 3.5
 ratings: 31840
 reviews: 468
 website: http://www.hbg.com

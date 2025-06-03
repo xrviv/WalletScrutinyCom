@@ -12,7 +12,7 @@ updated: 2025-05-22
 version: 8.17.7
 stars: 4.3
 ratings: 2325
-reviews: 132
+reviews: 134
 website: https://bit24.cash
 repository: 
 issue: 

@@ -10,7 +10,7 @@ appId: com.mycelium.wallet
 appCountry: 
 released: 2013-07-01
 updated: 2025-05-14
-version: 3.18.2.0
+version: 3.19.3.0
 stars: 3.7
 ratings: 11650
 reviews: 1151
