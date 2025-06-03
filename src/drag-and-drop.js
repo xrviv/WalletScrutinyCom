@@ -8,7 +8,7 @@ import {
   getApkInfo,
   getPlatformFromFilename
 } from './drag-and-drop-utils.js';
-import { isDebugEnv } from './verifications_common.js';
+import { isDebugEnv } from './verifications_common.mjs';
 
 const uploadsActivated = true;
 const maxFileSize = 500;  // MB

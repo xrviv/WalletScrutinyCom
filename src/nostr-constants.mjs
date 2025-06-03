@@ -1,4 +1,4 @@
-import { isDebugEnv } from './verifications_common.js';
+import { isDebugEnv } from './verifications_common.mjs';
 
 export const mainRelayUrl = "wss://relay.nostr.band";
 
