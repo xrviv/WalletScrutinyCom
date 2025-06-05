@@ -1,6 +1,6 @@
 ---
 wsId: cryptoXpress
-title: 'CryptoXpress: Crypto Made Easy'
+title: 'CryptoXpress: Crypto Super App'
 altTitle: 
 authors:
 - danny

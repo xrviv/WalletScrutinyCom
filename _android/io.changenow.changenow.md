@@ -13,7 +13,7 @@ updated: 2025-05-30
 version: 1.156.21
 stars: 4.7
 ratings: 2199
-reviews: 768
+reviews: 769
 website: https://changenow.io
 repository: 
 issue: 

@@ -1,6 +1,6 @@
 ---
 wsId: Paxful
-title: 'Paxful: Buy Bitcoin & Ethereum'
+title: 'Paxful: Buy BTC, USDT, ETH'
 altTitle: 
 authors:
 - leo

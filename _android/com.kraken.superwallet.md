@@ -10,7 +10,7 @@ appCountry:
 released: 2024-04-11
 updated: 2025-03-26
 version: 1.18.1 (29)
-stars: 4.5
+stars: 4.6
 ratings: 
 reviews: 73
 website: https://kraken.com/wallet
