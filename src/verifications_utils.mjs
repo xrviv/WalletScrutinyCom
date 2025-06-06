@@ -42,7 +42,7 @@ const nostrConnect = function (nostrPrivateKey) {
   // Assign the connection logic to the promise immediately
   ndkConnectionPromise = (async () => {
     let signer;
-    let hasBrowserExtension = await userHasBrowserExtension();
+    const hasBrowserExtension = await userHasBrowserExtension();
 
     if (hasBrowserExtension) {
       console.debug("Signer: Using browser extension");
@@ -126,10 +126,15 @@ const userHasBrowserExtension = function() {
       return;
     }
 
-    // Retry system: 20 attempts every 20ms
+    // Retry system: 125 attempts, 25ms per attempt
+    // The nostr extension is not available until the dom is fully loaded, but
+    // we start doing stuff way before that (if the user has a slow connection).
+    // That's why we need to start checking soon, but continue checking for a while.
+    // We cannot wait too long, though, as the user may not have a Nostr browser
+    // extension installed.
     let attempts = 0;
-    const maxAttempts = 20;
-    const retryDelay = 20;
+    const maxAttempts = 125;
+    const retryDelay = 25;
 
     const checkExtension = () => {
       attempts++;
