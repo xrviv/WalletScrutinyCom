@@ -8,10 +8,10 @@ appId: com.unocoin.mainapp.production
 appCountry: in
 idd: 1030422972
 released: 2016-05-12
-updated: 2025-03-27
-version: 6.2.62
+updated: 2025-05-27
+version: 6.2.64
 stars: 3.6
-reviews: 1589
+reviews: 1588
 website: https://www.unocoin.com
 repository: 
 issue: 

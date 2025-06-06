@@ -10,9 +10,9 @@ appCountry:
 released: 2021-06-10
 updated: 2025-05-22
 version: 1.0.1584
-stars: 3.7
+stars: 3.6
 ratings: 6172
-reviews: 714
+reviews: 715
 website: https://cryptotab.farm/
 repository: 
 issue: 

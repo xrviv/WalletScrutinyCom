@@ -1,6 +1,6 @@
 ---
 wsId: bitcoinbeach
-title: Blink (Bitcoin Beach Wallet)
+title: Blink (Bitcoin Wallet)
 altTitle: 
 authors:
 - danny
@@ -8,10 +8,10 @@ appId: io.galoy.bitcoinbeach
 appCountry: ng
 idd: '1531383905'
 released: 2020-11-11
-updated: 2025-04-23
-version: 2.2.306
+updated: 2025-05-28
+version: 2.2.315
 stars: 4.4
-reviews: 40
+reviews: 41
 website: https://www.blink.sv/en/features
 repository: https://github.com/GaloyMoney/galoy-mobile
 issue: 

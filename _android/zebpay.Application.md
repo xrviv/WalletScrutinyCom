@@ -12,7 +12,7 @@ updated: 2025-05-28
 version: 3.53.00
 stars: 3.3
 ratings: 103840
-reviews: 73
+reviews: 74
 website: https://www.zebpay.com
 repository: 
 issue: 

@@ -1,10 +1,3 @@
-2025-05-22:
-- _android/co.bitfrost
-- _android/com.bestwallet.mobile
-- _android/com.bmdf.lemonbitcoincaptcha
-- _android/com.bmdf.lemonbitcoinfaucet
-- _android/com.tidex.app.exchange
-- _android/com.vowcurrency.vow
 2025-05-23:
 - _android/com.banexcoin.app.mobile
 2025-05-26:
@@ -36,3 +29,8 @@
 - _iphone/com.funex.coin
 - _iphone/com.iBTC.trade.hk
 - _iphone/com.koinkoin.app
+2025-06-06:
+- _android/com.Android.Inc.bitwallet
+- _iphone/com.uxuy
+- _iphone/io.eldorado.app.v1
+- _iphone/ru.trustpool.wallet
