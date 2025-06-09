@@ -11,7 +11,7 @@ released: 2019-02-12
 updated: 2025-05-26
 version: 11.10.0
 stars: 4.2
-reviews: 12
+reviews: 13
 website: https://www.swissquote.com
 repository: 
 issue: 

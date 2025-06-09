@@ -1,6 +1,6 @@
 ---
 wsId: inocyx
-title: 'Inocyx: Buy & Trade Crypto'
+title: 'INOCYX: Buy & Trade Crypto'
 altTitle: 
 authors:
 - danny
@@ -8,8 +8,8 @@ appId: com.app.Inocyx
 appCountry: in
 idd: '6444437433'
 released: 2022-12-05
-updated: 2025-05-15
-version: '3.6'
+updated: 2025-06-07
+version: '3.7'
 stars: 4.6
 reviews: 11
 website: 

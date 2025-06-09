@@ -12,7 +12,7 @@ updated: 2025-05-30
 version: 6.1.0
 stars: 3.7
 ratings: 2703
-reviews: 713
+reviews: 714
 website: https://www.bitrue.com/
 repository: 
 issue: 

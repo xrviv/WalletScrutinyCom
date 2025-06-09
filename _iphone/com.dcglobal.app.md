@@ -10,8 +10,8 @@ idd: '1610058833'
 released: 2022-02-26
 updated: 2025-06-01
 version: 7.5.21
-stars: 4.3
-reviews: 12
+stars: 4.4
+reviews: 13
 website: https://www.deepcoin.com
 repository: 
 issue: 

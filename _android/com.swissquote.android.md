@@ -12,7 +12,7 @@ updated: 2025-05-27
 version: 8.10.0
 stars: 3.4
 ratings: 
-reviews: 40
+reviews: 41
 website: https://www.swissquote.com/
 repository: 
 issue: 

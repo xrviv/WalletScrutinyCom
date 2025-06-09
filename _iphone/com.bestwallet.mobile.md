@@ -11,7 +11,7 @@ released: 2023-08-02
 updated: 2025-06-02
 version: 2.8.1
 stars: 4.4
-reviews: 2948
+reviews: 2978
 website: https://bestwallet.com/
 repository: 
 issue: 

@@ -7,11 +7,11 @@ users: 1000000
 appId: com.ledger.live
 appCountry: 
 released: 2019-01-27
-updated: 2025-05-21
+updated: 2025-06-06
 version: 3.77.0
 stars: 4.6
 ratings: 6090
-reviews: 2916
+reviews: 2917
 website: https://www.ledger.com
 repository: 
 issue: 

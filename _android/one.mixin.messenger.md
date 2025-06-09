@@ -14,7 +14,7 @@ updated: 2025-06-03
 version: 3.0.4
 stars: 4.4
 ratings: 1252
-reviews: 153
+reviews: 152
 website: https://mixin.one/messenger
 repository: https://github.com/MixinNetwork/android-app
 issue: https://github.com/MixinNetwork/android-app/issues/4980

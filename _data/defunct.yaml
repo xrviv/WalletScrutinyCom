@@ -1,5 +1,3 @@
-2025-05-23:
-- _android/com.banexcoin.app.mobile
 2025-05-26:
 - _android/com.gcmasia.pro
 - _android/com.sixmultiverse.heartnumber
@@ -34,3 +32,6 @@
 - _iphone/com.uxuy
 - _iphone/io.eldorado.app.v1
 - _iphone/ru.trustpool.wallet
+2025-06-09:
+- _android/com.velas.mobile_wallet
+- _android/org.orinocodev.orinoco.io

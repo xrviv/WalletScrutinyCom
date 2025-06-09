@@ -8,8 +8,8 @@ users: 100000
 appId: com.deblock.deblockapp
 appCountry: 
 released: 
-updated: 2025-06-04
-version: 3.2.7
+updated: 2025-06-06
+version: 3.2.8
 stars: 4.7
 ratings: 
 reviews: 7

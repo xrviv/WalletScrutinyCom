@@ -12,7 +12,7 @@ updated: 2024-10-03
 version: 4.1.8
 stars: 2.6
 ratings: 
-reviews: 26
+reviews: 25
 website: 
 repository: 
 issue: 

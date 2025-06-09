@@ -12,7 +12,7 @@ updated: 2025-05-27
 version: 1.2.5
 stars: 3.3
 ratings: 
-reviews: 251
+reviews: 252
 website: https://www.fountain.fm
 repository: 
 issue: 

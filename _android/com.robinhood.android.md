@@ -1,6 +1,6 @@
 ---
 wsId: Robinhood
-title: Robinhood - FinTech SuperApp
+title: 'Robinhood: Trade BTC, XRP, ETH'
 altTitle: 
 authors:
 - danny
@@ -12,7 +12,7 @@ updated: 2025-06-03
 version: 2025.22.1
 stars: 4.2
 ratings: 445358
-reviews: 261805
+reviews: 261884
 website: https://robinhood.com/
 repository: 
 issue: 
@@ -28,7 +28,7 @@ social:
 - https://www.linkedin.com/company/robinhood
 - https://www.facebook.com/robinhoodapp
 redirect_from: 
-developerName: Robinhood
+developerName: Robinhood Markets
 features: 
 
 ---

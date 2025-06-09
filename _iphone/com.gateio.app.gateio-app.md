@@ -11,7 +11,7 @@ released: 2017-11-03
 updated: 2025-06-04
 version: 7.6.0
 stars: 4.5
-reviews: 1312
+reviews: 1318
 website: https://www.gate.com
 repository: 
 issue: 
