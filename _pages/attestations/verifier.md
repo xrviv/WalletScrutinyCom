@@ -4,8 +4,6 @@ title: "Build Verifier Page"
 permalink: /verifier/
 ---
 
-<link rel="stylesheet" href="{{ base_path }}/assets/css/verifications.css">
-
 <style>
   #main {
     width: 100%;

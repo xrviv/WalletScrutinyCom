@@ -41,8 +41,6 @@ pre {
 }
 </style>
 
-<link rel="stylesheet" href="{{ base_path }}/assets/css/verifications.css">
-
 <div class="nav-buttons-container">
     <a href="/assets/" class="btn btn-medium btn-success">Asset Registry</a>
     <a href="/verifiers/" class="btn btn-medium btn-success">Top Build Verifiers</a>

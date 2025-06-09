@@ -4,8 +4,6 @@ title: "Asset Information"
 permalink: /asset/
 ---
 
-<link rel="stylesheet" href="{{ base_path }}/assets/css/verifications.css">
-
 <h2 id="sha256title" style="text-align: center; margin-bottom: 2em;"></h2>
 
 <div style="margin-bottom: 20px; display: flex; align-items: center; gap: 10px;">
