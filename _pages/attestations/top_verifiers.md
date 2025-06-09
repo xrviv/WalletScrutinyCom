@@ -4,8 +4,6 @@ title: "Top Build Verifiers"
 permalink: /verifiers/
 ---
 
-<link rel="stylesheet" href="{{ base_path }}/assets/css/verifications.css">
-
 <style>
   table { 
     width: 100%;

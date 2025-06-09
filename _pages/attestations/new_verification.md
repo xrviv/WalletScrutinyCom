@@ -3,8 +3,6 @@ layout: archive
 permalink: /new_verification/
 ---
 
-<link rel="stylesheet" href="{{ base_path }}/assets/css/verifications.css">
-
 <style>
       /* Tab styling with light/dark mode support */
       .tab-button {
