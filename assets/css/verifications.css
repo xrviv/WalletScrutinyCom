@@ -18,7 +18,6 @@
     display: none !important;
   }
 }
-
 .attestation-other-attempts {
   margin-top: 0;
 }
@@ -28,16 +27,19 @@
   padding: 0;
   overflow-wrap: break-word;
 }
+
 .markdown-content code {
-  background-color: rgba(0,0,0,0.05);
+  background-color: rgba(0, 0, 0, 0.05);
   padding: 2px 4px;
   border-radius: 3px;
 }
+
 .markdown-content pre {
   padding: 10px;
   border-radius: 5px;
   overflow-x: unset;
 }
+
 .markdown-content img {
   max-width: 100%;
 }
@@ -51,49 +53,58 @@ pre.ap-terminal .ap-line span {
 thead {
   background-color: #f5f5f5;
 }
+
 body.dark thead {
   background-color: #353535;
 }
 
-table {
-  @media screen and (max-width: 480px) {
+@media screen and (max-width: 480px) {
+  table {
     font-size: 0.7em;
   }
-  @media screen and (min-width: 481px) {
+}
+@media screen and (min-width: 481px) {
+  table {
     font-size: 0.7em;
   }
-  @media screen and (min-width: 1200px) {
+}
+@media screen and (min-width: 1200px) {
+  table {
     font-size: 0.85em;
   }
-  @media screen and (min-width: 1800px) {
+}
+@media screen and (min-width: 1800px) {
+  table {
     font-size: 0.9em;
   }
-  @media screen and (min-width: 2300px) {
+}
+@media screen and (min-width: 2300px) {
+  table {
     font-size: 1em;
   }
-
-  th, td {
-    text-align: center;
-    @media screen and (min-width: 1200px) {
-      padding: 10px;
-    }
+}
+table th, table td {
+  text-align: center;
+}
+@media screen and (min-width: 1200px) {
+  table th, table td {
+    padding: 10px;
   }
-
-  td.asset-description {
-    text-align: left;
-  }
-
-  .copy-button {
-    border: none;
-    background: none;
-    cursor: pointer;
-    padding: 0;
-  }
+}
+table td.asset-description {
+  text-align: left;
+}
+table .copy-button {
+  border: none;
+  background: none;
+  cursor: pointer;
+  padding: 0;
 }
 
 .hidden-row {
   display: none;
 }
+
 #show-more-link {
   display: inline-block;
   padding: 5px 10px;
@@ -101,6 +112,7 @@ table {
   color: var(--accent-text);
   cursor: pointer;
 }
+
 #show-more-link:hover {
   text-decoration: underline;
 }
@@ -116,10 +128,9 @@ table {
 
 .attestation-status {
   color: var(--accent-text);
-
-  &:hover {
-    text-decoration: underline;
-  }
+}
+.attestation-status:hover {
+  text-decoration: underline;
 }
 
 /* Attestation Modal */
@@ -134,20 +145,29 @@ table {
   border-radius: 12px;
   height: 80vh;
   background: var(--background-color);
-
-  @media screen and (max-width: 480px) {
+}
+@media screen and (max-width: 480px) {
+  #verificationModal {
     width: 97vw;
   }
-  @media screen and (min-width: 481px) {
+}
+@media screen and (min-width: 481px) {
+  #verificationModal {
     width: 95vw;
   }
-  @media screen and (min-width: 1200px) {
+}
+@media screen and (min-width: 1200px) {
+  #verificationModal {
     width: 85vw;
   }
-  @media screen and (min-width: 1800px) {
+}
+@media screen and (min-width: 1800px) {
+  #verificationModal {
     width: 80vw;
   }
-  @media screen and (min-width: 2300px) {
+}
+@media screen and (min-width: 2300px) {
+  #verificationModal {
     width: 75vw;
   }
 }
@@ -160,49 +180,47 @@ table {
   overflow-x: auto;
   max-width: 100%;
   font-size: 16px;
-
   /* Styles for scrollbar */
-  &::-webkit-scrollbar {
-    width: 10px;
-  }
-
-  &::-webkit-scrollbar-track {
-    background: rgba(0, 0, 0, 0.8);
-    border-radius: 10px;
-  }
-
-  &::-webkit-scrollbar-thumb {
-    background: rgba(0, 0, 0, 0.2);
-    border-radius: 10px;
-
-    &:hover {
-      background: rgba(0, 0, 0, 0.3);
-    }
-  }
   /* Styles for scrollbar - Firefox */
   scrollbar-width: thin;
   scrollbar-color: rgba(0, 0, 0, 0.8) rgba(0, 0, 0, 0.1);
-
-  @media screen and (max-width: 480px) {
+}
+#verificationContent::-webkit-scrollbar {
+  width: 10px;
+}
+#verificationContent::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+}
+#verificationContent::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+#verificationContent::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.3);
+}
+@media screen and (max-width: 480px) {
+  #verificationContent {
     font-size: 14px;
   }
-
-  @media screen and (min-width: 481px) and (max-width: 768px) {
+}
+@media screen and (min-width: 481px) and (max-width: 768px) {
+  #verificationContent {
     font-size: 15px;
-
-    pre code {
-      font-size: 14px;
-    }
   }
-
-  @media screen and (min-width: 1200px) {
-    font-size: 18px;
-
-    pre code {
-      font-size: 15px;
-    }
+  #verificationContent pre code {
+    font-size: 14px;
   }
 }
+@media screen and (min-width: 1200px) {
+  #verificationContent {
+    font-size: 18px;
+  }
+  #verificationContent pre code {
+    font-size: 15px;
+  }
+}
+
 #verificationContent p {
   margin-top: 0.4em;
   margin-bottom: 0em;
@@ -239,7 +257,7 @@ table {
 }
 
 /* Checkboxes and Labels */
-input[type="checkbox"] {
+input[type=checkbox] {
   width: 20px;
   height: 20px;
   margin-top: 0;
@@ -284,19 +302,16 @@ input, textarea, select {
   padding: 15px;
   border-radius: 4px;
   margin-bottom: 20px;
-
-  .info-item {
-    margin-bottom: 10px;
-
-    &:last-child {
-      margin-bottom: 0;
-    }
-
-    label {
-      font-weight: bold;
-      margin-right: 10px;
-    }
-  }
+}
+.static-info .info-item {
+  margin-bottom: 10px;
+}
+.static-info .info-item:last-child {
+  margin-bottom: 0;
+}
+.static-info .info-item label {
+  font-weight: bold;
+  margin-right: 10px;
 }
 
 .static-info {
@@ -348,12 +363,15 @@ input, textarea, select {
   text-decoration: none !important;
   font-size: 16px;
 }
+
 .btn-medium {
   padding: 7px 12px;
 }
+
 .btn-small {
   padding: 4px 8px;
 }
+
 .btn-tiny {
   padding: 2px 4px;
   font-size: 12px;
@@ -361,11 +379,11 @@ input, textarea, select {
 
 .btn-info {
   background-color: #007bff;
-
-  &:hover {
-    background-color: #0056b3;
-  }
 }
+.btn-info:hover {
+  background-color: #0056b3;
+}
+
 .btn-success {
   display: inline-block;
   background-color: #4CAF50;
@@ -376,13 +394,13 @@ input, textarea, select {
   border-width: 1px;
   border-style: solid;
   transition: background-color 0.3s;
-
-  &:hover {
-    background-color: #337136;
-    color: var(--text-color);
-    text-decoration: none;
-  }
 }
+.btn-success:hover {
+  background-color: #337136;
+  color: var(--text-color);
+  text-decoration: none;
+}
+
 .btn_outline {
   border-width: 1px;
   background-color: transparent;
@@ -426,9 +444,11 @@ input, textarea, select {
   vertical-align: middle;
   line-height: 1;
 }
+
 .badge-warning {
   background-color: #f0ad4e;
 }
+
 .badge-big {
   font-size: 2em;
   padding: 6px 18px;
@@ -439,6 +459,7 @@ input, textarea, select {
   right: 50px;
   position: absolute;
 }
+
 #verification-nostr-icon {
   width: 24px;
   height: 24px;
@@ -450,3 +471,5 @@ input, textarea, select {
 .button-closed-by-default {
   display: none;
 }
+
+/*# sourceMappingURL=verifications.css.map */
