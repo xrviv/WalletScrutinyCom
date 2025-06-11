@@ -37,7 +37,7 @@ const nostrConnectInitiatedPromise = new Promise(resolve => {
   resolveNostrConnectInitiated = resolve;
 });
 
-const connectTimeout = 2000;
+const connectTimeout = 1;
 
 const nostrConnect = function (nostrPrivateKey) {
   // Assign the connection logic to the promise immediately
@@ -593,7 +593,8 @@ const getAllAssetInformation = async function({
                                                 sha256
                                               }) {
   await ensureNdkConnected();
-  console.time('getAllAssetInformation');
+  const randomNumber = Math.floor(Math.random() * 100);
+  console.time('getAllAssetInformation' + randomNumber);
   const filter_assets = {
     kinds: [assetRegistrationKind],
   };
@@ -691,7 +692,7 @@ const getAllAssetInformation = async function({
   });
   */
 
-  console.timeEnd('getAllAssetInformation');
+  console.timeEnd('getAllAssetInformation' + randomNumber);
 
   return {
     assets: assetsMap,
