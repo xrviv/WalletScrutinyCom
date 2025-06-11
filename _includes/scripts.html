@@ -1,6 +1,5 @@
 {% include base_path %}
 
-<script type="text/javascript" src="{{ base_path }}/assets/js/color-thief.umd.js"></script>
 <script type="text/javascript" src="{{'/dist/dom_sanitization.bundle.min.js' | relative_url }}"></script>
 
 <script>
@@ -14,6 +13,13 @@
 
     (async function() {
       await nostrConnect();
+
+      // If not on the home page, wait 1 second to let verifications load first
+      // If it's the home page, we want it as fast as possible
+      {% if page.url != "/" %}
+      await new Promise(resolve => setTimeout(resolve, 1000));
+      {% endif %}
+
       window.allAssetInformation = await getAllAssetInformation({months: 6});
       window.dispatchEvent(new CustomEvent("allAssetInformationLoaded"));
       loadDraftVerificationsNotifications();
@@ -33,6 +39,8 @@
   verificationsScript.src = '{{ base_path }}/dist/verifications_data.bundle.min.js';
   document.body.appendChild(verificationsScript);
 </script>
+
+<script type="text/javascript" src="{{ base_path }}/assets/js/color-thief.umd.js"></script>
 
 {% if page.url == "/" %}
 <script type="text/javascript" src="{{ base_path }}/assets/js/ui-components.js"></script>
