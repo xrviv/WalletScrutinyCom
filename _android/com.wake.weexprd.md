@@ -12,7 +12,7 @@ updated: 2025-06-04
 version: 4.3.23
 stars: 4.2
 ratings: 
-reviews: 187
+reviews: 188
 website: https://www.weex.com
 repository: 
 issue: 

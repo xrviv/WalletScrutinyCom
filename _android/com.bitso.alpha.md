@@ -9,7 +9,7 @@ appId: com.bitso.alpha
 appCountry: GI
 released: 2021-09-28
 updated: 2025-05-29
-version: 1.32.0
+version: 1.33.5
 stars: 3.8
 ratings: 
 reviews: 561

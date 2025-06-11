@@ -10,9 +10,9 @@ appCountry:
 released: 2018-04-10
 updated: 2025-06-03
 version: 4.3.0
-stars: 4.1
+stars: 4.2
 ratings: 1039
-reviews: 204
+reviews: 206
 website: https://www.bitrefill.com
 repository: 
 issue: 

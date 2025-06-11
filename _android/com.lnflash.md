@@ -1,14 +1,14 @@
 ---
 wsId: 
-title: 'Flash: Send, spend and save'
+title: 'Flash: Bitcoin'
 altTitle: 
 authors: 
 users: 1000
 appId: com.lnflash
 appCountry: 
 released: 2024-01-07
-updated: 2025-04-13
-version: 0.4.0
+updated: 2025-06-11
+version: 0.4.1
 stars: 
 ratings: 
 reviews: 

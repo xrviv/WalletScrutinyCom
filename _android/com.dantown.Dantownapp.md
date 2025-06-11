@@ -10,9 +10,9 @@ appCountry:
 released: 2021-03-27
 updated: 2025-05-27
 version: 2.0.72
-stars: 4.1
+stars: 4
 ratings: 
-reviews: 39
+reviews: 40
 website: https://www.dantownms.com
 repository: 
 issue: 

@@ -13,7 +13,7 @@ version: 2.4.0
 stars: 2.8
 ratings: 
 reviews: 12
-website: https://slingshot.finance
+website: https://slingshot.app
 repository: 
 issue: 
 icon: com.slingshot.finance.png
