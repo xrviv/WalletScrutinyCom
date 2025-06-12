@@ -723,7 +723,19 @@ function getAppInfoFromEventInfo(eventInfo) {
   const gitRevision = getFirstTagValue(eventInfo, 'git_revision');
   const appHashes = eventInfo.tags.filter(tag => tag[0] === 'x').map(tag => tag[1]);
 
-  return { isAsset, appId, version, createdAt, description, content, platform, status, url, gitRevision, appHashes };
+  return {
+    isAsset,
+    appId,
+    version,
+    createdAt,
+    description,
+    content,
+    platform,
+    status,
+    url,
+    gitRevision,
+    appHashes,
+  };
 }
 
 function showToast(message, type = 'success', duration = 4000) {
