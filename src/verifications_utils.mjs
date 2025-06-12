@@ -168,6 +168,25 @@ const getWSClientTag = function() {
   return ["client", "WalletScrutiny.com", `31990:${wsBotPublicKey}:${nip89ClientTagD}`, mainRelayUrl];
 }
 
+function validateParameterLengths(params) {
+  const validationRules = {
+    appId: { maxLength: 50, name: 'App ID' },
+    version: { maxLength: 30, name: 'Version' },
+    platform: { maxLength: 10, name: 'Platform' },
+    description: { maxLength: 120, name: 'Description' },
+    content: { maxLength: 60000, name: 'Content' }
+  };
+
+  for (const [paramName, value] of Object.entries(params)) {
+    if (value && validationRules[paramName]) {
+      const rule = validationRules[paramName];
+      if (value.length > rule.maxLength) {
+        throw new Error(`${rule.name} must be ${rule.maxLength} characters or less`);
+      }
+    }
+  }
+}
+
 const createAssetRegistration = async function ({
                                                   sha256,
                                                   appId,
@@ -183,19 +202,7 @@ const createAssetRegistration = async function ({
     throw new Error("Missing required parameters");
   }
 
-  // Limit length of parameters
-  if (appId && appId.length > 50) {
-    throw new Error("App ID must be 50 characters or less");
-  }
-  if (version && version.length > 30) {
-    throw new Error("Version must be 30 characters or less");
-  }
-  if (platform && platform.length > 10) {
-    throw new Error("Platform must be 10 characters or less");
-  }
-  if (description && description.length > 120) {
-    throw new Error("Description must be 120 characters or less");
-  }
+  validateParameterLengths({ appId, version, platform, description });
 
   const ndkEvent = new NDKEvent(ndk);
   ndkEvent.kind = assetRegistrationKind;
@@ -257,22 +264,7 @@ const createVerification = async function ({
     throw new Error("Invalid status");
   }
 
-  // Limit length of parameters
-  if (appId && appId.length > 50) {
-    throw new Error("App ID must be 50 characters or less");
-  }
-  if (version && version.length > 30) {
-    throw new Error("Version must be 30 characters or less");
-  }
-  if (platform && platform.length > 10) {
-    throw new Error("Platform must be 10 characters or less");
-  }
-  if (description && description.length > 120) {
-    throw new Error("Description must be 120 characters or less");
-  }
-  if (content && content.length > 60000) {
-    throw new Error("Content must be 60000 characters or less");
-  }
+  validateParameterLengths({ appId, version, platform, description, content });
 
   // --- Upload Files Before Main Event Creation ---
   let fileUploadResults = [];
@@ -1172,7 +1164,6 @@ if (typeof window !== 'undefined') {
   window.createNostrNote = createNostrNote;
   window.getNostrProfile = getNostrProfile;
   window.getAllAssetInformation = getAllAssetInformation;
-  window.getFirstTag = getFirstTag;
   window.getUserPubkey = getUserPubkey;
   window.showToast = showToast;
   window.getNpubFromPubkey = getNpubFromPubkey;
