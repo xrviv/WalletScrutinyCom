@@ -220,8 +220,8 @@ window.renderAssetsTable = async function({
       if (result) {
         const { verification, sha256Hash } = result;
         // Extract appId and platform from the found verification's tags
-        const appIdFromVerification = verification.tags.find(tag => tag[0] === 'i')?.[1] || "";
-        const platformFromVerification = verification.tags.find(tag => tag[0] === 'platform')?.[1] || "";
+        const appIdFromVerification = getFirstTagValue(verification, 'i');
+        const platformFromVerification = getFirstTagValue(verification, 'platform');
 
         // Call showVerificationModal after a short delay
         setTimeout(() => {
@@ -252,8 +252,8 @@ window.renderAssetsTable = async function({
   // Sort either by version or date depending on sortByVersion parameter
   if (sortByVersion) {
     sortedItems.sort((a, b) => {
-      const versionA = a.items[0].tags.find(tag => tag[0] === 'version')?.[1] || '';
-      const versionB = b.items[0].tags.find(tag => tag[0] === 'version')?.[1] || '';
+      const versionA = getFirstTagValue(a.items[0], 'version');
+      const versionB = getFirstTagValue(b.items[0], 'version');
 
       // Check for VARY string first
       const hasVaryA = versionA.includes('VARY');
@@ -328,9 +328,9 @@ window.renderAssetsTable = async function({
       const sha256Hashes = (binary.tags?.filter(tag => tag[0] === 'x') || []).slice(0, 6);
 
       const sha256HashKey = item.sha256;
-      const version = binary.tags.find(tag => tag[0] === 'version')?.[1] || '';
-      const identifier = binary.tags.find(tag => tag[0] === 'i')?.[1] || "";
-      const platform = binary.tags.find(tag => tag[0] === 'platform')?.[1] || "";
+      const version = getFirstTagValue(binary, 'version');
+      const identifier = getFirstTagValue(binary, 'i');
+      const platform = getFirstTagValue(binary, 'platform');
 
       // Guess if it's an asset or a verification
       hasAssets = binary.kind === assetRegistrationKind;
@@ -370,7 +370,7 @@ window.renderAssetsTable = async function({
             minute: '2-digit'
           });
 
-          const status = attestation.tags.find(tag => tag[0] === 'status')?.[1] || '';
+          const status = getFirstTagValue(attestation, 'status');
 
           let statusText = null;
 
@@ -500,13 +500,13 @@ window.renderAssetsTable = async function({
 
       let name;
       if (attachment.kind === codeSnippetKind) {
-        const attachmentName = attachment.tags.find(tag => tag[0] === 'name')?.[1] || '';
-        const extension = attachment.tags.find(tag => tag[0] === 'extension')?.[1] || '';
+        const attachmentName = getFirstTagValue(attachment, 'name');
+        const extension = getFirstTagValue(attachment, 'extension');
         name = `${attachmentName}.${extension}`;
       } else {  // See https://gitlab.com/walletscrutiny/walletScrutinyCom/-/issues/729
-        name = attachment.tags.find(tag => tag[0] === 'filename')?.[1] || '';
+        name = getFirstTagValue(attachment, 'filename');
       }
-      const size = attachment.tags.find(tag => tag[0] === 'size')?.[1] || '';
+      const size = getFirstTagValue(attachment, 'size');
       const sizeInKb = Math.round(size / 1024);
 
       // Find in sortedItems the specific verification items that use this attachment
@@ -523,7 +523,7 @@ window.renderAssetsTable = async function({
 
       // Decode and store attachment data
       const attachmentContent = atob(attachment.content);
-      const attachmentContentType = attachment.tags.find(tag => tag[0] === 'content-type')?.[1] || 'application/octet-stream';
+      const attachmentContentType = getFirstTagValue(attachment, 'content-type', 'application/octet-stream');
 
       attachmentDataStore[attachment.id] = {
         content: attachmentContent,
@@ -543,9 +543,9 @@ window.renderAssetsTable = async function({
 
       if (verifications.length > 0) {
         for (const verification of verifications) {
-          const version = verification.tags.find(tag => tag[0] === 'version')?.[1] || '';
-          const identifier = verification.tags.find(tag => tag[0] === 'i')?.[1] || "";
-          const platform = verification.tags.find(tag => tag[0] === 'platform')?.[1] || "";
+          const version = getFirstTagValue(verification, 'version');
+          const identifier = getFirstTagValue(verification, 'i');
+          const platform = getFirstTagValue(verification, 'platform');
 
           const wallet = window.wallets.find(w => w.appId === identifier);
           const walletTitle = wallet ? wallet.title : identifier;
@@ -904,7 +904,7 @@ window.showVerificationModal = async function(sha256Hash, verificationId, appId,
 
   window.currentVerification = verification;
 
-  const status = verification.tags.find(tag => tag[0] === 'status')?.[1] || '';
+  const status = getFirstTagValue(verification, 'status');
 
   const modal = document.getElementById('verificationModal');
   modal.innerHTML = `
@@ -933,7 +933,7 @@ window.showVerificationModal = async function(sha256Hash, verificationId, appId,
         minute: '2-digit'
       });
 
-      const status = otherVerification.tags.find(tag => tag[0] === 'status')?.[1] || '';
+      const status = getFirstTagValue(otherVerification, 'status');
 
       const statusIcon = '<span title="' + getStatusText(status) + '" style="margin-left: 4px;">' + (status === 'reproducible' ? '✅' : '❌') + '</span>';
 

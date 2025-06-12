@@ -725,14 +725,14 @@ permalink: /new_verification/
           attachments.forEach(attachment => {
             let name;
             if (attachment.kind === codeSnippetKind) {
-              const attachmentName = attachment.tags.find(tag => tag[0] === 'name')?.[1] || '';
-              const extension = attachment.tags.find(tag => tag[0] === 'extension')?.[1] || '';
+              const attachmentName = getFirstTagValue(attachment, 'name');
+              const extension = getFirstTagValue(attachment, 'extension');
               name = `${attachmentName}.${extension}`;
             } else { // See https://gitlab.com/walletscrutiny/walletScrutinyCom/-/issues/729
-              name = attachment.tags.find(tag => tag[0] === 'filename')?.[1] || '';
+              name = getFirstTagValue(attachment, 'filename');
             }
 
-            const size = attachment.tags.find(tag => tag[0] === 'size')?.[1] || '';
+            const size = getFirstTagValue(attachment, 'size');
             const attachmentContent = atob(attachment.content);
             const attachmentContentType = attachment.tags.find(tag => tag[0] === 'content-type')?.[1] || 'application/octet-stream';
 
@@ -762,11 +762,11 @@ permalink: /new_verification/
 
           const eventContent = JSON.parse(draftVerificationEvent.content);
 
-          document.getElementById('appId').value = draftVerificationEvent.tags.find(tag => tag[0] === 'i')?.[1] || '';
-          document.getElementById('version').value = draftVerificationEvent.tags.find(tag => tag[0] === 'version')?.[1] || '';
-          document.getElementById('platform').value = draftVerificationEvent.tags.find(tag => tag[0] === 'platform')?.[1] || '';
+          document.getElementById('appId').value = getFirstTagValue(draftVerificationEvent, 'i');
+          document.getElementById('version').value = getFirstTagValue(draftVerificationEvent, 'version');
+          document.getElementById('platform').value = getFirstTagValue(draftVerificationEvent, 'platform');
           document.getElementById('description').value = eventContent.description || '';
-          document.getElementById('status').value = draftVerificationEvent.tags.find(tag => tag[0] === 'status')?.[1] || '';
+          document.getElementById('status').value = getFirstTagValue(draftVerificationEvent, 'status');
           document.getElementById('content').value = eventContent.content || '';
 
           const hashes = draftVerificationEvent.tags?.filter(tag => tag[0] === 'x').map(tag => tag[1]) || [];
@@ -857,14 +857,14 @@ permalink: /new_verification/
           availableScriptsContainer.style.display = 'block';
           attachments.forEach(attachment => {
             const name = attachment.tags.find(tag => tag[0] === 'filename')?.[1] || 'Unnamed Script';
-            const size = attachment.tags.find(tag => tag[0] === 'size')?.[1];
+            const size = getFirstTagValue(attachment, 'size', null);
             const sizeText = size ? `(${(size / 1024).toFixed(1)} KB)` : '';
             const attachmentContent = atob(attachment.content);
             const attachmentContentType = attachment.tags.find(tag => tag[0] === 'content-type')?.[1] || 'application/octet-stream';
 
             const parentVerificationEvent = attachment.parentVerificationEvent;
-            const version = parentVerificationEvent.tags.find(tag => tag[0] === 'version')?.[1];
-            const status = parentVerificationEvent.tags.find(tag => tag[0] === 'status')?.[1];
+            const version = getFirstTagValue(parentVerificationEvent, 'version', null);
+            const status = getFirstTagValue(parentVerificationEvent, 'status', null);
 
             const app = window.wallets.find(it => it.appId === appId) ?? null;
             const appTitle = app?.title ?? appId;

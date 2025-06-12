@@ -434,11 +434,6 @@ function getCreatedAt(createdAt) {
   return createdAt ? Math.floor(new Date(createdAt).getTime() / 1000) : Math.floor(new Date().getTime() / 1000);
 }
 
-function getFirstTag(event, tagName) {
-  const tags = event.getMatchingTags(tagName);
-  return tags.length === 0 ? "" : tags[0][1];
-}
-
 const getTimestampMonthsAgo = function(months = 6) {
   const date = new Date();
   date.setMonth(date.getMonth() - months);
@@ -500,11 +495,6 @@ function eventSanitize(event) {
 
     tag[1] = sanitizedTag;
   });
-}
-
-const getFirstValueFromTag = function(event, tagName) {
-  const tags = event.getMatchingTags(tagName);
-  return tags.length === 0 ? null : tags[0][1];
 }
 
 const getFileAttachmentIDsForVerificationEvent = function(event) {
@@ -715,18 +705,22 @@ const getAllAssetInformation = async function({
   };
 }
 
+function getFirstTagValue(event, tagName, valueIfNull = '') {
+  return event.tags.find(tag => tag[0] === tagName)?.[1] ?? valueIfNull;
+}
+
 function getAppInfoFromEventInfo(eventInfo) {
   const isAsset = eventInfo.kind === assetRegistrationKind;
 
   const createdAt = eventInfo.created_at;
   const description = isAsset ? '' : JSON.parse(eventInfo.content).description;
   const content = isAsset ? eventInfo.content : JSON.parse(eventInfo.content).content;
-  const appId = eventInfo.tags.find(tag => tag[0] === 'i')?.[1];
-  const version = eventInfo.tags.find(tag => tag[0] === 'version')?.[1];
-  const platform = eventInfo.tags.find(tag => tag[0] === 'platform')?.[1];
-  const status = eventInfo.tags.find(tag => tag[0] === 'status')?.[1];
-  const url = eventInfo.tags.find(tag => tag[0] === 'url')?.[1];
-  const gitRevision = eventInfo.tags.find(tag => tag[0] === 'git_revision')?.[1];
+  const appId = getFirstTagValue(eventInfo, 'i');
+  const version = getFirstTagValue(eventInfo, 'version');
+  const platform = getFirstTagValue(eventInfo, 'platform');
+  const status = getFirstTagValue(eventInfo, 'status');
+  const url = getFirstTagValue(eventInfo, 'url');
+  const gitRevision = getFirstTagValue(eventInfo, 'git_revision');
   const appHashes = eventInfo.tags.filter(tag => tag[0] === 'x').map(tag => tag[1]);
 
   return { isAsset, appId, version, createdAt, description, content, platform, status, url, gitRevision, appHashes };
@@ -928,10 +922,10 @@ const loadDraftVerificationsNotifications = async function () {
 
   if (myDraftVerifications && myDraftVerifications.length > 0) {
     myDraftVerifications.forEach(verification => {
-      const identifier = verification.tags?.find(tag => tag[0] === 'i')?.[1];
-      const version = verification.tags?.find(tag => tag[0] === 'version')?.[1];
+      const identifier = getFirstTagValue(verification, 'i', 'Unknown');
+      const version = getFirstTagValue(verification, 'version', null);
       const wallet = window.wallets?.find(w => w.appId === identifier);
-      const walletTitle = wallet ? wallet.title : identifier ?? 'Unknown';
+      const walletTitle = wallet ? wallet.title : identifier;
 
       const verificationDate = new Date(verification.created_at * 1000).toLocaleDateString(navigator.language, {
         year: 'numeric',
@@ -941,7 +935,7 @@ const loadDraftVerificationsNotifications = async function () {
         minute: '2-digit'
       });
 
-      const status = verification.tags.find(tag => tag[0] === 'status')?.[1] || '';
+      const status = getFirstTagValue(verification, 'status');
       const statusIcon = '<span title="' + getStatusText(status) + '" style="margin-left: 4px;">' + (status === 'reproducible' ? '✅' : '❌') + ` ${getStatusText(status, true)}</span>`;
 
       addNotificationToIndicator('Unpublished Verification',
@@ -994,10 +988,9 @@ function getMaxAssetVersion(getAllAssetInformationResult, appId = null) {
   const allAssetArrays = [...getAllAssetInformationResult.verifications.values(), ...getAllAssetInformationResult.assets.values()];
   for (const assetArray of allAssetArrays) {
     for (const asset of assetArray) {
-      const versionTag = asset.tags.find(tag => tag[0] === 'version');
-      const appIdTag = asset.tags.find(tag => tag[0] === 'i');
-      if (versionTag && (!appId || appIdTag[1] === appId)) {
-        const version = versionTag[1];
+      const version = getFirstTagValue(asset, 'version');
+      const appIdFromTag = getFirstTagValue(asset, 'i');
+      if (version && (!appId || appIdFromTag === appId)) {
         if (!maxVersion || compareVersions(version, maxVersion) > 0) {
           maxVersion = version;
           maxDate = new Date(asset.created_at * 1000).toLocaleDateString(navigator.language, {
@@ -1007,8 +1000,8 @@ function getMaxAssetVersion(getAllAssetInformationResult, appId = null) {
           });
         }
 
-        const verifiedVersionTag = asset.tags.find(tag => tag[0] === 'status' && tag[1] === 'reproducible');
-        if (verifiedVersionTag && (!verifiedVersion || compareVersions(version, verifiedVersion) > 0)) {
+        const status = getFirstTagValue(asset, 'status');
+        if (status === 'reproducible' && (!verifiedVersion || compareVersions(version, verifiedVersion) > 0)) {
           verifiedVersion = version;
           verifiedDate = new Date(asset.created_at * 1000).toLocaleDateString(navigator.language, {
             year: 'numeric',
@@ -1036,10 +1029,10 @@ function getLastVerificationStatusForAppId(getAllAssetInformationResult, appId, 
 
   for (const assetArray of allAssetArrays) {
     for (const asset of assetArray) {
-      const version = asset.tags.find(tag => tag[0] === 'version')?.[1];
-      const appIdTag = asset.tags.find(tag => tag[0] === 'i')?.[1];
-      const platformTag = asset.tags.find(tag => tag[0] === 'platform')?.[1];
-      if (version && (appIdTag === appId) && (platformTag === platform)) {
+      const version = getFirstTagValue(asset, 'version', null);
+      const appIdFromTag = getFirstTagValue(asset, 'i');
+      const platformFromTag = getFirstTagValue(asset, 'platform');
+      if (version && (appIdFromTag === appId) && (platformFromTag === platform)) {
         if (!maxVersion || compareVersions(version, maxVersion) > 0) {
           verification = asset;
           maxVersion = version;
@@ -1049,7 +1042,7 @@ function getLastVerificationStatusForAppId(getAllAssetInformationResult, appId, 
   }
 
   if (verification) {
-    return verification.tags.find(tag => tag[0] === 'status')?.[1];
+    return getFirstTagValue(verification, 'status');
   }
 
   return null;
@@ -1067,8 +1060,8 @@ function getWeightForAppFromAssetInformation(appId) {
 
   for (const verifications of window.allAssetInformation.verifications.values()) {
     for (const verification of verifications) {
-      const appIdCurrentVerification = verification.tags.find(tag => tag[0] === 'i')?.[1];
-      const status = verification.tags.find(tag => tag[0] === 'status')?.[1];
+      const appIdCurrentVerification = getFirstTagValue(verification, 'i');
+      const status = getFirstTagValue(verification, 'status');
 
       if (appIdCurrentVerification === appId) {
         numberOfVerifications += 1;
@@ -1188,6 +1181,7 @@ if (typeof window !== 'undefined') {
   window.getLastVerificationStatusForAppId = getLastVerificationStatusForAppId;
   window.getWeightForAppFromAssetInformation = getWeightForAppFromAssetInformation;
   window.cleanupNdkConnections = cleanupNdkConnections;
+  window.getFirstTagValue = getFirstTagValue;
 
   window.addEventListener('beforeunload', () => {
     cleanupNdkConnections();
@@ -1202,7 +1196,7 @@ export {
   createNostrNote,
   getNostrProfile,
   getAllAssetInformation,
-  getFirstTag,
+  getFirstTagValue,
   getUserPubkey,
   showToast,
   getNpubFromPubkey,
@@ -1215,7 +1209,6 @@ export {
   doDraftVerificationAction,
   getDraftVerificationEvent,
   deleteDraftVerification,
-  getFirstValueFromTag,
   getFileAttachmentIDsForVerificationEvent,
   uploadFileAttachment,
   getFileAttachmentEvents,

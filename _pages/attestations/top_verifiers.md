@@ -113,7 +113,7 @@ permalink: /verifiers/
 
         const endorsements = response.endorsements.get(verification.id) || [];
         const reproducibleEndorsements = endorsements.filter(endorsement =>
-          getFirstTag(endorsement, 'status') === 'reproducible'
+          getFirstTagValue(endorsement, 'status') === 'reproducible'
         ).length;
         pubkeyInfo.endorsements += reproducibleEndorsements;
 

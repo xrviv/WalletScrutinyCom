@@ -3,7 +3,7 @@ import fs from "fs";
 import path from "path";
 import WebSocket from "ws";
 import { assetRegistrationKind, verificationKind, verificationDraftKind, codeSnippetKind, endorsementKind, explicitRelayUrls } from "../../src/nostr-constants.mjs";
-import { getFirstValueFromTag } from "../../src/verifications_utils.mjs";
+import { getFirstTagValue } from "../../src/verifications_utils.mjs";
 global.WebSocket = WebSocket; // Make WebSocket available globally as NDK expects it
 
 const connectTimeout = 2000;
@@ -53,7 +53,7 @@ async function fetchAndSaveEvents() {
     let saved = 0;
     let skipped = 0;
     for (const event of events) {
-      const clientTag = getFirstValueFromTag(event, 'client');
+      const clientTag = getFirstTagValue(event, 'client');
       if (!clientTag || clientTag !== 'WalletScrutiny.com') {
         skipped++;
         continue;
