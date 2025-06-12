@@ -56,4 +56,6 @@ export {
   userHasBrowserExtension
 };
 
-window.userHasBrowserExtension = userHasBrowserExtension;
+if (typeof window !== 'undefined') {
+  window.userHasBrowserExtension = userHasBrowserExtension;
+}
