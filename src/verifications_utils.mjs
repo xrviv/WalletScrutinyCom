@@ -643,9 +643,9 @@ const getAllAssetInformation = async function({
     eventSanitize(event);
   });
 
-  const assets = Array.from(events).filter(event => event.kind === assetRegistrationKind && getFirstValueFromTag(event, 'client') === 'WalletScrutiny.com');
-  const verifications = Array.from(events).filter(event => event.kind === verificationKind && getFirstValueFromTag(event, 'client') === 'WalletScrutiny.com');
-  const draftVerifications = Array.from(events).filter(event => event.kind === verificationDraftKind && getFirstValueFromTag(event, 'client') === 'WalletScrutiny.com');
+  const assets = Array.from(events).filter(event => event.kind === assetRegistrationKind && getFirstTagValue(event, 'client') === 'WalletScrutiny.com');
+  const verifications = Array.from(events).filter(event => event.kind === verificationKind && getFirstTagValue(event, 'client') === 'WalletScrutiny.com');
+  const draftVerifications = Array.from(events).filter(event => event.kind === verificationDraftKind && getFirstTagValue(event, 'client') === 'WalletScrutiny.com');
   //const endorsements = Array.from(events).filter(event => event.kind === endorsementKind);
 
   const assetsMap = new Map();
@@ -654,7 +654,7 @@ const getAllAssetInformation = async function({
   const endorsementsMap = new Map();
 
   assets.forEach(asset => {
-    const sha256FromEventTag = getFirstTag(asset, 'x');
+    const sha256FromEventTag = getFirstTagValue(asset, 'x', null);
     if (sha256FromEventTag) {
       if (!assetsMap.has(sha256FromEventTag)) {
         assetsMap.set(sha256FromEventTag, []);
@@ -664,7 +664,7 @@ const getAllAssetInformation = async function({
   });
 
   verifications.forEach(verification => {
-    const sha256FromEventTag = getFirstTag(verification, 'x');
+    const sha256FromEventTag = getFirstTagValue(verification, 'x', null);
     if (sha256FromEventTag) {
       if (!verificationsMap.has(sha256FromEventTag)) {
         verificationsMap.set(sha256FromEventTag, []);
@@ -674,7 +674,7 @@ const getAllAssetInformation = async function({
   });
 
   draftVerifications.forEach(draftVerification => {
-    const sha256FromEventTag = getFirstTag(draftVerification, 'x');
+    const sha256FromEventTag = getFirstTagValue(draftVerification, 'x', null);
     if (sha256FromEventTag) {
       if (!draftVerificationsMap.has(sha256FromEventTag)) {
         draftVerificationsMap.set(sha256FromEventTag, []);
@@ -685,7 +685,7 @@ const getAllAssetInformation = async function({
 
   /*
   endorsements.forEach(endorsement => {
-    const verificationEventId = getFirstTag(endorsement, 'd');
+    const verificationEventId = getFirstTagValue(endorsement, 'd', null);
     if (verificationEventId) {
       if (!endorsementsMap.has(verificationEventId)) {
         endorsementsMap.set(verificationEventId, []);
