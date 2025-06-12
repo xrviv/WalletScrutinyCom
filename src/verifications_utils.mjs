@@ -61,6 +61,19 @@ const nostrConnect = function (nostrPrivateKey) {
       signer: signer
     });
 
+    // Add event listeners for connection monitoring
+    ndk.pool.on('relay:connect', (relay) => {
+      console.debug(`✅ Connected to relay: ${relay.url}`);
+    });
+
+    ndk.pool.on('relay:disconnect', (relay) => {
+      console.debug(`❌ Disconnected from relay: ${relay.url}`);
+    });
+
+    ndk.pool.on('relay:error', (relay, error) => {
+      console.error(`🔥 Relay error (${relay.url}):`, error);
+    });
+
     try {
       await ndk.connect(connectTimeout);
       console.log("NDK connected successfully.");
@@ -1118,6 +1131,33 @@ function getCachedResultIfNotExpired(key) {
   return null;
 }
 
+const cleanupNdkConnections = function() {
+  if (ndk) {
+    try {
+      // Close all relay connections
+      let closedConnections = 0;
+      for (const relay of ndk.pool.relays.values()) {
+        if (relay.connectivity.status === 5) { // Connected
+          console.warn(`🔌 Closing relay connection: ${relay.url}`);
+          relay.disconnect();
+          closedConnections++;
+        }
+      }
+
+      console.warn(`🔌 Closed ${closedConnections} relay connections`);
+
+      // Clear the pool
+      ndk.pool.relays.clear();
+      console.warn("🧹 NDK pool cleared");
+    } catch (error) {
+      console.error("❌ Error during NDK cleanup:", error);
+    }
+    ndk = null;
+    ndkConnectionPromise = null;
+    console.warn("✅ NDK cleanup completed");
+  }
+};
+
 if (typeof window !== 'undefined') {
   window.DOMPurify = DOMPurify;
   window.nostrConnect = nostrConnect;
@@ -1147,6 +1187,11 @@ if (typeof window !== 'undefined') {
   window.getMaxAssetVersion = getMaxAssetVersion;
   window.getLastVerificationStatusForAppId = getLastVerificationStatusForAppId;
   window.getWeightForAppFromAssetInformation = getWeightForAppFromAssetInformation;
+  window.cleanupNdkConnections = cleanupNdkConnections;
+
+  window.addEventListener('beforeunload', () => {
+    cleanupNdkConnections();
+  });
 }
 
 export {
