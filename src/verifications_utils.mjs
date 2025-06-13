@@ -186,6 +186,15 @@ async function publishNdkEvent(ndkEvent, eventType = 'event') {
   }
 }
 
+function createNdkEvent(kind, content, tags = [], createdAt = null) {
+  const ndkEvent = new NDKEvent(ndk);
+  ndkEvent.kind = kind;
+  ndkEvent.content = content;
+  ndkEvent.created_at = getCreatedAt(createdAt);
+  ndkEvent.tags = [...tags, getWSClientTag()];
+  return ndkEvent;
+}
+
 function validateParameterLengths(params) {
   const validationRules = {
     appId: { maxLength: 50, name: 'App ID' },
@@ -222,21 +231,17 @@ const createAssetRegistration = async function ({
 
   validateParameterLengths({ appId, version, platform, description });
 
-  const ndkEvent = new NDKEvent(ndk);
-  ndkEvent.kind = assetRegistrationKind;
-  ndkEvent.content = description;
-  ndkEvent.created_at = getCreatedAt(createdAt);
-  ndkEvent.tags = [
+  const tags = [
     ["x", sha256],
     ["ox", sha256],
     ["i", appId],
-    ["version", version],
-    getWSClientTag()
+    ["version", version]
   ];
   if (platform) {
-    ndkEvent.tags.push(["platform", platform]);
+    tags.push(["platform", platform]);
   }
 
+  const ndkEvent = createNdkEvent(assetRegistrationKind, description, tags, createdAt);
   eventSanitize(ndkEvent);
 
   await publishNdkEvent(ndkEvent, 'asset registration');
@@ -294,74 +299,68 @@ const createVerification = async function ({
       }
     });
 
-    // Handle potential upload failures (optional: decide if this should halt verification creation)
+    // Handle potential upload failures
     const failedUploads = fileUploadResults.filter(r => !r.success);
     if (failedUploads.length > 0) {
       console.error("Some file uploads failed:", failedUploads);
-      // Decide whether to throw an error or just log it
-      // For now, let's throw an error if any upload fails
       throw new Error(`Failed to upload file(s): ${failedUploads.map(f => f.fileName).join(', ')}`);
     }
   }
-  // --- End File Upload ---
 
-  const ndkEvent = new NDKEvent(ndk);
-  ndkEvent.kind = isDraft ? verificationDraftKind : verificationKind;
-  ndkEvent.created_at = getCreatedAt(createdAt);
-  ndkEvent.content = JSON.stringify({
+  const fullContent = JSON.stringify({
     description: description || '',
     content: content,
   });
 
-  ndkEvent.tags = [
-    ["status", status],
-    getWSClientTag()
-  ];
+  const tags = [["status", status]];
 
   if (isDraft) {
     let draftKey = '';
-
     if (appId) {
       draftKey += `${appId}:`;
     }
-
     draftKey += `${version}:${platform}`;
-
-    ndkEvent.tags.push(["d", draftKey]);
+    tags.push(["d", draftKey]);
   }
 
   if (appId) {
-    ndkEvent.tags.push(["i", appId]);
+    tags.push(["i", appId]);
   }
   if (version) {
-    ndkEvent.tags.push(["version", version]);
+    tags.push(["version", version]);
   }
   if (platform) {
-    ndkEvent.tags.push(["platform", platform]);
+    tags.push(["platform", platform]);
   }
   hashes.forEach(hash => {
-    ndkEvent.tags.push(["x", hash]);
+    tags.push(["x", hash]);
   });
 
-  // Add file event IDs as tags if any files were successfully uploaded
+  // Add file event IDs as tags
   if (fileEventIds.length > 0) {
     fileEventIds.forEach(fileEventId => {
-      ndkEvent.tags.push(["file-attachment", fileEventId]);
+      tags.push(["file-attachment", fileEventId]);
     });
   }
   if (reusedFileIds.length > 0) {
     reusedFileIds.forEach(fileEventId => {
-      ndkEvent.tags.push(["file-attachment", fileEventId]);
+      tags.push(["file-attachment", fileEventId]);
     });
   }
 
   if (outputFiles.length > 0) {
     outputFiles.forEach(file => {
-      ndkEvent.tags.push(["output-file", file.name, file.hash]);
+      tags.push(["output-file", file.name, file.hash]);
     });
   }
 
-  eventSanitize(ndkEvent); // Sanitize main event
+  const ndkEvent = createNdkEvent(
+    isDraft ? verificationDraftKind : verificationKind,
+    fullContent,
+    tags,
+    createdAt
+  );
+  eventSanitize(ndkEvent);
 
   await publishNdkEvent(ndkEvent, 'verification');
 
@@ -385,17 +384,13 @@ const createEndorsement = async function ({sha256, content, status, verification
     throw new Error("Missing required parameters");
   }
 
-  const ndkEvent = new NDKEvent(ndk);
-  ndkEvent.kind = endorsementKind;
-  ndkEvent.content = content;
-  ndkEvent.created_at = getCreatedAt(createdAt);
-  ndkEvent.tags = [
+  const tags = [
     ["x", sha256],
     ["d", verificationEventId],
-    ["status", status],
-    getWSClientTag()
+    ["status", status]
   ];
 
+  const ndkEvent = createNdkEvent(endorsementKind, content, tags, createdAt);
   await publishNdkEvent(ndkEvent, 'endorsement');
 }
 
@@ -484,17 +479,14 @@ const uploadFileAttachment = async function({ fileName, fileType, fileSize, base
   const name = fileName.split('.').slice(0, -1).join('.') ?? '';
   const extension = fileName.split('.').pop() ?? '';
 
-  const ndkEvent = new NDKEvent(ndk);
-  ndkEvent.kind = codeSnippetKind;
-  ndkEvent.content = base64Data;
-  ndkEvent.created_at = getCreatedAt();
-  ndkEvent.tags = [
+  const tags = [
     ["name", name],
     ["extension", extension],
     ["content-type", fileType],
-    ["size", fileSize.toString()],
-    getWSClientTag()
+    ["size", fileSize.toString()]
   ];
+
+  const ndkEvent = createNdkEvent(codeSnippetKind, base64Data, tags);
 
   try {
     await publishNdkEvent(ndkEvent, `file ${fileName}`);
@@ -746,13 +738,7 @@ const createNostrNote = async function (message) {
     throw new Error("Message is required");
   }
 
-  const ndkEvent = new NDKEvent(ndk);
-  ndkEvent.kind = 1;
-  ndkEvent.content = message;
-  ndkEvent.tags = [
-    getWSClientTag()
-  ];
-
+  const ndkEvent = createNdkEvent(1, message);
   await publishNdkEvent(ndkEvent, 'note');
   return ndkEvent.id;
 }
