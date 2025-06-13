@@ -1172,7 +1172,6 @@ if (typeof window !== 'undefined') {
   window.createNostrNote = createNostrNote;
   window.getNostrProfile = getNostrProfile;
   window.getAllAssetInformation = getAllAssetInformation;
-  window.getFirstTag = getFirstTag;
   window.getUserPubkey = getUserPubkey;
   window.showToast = showToast;
   window.getNpubFromPubkey = getNpubFromPubkey;
