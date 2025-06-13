@@ -374,6 +374,7 @@ const createVerification = async function ({
   return ndkEvent;
 }
 
+/*
 const createEndorsement = async function ({sha256, content, status, verificationEventId, createdAt = null}) {
   await ensureNdkConnected();
   console.debug("Creating endorsement for verification: ", verificationEventId);
@@ -393,6 +394,7 @@ const createEndorsement = async function ({sha256, content, status, verification
   const ndkEvent = createNdkEvent(endorsementKind, content, tags, createdAt);
   await publishNdkEvent(ndkEvent, 'endorsement');
 }
+*/
 
 function getCreatedAt(createdAt) {
   return createdAt ? Math.floor(new Date(createdAt).getTime() / 1000) : Math.floor(new Date().getTime() / 1000);
@@ -1106,7 +1108,6 @@ if (typeof window !== 'undefined') {
   window.nostrConnect = nostrConnect;
   window.createAssetRegistration = createAssetRegistration;
   window.createVerification = createVerification;
-  window.createEndorsement = createEndorsement;
   window.createNostrNote = createNostrNote;
   window.getNostrProfile = getNostrProfile;
   window.getAllAssetInformation = getAllAssetInformation;
@@ -1141,7 +1142,6 @@ export {
   nostrConnect,
   createAssetRegistration,
   createVerification,
-  createEndorsement,
   createNostrNote,
   getNostrProfile,
   getAllAssetInformation,
