@@ -1,6 +1,7 @@
 import {marked} from 'marked';
 import DOMPurify from 'dompurify';
-import { assetRegistrationKind, verificationDraftKind, codeSnippetKind } from "./nostr-constants.mjs";
+import { assetRegistrationKind, verificationDraftKind } from "./nostr-constants.mjs";
+import { getFirstTagValue, formatDate, getAttachmentInfo, getStatusIcon, getStatusText } from "./assets-table-utils.js";
 
 let response = null;
 let originalUrlBeforeModal = ''; // Store the URL before opening the modal
@@ -314,15 +315,7 @@ window.renderAssetsTable = async function({
       // Handle both legacy and new format
       const binary = item.items ? item.items[0] : item;
 
-      const date = new Date(binary.created_at * 1000).toLocaleDateString(navigator.language,
-        {
-          year: '2-digit',
-          month: 'short',
-          day: 'numeric',
-          hour: '2-digit',
-          minute: '2-digit'
-        }
-      );
+      const date = formatDate(binary.created_at);
 
       const eventId = binary.id;
       const sha256Hashes = (binary.tags?.filter(tag => tag[0] === 'x') || []).slice(0, 6);
@@ -362,13 +355,7 @@ window.renderAssetsTable = async function({
 
         let listItems = '';
         for (const attestation of latestVerificationsByUser.values()) {
-          const attestationDate = new Date(attestation.created_at * 1000).toLocaleDateString(navigator.language, {
-            year: 'numeric',
-            month: 'short',
-            day: 'numeric',
-            hour: '2-digit',
-            minute: '2-digit'
-          });
+          const attestationDate = formatDate(attestation.created_at);
 
           const status = getFirstTagValue(attestation, 'status');
 
@@ -490,24 +477,8 @@ window.renderAssetsTable = async function({
     `;
 
     attachments.forEach(attachment => {
-      const date = new Date(attachment.created_at * 1000).toLocaleDateString(navigator.language, {
-        year: 'numeric',
-        month: 'short',
-        day: 'numeric',
-        hour: '2-digit',
-        minute: '2-digit'
-      });
-
-      let name;
-      if (attachment.kind === codeSnippetKind) {
-        const attachmentName = getFirstTagValue(attachment, 'name');
-        const extension = getFirstTagValue(attachment, 'extension');
-        name = `${attachmentName}.${extension}`;
-      } else {  // See https://gitlab.com/walletscrutiny/walletScrutinyCom/-/issues/729
-        name = getFirstTagValue(attachment, 'filename');
-      }
-      const size = getFirstTagValue(attachment, 'size');
-      const sizeInKb = Math.round(size / 1024);
+      const date = formatDate(attachment.created_at);
+      const { name, sizeInKb } = getAttachmentInfo(attachment);
 
       // Find in sortedItems the specific verification items that use this attachment
       const verifications = sortedItems.flatMap(item =>
@@ -935,7 +906,7 @@ window.showVerificationModal = async function(sha256Hash, verificationId, appId,
 
       const status = getFirstTagValue(otherVerification, 'status');
 
-      const statusIcon = '<span title="' + getStatusText(status) + '" style="margin-left: 4px;">' + (status === 'reproducible' ? '✅' : '❌') + '</span>';
+      const statusIcon = '<span title="' + getStatusText(status) + '" style="margin-left: 4px;">' + getStatusIcon(status) + '</span>';
 
       otherVerificationsHTML += `<li>
         ${verificationDate} ${statusIcon}
@@ -956,7 +927,7 @@ window.showVerificationModal = async function(sha256Hash, verificationId, appId,
     hour: '2-digit',
     minute: '2-digit'
   })}</p>
-    <p><strong>Status: </strong> ${status === 'reproducible' ? '✅' : '❌'} ${getStatusText(status)} </p>`;
+    <p><strong>Status: </strong> ${getStatusIcon(status)} ${getStatusText(status)} </p>`;
 
   const verificationAttachments = verification.tags.filter(tag => tag[0] === 'file-attachment');
   const verificationOutputFiles = verification.tags.filter(tag => tag[0] === 'output-file');

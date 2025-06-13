@@ -6,7 +6,6 @@ import {
   verificationKind,
   verificationDraftKind,
   codeSnippetKind,
-  endorsementKind,
   explicitRelayUrls,
   verificationEventsSinceTS,
   mainRelayUrl,
