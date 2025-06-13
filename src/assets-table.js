@@ -962,22 +962,30 @@ window.showVerificationModal = async function(sha256Hash, verificationId, appId,
   const verificationOutputFiles = verification.tags.filter(tag => tag[0] === 'output-file');
 
   // Show attachments (scripts used to reproduce)
-  if (verificationAttachments.length > 0) {
-    // Wait here until attachmentDataStore is filled
-    while (Object.keys(attachmentDataStore).length === 0) {
-      await new Promise(resolve => setTimeout(resolve, 50));
-    }
-
+  const numberVerificationAttachments = verificationAttachments.length;
+  if (numberVerificationAttachments > 0) {
     let attachmentsHTML = '';
 
-    for (const attachment of verificationAttachments) {
-      const attachmentId = attachment[1];
-      const attachmentInfo = attachmentDataStore[attachmentId];
+    if (!window.location.pathname.includes('/verifier/') && !window.location.pathname.includes('/assets/')) {
+      //  Wait here until attachmentDataStore is filled
+      while (Object.keys(attachmentDataStore).length === 0) {
+        await new Promise(resolve => setTimeout(resolve, 50));
+      }
 
-      if (attachmentInfo) {
-        attachmentsHTML += `<li>${attachmentInfo.filename} <small>(${attachmentInfo.sizeInKb} kB)</small>  
-          <span id="${attachmentId}" style="cursor: pointer; margin-left: 10px;" onclick="handleAttachmentDownload('${attachmentId}')" title="Download ${attachmentInfo.filename}">💾</span>
-          <span id="preview-${attachmentId}" style="cursor: pointer; margin-left: 10px;" onclick="handleAttachmentPreview('${attachmentId}')" title="Preview ${attachmentInfo.filename}">👁️</span></li>`;
+      for (const attachment of verificationAttachments) {
+        const attachmentId = attachment[1];
+        const attachmentInfo = attachmentDataStore[attachmentId];
+  
+        if (attachmentInfo) {
+          attachmentsHTML += `<li>${attachmentInfo.filename} <small>(${attachmentInfo.sizeInKb} kB)</small>  
+            <span id="${attachmentId}" style="cursor: pointer; margin-left: 10px;" onclick="handleAttachmentDownload('${attachmentId}')" title="Download ${attachmentInfo.filename}">💾</span>
+            <span id="preview-${attachmentId}" style="cursor: pointer; margin-left: 10px;" onclick="handleAttachmentPreview('${attachmentId}')" title="Preview ${attachmentInfo.filename}">👁️</span></li>`;
+        }
+      }
+    } else {
+      const wallet = window.wallets.find(w => w.appId === appId);
+      for (let i = 0; i < numberVerificationAttachments; i++) {
+        attachmentsHTML += `<li>${i + 1} script(s) used to reproduce this binary. See the <a href="${wallet.url}#verificationId=${verificationId}">the wallet page</a> for more details.</li>`;
       }
     }
 
