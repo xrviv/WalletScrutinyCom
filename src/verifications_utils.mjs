@@ -168,6 +168,24 @@ const getWSClientTag = function() {
   return ["client", "WalletScrutiny.com", `31990:${wsBotPublicKey}:${nip89ClientTagD}`, mainRelayUrl];
 }
 
+async function publishNdkEvent(ndkEvent, eventType = 'event') {
+  try {
+    const publishedToRelays = await ndkEvent.publish();
+    console.debug(`Published ${eventType} (id: ${ndkEvent.id}) to ${publishedToRelays.size} relays`);
+    return ndkEvent;
+  } catch (error) {
+    console.error(`Error publishing ${eventType} to relays`, error);
+    
+    if (error instanceof NDKPublishError) {
+      for (const [relay, err] of error.errors) {
+        console.error(`Error publishing ${eventType} to relay ${relay.url}`, err);
+      }
+    }
+
+    return null;
+  }
+}
+
 function validateParameterLengths(params) {
   const validationRules = {
     appId: { maxLength: 50, name: 'App ID' },
@@ -221,21 +239,8 @@ const createAssetRegistration = async function ({
 
   eventSanitize(ndkEvent);
 
-  try {
-    const publishedToRelays = await ndkEvent.publish();
-    console.log(`published to ${publishedToRelays.size} relays`)
-    return ndkEvent;
-  } catch (error) {
-    console.error("error publishing to relays", error);
-
-    if (error instanceof NDKPublishError) {
-      for (const [relay, err] of error.errors) {
-        console.error(`error publishing to relay ${relay.url}`, err);
-      }
-    }
-
-    throw error;
-  }
+  await publishNdkEvent(ndkEvent, 'asset registration');
+  return ndkEvent;
 }
 
 const createVerification = async function ({
@@ -358,32 +363,16 @@ const createVerification = async function ({
 
   eventSanitize(ndkEvent); // Sanitize main event
 
-  let mainEventId;
+  await publishNdkEvent(ndkEvent, 'verification');
 
-  try {
-    const publishedToRelays = await ndkEvent.publish();
-    mainEventId = ndkEvent.id; // Get the ID of the published event
-    console.log(`Published verification (id: ${mainEventId}) to ${publishedToRelays.size} relays`);
-
-    if (!isDraft && draftVerificationEventId) {
-      const draftVerificationEvent = await getDraftVerificationEvent(draftVerificationEventId);
-      if (draftVerificationEvent) {
-        await draftVerificationEvent.delete('deleting draft, as verification was published', true);
-      }
+  if (!isDraft && draftVerificationEventId) {
+    const draftVerificationEvent = await getDraftVerificationEvent(draftVerificationEventId);
+    if (draftVerificationEvent) {
+      await draftVerificationEvent.delete('deleting draft, as verification was published', true);
     }
-
-    return ndkEvent;
-
-  } catch (error) {
-    console.error("error publishing verification to relays", error);
-    if (error instanceof NDKPublishError) {
-      for (const [relay, err] of error.errors) {
-        console.error(`error publishing to relay ${relay.url}`, err);
-      }
-    }
-
-    throw error;
   }
+
+  return ndkEvent;
 }
 
 const createEndorsement = async function ({sha256, content, status, verificationEventId, createdAt = null}) {
@@ -407,19 +396,7 @@ const createEndorsement = async function ({sha256, content, status, verification
     getWSClientTag()
   ];
 
-  try {
-    const publishedToRelays = await ndkEvent.publish();
-    console.log(`published endorsement to ${publishedToRelays.size} relays`);
-  } catch (error) {
-    console.error("error publishing endorsement to relays", error);
-    if (error instanceof NDKPublishError) {
-      for (const [relay, err] of error.errors) {
-        console.error(`error publishing to relay ${relay.url}`, err);
-      }
-    }
-
-    throw error;
-  }
+  await publishNdkEvent(ndkEvent, 'endorsement');
 }
 
 function getCreatedAt(createdAt) {
@@ -520,16 +497,10 @@ const uploadFileAttachment = async function({ fileName, fileType, fileSize, base
   ];
 
   try {
-    const publishedToRelays = await ndkEvent.publish();
-    console.log(`Uploaded file ${fileName} (${fileSize} bytes) to ${publishedToRelays.size} relays`);
+    await publishNdkEvent(ndkEvent, `file ${fileName}`);
     return { success: true, eventId: ndkEvent.id, fileName: fileName };
   } catch (error) {
-    console.error(`Error uploading file ${fileName} to relays`, error);
-    if (error instanceof NDKPublishError) {
-      for (const [relay, err] of error.errors) {
-        console.error(`Error publishing file to relay ${relay.url}`, err);
-      }
-    }
+    console.error(`Error uploading file ${fileName}`, error);
     return { success: false, error: error, fileName: fileName };
   }
 }
@@ -782,19 +753,8 @@ const createNostrNote = async function (message) {
     getWSClientTag()
   ];
 
-  try {
-    const publishedToRelays = await ndkEvent.publish();
-    console.debug(`published note to ${publishedToRelays.size} relays`);
-    return ndkEvent.id;
-  } catch (error) {
-    console.error("error publishing note to relays", error);
-    if (error instanceof NDKPublishError) {
-      for (const [relay, err] of error.errors) {
-        console.error(`error publishing to relay ${relay.url}`, err);
-      }
-    }
-    throw error;
-  }
+  await publishNdkEvent(ndkEvent, 'note');
+  return ndkEvent.id;
 }
 
 function setupAppIdAutocomplete() {
