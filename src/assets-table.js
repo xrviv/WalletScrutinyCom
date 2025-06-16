@@ -99,9 +99,11 @@ window.renderAssetsTable = async function({
     const verificationModalDiv = document.createElement('div');
     verificationModalDiv.id = 'verificationModal';
     document.getElementById(htmlElementId).insertAdjacentElement('afterend', verificationModalDiv);
-  } else {
-    document.getElementById('verificationModal').innerHTML = '';
   }
+
+  document.getElementById('verificationModal').innerHTML = `
+    <span id="closeModal">&times;</span>
+    <div id="verificationContent"></div>`;
 
   // --- Add Blossom Download Warning Modal Structure ---
   const blossomModalHTML = `
@@ -304,6 +306,8 @@ window.renderAssetsTable = async function({
     attachments = await getFileAttachmentEvents(attachmentEventIDs);
   }
 
+  const table = document.createElement('table');
+  table.id = 'assetsTable';
   table.innerHTML = `
     <thead>
       <tr>
@@ -859,17 +863,6 @@ window.renderAssetsTable = async function({
 
   updateTableVisibility();
 
-  document.getElementById(htmlElementId).innerHTML += `
-    <div id="diffoscopeModal" class="diffoscope-modal" style="display: none; z-index: 100000;">
-      <div class="diffoscope-modal-content">
-        <div class="diffoscope-controls">
-            <span class="diffoscope-maximize" title="Maximize">⛶</span>
-            <span class="diffoscope-close" title="Close">✖</span>
-        </div>
-        <iframe id="diffoscopeFrame"></iframe>
-    </div>
-  </div>`;
-
   return {
     hasAssets,
     hasVerifications,
@@ -891,9 +884,19 @@ window.showVerificationModal = async function(sha256Hash, verificationId, appId,
   const status = getFirstTagValue(verification, 'status');
 
   const modal = document.getElementById('verificationModal');
-  modal.innerHTML = `
-    <span id="closeModal">&times;</span>
-    <div id="verificationContent"></div>`;
+
+  if (!document.getElementById('diffoscopeModal')) {
+    modal.insertAdjacentHTML('beforebegin', `
+    <div id="diffoscopeModal" class="diffoscope-modal" style="display: none; z-index: 100000;">
+      <div class="diffoscope-modal-content">
+        <div class="diffoscope-controls">
+            <span class="diffoscope-maximize" title="Maximize">⛶</span>
+            <span class="diffoscope-close" title="Close">✖</span>
+        </div>
+        <iframe id="diffoscopeFrame"></iframe>
+      </div>
+    </div>`);
+  }
 
   const content = document.getElementById('verificationContent');
 
@@ -1093,8 +1096,8 @@ window.showVerificationModal = async function(sha256Hash, verificationId, appId,
 
   modal.style.display = 'block';
 
-  // Add blur to all divs except verificationModal
-  document.querySelectorAll('.archive > div:not(#verificationModal), .archive > h1').forEach(div => {
+  // Add blur to all divs except verificationModal and diffoscopeModal
+  document.querySelectorAll('.archive > div:not(#verificationModal):not(#diffoscopeModal), .archive > h1').forEach(div => {
     div.style.filter = 'blur(5px)';
   });
 
