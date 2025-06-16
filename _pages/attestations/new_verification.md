@@ -480,8 +480,6 @@ permalink: /new_verification/
     </form>
 </div>
 
-<div id="verificationModal"></div>
-
 <script>
   let otherHashes = [];
   let newHashInputField;

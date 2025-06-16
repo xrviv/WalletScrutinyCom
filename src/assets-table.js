@@ -6,8 +6,6 @@ import { getFirstTagValue, formatDate, getAttachmentInfo, getStatusIcon, getStat
 let response = null;
 let originalUrlBeforeModal = ''; // Store the URL before opening the modal
 
-const table = document.createElement('table');
-
 let attachments = [];
 const attachmentDataStore = {};   // Define a store for attachment data globally accessible
 
@@ -21,7 +19,13 @@ async function updateTableVisibility() {
   const latestVersions = new Map();
 
   // Get all rows except header and show-more
-  const rows = Array.from(table.querySelectorAll('tr:not(:first-child):not(.show-more-row)'));
+  const assetsTableElement = document.getElementById('assetsTable');
+
+  // Find Verifications cell index by looking at the header text
+  const headerCells = Array.from(assetsTableElement.querySelectorAll('th'));
+  const verificationsIndex = headerCells.findIndex(cell => cell.textContent.trim() === 'Verifications');
+  
+  const rows = Array.from(assetsTableElement.querySelectorAll('tr:not(:first-child):not(.show-more-row)'));
 
   rows.forEach(row => {
     const walletName = row.querySelector('td:first-child')?.textContent.toLowerCase() || '';
@@ -29,9 +33,6 @@ async function updateTableVisibility() {
     const sha256Button = row.querySelector('button[onclick*="navigator.clipboard.writeText"]');
     const sha256Hash = sha256Button ? sha256Button.getAttribute('onclick').match(/'([a-fA-F0-9]{64})'/)?.[ 1 ]?.toLowerCase() || '' : '';
 
-    // Find Verifications cell by looking at the header text
-    const headerCells = Array.from(table.querySelectorAll('th'));
-    const verificationsIndex = headerCells.findIndex(cell => cell.textContent.trim() === 'Verifications');
     const verificationsCell = row.cells[verificationsIndex]?.textContent || '';
     const hasVerifications = !verificationsCell.includes('No verifications yet');
 
@@ -56,7 +57,7 @@ async function updateTableVisibility() {
       shouldShow = (walletName.includes(searchTerm) || sha256Hash.includes(searchTerm));
     }
 
-    row.style.display = shouldShow ? '' : 'none';
+    row.style.setProperty('display', shouldShow ? 'table-row' : 'none');
   });
 
   const userPubkey = await getUserPubkey();
@@ -93,6 +94,14 @@ window.renderAssetsTable = async function({
     appId,
     sha256
   });
+
+  if (!document.getElementById('verificationModal')) {
+    const verificationModalDiv = document.createElement('div');
+    verificationModalDiv.id = 'verificationModal';
+    document.getElementById(htmlElementId).insertAdjacentElement('afterend', verificationModalDiv);
+  } else {
+    document.getElementById('verificationModal').innerHTML = '';
+  }
 
   // --- Add Blossom Download Warning Modal Structure ---
   const blossomModalHTML = `
@@ -167,11 +176,15 @@ window.renderAssetsTable = async function({
 
   document.getElementById(htmlElementId).appendChild(searchContainer);
 
-  // Add event listeners for search and filters only if enableSearch is true
-  if (enableSearch) {
+  const setupSearchEventListeners = () => {
     document.getElementById('assetSearchInput').addEventListener('input', updateTableVisibility);
     document.getElementById('showLatestVersionOnly').addEventListener('change', updateTableVisibility);
     document.getElementById('showOnlyNoVerifications').addEventListener('change', updateTableVisibility);
+  };
+
+  if (enableSearch) {
+    // Call setupEventListeners after a small delay to ensure DOM is ready
+    setTimeout(setupSearchEventListeners, 100);
   }
   if (enableDraftsFilter) {
     document.getElementById('hideDrafts').addEventListener('change', updateTableVisibility);
@@ -558,8 +571,6 @@ window.renderAssetsTable = async function({
     }
   });
 
-  updateTableVisibility();
-
   // Setup Intersection Observer for lazy loading Blossom checks
   const observedHashes = new Set();
 
@@ -845,6 +856,8 @@ window.renderAssetsTable = async function({
     `;
     document.head.appendChild(profileStyles);
   }
+
+  updateTableVisibility();
 
   document.getElementById(htmlElementId).innerHTML += `
     <div id="diffoscopeModal" class="diffoscope-modal" style="display: none; z-index: 100000;">
