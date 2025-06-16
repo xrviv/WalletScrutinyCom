@@ -95,6 +95,14 @@ window.renderAssetsTable = async function({
     sha256
   });
 
+  if (!document.getElementById('verificationModal')) {
+    const verificationModalDiv = document.createElement('div');
+    verificationModalDiv.id = 'verificationModal';
+    document.getElementById(htmlElementId).insertAdjacentElement('afterend', verificationModalDiv);
+  } else {
+    document.getElementById('verificationModal').innerHTML = '';
+  }
+
   // --- Add Blossom Download Warning Modal Structure ---
   const blossomModalHTML = `
     <div id="blossomWarningModal" style="display: none; position: fixed; z-index: 1001; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.6);">
