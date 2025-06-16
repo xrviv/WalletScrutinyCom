@@ -65,11 +65,19 @@ async function updateTableVisibility() {
   // Search draft-attestation elements and hide them depending on the hideDrafts checkbox
   const hideDraftsChecked = document.getElementById('hideDrafts').checked;
   document.querySelectorAll('.draft-attestation').forEach(attestation => {
-    if (hideDraftsChecked && !attestation.getAttribute('data-pubkey_verifiers')?.includes(userPubkey)) {
-      attestation.style.display = 'none';
-    } else {
-      // attestation is a tr?
-      attestation.style.display = attestation.tagName === 'TR' ? 'table-row' : 'block';
+    let draftManagementEnabled = true;
+
+    // If it's a TR and it's already hidden, drafts management cannot show it again
+    if (attestation.tagName === 'TR' && attestation.style.display === 'none') {
+      draftManagementEnabled = false;
+    }
+
+    if (draftManagementEnabled) {
+      if (hideDraftsChecked && !attestation.getAttribute('data-pubkey_verifiers')?.includes(userPubkey)) {
+        attestation.style.display = 'none';
+      } else {
+        attestation.style.display = attestation.tagName === 'TR' ? 'table-row' : 'block';
+      }
     }
   });
 }
