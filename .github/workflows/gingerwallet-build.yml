@@ -45,6 +45,10 @@ jobs:
       - name: Restore solution (locked-mode, fallback to force-evaluate)
         run: dotnet restore WalletWasabi.sln -p:Configuration=Release --locked-mode || dotnet restore WalletWasabi.sln -p:Configuration=Release --force-evaluate
 
+      - name: Delete lock files (prevent Packager locked-mode conflict)
+        run: Get-ChildItem -Recurse -Filter packages.lock.json | Remove-Item -Force
+        shell: pwsh
+
       - name: Build solution
         run: dotnet build -c Release
 
