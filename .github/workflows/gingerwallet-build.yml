@@ -36,8 +36,14 @@ jobs:
       - name: Clear NuGet cache
         run: dotnet nuget locals all --clear
 
-      - name: Restore dependencies
-        run: dotnet restore
+      - name: Force-evaluate restore (Fluent)
+        run: dotnet restore WalletWasabi.Fluent/WalletWasabi.Fluent.csproj -p:Configuration=Release --force-evaluate
+
+      - name: Force-evaluate restore (Fluent.Desktop)
+        run: dotnet restore WalletWasabi.Fluent.Desktop/WalletWasabi.Fluent.Desktop.csproj -p:Configuration=Release --force-evaluate
+
+      - name: Restore solution (locked-mode, fallback to force-evaluate)
+        run: dotnet restore WalletWasabi.sln -p:Configuration=Release --locked-mode || dotnet restore WalletWasabi.sln -p:Configuration=Release --force-evaluate
 
       - name: Build solution
         run: dotnet build -c Release
