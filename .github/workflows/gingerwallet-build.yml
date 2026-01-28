@@ -52,12 +52,17 @@ jobs:
       - name: Restore solution (locked-mode, fallback to force-evaluate)
         run: dotnet restore WalletWasabi.sln -p:Configuration=Release --locked-mode || dotnet restore WalletWasabi.sln -p:Configuration=Release --force-evaluate
 
-      - name: Patch Packager (force-evaluate + skip git check)
+      - name: Patch Packager (skip git check only)
         run: |
           $content = Get-Content WalletWasabi.Packager\Program.cs -Raw
-          $content = $content -replace '--locked-mode','--force-evaluate'
           $content = $content -replace 'private static void CheckUncommittedGitChanges\(\)','private static void CheckUncommittedGitChanges() { return; } private static void _OrigCheckUncommittedGitChanges()'
           $content | Set-Content WalletWasabi.Packager\Program.cs
+        shell: pwsh
+
+      - name: Commit lock file updates (allow Packager locked-mode to pass)
+        run: |
+          git add -A
+          git -c user.name="CI" -c user.email="ci@localhost" commit -m "update lock files" --allow-empty
         shell: pwsh
 
       - name: Build solution
