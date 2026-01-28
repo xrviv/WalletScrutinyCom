@@ -16,6 +16,11 @@ on:
         required: false
         type: string
         default: '8.0.100'
+      runtime_version:
+        description: '.NET runtime version (default 8.0.21)'
+        required: false
+        type: string
+        default: '8.0.21'
 
 jobs:
   build:
@@ -32,9 +37,11 @@ jobs:
         run: |
           Invoke-WebRequest -Uri 'https://dot.net/v1/dotnet-install.ps1' -OutFile dotnet-install.ps1
           ./dotnet-install.ps1 -Version ${{ inputs.sdk_version }} -InstallDir "$env:LOCALAPPDATA\dotnet-exact"
+          ./dotnet-install.ps1 -Runtime dotnet -Version ${{ inputs.runtime_version }} -InstallDir "$env:LOCALAPPDATA\dotnet-exact"
           echo "$env:LOCALAPPDATA\dotnet-exact" | Out-File -FilePath $env:GITHUB_PATH -Append
           echo "DOTNET_ROOT=$env:LOCALAPPDATA\dotnet-exact" | Out-File -FilePath $env:GITHUB_ENV -Append
           echo "DOTNET_MULTILEVEL_LOOKUP=0" | Out-File -FilePath $env:GITHUB_ENV -Append
+          echo "DOTNET_ROLL_FORWARD=LatestPatch" | Out-File -FilePath $env:GITHUB_ENV -Append
         shell: pwsh
 
       - name: Verify SDK version
