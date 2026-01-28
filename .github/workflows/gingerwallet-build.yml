@@ -44,10 +44,10 @@ jobs:
         run: dotnet nuget locals all --clear
 
       - name: Force-evaluate restore (Fluent)
-        run: dotnet restore WalletWasabi.Fluent/WalletWasabi.Fluent.csproj -p:Configuration=Release --force-evaluate
+        run: dotnet restore WalletWasabi.Fluent/WalletWasabi.Fluent.csproj -p:Configuration=Release -p:RestoreLockedMode=false -p:RestorePackagesWithLockFile=true --force-evaluate
 
       - name: Force-evaluate restore (Fluent.Desktop)
-        run: dotnet restore WalletWasabi.Fluent.Desktop/WalletWasabi.Fluent.Desktop.csproj -p:Configuration=Release --force-evaluate
+        run: dotnet restore WalletWasabi.Fluent.Desktop/WalletWasabi.Fluent.Desktop.csproj -p:Configuration=Release -p:RestoreLockedMode=false -p:RestorePackagesWithLockFile=true --force-evaluate
 
       - name: Restore solution (locked-mode, fallback to force-evaluate)
         run: dotnet restore WalletWasabi.sln -p:Configuration=Release --locked-mode || dotnet restore WalletWasabi.sln -p:Configuration=Release --force-evaluate
@@ -57,12 +57,6 @@ jobs:
           $content = Get-Content WalletWasabi.Packager\Program.cs -Raw
           $content = $content -replace 'private static void CheckUncommittedGitChanges\(\)','private static void CheckUncommittedGitChanges() { return; } private static void _OrigCheckUncommittedGitChanges()'
           $content | Set-Content WalletWasabi.Packager\Program.cs
-        shell: pwsh
-
-      - name: Commit lock file updates (allow Packager locked-mode to pass)
-        run: |
-          git add -A
-          git -c user.name="CI" -c user.email="ci@localhost" commit -m "update lock files" --allow-empty
         shell: pwsh
 
       - name: Build solution
