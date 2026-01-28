@@ -76,3 +76,10 @@ jobs:
           name: gingerwallet-${{ inputs.version }}-linux-x64
           path: WalletWasabi.Fluent.Desktop/bin/dist/linux-x64/
           if-no-files-found: error
+
+      - name: Upload win-x64 artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: gingerwallet-${{ inputs.version }}-win-x64
+          path: WalletWasabi.Fluent.Desktop/bin/dist/win-x64/
+          if-no-files-found: error
