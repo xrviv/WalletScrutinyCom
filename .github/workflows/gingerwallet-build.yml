@@ -28,10 +28,17 @@ jobs:
           ref: ${{ inputs.commit || format('v{0}', inputs.version) }}
           fetch-depth: 1
 
-      - name: Setup .NET SDK
-        uses: actions/setup-dotnet@v4
-        with:
-          dotnet-version: ${{ inputs.sdk_version }}
+      - name: Install exact .NET SDK version
+        run: |
+          Invoke-WebRequest -Uri 'https://dot.net/v1/dotnet-install.ps1' -OutFile dotnet-install.ps1
+          ./dotnet-install.ps1 -Version ${{ inputs.sdk_version }} -InstallDir "$env:LOCALAPPDATA\dotnet-exact"
+          echo "$env:LOCALAPPDATA\dotnet-exact" | Out-File -FilePath $env:GITHUB_PATH -Append
+          echo "DOTNET_ROOT=$env:LOCALAPPDATA\dotnet-exact" | Out-File -FilePath $env:GITHUB_ENV -Append
+          echo "DOTNET_MULTILEVEL_LOOKUP=0" | Out-File -FilePath $env:GITHUB_ENV -Append
+        shell: pwsh
+
+      - name: Verify SDK version
+        run: dotnet --version
 
       - name: Clear NuGet cache
         run: dotnet nuget locals all --clear
