@@ -56,8 +56,8 @@ jobs:
           $content | Set-Content WalletWasabi.Packager\Program.cs
         shell: pwsh
 
-      - name: Build solution
-        run: dotnet build -c Release --no-restore
+      - name: Build Packager
+        run: dotnet build WalletWasabi.Packager/WalletWasabi.Packager.csproj -c Release
 
       - name: Run Packager (onlybinaries)
         working-directory: WalletWasabi.Packager
