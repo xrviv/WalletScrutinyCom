@@ -1,0 +1,54 @@
+name: GingerWallet Reproducible Build
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'GingerWallet version (without leading v, e.g. 2.0.23)'
+        required: true
+        type: string
+      commit:
+        description: 'Optional git commit to build (overrides tag checkout)'
+        required: false
+        type: string
+      sdk_version:
+        description: '.NET SDK version (default 8.0.100)'
+        required: false
+        type: string
+        default: '8.0.100'
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout GingerWallet
+        uses: actions/checkout@v4
+        with:
+          repository: GingerPrivacy/GingerWallet
+          ref: ${{ inputs.commit || format('v{0}', inputs.version) }}
+          fetch-depth: 1
+
+      - name: Setup .NET SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: ${{ inputs.sdk_version }}
+
+      - name: Clear NuGet cache
+        run: dotnet nuget locals all --clear
+
+      - name: Restore dependencies
+        run: dotnet restore
+
+      - name: Build solution
+        run: dotnet build -c Release
+
+      - name: Run Packager (onlybinaries)
+        working-directory: WalletWasabi.Packager
+        run: dotnet run -- --onlybinaries
+
+      - name: Upload linux-x64 artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: gingerwallet-${{ inputs.version }}-linux-x64
+          path: WalletWasabi.Fluent.Desktop/bin/dist/linux-x64/
+          if-no-files-found: error
