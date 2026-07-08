@@ -429,7 +429,7 @@ Examples:
 }
 
 // Version fetcher for desktop wallets with special handling
-async function getDesktopVersion(fileName, repoUrl, token) {
+export async function getDesktopVersion(fileName, repoUrl, token) {
   const baseName = path.basename(fileName);
 
   if (baseName === 'electrum.md') {
@@ -518,8 +518,10 @@ async function main() {
   }
 }
 
-// Run the script
-main().catch(error => {
-  console.error(`${colors.red}Unexpected error:${colors.reset} ${error.message}`);
-  process.exit(1);
-});
+// Run the script (only when executed directly, not when imported for its exports)
+if (import.meta.url === `file://${process.argv[1]}`) {
+  main().catch(error => {
+    console.error(`${colors.red}Unexpected error:${colors.reset} ${error.message}`);
+    process.exit(1);
+  });
+}

@@ -5,7 +5,7 @@ const VERIFICATION_KIND = 30301;
 const CLIENT_TAG = 'WalletScrutiny.com';
 const DESKTOP_PLATFORMS = new Set(['linux', 'windows', 'macos']);
 
-function compareVersions(a, b) {
+export function compareVersions(a, b) {
   const pa = a.split('.').map(Number);
   const pb = b.split('.').map(Number);
   for (let i = 0; i < Math.max(pa.length, pb.length); i++) {
@@ -99,4 +99,63 @@ export function buildVerificationIndex(projectRoot = process.cwd()) {
 export function getReproducibilityHistory(index, appId, mdPlatform) {
   if (!appId || !mdPlatform || !index) return [];
   return index.get(`${appId}|${mdPlatform}`) ?? [];
+}
+
+/**
+ * Builds an appId|platform-keyed index from an in-memory event array (as opposed to
+ * buildVerificationIndex, which reads from the local disk backup). Each entry keeps
+ * the full {id, version, status, created_at} record instead of collapsing to just
+ * status, so callers can read off the latest known version per app.
+ */
+export function buildDetailedIndexFromEvents(events) {
+  const byWallet = new Map();
+
+  for (const event of events) {
+    if (getFirstTagValue(event, 'client') !== CLIENT_TAG) continue;
+
+    const appId = getFirstTagValue(event, 'i');
+    const platform = getFirstTagValue(event, 'platform');
+    const version = getFirstTagValue(event, 'version');
+    const status = getFirstTagValue(event, 'status');
+    if (!appId || !platform || !version || !status) continue;
+
+    const mdPlatform = DESKTOP_PLATFORMS.has(platform) ? 'desktop' : platform;
+    const key = `${appId}|${mdPlatform}`;
+    if (!byWallet.has(key)) byWallet.set(key, []);
+
+    byWallet.get(key).push({
+      id: event.id,
+      version,
+      status,
+      created_at: event.created_at ?? 0,
+      verificationPlatform: platform,
+    });
+  }
+
+  const index = new Map();
+
+  for (const [key, entries] of byWallet) {
+    const byVersion = new Map();
+    for (const entry of entries) {
+      const existing = byVersion.get(entry.version);
+      if (!existing || entry.created_at > existing.created_at) {
+        byVersion.set(entry.version, entry);
+      }
+    }
+
+    const history = [...byVersion.values()].sort((a, b) => compareVersions(a.version, b.version));
+    if (history.length > 0) index.set(key, history);
+  }
+
+  return index;
+}
+
+/**
+ * Returns the highest-version entry {id, version, status, created_at} for an app/platform
+ * from a detailed index (see buildDetailedIndexFromEvents), or null if none exists.
+ */
+export function getLatestVerificationEntry(detailedIndex, appId, mdPlatform) {
+  const history = detailedIndex?.get(`${appId}|${mdPlatform}`);
+  if (!history || history.length === 0) return null;
+  return history[history.length - 1];
 }
