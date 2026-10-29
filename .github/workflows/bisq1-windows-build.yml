@@ -120,14 +120,14 @@ jobs:
         working-directory: bisq-a
         env:
           GRADLE_USER_HOME: ${{ runner.temp }}/gradle-home-a
-        run: ./gradlew --no-daemon clean verifyInstallerEvidenceBundle
+        run: ./gradlew --no-daemon verifyInstallerEvidenceBundle
 
       - name: Build installer evidence — worktree B
         shell: bash
         working-directory: bisq-b
         env:
           GRADLE_USER_HOME: ${{ runner.temp }}/gradle-home-b
-        run: ./gradlew --no-daemon clean verifyInstallerEvidenceBundle
+        run: ./gradlew --no-daemon verifyInstallerEvidenceBundle
 
       - name: Collect + rename EXEs to official name (Bisq-64bit-<ver>.exe)
         shell: bash
