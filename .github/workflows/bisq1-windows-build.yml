@@ -116,6 +116,10 @@ jobs:
           for d in bisq-a bisq-b; do ( cd "$d" && sha256sum -c gradle/wrapper/gradle-wrapper.sha256 ); done
 
       - name: Build installer evidence — worktree A
+        id: buildA
+        # Keep going on failure so the other build and the diagnostic uploads still run; the job is
+        # failed at the end ("Fail if an upstream build failed"), so a script run still sees a failure.
+        continue-on-error: true
         shell: bash
         working-directory: bisq-a
         env:
@@ -123,13 +127,34 @@ jobs:
         run: ./gradlew --no-daemon verifyInstallerEvidenceBundle
 
       - name: Build installer evidence — worktree B
+        id: buildB
+        # Keep going on failure so the other build and the diagnostic uploads still run; the job is
+        # failed at the end ("Fail if an upstream build failed"), so a script run still sees a failure.
+        continue-on-error: true
         shell: bash
         working-directory: bisq-b
         env:
           GRADLE_USER_HOME: ${{ runner.temp }}/gradle-home-b
         run: ./gradlew --no-daemon verifyInstallerEvidenceBundle
 
+      - name: Upload diagnostic EXE — worktree A (any outcome; never compared by the script)
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: bisq1-${{ inputs.version }}-win-diagnostic-A
+          path: bisq-a/desktop/build/packaging/jpackage/packages/*.exe
+          if-no-files-found: warn
+
+      - name: Upload diagnostic EXE — worktree B (any outcome; never compared by the script)
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: bisq1-${{ inputs.version }}-win-diagnostic-B
+          path: bisq-b/desktop/build/packaging/jpackage/packages/*.exe
+          if-no-files-found: warn
+
       - name: Collect + rename EXEs to official name (Bisq-64bit-<ver>.exe)
+        if: steps.buildA.outcome == 'success' && steps.buildB.outcome == 'success'
         shell: bash
         run: |
           set -e
@@ -142,6 +167,7 @@ jobs:
           cp "$exeB" "out-b/Bisq-64bit-${VERSION}.exe"
 
       - name: Record provenance
+        if: steps.buildA.outcome == 'success' && steps.buildB.outcome == 'success'
         shell: bash
         run: |
           set -e
@@ -172,6 +198,7 @@ jobs:
           cat provenance.txt
 
       - name: Upload EXE — build A
+        if: steps.buildA.outcome == 'success' && steps.buildB.outcome == 'success'
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
         with:
           name: bisq1-${{ inputs.version }}-win-exe-A
@@ -179,6 +206,7 @@ jobs:
           if-no-files-found: error
 
       - name: Upload EXE — build B
+        if: steps.buildA.outcome == 'success' && steps.buildB.outcome == 'success'
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
         with:
           name: bisq1-${{ inputs.version }}-win-exe-B
@@ -186,8 +214,16 @@ jobs:
           if-no-files-found: error
 
       - name: Upload provenance
+        if: steps.buildA.outcome == 'success' && steps.buildB.outcome == 'success'
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
         with:
           name: bisq1-${{ inputs.version }}-win-provenance
           path: provenance.txt
           if-no-files-found: error
+
+      - name: Fail if an upstream build failed
+        if: always() && (steps.buildA.outcome != 'success' || steps.buildB.outcome != 'success')
+        shell: bash
+        run: |
+          echo "Upstream build failed: A=${{ steps.buildA.outcome }} B=${{ steps.buildB.outcome }}" >&2
+          exit 1
