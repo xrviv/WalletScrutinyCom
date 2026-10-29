@@ -137,12 +137,17 @@ jobs:
           GRADLE_USER_HOME: ${{ runner.temp }}/gradle-home-b
         run: ./gradlew --no-daemon verifyInstallerEvidenceBundle
 
+      - name: List packaging output (diagnostic)
+        if: always()
+        shell: bash
+        run: find bisq-a/desktop/build/packaging bisq-b/desktop/build/packaging -maxdepth 4 \( -name '*.exe' -o -name '*.msi' \) -exec ls -l {} + 2>/dev/null || true
+
       - name: Upload diagnostic EXE — worktree A (any outcome; never compared by the script)
         if: always()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
         with:
           name: bisq1-${{ inputs.version }}-win-diagnostic-A
-          path: bisq-a/desktop/build/packaging/jpackage/packages/*.exe
+          path: bisq-a/desktop/build/packaging/**/*.exe
           if-no-files-found: warn
 
       - name: Upload diagnostic EXE — worktree B (any outcome; never compared by the script)
@@ -150,7 +155,7 @@ jobs:
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
         with:
           name: bisq1-${{ inputs.version }}-win-diagnostic-B
-          path: bisq-b/desktop/build/packaging/jpackage/packages/*.exe
+          path: bisq-b/desktop/build/packaging/**/*.exe
           if-no-files-found: warn
 
       - name: Collect + rename EXEs to official name (Bisq-64bit-<ver>.exe)
@@ -160,8 +165,8 @@ jobs:
           set -e
           mkdir -p out-a out-b
           # finalize.sh copies raw "Bisq-<ver>.exe" -> "Bisq-64bit-<ver>.exe"; do the same mapping.
-          exeA=$(find bisq-a/desktop/build/packaging/jpackage/packages -name "Bisq-${VERSION}.exe" | head -1)
-          exeB=$(find bisq-b/desktop/build/packaging/jpackage/packages -name "Bisq-${VERSION}.exe" | head -1)
+          exeA=$(find bisq-a/desktop/build/packaging -name "Bisq-${VERSION}.exe" | head -1)
+          exeB=$(find bisq-b/desktop/build/packaging -name "Bisq-${VERSION}.exe" | head -1)
           [ -n "$exeA" ] && [ -n "$exeB" ] || { echo "EXE Bisq-${VERSION}.exe not found in one/both worktrees" >&2; exit 1; }
           cp "$exeA" "out-a/Bisq-64bit-${VERSION}.exe"
           cp "$exeB" "out-b/Bisq-64bit-${VERSION}.exe"
