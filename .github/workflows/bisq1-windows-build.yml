@@ -11,8 +11,11 @@ name: Bisq1 Reproducible Build (Windows)
 #
 # Findings: ws-notes/build-notes/desktop/bisq/bisq1_v1.10.0-exe-findings-2026-06-22.md
 #
-# PINS (hard-coded, NOT inputs, to avoid free-form injection and lock the environment):
-#   JDK  = Zulu 21.0.6  (gradle.properties enforces 21.0.6; build fails on mismatch)
+# PINS (NOT dispatch inputs, to avoid free-form injection and lock the environment):
+#   JDK  = read from the TAG's gradle.properties (releaseBuild.javaRuntimeVersion, e.g. 21.0.13+9-LTS,
+#          else releaseBuild.javaVersion, e.g. 21.0.6). The tag's :verifyReleaseEnvironment fails the
+#          build on any other JDK, so a hard-coded pin breaks whenever upstream bumps it (v1.10.11 did).
+#          setup-java is pinned to the same commit as upstream's installer-evidence.yml (v6.1.0).
 #   WiX  = 3.14.1       (WiX v3 required by jpackage; installer layout depends on this version)
 #
 # EXPECTED DIFFERENCE: the OFFICIAL v1.10.0 EXE bundles Azul OpenJDK **21.0.11**, but the repo pins
@@ -43,7 +46,7 @@ env:
   # Inputs are referenced ONLY through env vars in run: blocks (never inlined as ${{ }}) to avoid
   # shell/script injection. VERSION is strictly validated before any use.
   VERSION: ${{ inputs.version }}
-  JDK_VERSION: '21.0.6'
+  # JDK_VERSION is set at run time from the tag's gradle.properties (step "Read release JDK pin").
   # WiX pin is the CHOCOLATEY PACKAGE version (3.14.1.20250415), which differs from the WiX product
   # version (3.14.1). windows-2025 pre-ships this build; --allow-downgrade keeps the pin deterministic
   # even if a future runner image ships a newer one. Both the choco version and the actual candle.exe
@@ -62,13 +65,6 @@ jobs:
             echo "Invalid version '$VERSION' (expected N.N.N, e.g. 1.10.0)." >&2
             exit 1
           fi
-
-      - name: Set up pinned Zulu JDK 21.0.6
-        uses: actions/setup-java@be666c2fcd27ec809703dec50e508c2fdc7f6654 # v5.2.0
-        with:
-          java-version: '21.0.6'
-          distribution: 'zulu'
-          check-latest: false
 
       - name: Install pinned WiX Toolset v3 (choco ${{ env.WIX_CHOCO_VERSION }})
         shell: pwsh
@@ -108,6 +104,33 @@ jobs:
           b=$(git -C bisq-b rev-parse HEAD)
           echo "A=$a B=$b"
           [ "$a" = "$b" ] || { echo "A and B resolved to different commits" >&2; exit 1; }
+
+      - name: Read release JDK pin from the tag (gradle.properties)
+        id: jdkpin
+        shell: bash
+        run: |
+          props=bisq-a/gradle.properties
+          rt=$(sed -n 's/^releaseBuild\.javaRuntimeVersion=//p' "$props" | tr -d '\r' | head -1)
+          if [[ -n "$rt" ]]; then
+            jv="${rt%-LTS}"   # 21.0.13+9-LTS -> 21.0.13+9 (setup-java version syntax)
+          else
+            jv=$(sed -n 's/^releaseBuild\.javaVersion=//p' "$props" | tr -d '\r' | head -1)
+          fi
+          if [[ ! "$jv" =~ ^[0-9]+\.[0-9]+\.[0-9]+(\+[0-9]+)?$ ]]; then
+            echo "Could not read a valid release JDK version from $props (got '$jv')." >&2
+            exit 1
+          fi
+          echo "Release JDK pin from the tag: $jv"
+          grep -E '^releaseBuild\.java' "$props" || true
+          echo "java_version=$jv" >> "$GITHUB_OUTPUT"
+          echo "JDK_VERSION=$jv" >> "$GITHUB_ENV"
+
+      - name: Set up the tag's Zulu JDK (${{ steps.jdkpin.outputs.java_version }})
+        uses: actions/setup-java@b843ebf9b913146b38da2eaa7aeddf76074ae1ad # v6.1.0 (same pin as upstream installer-evidence.yml)
+        with:
+          java-version: ${{ steps.jdkpin.outputs.java_version }}
+          distribution: 'zulu'
+          check-latest: false
 
       - name: Verify Gradle wrapper checksums (A and B)
         shell: bash
