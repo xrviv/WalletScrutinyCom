@@ -218,7 +218,7 @@ jobs:
             echo "wix_choco_version_pinned: ${WIX_CHOCO_VERSION}"
             echo "wix_choco_version_actual: $(choco list wixtoolset --exact -r 2>/dev/null | head -1)"
             echo "wix_candle_actual: ${wix_ver}"
-            echo "action_pins: checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd setup-java@be666c2fcd27ec809703dec50e508c2fdc7f6654 upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02"
+            echo "action_pins: checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd setup-java@b843ebf9b913146b38da2eaa7aeddf76074ae1ad upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02"
             echo "exe_a_sha256: $(sha256sum out-a/Bisq-64bit-${VERSION}.exe | cut -d' ' -f1)"
             echo "exe_b_sha256: $(sha256sum out-b/Bisq-64bit-${VERSION}.exe | cut -d' ' -f1)"
             echo "gradle: $(cd bisq-a && ./gradlew --no-daemon -q -v 2>/dev/null | tr '\n' ' ')"
